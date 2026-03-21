@@ -1,0 +1,437 @@
+# Chapter 2.2
+
+
+## 2.2 Providing Documents to the Jury
+
+# 2.2 Providing Documents to the Jury
+
+
+
+## What Documents Can Be Given to the Jury?
+
+
+
+1. Section 223(1) of the *Criminal Procedure Act 2009 *allows the judge to provide copies of the following documents to the jury (in any form that he or she considers appropriate) if he or she thinks it will assist the jury to understand the issues in the trial:
+
+
+
+(a) the indictment;
+
+(b) the summary of the prosecution opening;
+
+(c) the response of the accused to the summary of the prosecution opening and the response of the accused to the notice of pre-trial admissions of the prosecution;
+
+(d) any document admitted as evidence;
+
+(e) any statement of facts;
+
+(f) the opening and closing addresses of the prosecution and the accused;
+
+(g) any address of the trial judge to the jury under section 222;
+
+(h) any schedules, chronologies, charts, diagrams, summaries or other explanatory material;
+
+(ha) the transcript of the evidence in the trial;
+
+(i) transcripts of evidence or audio or audiovisual recordings of evidence;
+
+(j) transcripts of any audio or audiovisual recordings;
+
+(k) the trial judge’s directions to the jury under section 238;
+
+(ka) a jury guide
+
+(l) any other document that the trial judge considers appropriate.
+
+
+
+2. The term "document" is not defined in the *Criminal Procedure Act 2009*. For the purposes of section 223, it should be given the definition contained in section 38 of the *Interpretation of Legislation Act 1984 *(*R v BAH *(2002) 5 VR 517).
+
+3. Although a judge may have a discretion to allow a VARE to be provided to the jury to view in the jury room during their deliberations (*Criminal Procedure Act 2009 *s 223), it should only be exercised in exceptional circumstances. Any unrestricted access should be accompanied by strong warnings (*R v Lyne *[2003] VSCA 118; *R v BAH *(2002) 5 VR 517; *R v H *[1999] 2 Qd R 283; *R v Lewis* (2002) 137 A Crim R 85. See 2.3.3 Pre-recorded Evidence for further information).
+
+
+---
+
+
+## 2.2 When May a Document Be Given to the Jury?
+
+## When May a Document Be Given to the Jury?
+
+
+
+1. A document may be provided to the jury on the application of a party, or on the judge’s own motion (*Criminal Procedure Act 2009 *s 337; *R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580).
+
+2. The judge must think that the document will assist the jury to understand the issues in the trial or the evidence (*Criminal Procedure Act 2009 *s 223; *R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580. See also *Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+3. While the philosophy behind s 223 should be embraced (as it is in both the jury’s interests and the interests of efficiency generally), it must always be subject to the overriding responsibility of the court to ensure that the accused’s right to a fair trial according to law is not infringed. A document should not be given to the jury if it would create a material risk of unfairness to the accused that cannot be overcome by a direction or warning (*R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580).
+
+
+---
+
+
+## 2.2 Marking Jury Documents as Exhibits
+
+## Marking Jury Documents as Exhibits
+
+
+
+1. Documents which the judge gives the jury, such as written directions, should be tendered by the court and marked as exhibits. This ensures that the documents are recorded in the same way as other exhibits and are preserved for any future proceedings.
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+## Types of Documents that May be Given to the Jury
+
+
+
+## Written Directions
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+1. Under the *Criminal Procedure Act 2009 *s 223, a judge may give the jury written directions summarising relevant matters of law, setting out the questions it may be pertinent for them to consider, or describing the possible verdicts at which they may properly arrive.
+
+2. Written directions may be particularly helpful where the law is complicated, or where there are a number of alternative verdicts to be considered (*R v Dunn *(2006) 94 SASR 177; *R v Bourke *[2003] QCA 113; *R v Youssef *(1990) 59 A Crim R 1; *R v Radford* (1986) 133 LSJS 110; *R v Wilson *(1980) 17 A Crim R 359; *R v Hughes *(1980) 7 A Crim R 51; *R v Petroff *(1980) 2 A Crim R 101. See *R v Thompson* (2008) 21 VR 135 (Neave JA) for a discussion of the usefulness of written directions).
+
+3. In cases involving numerous, detailed and complex legal issues, it may be an imposition on the jury *not* to assist them by providing them with written directions. It may be unrealistic to believe that they will be able to retain the key structure and content of the summing-up in their minds without the assistance of such a document (*R v Radford* (1986) 133 LSJS 110).
+
+4. Written directions should not be used as a substitute for directions of law or references to how the parties have put their case. Instead, written directions may be used in conjunction with and to supplement oral directions (see *Jury Directions Act 2015* ss 65, 66).
+
+5. The oral directions must explain the written directions to the jury, and explain how they are to be used (*R v Thompson* (2008) 21 VR 135; [2008] VSCA 144 (Hansen AJA)).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+6. The contents of written directions are a matter for the judge and counsel to consider in light of the evidence given at the trial. It is desirable to show them to counsel prior to providing them to the jury. This should be done before the judge’s charge has commenced, to provide counsel with adequate opportunity to comment on the proposed directions, and correct any errors or omissions. While counsels’ views should be taken into account, their consent is not required (*R v Dunn *(2006) 94 SASR 177; *R v Radford* (1986) 133 LSJS 110; *R v Petroff *(1980) 2 A Crim R 101; *R v Abebe *(2000) 1 VR 429).
+
+7. The judge should refrain from giving the jury copies of legislative provisions (*R v Phillips* [1971] ALR 740).
+
+8. Judges should carefully consider the best time to provide written directions to the jury. They must make sure that the jury is not distracted by any document provided. It may be desirable to give the jury time to read the document before proceeding with oral directions (*R v Petroff *(1980) 2 A Crim R 101).
+
+9. It will be an error merely to provide a written document to the jury without explaining its contents and the use which may be made of it (*R v Dunn *(2006) 94 SASR 177).
+
+10. A judge may, however, provide a jury with a transcript of directions given in running and state that those directions continue to apply, without reiterating each of those directions as part of the judge’s final directions, or specifically instructing the jury that they must read those previously given directions. This is most likely appropriate where it is done with the consent of the parties (*Nguyen v The Queen* [2015] VSCA 76, [43]–[50]).
+
+11. The judge should be careful not to overemphasise the use of the written directions (*R v Petroff *(1980) 2 A Crim R 101).
+
+12. Care must be taken to ensure that the provision of selective written material does not disturb the essential balance in the oral charge between the prosecution and defence case (*R v Thompson* (2008) 21 VR 135; [2008] VSCA 144 (Redlich JA)).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+## Explanatory Materials (Charts, Schedules and Chronologies)
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+13. Judges may allow evidence to be given in the form of charts, summaries or other explanatory materials (*Evidence Act 2008 *ss 29(4), 50), and may provide schedules, chronologies, charts, diagrams, summaries or other explanatory materials to the jury (*Criminal Procedure Act 2009 *s 223(h)).
+
+14. The use of charts, schedules and chronologies to assist the jury in complicated cases is encouraged. The jury is entitled to expect that all reasonable steps will be taken towards simplifying their task and facilitating their deliberations, and such explanatory materials provide an important and desirable method for doing this (*Collins v R *(1986) 44 SASR 214; *Smith v R *(1970) 121 CLR 572; *R v Mitchell *[1971] VR 46; *Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+15. In some complex cases, the *only* way that the interests of justice can be served is by presenting an overall picture to the jury with the aid of explanatory materials (*R v Simmonds *[1969] 1 QB 685; *Collins v R *(1986) 44 SASR 214).
+
+16. In determining whether to admit a chart into evidence, a judge should consider whether it will assist in the fact-finding task without disadvantaging the accused (*Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+17. If a chart contains expressions of opinion, the person who prepared the chart must be qualified to express those opinions (*Butera v DPP (Vic)* (1987) 164 CLR 180 (Gaudron J)*; Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+18. Care must be taken to ensure that any explanatory materials sent into the jury room are not inherently prejudicial to the accused, either by virtue of their form or because they might tend to give undue emphasis to a particular aspect of some evidence to the exclusion of other evidence (*Collins v R *(1986) 44 SASR 214); *R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+19. Consideration should be given to the language used in a summary. It should not implicitly express conclusions about the conversations summarised (e.g. through the use of conclusionary past participles such as "complained" or "confirmed"), where those conclusions are in dispute (*R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580).
+
+20. If a chart purports to summarise all of a witness’s evidence on a particular topic, it should do so fully. A judge should not allow a chart to be provided to the jury if it only selectively summarises that witness’s evidence on that topic or contains errors (*R v Van Beelen* (1973) 4 SASR 353; *Collins v R *(1986) 44 SASR 214; *Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377; *R v Benbrika and Ors (Ruling No. 11) *[2007] VSC 580).
+
+21. Explanatory materials should not introduce new evidence, or give rise to inferences or conclusions that cannot be drawn from the oral and documentary evidence that has already been disclosed or will be disclosed. Such materials should merely provide a convenient summary of the evidence that has been, or will be, given (*Collins v R *(1986) 44 SASR 214; *Butera v DPP (Vic) *(1987) 164 CLR 180 (Gaudron J); *Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+22. If explanatory materials are used, a judge should usually remind the jury that they are not a substitute for the oral or documentary evidence, point to any errors disclosed in the documents, and deal with the danger of drawing inferences from these materials which go beyond the evidence given (*R v Van Beelen* (1973) 4 SASR 353).
+
+23. However, it is at judges’ discretion whether to give such a direction. They may not want to do so if it has already been covered by counsel, and they wish to avoid giving the chart added significance in the eyes of the jury (see, e.g. *Collins v R *(1986) 44 SASR 214).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+## Transcripts
+
+
+
+### Transcripts of Evidence
+
+
+
+24. A judge may provide the jury with a transcript of some or all of the oral evidence, including audio or audiovisual recordings of evidence, given in a trial if he or she thinks it will help them to understand the issues or the evidence (*Criminal Procedure Act 2009 *s 223(ha), (i)).
+
+25. Prior to the enactment of this provision, views varied about when the jury should be allowed to take a transcript of evidence into the jury room. Some cases held that a transcript should not be provided to the jury without good reason, as:
+
+
+
+- The transcript may be given disproportionate weight or credibility by the jury;
+
+- If only part of the transcript is provided to the jury, or read by the jurors, it may give an unbalanced or incorrect impression of the evidence given. For example, a witness may have contradicted, qualified or corrected something said earlier in another (unread) part of his or her evidence, or a different witness may have given conflicting evidence; and
+
+- Jurors should focus on the oral evidence given rather than written documents (*Butera v DPP* *(Vic)* (1987) 164 CLR 180; *R v Lowe *(1997) 98 A Crim R 300; *R v Fowler* [2000] NSWCCA 142; *Driscoll v R *(1977) 137 CLR 517).
+
+
+
+26. Other cases held that, if requested, a transcript generally should be provided to the jury. It was argued that:
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+- As jurors are usually allowed to take notes of the evidence, a member of the jury may already make a full note of what was said and read it to other members of the jury. It is preferable to provide them with a transcript, which carries the additional quality of guaranteed accuracy (*R v Taousanis* (1999) 146 A Crim R 303);
+
+- A trial is not a memory test, and it is prudent for the jury to check their recollection against a transcript (*R v Bartle* (2003) 181 FLR 1);
+
+- Denying the jury the benefit of reading the evidence they have heard "put[s] the law into an ill-fitting straitjacket". Instead, the jury should be assisted to deliberate effectively and rationally on the evidence. The provision of the transcript will assist them to do this, by compensating for any lack of reliability in juror’s notes, and saving time in their deliberations (*R v Williams* [1982] Tas R 266; *R v Taousanis* (1999) 146 A Crim R 303);
+
+- The risk of a transcript being given disproportionate weight or credibility, or of the jury receiving an unbalanced or incorrect impression of the evidence, can be eliminated by giving an adequate caution (*R v Taousanis* (1999) 146 A Crim R 303).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+27. While these cases should now be approached with some caution (due to the provisions of the *Criminal Procedure Act 2009*), the considerations identified may still be of assistance in determining when to exercise the discretion provided by s 223(ha) and (i).
+
+28. If a judge chooses to provide the jury with a transcript, he or she must instruct the jury in unambiguous terms that the transcript is not evidence, and is made available only for their convenience. The jury should be reminded that the evidence is what they saw and heard in court, not what they are about to read. This instruction should be given before the transcript is made available (*Butera v DPP (Vic) *(1987) 164 CLR 180 (Gaudron J); *R v Morgan *[2009] VSCA 225; *R v MG* (2010) 29 VR 305).
+
+29. As criminal trials are essentially oral in nature, care must be taken to avoid the risk that undue weight will be given to a written record of a conversation as compared to the conversation itself heard in oral form (*Gately v R *(2007) 232 CLR 208; *Butera v DPP (Vic) *(1987) 164 CLR 180; *R v Morgan *[2009] VSCA 225).
+
+30. Where a part of the transcript is provided in relation to a certain issue, as a matter of fairness it may be necessary to also provide a transcript of any other evidence contradicting, weakening or qualifying that evidence. Such evidence should usually be provided even if the jury does not request it. If this is not done, the judge must adequately instruct the jury about any matters which detract from the probative force of the evidence in the transcript (*R v Lowe *(1997) 98 A Crim R 300; *Butera v DPP (Vic)* (1987) 164 CLR 180 (Gaudron J)).
+
+31. Where time has not been taken to address inaccuracies in the transcript, a direction may be necessary concerning its accuracy (*R v Thompson* (2008) 21 VR 135; [2008] VSCA 144).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+32. If there is a dispute about whether the transcript is accurate, the problem should be presented to the jury, to be resolved by them with the greatest assistance that the court and counsel can provide. The jury should be told of the possibility of error, and that they must not hold any words against the accused unless they are sure that those words were used. The jury should be told that in the end they must rely upon their own recollection of what was said, rather than relying on the transcript which could be inaccurate (*R v JWM* (1999) 107 A Crim R 267).
+
+33. If a judge provides a transcript, any arguments made in the absence of the jury should be expunged (see, e.g. *R v Nikolaidis* [2003] VSCA 191; *R v Fowler* [2000] NSWCCA 142).
+
+34. See 2.3.3 Pre-recorded Evidence for information concerning transcripts of a VARE.
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+### Transcripts of Addresses and the Judge’s Charge
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+35. A judge has the power to allow transcripts of his or her summing-up, and any other addresses he or she has made, to be taken into the jury room. Transcripts of counsels’ addresses may also be provided (*Criminal Procedure Act 2009 *ss 223(b), (c), (f), (g), (k)).
+
+36. A judge may, upon request, provide a transcript of the whole summing-up to go to the jury, or arrange for a recording of it to be replayed to them (*R v Sukkar *[2005] NSWCCA 54).
+
+37. Such transcripts may be of great assistance to jurors, as they may accurately and comprehensively remind them of what was said during the trial (*R v Taousanis* (1999) 146 A Crim R 303).
+
+38. In addition, transcripts of the defence closing will remind the jury of the details of the defence accurately and comprehensively, and of the material which might give rise to a reasonable doubt. It may also help them to understand how the various strands of evidence might be drawn together, and remind them of the explanations for any pieces of potentially adverse evidence (*R v Bartle* (2003) 181 FLR 1).
+
+39. Moreover, all of the reasons in favour of providing transcripts of evidence to the jury (see ‘Transcripts of Evidence’ above) equally apply to transcripts of counsels’ addresses and the judge’s charge (*R v Taousanis* (1999) 146 A Crim R 303).
+
+40. If the jury requests a transcript of counsels’ closing addresses, it may be a miscarriage of justice not to provide it. For example, in *R v Bartle* (2003) 181 FLR 1, a new trial was ordered because the judge declined, in a long and complex trial, to make such a transcript available. The Court pointed out that the jury could not be expected to remember all of the points made in the long, detailed and closely reasoned speeches. They could not even be expected to remember which matters they wanted to obtain more information about (and so could not request a part of the evidence be read back). It was noted that the jury were best placed to know what further assistance they needed, but did not receive it.
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+41. If the jury requests a transcript of counsels’ addresses, it may not be sufficient to provide them with a transcript of the judge’s summing-up instead. While the summing-up provides an outline of the respective cases, counsels’ addresses may cover important factual material not contained in the judge’s charge, and should generally be supplied upon request (*R v Bartle* (2003) 181 FLR 1).
+
+42. If the jury requests a copy of the judge’s charge, it may be sufficient to provide them with a summary of the elements of the offence instead (if the jury considers that such a summary answers whatever questions they have) (see, e.g. *R v Coombes* 16/4/1999 Vic CA).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+### Transcripts of Taped Evidence
+
+Transcripts of Tapes in English
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+43. A tape recording may be admitted into evidence to prove that what is recorded took place in the circumstances and among the participants alleged by the prosecution, as well as to prove the content of any recorded conversation (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+44. It is the sound produced by playing the tape which is the evidence, not the tape itself. The tape cannot prove anything without being played (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+45. If the tape is available to play in court, a transcript of its contents should not be admitted as proof of those contents. The tape should be played to the jury, as that will provide the best evidence of what was recorded (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+46. However, a transcript of a tape recording may be given to the jury to help them to understand the words spoken on the tape. This is often done, but is particularly helpful if the contents are difficult to hear or understand, or if the recording is lengthy (*Criminal Procedure Act 2009 *s 223(j); *Butera v DPP (Vic)* (1987) 164 CLR 180; *R v JWM* (1999) 107 A Crim R 267; *R v Menzies *[1982] 1 NZLR 40).
+
+47. Providing jurors with a transcript in such circumstances may help to limit the number of times a tape needs to be replayed before their ears become attuned to the words or other sounds recorded (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+48. Immediately before giving a transcript to the jury, they should be told that the purpose of giving it to them is not to provide independent evidence of the contents of the tape, but to help them to understand what is recorded on the tape. It is their understanding of the tape recording that is important, and the transcript is not to replace that understanding. Jurors must not rely on the transcript if they are not satisfied that it correctly sets out what they heard on the tape (*Butera v DPP (Vic)* (1987) 164 CLR 180;* R v Miladinovic* (1992) 107 FLR 241; *R v Giovannone *[2002] NSWCCA 323; *Eastman v R *(1997) 76 FCR 9).
+
+49. A judge may allow the transcript to be taken into the jury room as a "transcript of any audio or audiovisual recordings" (*Criminal Procedure Act 2009* s 223).
+
+50. See 2.3.3 Pre-recorded Evidence for information concerning transcripts of a VARE.
+
+
+---
+
+
+## 2.2 Types of Documents that May be Given to the Jury
+
+Transcripts of Tapes in Languages Other than English
+
+
+
+51. Written translations of tapes recorded in languages other than English are different from transcripts of recordings in English. Such translations are not admissible as an aid to the jury’s understanding of the sounds recorded on the tape, because the jury will not understand those sounds (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+52. While it will probably be necessary for a translator to make written notes about the content of that tape for their own purposes, they should usually give oral evidence about the contents of that translation. Their situation is no different from that of any other witness giving evidence (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+53. However, the practice of requiring witnesses to give their evidence orally is not immutable. A judge has discretion to allow a transcript of a translator’s evidence to be provided to the jury, just as he or she may allow a written transcript of any other witness’s evidence to be provided to the jury (see "Transcripts of Evidence" above). This may be done where the judge thinks it would be of assistance to the jury. (*Butera v DPP (Vic)* (1987) 164 CLR 180; *Alucraft Pty Ltd (in liq) v Grocon Ltd (No 1) *[1996] 2 VR 377).
+
+54. As such translations may be provided to the jury for the same reasons as any other transcript of evidence, the procedure for determining whether to allow this to occur, what documents to provide, and the directions to give will be the same as those outlined in "Transcripts of Evidence" above. For example, as a matter of fairness it may be desirable to also provide the jury with a written transcript of the cross-examination of the translator, to supplement and modify the written transcript which represents their evidence in chief (*Butera v DPP (Vic)* (1987) 164 CLR 180).
+
+
+---
+
+
+## 2.2 Jury Guide
+
+## Jury Guide
+
+
+
+1. The judge may provide the jury with a “jury guide”, which may contain:
+
+1. a list of questions to assist the jury in reaching a verdict, including a written form of any factual question directions or integrated directions;
+
+1. evidentiary directions;
+
+2. references to how the parties have put their cases;
+
+3. references to evidence which the judge considers necessary to assist the jury to determine the issues in the trial;
+
+4. any other information (Criminal Procedure Act 2009 s 223).
+
+2. When providing this kind of guide, judges should be careful in the terminology they use to describe the guide, or components of the guide, and should not describe a jury document as a “question trail” unless it is an integrated direction in accordance with *Jury Directions Act 2015* s 67 (*McKinnin v The Queen* [2019] VSCA 114, [78]).
+
+3. A judge may also provide the jury with a “general jury guide” which may contain:
+
+1. general information about criminal trials, including the role of the judge, jury and parties and the order of events in a trial;
+
+5. general information about relevant legal concepts, including the presumption of innocence and the requirement of proof beyond reasonable doubt;
+
+6. general information about jury deliberations, including what to do if a juror has a question, appointing a foreperson and how the jury may wish to organise its deliberations;
+
+7. any other general information (Criminal Procedure Act 2009 s 223A).
+
+
+
+Last updated: 28 August 2019
+
+
+---
+
+---
+
+# Chapter 2.2.1
+
+
+## 2.2.1 Charge: Explanatory Materials (Charts, Schedules and Chronologies)
+
+# 2.2.1 Charge: Explanatory Materials (Charts, Schedules and Chronologies)
+
+[*Insert name of witness*] has just used a [*insert type of explanatory material*] to help to explain his/her evidence. This was used for convenience, and is not evidence in the case.
+
+You must therefore not base your decisions in this case on the [*insert type of explanatory material*]. Your decision must be based solely on the evidence that has been given in court.
+
+Last updated: 14 December 2006
+
+
+---
+
+---
+
+# Chapter 2.2.2
+
+
+## 2.2.2 Charge: Transcripts of Evidence and Addresses
+
+# 2.2.2 Charge: Transcripts of Evidence and Addresses
+
+You are about to be given a transcript of [*insert description*]. I am giving this to you in order to help you remember the evidence that was given in court. The transcript itself is not evidence.
+
+[*If parts of the transcript have been removed, add the following shaded section:*]
+
+You may note that some of the pages are [missing/blank]. Those pages contain a transcript of legal matters discussed in your absence. You do not need to concern yourselves about those matters, as I explained to you earlier.
+
+Do not regard the transcript as infallible. Sometimes the transcribers make mistakes or cannot hear what the witness has said. Counsel and I have checked the transcript for mistakes, but we can be mistaken too. The evidence is what you say it is – not the transcriber or counsel or me. If you see something in the transcript which you regard as wrong, then it is your recollection of what the witness said that is decisive, not the written words on the transcript.
+
+It is important that you consider not only what was said, but how it was said. Your assessment of the witnesses themselves, and not just the words they said, may be of assistance in determining the facts in this case.
+
+The transcript should be kept in the jury room when you are not in court. At the end of the trial you will need to return it to my tipstaff.
+
+Last updated: 14 December 2006
+
+
+---
+
+---
+
+# Chapter 2.2.3
+
+
+## 2.2.3 Charge: Transcripts of Taped Evidence
+
+# 2.2.3 Charge: Transcripts of Taped Evidence
+
+You are about to be given a transcript of the [tape/video] you are about to [hear/see]. I am giving this to you to help you follow the [tape/video] as it is played. The [tape/video] is the only evidence. The transcript is just an aid. It is not evidence.
+
+If what you read in the transcript differs from what you [hear/see] on the [tape/video], you are to use what you [hear/see] on the [tape/video] not what is in the transcript. So if the words you hear are different from those you read in the transcript, or if the speakers you [hear/see] are different from those identified in the transcript, it is for you to decide who was speaking and what was said.
+
+In considering the tape evidence, it is important that you consider not only what is said, but how it is said. Listen carefully to the way the witnesses speak. Your assessment of the witnesses themselves, and not just the words they say, may be of assistance in determining the facts in this case.
+
+Last updated: 14 December 2006
+
+
+---

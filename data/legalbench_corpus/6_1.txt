@@ -1,0 +1,664 @@
+# Chapter 6.1
+
+
+## 6.1 Conspiracy to Commit an Offence (Victoria)
+
+# 6.1 Conspiracy to Commit an Offence (Victoria)
+
+
+
+## Overview
+
+
+
+1. It is an offence for two or more legal persons to conspire to commit a criminal offence (*Crimes Act 1958* s 321; *Ahern v R *(1988) 165 CLR 87).
+
+2. This is a form of inchoate liability, like attempt and incitement (*Board of Trade v Owen* [1957] AC 602; *R v Mbonu* (2003) 7 VR 273).
+
+3. Conspiracy under *Crimes Act *s 321 is an indictable offence, regardless of whether or not the offence the accused conspires to commit is indictable.[^2]
+
+4. This topic also applies to a conspiracy charged under s 79 of the *Drugs, Poisons and Controlled Substances Act 1981*. A conspiracy under that Act must be a conspiracy to commit an offence under that Act (see, e.g. *R v Pepe* (2000) 2 VR 412).
+
+
+[^2]: This can be compared with conspiracy under *Drugs, Poisons and Controlled Substances Act 1981* s 79, which will be a summary offence if the offence that the accused conspires to commit is a summary offence.
+
+
+---
+
+
+## 6.1 Elements
+
+## Elements
+
+
+
+1. Conspiracy to commit an offence has 3 elements:
+
+1. The accused and at least one other person entered into an agreement to pursue a criminal offence (the "principal offence");
+
+1. The parties intended to form that agreement; and
+
+2. The parties intended that the principal offence would be committed.
+
+1. Each of these elements is addressed in turn below.
+
+
+
+## Agreement to Commit a Criminal Offence
+
+
+
+2. For the first element to be met, the prosecution must prove that:
+
+
+
+- The accused and at least one other person entered into an agreement; and
+
+- The parties agreed to pursue a course of conduct that involved at least one of them committing the principal offence (*Crimes Act 1958* s 321).
+
+
+
+### Formation of the Agreement
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+3. The prosecution must establish that there was a common agreement between the parties to the conspiracy (*Gerakiteys v R *(1984) 153 CLR 317; *R v Coles* [1984] 1 NSWLR 726).
+
+4. Agreement is an essential element of conspiracy. People who pursue a common intention to commit a crime will not be guilty of conspiracy if there is no agreement between them (*R v Barbouttis* (1995) 37 NSWLR 256; *R v Moran & Mokbel *[1999] 2 VR 87; *Macdonald v The King *[2023] NSWCCA 250, [23]).
+
+5. It is not sufficient for the parties to have merely shared assumptions about future events. The prosecution must prove that the parties formed an agreement to work towards the principal offence (*R v Jones* [2000] NSWCCA 186; *R v Trudgeon* (1988) 39 A Crim R 252).
+
+6. It is also not sufficient for the parties to have expected that, once certain conditions were satisfied, one of them would commit the principal offence. The parties must have agreed to pursue that offence (*R v Trudgeon *(1988) 39 A Crim R 252; *R v Moran & Mokbel* [1999] 2 VR 87).
+
+7. The parties do not need to have entered a formal or written agreement (*Nirta v R *(1983) 79 FLR 190).
+
+8. The agreement must have been communicated to the other conspirators (*R v Scott* (1978) 68 Cr App R 164).
+
+9. The prosecution does not need to prove that the agreement came into existence at a specified time. The jury may infer the existence of the agreement from a course of conduct (*Nirta v R *(1983) 79 FLR 190; *R v Minuzzo and Williams *[1984] VR 417; *R v Orton* [1922] VLR 469; *Gerakiteys v R *(1984) 153 CLR 317).
+
+
+
+### Content of the Agreement
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+10. The agreement must have been to pursue a course of conduct that would involve the commission of the principal offence (*Crimes Act 1958* s 321).
+
+11. The prosecution must prove that the course of conduct agreed upon would involve the commission of the principal offence, rather than some different offence, or an unspecified or undecided offence (*R v McCaul and Palmer *[1983] 2 VR 419; *R v Thomas *CCA Vic 29/09/1980; *R v Moran & Mokbel *[1999] 2 VR 87).
+
+12. It is not necessary to prove that the agreement involved specification of the precise means or method by which the principal offence would be committed (*Macdonald v The King *[2023] NSWCCA 250, [23], [25]).
+
+13. It is also not necessary to prove that the agreement involved mutual benefit to the various conspirators, or, in contractual terms, consideration flowing from each party. Similarly, it is not necessary to prove that each party to the conspiracy would be responsible for carrying out some overt act (*Macdonald v The King *[2023] NSWCCA 250, [47]).
+
+14. Where the prosecution is based on a conspiracy to traffick in a specified drug, but the evidence establishes that the agreement related to a different drug, the conspiracy will not have been proven (*DPP v Johnson & Ors (Ruling No. 7) *[2007] VSC 579).
+
+15. This element will usually not be met in cases where the evidence only establishes that the accused agreed to commit an offence of a certain class (such as a violent offence). In such cases, the jury will often be unable to exclude the possibility that the agreement was to commit a different offence within that class, rather than the principal offence (*R v McCaul and Palmer* [1983] 2 VR 419; *R v Thomas *CCA Vic 29/09/1980).
+
+16. The agreement does not need to have specified who the particular victim would be, or how the offence would be carried out. There merely needs to have been an agreement to commit the principal offence (*R v Gill and Henry* (1818) 2 B and Ald 204; *R v Caldwell* (2009) 22 VR 93).
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+17. Where an agreement contemplated multiple criminal acts, the jury must unanimously find that it included an agreement to commit the principal offence (*Nirta v R *(1983) 79 FLR 190).
+
+18. The content of the agreement can be inferred from the accused’s conduct (*Nirta v R *(1983) 79 FLR 190; *R v Minuzzo and Williams *[1984] VR 417; *R v Orton* [1922] VLR 469; *Gerakiteys v R *(1984) 153 CLR 317).
+
+19. It is not necessary that each party to the conspiracy actively participate in the commission of the planned offence (*Rolls v R; Sleiman v R* (2011) 34 VR 80; [2011] VSCA 401).
+
+20. The requirement that one of the parties must agree to pursue a course of conduct that involves the commission of an offence includes committing the offence as a secondary party (*Bui v R; Hargrave v R* [2011] VSCA 404). For example, there is a conspiracy to murder where A and B agree that B would hire C, a stranger to the agreement, to kill D.
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+## Intention to Form an Agreement
+
+
+
+21. The second element requires the parties to have intended to form the agreement at the time the agreement was made (*R v Moran & Mokbel* [1999] 2 VR 87; *R v Thomson* (1965) 50 Cr App R 1; *Peters v R *(1998) 192 CLR 493).
+
+22. Evidence that the accused had acted as if s/he had made an agreement may provide evidence of an intention to form an agreement, but is not conclusive. It can be rebutted by other evidence (*Peters v R *(1998) 192 CLR 493; *R v Thomson* (1965) 50 Cr App R 1; *R v O’Brien* [1954] SCR 666).[^3]
+
+
+
+## Intent to Commit the Criminal Offence
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+23. The third element requires the accused, and at least one other party to the agreement, to have intended that the principal offence would be committed (*Crimes Act 1958 *s 321(2)).
+
+24. Recklessness is not a sufficient state of mind for conspiracy (*Giorgianni v R *(1985) 156 CLR 473).
+
+25. The parties must have intended that the principal offence be committed, not some other offence (*R v Gemmell* (1985) 1 CRNZ 496; *Peters v R *(1998) 192 CLR 493).
+
+26. Where the prosecution is based on a conspiracy to traffick in a specified drug, but the evidence establishes that the parties intended to traffick in a different drug, the conspiracy will not have been proven. It is not sufficient for the prosecution to prove that the accused had a generalised intention to traffick in drugs of that nature (*DPP v Johnson & Ors (Ruling No. 7) *[2007] VSC 579).
+
+27. It is not necessary for the parties to have shared the same motive for wanting the principal offence to be committed, as long as they both intended that that offence would be committed (*Yip Chiu-Cheung v R* [1994] 3 WLR 514).
+
+28. The accused’s intention to commit the principal offence must be judged subjectively. This element will not be satisfied unless the prosecution can prove that the accused himself or herself actually intended that offence to be committed (*R v Thomson* (1965) 50 Cr App R 1).
+
+29. It is therefore permissible for the accused to argue that, while s/he objectively *appeared* to agree to the commission of the principal offence, s/he privately did not support its commission.[^4] It is for the prosecution to disprove such a claim, beyond reasonable doubt (*R v Thomson* (1965) 50 Cr App R 1).
+
+
+
+### Intention or Belief in Facts and Circumstances
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Elements
+
+30. The accused, and at least one other party to the agreement, must also have intended or believed that any fact or circumstance that was an element of the principal offence would exist at the time the offence was expected to take place (*Crimes Act 1958* s 321; *Bennett v R *(1998) 144 FLR 311).
+
+31. The accused must have had more than a mere suspicion that the relevant facts or circumstances would exist. S/he must have had actual knowledge or personal belief in the existence of any facts necessary to make the proposed conduct criminal (see, e.g. *R v Barbouttis & Ors *(1995) 37 NSWLR 256; *R v Schipanski* (1989)17 NSWLR 618;* Pereira v DPP* (1989) 82 ALR 217; *Bennett v R *(1998) 144 FLR 311).
+
+32. The requirement that the accused intend or believe in the existence of any necessary facts or circumstances does not require agreement as to matter of law. This includes matter of law which involve the legal characterisation of certain acts. For example, in *Macdonald v The King *[2023] NSWCCA 250, the Court held that while the principal offence of misconduct in public offence required that the conduct be serious and merit criminal punishment, it was not necessary show that the conspirators *agreed* the conduct was serious and merited criminal punishment (see [77]–[81]).
+
+33. It is not necessary to explain this requirement in every case. It only needs to be addressed if it is an issue in the case (see, e.g. *R v Massie* [1999] 1 VR 542).
+
+
+[^3]: This differs from contract law, where such a claim is not permitted.
+[^4]: This differs from contract law, where such a claim is not permitted.
+
+
+---
+
+
+## 6.1 Accused’s Knowledge
+
+## Accused’s Knowledge
+
+
+
+1. These three elements will only be satisfied if the accused knew that the agreement either:
+
+
+
+- Constituted the formation of a scheme to commit a criminal offence; or
+
+- Brought him/her into an existing scheme (*R v Griffiths *[1966] 1 QB 589; *Aston & Burnell v R *(1987) 44 SASR 436).
+
+
+---
+
+
+## 6.1 Accused’s Knowledge
+
+2. While the parties must have known there was a plan to commit the principal offence, they do not need to have known the specific details of how that offence would be committed (*Aston & Burnell v R *(1987) 44 SASR 436).
+
+3. The accused also does not need to have known the identity of the other parties to the agreement. The identity of co-conspirators is not an element of the offence. A person may be convicted of conspiring with a person or persons unknown (*R v Coles* [1984] 1 NSWLR 726; *Gerakiteys v R *(1984) 153 CLR 317;* R v Howes* [1971] 2 SASR 293; *Aston & Burnell v R *(1987) 44 SASR 436; *Ex parte Coffey: Re Evans *[1971] 1 NSWLR 434).
+
+4. While the accused does not need to have known the identity of his or her co-conspirators, s/he must have known of their existence, been in agreement with them about the scope of the conspiracy, and shared a common design or purpose (*Aston & Burnell v R *(1987) 44 SASR 436; *R v Coles* [1984] 1 NSWLR 726; *Ex parte Coffey: Re Evans *[1971] 1 NSWLR 434).
+
+5. The accused’s liability depends on the scope of his or her actual agreement. A person should not be assumed to have agreed to commit an offence on the basis that it is likely s/he knew s/he was playing his or her part in a large criminal enterprise (*R v Trudgeon* (1988) 39 A Crim R 252).
+
+6. Evidence that the accused was only involved in the conspiracy to a limited extent may, in some cases, be used as evidence that the accused was not aware of the full scope of the agreement. However, such evidence is not conclusive, and the jury must consider the extent of the accused’s agreement, rather than his/her participation in the conspiracy (*Gerakiteys v R *(1984) 153 CLR 317; *R v Griffiths* [1966] 1 QB 589).
+
+
+---
+
+
+## 6.1 No Need for Overt Acts
+
+## No Need for Overt Acts
+
+
+
+1. It is not necessary to show that the accused actively participated in giving effect to the agreement by performing any overt acts (*Nirta v R *(1983) 79 FLR 190; *R v Bijkerk* (2000) 111 A Crim R 443; *R v Caldwell* (2009) 22 VR 93; but c.f. *Commonwealth Criminal Code *s 11.5).
+
+2. However, the performance of such acts may be used as evidence of the existence of the agreement, or the intentions of the parties (*Nirta v R *(1983) 79 FLR 190; *R v Bijkerk* (2000) 111 A Crim R 443; *R v Caldwell* (2009) 22 VR 93).
+
+3. The relationship between any given overt act and the conspiracy alleged whould be clearly spelt out (*R v Caldwell* (2009) 22 VR 93; *R v Theophanous* (2003) 141 A Crim R 216).
+
+
+---
+
+
+## 6.1 Conspiracy and Impossibility
+
+## Conspiracy and Impossibility
+
+
+
+1. A person may be convicted of conspiracy even if facts existed which made the commission of the principal offence impossible (*Crimes Act 1958* s 321(3); *R v Barbouttis* (1995) 37 NSWLR 256; *R v Kapeliotis & Mari* (1995) 122 FLR 461).
+
+2. However, conspiracy is not committed if the accused erroneously believed s/he was conspiring to commit a crime. The crime that the parties conspired to commit must have been a real offence, not an imaginary one (see, e.g. *R v Sirat* (1986) 83 Cr App R 41).
+
+
+---
+
+
+## 6.1 Identification of the Conspiracy
+
+## Identification of the Conspiracy
+
+
+
+1. In a conspiracy case, each accused is entitled to particulars of the people with whom it is alleged he or she conspired, and particulars of the scope of the conspiracy alleged (*R v Caldwell* (2009) 22 VR 93).
+
+2. The prosecution must provide those particulars in the course of the opening address, at the very latest. They cannot simply open with the overt acts of which particulars have been given, leaving it to the end of the evidence to select from among them the conspiracy that seems to be the strongest (*R v Caldwell* (2009) 22 VR 93).
+
+3. The prosecution must prove that the conspiracy was in the terms alleged in the indictment. The jury cannot convict the accused of a conspiracy that is different from the one alleged (*Gerakiteys v R *(1984) 153 CLR 317; *R v Coles* [1984] 1 NSWLR 726; *R v Ongley* (1940) 57 WN (NSW) 116; *DPP v Johnson & Ors (Ruling No. 7) *[2007] VSC 579; *R v Caldwell* (2009) 22 VR 93).
+
+4. It is therefore important to determine:
+
+
+
+- The precise scope of any conspiracies alleged; and
+
+- Whether it is alleged that there was a single conspiracy between all of the relevant parties, or a set of different conspiracies (*Gerakiteys v R *(1984) 153 CLR 317).
+
+
+
+## Scope of the Conspiracy
+
+
+---
+
+
+## 6.1 Identification of the Conspiracy
+
+5. Where a presentment alleges an agreement to commit two or more specific offences, each offence probably constitutes an essential element of the conspiracy. This means that, in such cases, the prosecution will need to prove that the conspiracy extended to all the offences for the charge to be made out (*R v Caldwell* (2009) 22 VR 93. See also *R v Roberts *[1998] 1 Cr App R 441).
+
+6. Similarly, where a count of conspiracy to defraud alleges an agreement to achieve two or more distinct objectives, each of the objectives is an essential element which must be proved. The charge will not be made out by proof of just one of those objectives (*R v Caldwell *(2009) 22 VR 93).
+
+7. Where particular victims are named in the presentment, the judge will need to determine whether the prosecution is alleging that there was a conspiracy to commit an offence against those specific people, or whether those people were named simply to supply sufficient particulars of the conspiracy alleged.
+
+
+
+- If it alleged that the conspiracy was to *commit an offence against those specific people*, the prosecution will need to prove that there was an agreement to commit the relevant offence against *all* of the named parties (see, e.g. *R v Maria *[1957] St R Qd 512, cited in *R v Caldwell *(2009) 22 VR 93).
+
+- If it is alleged that the conspiracy was simply to *commit the relevant offence*, with the names supplied to provide particulars of the conspiracy alleged, and to mark out its boundaries, the prosecution will *not* need to prove that the accused agreed to commit the offence against all of the named parties. Even if the accused did not intend to commit an offence against one or more of the named parties (or did not know the identity of all of the parties involved), the conspiracy will be established if they agreed to commit the relevant offence (*R v Caldwell *(2009) 22 VR 93. See also *R v Ongley (*1940) 57 WN (NSW) 116;* R v Deakin *(1972) 56 Cr App R 841).
+
+
+
+## Single Conspiracy or Multiple Conspiracies
+
+
+---
+
+
+## 6.1 Identification of the Conspiracy
+
+8. For there to have been a single conspiracy, all of the parties to the agreement must have been aware of the scope of that agreement, and agreed to pursue the same offence (*Gerakiteys v R* (1984) 153 CLR 317; *R v Griffiths* [1966] 1 QB 589).
+
+9. Where the scope of the parties’ agreement varies, it will instead be necessary to allege multiple conspiracies. The nature of the conspiracies alleged will depend on the circumstances:
+
+
+
+- In some cases, there may be a series of related conspiracies, which all emanate from a central figure. The scope of these related conspiracies may vary, based on the knowledge and belief of the parties (*Gerakiteys v R* (1984) 153 CLR 317; *R v Griffiths* [1966] 1 QB 589).
+
+- In other cases, the conspiracies may operate like a chain, with each participant only aware of the adjacent parties and their particular role in the conspiracy (*R v Meyrick* (1930) 21 Cr App R 94; *R v Griffiths* [1966] 1 QB 589).
+
+
+
+10. When a new party joins an existing conspiracy, an issue arises as to whether there is still a single (but expanded) conspiracy, or whether there are now two conspiracies. The answer depends upon the new party’s knowledge and intentions:
+
+
+
+- If the new party is fully aware of the scope of the existing conspiracy, and agrees that the principal offence should be committed, there will be just one conspiracy.
+
+- If the new party is only aware of, and agrees to, part of the original conspiracy, there will be two conspiracies: a broad conspiracy between the original conspirators, and a narrower conspiracy which includes the new party (*Gerakiteys v R *(1984) 153 CLR 317; *O’Connell v R *(1844) 11 Cl & Fin 155).
+
+
+
+11. While the jury cannot convict the accused of a conspiracy that is *different* from the one alleged by the prosecution, they can convict him/her of a conspiracy that is *narrower* – provided that it is not substantially different to the allegation s/he was required to meet (*Gerakiteys v R *(1984) 153 CLR 317).
+
+
+---
+
+
+## 6.1 Special Cases
+
+## Special Cases
+
+
+
+## Spouses
+
+
+
+1. Ordinarily, spouses may not be convicted of conspiring together to commit any crimes other than murder or treason (*Crimes Act 1958* s 339).
+
+2. However, spouses can be found guilty of conspiracy to commit an offence if they extend their agreement to include a third party (*R v Chrastny *[1991] 1 WLR 1381).
+
+
+
+## Companies
+
+
+
+3. A company may be party to an agreement if the directors are party to the agreement (*R v McDonnell* [1966] 1 QB 233).
+
+4. However, a ‘sole person’ company cannot form an agreement with its director (*R v McDonnell* [1966] 1 QB 233).
+
+5. A director is capable of conspiring to defraud a company of which s/he later becomes the directing mind (*R v Maher* (1986) 83 FLR 332).
+
+
+
+## Police
+
+
+
+6. It is possible to form a conspiracy with an undercover police officer, even if that officer only intends to commit the offence to gather evidence for a criminal prosecution (*Yip Chiu-Cheung v R* [1994] 3 WLR 514).
+
+7. However, the officer must intend to commit the principal offence. There will be no conspiracy if the officer does not intend the offence to be carried out (*R v Anderson* [1986] AC 27).
+
+8. A police officer who agrees to pursue a criminal offence will have entered into an agreement, even if s/he was under orders from a superior officer to do so (*R v Ong *[2007] VSCA 206).
+
+
+---
+
+
+## 6.1 Conspiracy and Attempts
+
+## Conspiracy and Attempts
+
+
+
+1. Apart from the offence of "attempting to pervert the course of justice", a person may not be charged with conspiracy to commit an "attempted" crime (*Crimes Act 1958* s 321R; *R v Aydin* [2005] VSCA 87).
+
+
+---
+
+
+## 6.1 Consistency of Verdicts
+
+## Consistency of Verdicts
+
+
+
+1. The jury does not always need to reach the same verdict for each member of an alleged conspiracy (*Crimes Act 1958* s 321B; *R v Darby* (1982) 148 CLR 668).
+
+2. The jury may reach different verdicts if there are differences in the admissible evidence against the various accused (*R v Darby *(1982) 148 CLR 668).[^5]
+
+3. Different verdicts are only impermissible if there is no factual basis on which the jury may convict one accused without convicting the other (*R v Darby* (1982) 148 CLR 668; *Mickelberg v R* (1989) 167 CLR 259).
+
+4. In some cases, it will be appropriate to direct the jury that if they acquit one alleged member of the conspiracy, they must acquit the other member(s). However, the judge must *not* direct the jury that if they convict one accused, they must convict the other accused (*R v Aydin* [2005] VSCA 87).
+
+
+[^5]: If there are significant differences in the evidence that is admissible against the various accused, it is preferable that the judge order separate trials, so that the jury does not need to reconcile their verdicts (*R v Darby* (1982) 148 CLR 668).
+
+
+---
+
+
+## 6.1 Withdrawal
+
+## Withdrawal
+
+
+
+1. As the offence of conspiracy is complete at the time the agreement is formed, later withdrawal from a conspiracy is not a defence (*Woss v Jacobsen* (1985) 11 FCR 243; *Savvas v R *(1995) 183 CLR 1; *R v Caldwell* (2009) 22 VR 93).
+
+
+
+Last updated: 9 November 2023
+
+
+---
+
+---
+
+# Chapter 6.1.1
+
+
+## 6.1.1 Charge: Conspiracy to Commit an Offence (Victoria)
+
+# 6.1.1 Charge: Conspiracy to Commit an Offence (Victoria)
+
+This charge has been drafted for trials involving a single accused. The charge will need to be adapted if multiple accused are tried together.
+
+
+
+## Charge
+
+Conspiracy to commit NOO[^2] is a crime. In order to find the accused guilty of this crime, there are 3 elements, each of which the prosecution must prove beyond reasonable doubt. I will list them for you and then explain each one in detail.
+
+The first element that the prosecution must prove is that the accused made an agreement with at least one other person to commit the offence of NOO.[^3] Throughout these directions I will call the people who it is alleged entered into that agreement, including the accused, the "parties".
+
+The second element that the prosecution must prove is that the accused intended to make that agreement.
+
+The third element that the prosecution must prove is that the parties intended that the offence of NOO would be committed.
+
+Before you can find NOA guilty of conspiracy to commit NOO you must be satisfied that all three of these elements have been proven beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+
+[^2]: Name of Offence.
+[^3]: This charge is designed for the simple case in which the whole purpose of the alleged agreement was to commit the principal offence. If instead the agreement was to pursue a more complex course of conduct, which included the commission of the principal offence, the charge will need to be modified accordingly.
+
+
+---
+
+
+## 6.1.1 Agreement
+
+## Agreement
+
+The first element that the prosecution must prove is that the accused made an agreement with at least one other person to commit NOO. This requires you to be satisfied of two matters beyond reasonable doubt.
+
+First, you must be satisfied that NOA and [*identify alleged co-conspirators*] actually made an agreement to commit certain acts. It is not enough for them to have independently decided to commit those acts, or to have simply expected those acts would be committed. They must have agreed to pursue those acts.
+
+Second, you must be satisfied that, under that agreement, a person was supposed to commit the offence of NOO. A person commits NOO when s/he [*include elements of the principal offence*. *See *7 Victorian Offences].
+
+In this case the prosecution alleged that NOA formed an agreement with [*identify alleged co-conspirators*] to [*describe alleged object of conspiracy*]. [*Summarise relevant prosecution evidence and/or arguments.*] The defence denied this, arguing that [*describe relevant defence evidence and/or arguments*].
+
+For this element to be met, you must be satisfied that an agreement was formed between NOA and [*identify alleged co-conspirators*], in the terms alleged by the prosecution.[^4] If you are not satisfied that there was such an agreement, or that the agreement was in those terms, then this element will not be met.
+
+
+[^4]: In some cases it may be necessary to direct the jury that they can convict the accused of a conspiracy which is narrower than that alleged by the prosecution. In such cases, the alternative findings which are available to the jury should be explained.
+
+
+---
+
+
+## 6.1.1 Intention to Agree
+
+## Intention to Agree
+
+The second element that the prosecution must prove is that, at the time the agreement was made, the accused intended to enter into that agreement. This requires you to be satisfied, beyond reasonable doubt, that NOA really meant to make that agreement, and did not just appear to agree with the other alleged parties.
+
+The prosecution alleged that that was the case here. [*Describe relevant prosecution evidence and/or arguments.*] The defence denied this, arguing [*describe relevant defence evidence and/or arguments*].
+
+
+---
+
+
+## 6.1.1 Intention to Commit the Criminal Offence
+
+## Intention to Commit the Criminal Offence
+
+The third element that the prosecution must prove is that, when the parties made the agreement, they intended that the offence of NOO would be committed.
+
+[*If there are particular facts or circumstances the parties must have believed in to commit the offence, add the following shaded section.*]
+
+You must also be satisfied that the parties intended or believed that [*describe relevant facts or circumstances*, *e.g.* "NOV would not be consenting"] at the time the offence was to be committed.
+
+For this element to be met, you must be satisfied that NOA and [*identify alleged co-conspirators*] definitely meant for the offence of NOO to be committed. It is not sufficient for them to have thought that maybe that offence should be committed, or to have intended to commit some other offence.
+
+The prosecution argued that the parties did intend to commit NOO when they made the agreement. [*Describe relevant prosecution evidence and/or arguments.*] The defence denied this, arguing [*describe relevant defence evidence and/or arguments*].
+
+
+---
+
+
+## 6.1.1 Accused’s Knowledge
+
+## Accused’s Knowledge
+
+When determining the case against the accused, you will need to consider precisely what s/he knew at the time s/he made the alleged agreement.
+
+The law says that the accused must have known that s/he was [forming/being brought into] a scheme to commit a criminal offence.
+
+S/he must also have known the nature of the offence planned. That is, s/he must have known that it involved [*briefly summarise relevant elements of the principal offence, **e.g**.* "sexually penetrating the victim without her consent"].
+
+However, s/he does not need to have known the specific details of how that offence was going to be carried out. [*Where relevant, add: *Nor does s/he need to have known the identity of the proposed victim(s).] It is sufficient for him/her to have known that the offence of NOO would be carried out, and to have intentionally agreed to pursue that offence.
+
+[*Where it is possible that the accused did not know the identity of some of the alleged co-conspirators, add the following shaded section.*]
+
+The accused also does not need to have known the identity of the other parties to the agreement. However, s/he does need to have known that there were other parties to the agreement, and to have been in agreement with them about the commission of the offence.
+
+[*If it is alleged that the accused’s agreement should be inferred from his/her involvement in a criminal enterprise, add the following shaded section.*]
+
+In making your determination, it is important that you focus on precisely what each party actually knew about and agreed to. You should not assume that a person has agreed to commit an offence simply because s/he knew that it was likely that s/he was playing a part in a criminal enterprise that involved the commission of that offence. To convict the accused of conspiracy, you must find that s/he intentionally agreed to pursue that offence.
+
+
+---
+
+
+## 6.1.1 No Need for Overt Acts
+
+## No Need for Overt Acts
+
+You also do not need to find that the parties took any steps to carry out their agreement. The offence of conspiracy is committed when people intentionally agree to commit an offence, regardless of whether they act on that agreement.
+
+You may, however, use evidence that the parties attempted to carry out the agreement as evidence that there was an agreement and as evidence of the terms of the agreement. For example, the prosecution says that [*describe relevant prosecution evidence and/or arguments*]. The defence reject this, saying [*describe relevant defence evidence and/or arguments*].
+
+
+---
+
+
+## 6.1.1 Application of Law to Evidence
+
+## Application of Law to Evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+---
+
+
+## 6.1.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of conspiracy to commit NOO, the prosecution must prove to you, beyond reasonable doubt:
+
+One – That NOA and [*identify alleged co-conspirators*] made an agreement to commit NOO; and
+
+Two – That the accused intended to make that agreement; and
+
+Three – That the parties intended that the offence of NOO would be committed.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of conspiracy to commit NOO.
+
+
+---
+
+
+## 6.1.1 Inconsistent Verdicts
+
+## Inconsistent Verdicts
+
+[*If there is no factual basis on which the jury can convict one accused without convicting a co-accused, add the following shaded section.*]
+
+It is important to note that the evidence concerning this offence is identical in relation to both NOA and [*identify co-accused*]. This means that if you have decided that [*identify co-accused*] is not guilty of conspiracy to commit NOO, you must also find NOA not guilty of that offence.
+
+Last updated: 3 October 2012
+
+
+---
+
+---
+
+# Chapter 6.1.2
+
+
+## 6.1.2 Checklist: Conspiracy to Commit an Offence (Victoria)
+
+# 6.1.2 Checklist: Conspiracy to Commit an Offence (Victoria)
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused made an agreement with at least one other person to commit an offence (the "principal offence"); and
+
+1. The accused intended to make that agreement; and
+
+2. The parties intended that the principal offence would be committed.
+
+1. Agreement
+
+1. 1. Did the accused make an agreement with at least one other person to commit the principal offence?
+
+1. 1.1 Did the accused and at least one other person make an agreement to commit certain acts?
+
+1. If Yes, then go to Question 1.2
+
+2. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+2. 1.2 Under that agreement, was a person supposed to commit the principal offence?
+
+1. Consider – What are the elements of the principal offence?
+
+3. If Yes, then go to Question 2
+
+4. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+2. Intention to Agree
+
+2. 2. At the time the agreement was made, did the accused intend to enter into that agreement?
+
+5. If Yes, then go to Question 3
+
+6. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+3. Intention
+
+3. 3. When the parties made the agreement, did they intend that the principal offence would be committed?
+
+7. If Yes, then the accused is guilty of conspiracy to commit the principal offence (as long as you have also answered Yes to questions 1.1, 1.2 and 2)
+
+8. If No, then the accused is not guilty of conspiracy to commit the principal offence
+
+
+
+Last updated: 5 October 2012
+
+
+---

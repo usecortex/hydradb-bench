@@ -1,0 +1,84 @@
+# BOEING_2022_10K
+
+The Boeing Company and Subsidiaries
+Notes to the Consolidated Financial Statements
+Summary of Business Segment Data
+(Dollars in millions)
+
+Years ended December 31,: 2022 | 2021 | 2020
+Revenues:
+Commercial Airplanes: $25,867 | $19,493 | $16,162
+Defense, Space & Security: 23,162 | 26,540 | 26,257
+Global Services: 17,611 | 16,328 | 15,543
+Boeing Capital: 199 | 272 | 261
+Unallocated items, eliminations and other: (231) | (347) | (65)
+Total revenues: $66,608 | $62,286 | $58,158
+---
+
+Multiple legal actions have been filed against us asa result of the October 29, 2018 accident of Lion Air Flight 610 and the March 10, 2019
+accident of Ethiopian Airlines Flight 302.
+
+---
+
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+
+Years ended December 31,: 2022 | 2021 | 2020
+Sales of products: $55,893 | $51,386 | $47,142
+Sales of services: 10,715 | 10,900 | 11,016
+Total revenues: 66,608 | 62,286 | 58,158
+Cost of products: (53,969) | (49,954) | (54,568)
+Cost of services: (9,109) | (9,283) | (9,232)
+Boeing Capital interest expense: (28) | (32) | (43)
+Total costs and expenses: (63,106) | (59,269) | (63,843) | 3,502 | 3,017 | (5,685)
+---
+
+We derivea significant portion of our revenues froma limited number of commercial airlines.
+
+---
+
+We derivea substantial portion of our revenue from the U.S. government
+
+---
+
+In 2022, 40% of our revenues were earned pursuant to U.S. government contracts
+
+---
+
+Historically, the
+airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost
+competitive.
+
+---
+
+We must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to
+meet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our
+commercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually increase to 5 per month in 2023.
+Production of the 777X is currently paused and is expected to resume in 2023. The 737 program has experienced operational and supply chain
+challenges stabilizing production at 31 per month. We plan to gradually increase 737 production rates based on market demand and supply
+chain capacity.
+
+---
+
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+
+Years ended December 31,: 2022 | 2021 | 2020
+Sales of products: $55,893 | $51,386 | $47,142
+Sales of services: 10,715 | 10,900 | 11,016
+Total revenues: 66,608 | 62,286 | 58,158
+Cost of products: (53,969) | (49,954) | (54,568)
+Cost of services: (9,109) | (9,283) | (9,232)
+Boeing Capital interest expense: (28) | (32) | (43)
+Total costs and expenses: (63,106) | (59,269) | (63,843) | 3,502 | 3,017 | (5,685)
+(Loss)/income from operating investments, net: (16) | 210 | 9
+General and administrative expense: (4,187) | (4,157) | (4,817)
+Research and development expense, net: (2,852) | (2,249) | (2,476)
+Gain on dispositions, net: 6 | 277 | 202
+Loss from operations: (3,547) | (2,902) | (12,767)
+Other income, net: 1,058 | 551 | 447
+Interest and debt expense: (2,533) | (2,682) | (2,156)
+Loss before income taxes: (5,022) | (5,033) | (14,476)
+Income tax (expense)/benefit: (31) | 743 | 2,535

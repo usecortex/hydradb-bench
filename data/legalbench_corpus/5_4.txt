@@ -1,0 +1,386 @@
+# Chapter 5.4
+
+
+## 5.4 Extended Common Purpose (Pre-1/11/14)
+
+# 5.4 Extended Common Purpose (Pre-1/11/14)
+
+
+
+## Overview
+
+
+---
+
+
+## 5.4 Extended Common Purpose (Pre-1/11/14)
+
+1. This topic examines the common law principle of extended common purpose. On 1 November 2014, that principle was abolished by the *Crimes Amendment (Abolition of Defensive Homicide) Act 2014*. For offences committed on or after 1 November 2014, see Statutory Complicity.
+
+2. The doctrine of "extended common purpose" applies to cases in which two or more parties reach an agreement to commit a crime (the "foundational crime"), and in the course of pursuing that agreement, one or more of the parties commit a different crime (the "charged offence"). The doctrine holds that any party to the agreement who foresaw the possibility that the charged offence would be committed when the agreement was carried out will be liable for that crime (*Johns v R *(1980) 143 CLR 108; *McAuliffe v R* (1995) 183 CLR 108;* Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500;* R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125).
+
+3. This is a form of liability for reckless participation in a criminal enterprise (*R v Powell; R v English* [1997] 3 WLR 959). The liability of the accused is based on his/her continued participation in the criminal enterprise, despite foreseeing the risk that other crimes would be committed as part of that enterprise (*Gillard v R* (2003) 219 CLR 1; *R v Panozzo* [2007] VSCA 245).
+
+4. To establish liability by way of extended common purpose, the prosecution must prove:
+
+1. That two or more people reached an agreement to commit a crime (the foundational crime) that remained in existence at the time the charged offence was committed;
+
+1. That in the course of carrying out the agreement, one or more of the parties to the agreement, other than the accused, committed the charged offence; and
+
+
+---
+
+
+## 5.4 Extended Common Purpose (Pre-1/11/14)
+
+2. That the accused foresaw the possibility that one or more parties to the agreement would commit the charged offence when the agreement was carried out (McAuliffe v R (1995) 183 CLR 108; Hartwick, Clayton & Hartwick v R (2006) 231 ALR 500; R v Hartwick, Clayton & Hartwick (2005) 14 VR 125; R v Taufahema (2007) 228 CLR 232; R v Jones (2006) 161 A Crim R 511).
+
+
+---
+
+
+## 5.4 Agreement to Commit a Crime
+
+## Agreement to Commit a Crime
+
+
+
+1. For the first element to be met, the prosecution must prove:
+
+
+
+- That the accused reached an agreement with others to commit a crime; and
+
+- That the agreement remained in existence at the time the charged offence was committed (*Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500; *R v Taufahema* (2007) 228 CLR 232; [2007] HCA 11).
+
+
+
+2. For information concerning this element (which is identical to the first element of joint criminal enterprise), see 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+
+---
+
+
+## 5.4 Performance of the Necessary Acts
+
+## Performance of the Necessary Acts
+
+
+
+1. For the second element to be met, the prosecution must prove that, in the course of carrying out the agreement, one or more of the parties to the agreement, other than the accused, committed the offence charged (*McAuliffe v R* (1995) 183 CLR 108; *Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500; *R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125; *R v Taufahema* (2007) 228 CLR 232; [2007] HCA 11; *R v Jones* (2006) 161 A Crim R 511).
+
+2. The principles of extended common purpose should generally not be used if the charged offence was also the foundational crime. In that situation, a different form of complicity should be used instead (*R v Stokes & Difford* (1990) 51 A Crim R 25. See 5.2 Statutory Complicity (From 1/11/14) (From 1/11/14) or 5.3 Joint Criminal Enterprise (Pre-1/11/14) to determine the most appropriate form of complicity to use in such a case).
+
+3. In some cases, it is permissible to direct using extended common purpose principles, even if the charged offence was the foundational crime (*R v Mills, Sinfield & Sinfield *(1985) 17 A Crim R 411; *R v Mills* (1986) 68 ALR 455).
+
+
+---
+
+
+## 5.4 Foresight of Accused
+
+## Foresight of Accused
+
+
+[^2]: If the charged offence has an objective fault element (e.g. manslaughter), the accused does not need to have foreseen any particular state of mind (Gillard v R (2003) 219 CLR 1; R v PDJ (2002) 7 VR 612).
+
+
+---
+
+
+## 5.4 Foresight of Accused
+
+1. The third element requires the accused to have foreseen the possibility that one or more of the parties to the agreement would commit the charged offence when the agreement was carried out (*McAuliffe v R* (1995) 183 CLR 108; *Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500; *R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125; *R v Taufahema* (2007) 228 CLR 232; [2007] HCA 11; *R v Jones* (2006) 161 A Crim R 511).
+
+2. The accused does not need to have intended that the charged offence be committed. The prosecution only needs to prove that s/he foresaw the commission of the charged offence as a possible result of carrying out the criminal enterprise (*Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500).
+
+3. The accused will be liable for crimes that s/he foresaw as *possible*. S/he does not need to have considered the commission of the charged offence to have been *probable* (*Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500).
+
+4. The judge may tell the jury that the accused must have foreseen that the charged offence *might* result. If it is necessary to explain this further, it is permissible to tell the jury that this means that there was a real or substantial possibility that it would result (*R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125).
+
+5. It is not necessary to elaborate on the meaning of "possible" in every case (*R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125).
+
+6. The accused must not only have foreseen the possibility that the perpetrator would commit the relevant acts, but also that s/he might act with the requisite state of mind[^2] and in the absence of any defences (*Hartwick, Clayton & Hartwick v R* (2006) 231 ALR 500; *R v Hartwick, Clayton & Hartwick* (2005) 14 VR 125; *McAuliffe v R* (1995) 183 CLR 108).
+
+
+[^2]: If the charged offence has an objective fault element (e.g. manslaughter), the accused does not need to have foreseen any particular state of mind (Gillard v R (2003) 219 CLR 1; R v PDJ (2002) 7 VR 612).
+
+
+---
+
+
+## 5.4 Foresight of Accused
+
+7. This form of liability considers the foresight of an individual accused. It is not necessary to prove that the offence was within the joint contemplation of the parties or was an agreed contingency (*McAuliffe v R *(1995) 183 CLR 108).
+
+
+[^2]: If the charged offence has an objective fault element (e.g. manslaughter), the accused does not need to have foreseen any particular state of mind (Gillard v R (2003) 219 CLR 1; R v PDJ (2002) 7 VR 612).
+
+
+---
+
+
+## 5.4 Foresight of Accused
+
+Last updated: 1 November 2014
+
+
+[^2]: If the charged offence has an objective fault element (e.g. manslaughter), the accused does not need to have foreseen any particular state of mind (Gillard v R (2003) 219 CLR 1; R v PDJ (2002) 7 VR 612).
+
+
+---
+
+---
+
+# Chapter 5.4.1
+
+
+## 5.4.1 Charge: Extended Common Purpose
+
+# 5.4.1 Charge: Extended Common Purpose
+
+This charge only applies to offences committed before 1 November 2014.
+
+NOA has been charged with the offence of NOO.[^2] However, it has not been alleged that s/he committed that offence him/herself.[^3] Instead, the prosecution has alleged that NO3P[^4] committed that offence, but that NOA should be held responsible for NO3P’s actions. I must therefore give you some directions about when someone can be held responsible for the acts of another person.
+
+The law says that if the accused makes an agreement with other people to pursue a criminal enterprise, and in the course of pursuing that enterprise one of the other people commits an offence which was not part of the agreement, the accused should be held responsible for that offence if s/he foresaw that it could happen. This is called the law of "extended common purpose". It makes the accused liable for continuing to participate in a criminal enterprise, despite foreseeing the risk that the offence would be committed.
+
+In order to find NOA guilty of committing NOO by extended common purpose, there are 3 elements, all of which the prosecution must prove beyond reasonable doubt. I will list them for you and then explain each one in detail.
+
+The first element that the prosecution must prove is that the accused made an agreement with other people[^5] to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed.
+
+The second element that the prosecution must prove is that, in carrying out the agreement, a party to the agreement committed NOO.
+
+The third element that the prosecution must prove is that the accused foresaw the possibility that another party to the agreement would commit NOO when the agreement was carried out.
+
+Before you can find NOA guilty of committing NOO by extended common purpose, you must be satisfied that all three of these elements have been proven beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+
+[^2]: Name of Offence.
+[^3]: If joint criminal enterprise is alleged as an alternative to acting as a sole offender, this sentence will need to be modified accordingly.
+[^4]: Name of 3rd party (the alleged offender).
+[^5]: This charge is based on cases involving multiple co-offenders. If there is only one co-offender, some of the sentences throughout the charge will need to be modified.
+[^6]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.4.1 Charge: Extended Common Purpose
+
+## Agreement to Commit Criminal Acts
+
+The first element that the prosecution must prove is that the accused made an agreement with other people to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed.
+
+There are two parts to this element. First, you must be satisfied that the accused came to an understanding or arrangement amounting to an agreement with at least one other person to commit a criminal act together.
+
+Such an agreement, understanding or arrangement may be expressly stated, or it may be inferred from the surrounding circumstances. You will recall what I have told you about inferences.[^6]
+
+[*If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.*]
+
+The agreement must have been to commit a criminal act. This element will not be satisfied if the accused agreed to pursue some other form of wrongdoing that is not criminal. However, you do not need to find that the parties to the agreement knew that the relevant act would be criminal. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit a particular criminal act together.
+
+In this case, the prosecution alleged that [*specify parties*] made an agreement to [*specify foundational crime*]. They alleged that this agreement was made [*insert prosecution evidence about the formation of the agreement*]*.*
+
+[*If the defence denies that there was an agreement to commit a criminal act, add the following shaded section.*]
+
+The defence denied this, arguing [*insert defence evidence and/or arguments*].
+
+[*If the defence does not deny that there was an agreement, contesting liability on other grounds, add the following shaded section.*]
+
+The defence does not deny that such an agreement was made, but argues [*outline defence arguments, e**.g**.* "that the accused did not foresee that NO3P would commit NOO"].
+
+
+[^2]: Name of Offence.
+[^3]: If joint criminal enterprise is alleged as an alternative to acting as a sole offender, this sentence will need to be modified accordingly.
+[^4]: Name of 3rd party (the alleged offender).
+[^5]: This charge is based on cases involving multiple co-offenders. If there is only one co-offender, some of the sentences throughout the charge will need to be modified.
+[^6]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.4.1 Charge: Extended Common Purpose
+
+The second part of this element requires the prosecution to prove that the agreement remained in existence when the offence was committed. If there is a possibility that the agreement had been called off prior to that time, or that NOA had withdrawn from that agreement, then this first element will not be met.
+
+[*If withdrawal from the agreement is in issue, add the following shaded section.*]
+
+In this case, the defence argued that, [while/even if] NOA had made an agreement to commit a criminal act, s/he had withdrawn from that agreement by the time the offence was committed. It is for the prosecution to prove that s/he had not done so.
+
+The law says that if a person is going to withdraw from an agreement to commit a criminal act, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of his/her previous agreement, in sufficient time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of his/her previous agreement is a question for you. You must apply your common sense and experience. For example, in some cases it will be sufficient for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear to the other parties that if they continue with the offence, they do so without his or her approval or support. In other cases it may be necessary for the accused to inform the police of the plan.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw from the agreement. It is the prosecution who must prove that the accused did not withdraw from the agreement in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw from the agreement. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [*Insert defence evidence and/or arguments.*]
+
+[*If it is alleged that the agreement had been cancelled or completed, add the following shaded section.*]
+
+In this case, the defence argued that, while NOA did make an agreement to commit a criminal act, that agreement had been [completed/cancelled] by the time the offence of NOO was committed. [*Insert defence evidence and/or arguments.*] The prosecution disputed this, alleging that the agreement remained in existence at the relevant time. [*Insert prosecution evidence and/or arguments.*]
+
+
+[^2]: Name of Offence.
+[^3]: If joint criminal enterprise is alleged as an alternative to acting as a sole offender, this sentence will need to be modified accordingly.
+[^4]: Name of 3rd party (the alleged offender).
+[^5]: This charge is based on cases involving multiple co-offenders. If there is only one co-offender, some of the sentences throughout the charge will need to be modified.
+[^6]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.4.1 Charge: Extended Common Purpose
+
+It is important to emphasise that it is not for the defence to prove that the agreement had been [completed/cancelled]. It is the prosecution who must prove that the agreement had not been [completed/cancelled] by the time the offence was committed.
+
+[*If the continuing existence of the agreement is not in issue, add the following shaded section.*]
+
+In this case, it is not disputed that, if there was an agreement to commit a criminal act, that agreement remained in existence at the time the offence was committed. The main issue is [*outline main issue*[*s*], *e**.g**.** *"whether or not there was such an agreement"].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused made an agreement with other people to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed, that this first element will be met.
+
+
+[^2]: Name of Offence.
+[^3]: If joint criminal enterprise is alleged as an alternative to acting as a sole offender, this sentence will need to be modified accordingly.
+[^4]: Name of 3rd party (the alleged offender).
+[^5]: This charge is based on cases involving multiple co-offenders. If there is only one co-offender, some of the sentences throughout the charge will need to be modified.
+[^6]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.4.1 Commission of the Offence
+
+## Commission of the Offence
+
+The second element that the prosecution must prove is that, when carrying out the agreement, understanding or arrangement, a party committed an offence.
+
+In this case, the prosecution alleged that NO3P committed the offence of NOO in the course of carrying out the agreement. So for this element to be met, you must be satisfied that NO3P committed all of the acts necessary for the commission of NOO with the necessary mental state.
+
+I must therefore [direct/remind] you about those matters. A person commits NOO if s/he:
+
+[*Describe and explain all the elements of the offence charged, including any necessary state of mind and any relevant defences, and relate to the facts.*]
+
+If you are satisfied, based on all of the evidence,[^7] that NO3P committed the offence of NOO, then this second element will be met.
+
+
+[^7]: If the accused is being tried with the primary offender, and the evidence admissible for each co-accused differs, the judge may need to remind the jury to only consider the evidence that is admissible against this accused.
+
+
+---
+
+
+## 5.4.1 Foresight of Accused
+
+## Foresight of Accused
+
+The third element that the prosecution must prove is that NOA foresaw the possibility that a party to the agreement would commit NOO. That is, s/he realised that someone might commit that offence in the course of carrying out the agreement.
+
+For this element to be met, NOA does not need to have intended that NOO be committed, nor does s/he have to have thought that it was likely or probable that someone would commit that offence. It is sufficient if s/he thought it was possible.
+
+In particular, s/he must have foreseen the possibility that:
+
+[*Again describe all the elements of the offence charged, including the relevant mental state and any defences.*]
+
+In reaching your conclusion, you will need to draw an inference about NOA’s state of mind. You will recall what I have told you about inferences.[^8]
+
+The prosecution argued that NOA did foresee the possibility that NOO would be committed when the agreement was carried out. [*Describe relevant prosecution evidence and/or arguments.*] The defence denied that, arguing [*describe relevant defence evidence and/or arguments*].
+
+
+[^8]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.4.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of NOO by extended common purpose, the prosecution must prove to you beyond reasonable doubt:
+
+One – That NOA was a party to an agreement to commit a criminal act, and that the agreement remained in existence when the offence of NOO was committed; and
+
+Two – That, in the course of carrying out the agreement, a party to the agreement committed the offence; and
+
+Three – That NOA foresaw the possibility that, in the course of carrying out the agreement, a party to the agreement would commit the offence of NOO.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of committing NOO by extended common purpose.
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 5.4.2
+
+
+## 5.4.2 Checklist: Extended Common Purpose
+
+# 5.4.2 Checklist: Extended Common Purpose
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused made an agreement with other people to commit a criminal act, and that agreement remained in existence when the offence was committed; and
+
+2. While carrying out the agreement, a party to the agreement committed the offence charged; and
+
+3. The accused foresaw the possibility that one of the parties to the agreement would commit that offence.
+
+1. Criminal Agreement
+
+1. 1.1 Did the accused make an agreement with other people to commit a criminal act?
+
+1. If Yes, then go to Question 1.2
+
+2. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+2. 1.2 Did that agreement remain in existence at the time the offence was committed?
+
+1. Consider – Have the prosecution proved that the accused did not withdraw from the agreement in a timely and effective manner? Have they established that the accused had not done everything reasonably possible to withdraw from the agreement?[^2]
+
+3. If Yes, then go to Question 2
+
+4. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+2. Commission of Offence
+
+3. 2. Did a party to the agreement commit the offence charged while carrying out the agreement?[^3]
+
+5. If Yes, then go to Question 2
+
+6. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+3. Foresight of Accused
+
+4. 3. Did the accused foresee the possibility that a party to the agreement would commit the offence charged?[^4]
+
+2. Consider – The accused does not need to have thought it was likely or probable that the offence would be committed. He or she only needs to have thought that it was possible that a party to the agreement would commit that offence in the course of carrying out the agreement.
+
+7. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1.1, 1.2, 2)
+
+8. If No, then the accused is not guilty of committing the offence charged by extended common purpose
+
+
+
+Last updated: 1 November 2014
+
+
+[^2]: This paragraph should be deleted if withdrawal from the agreement is not in issue.
+[^3]: If a separate checklist outlining the elements of the offence is provided to the jury, it may be desirable to include a cross-reference to that checklist here.
+[^4]: If a separate checklist outlining the elements of the offence is provided to the jury, it may be desirable to include a cross-reference to that checklist here, noting the need for the accused to have foreseen each of those elements.
+
+
+---

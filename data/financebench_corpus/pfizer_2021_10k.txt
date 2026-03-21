@@ -1,0 +1,64 @@
+# PFIZER_2021_10K
+
+As of December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA): 2021 | 2020
+Assets
+Cash and cash equivalents: $1,944 | $1,786
+Short-term investments: 29,125 | 10,437
+Trade accounts receivable, less allowance for doubtful accounts: 2021$492; 2020$508: 11,479 | 7,913
+Inventories: 9,059 | 8,020
+Current tax assets: 4,266 | 3,264
+Other current assets: 3,820 | 3,646
+Total current assets: 59,693 | 35,067
+Equity-method investments: 16,472 | 16,856
+Long-term investments: 5,054 | 3,406
+Property, plant and equipment: 14,882 | 13,745
+---
+
+Year Ended December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA): 2021 | 2020 | 2019
+Revenues: $81,288 | $41,651 | $40,905
+Costs and expenses:
+
+Cost of sales: 30,821 | 8,484 | 8,054
+Selling, informational and administrative expenses: 12,703 | 11,597 | 12,726
+Research and development expenses: 13,829 | 9,393 | 8,385
+Amortization of intangible assets: 3,700 | 3,348 | 4,429
+Restructuring charges and certain acquisition-related costs: 802 | 579 | 601
+(Gain) on completion of Consumer Healthcare JV transaction: (6) | (8,107)
+Other (income)/deductionsnet: (4,878) | 1,219 | 3,497
+Income from continuing operations before provision/(benefit) for taxes on income: 24,311 | 7,036 | 11,321
+Provision/(benefit) for taxes on income: 1,852 | 370 | 583
+Income from continuing operations: 22,459 | 6,666 | 10,738
+Discontinued operationsnet of tax: (434) | 2,529 | 5,318
+Net income before allocation to noncontrolling interests: 22,025 | 9,195 | 16,056
+Less: Net income attributable to noncontrolling interests: 45 | 36 | 29
+Net income attributable to Pfizer Inc. common shareholders: $21,979 | $9,159 | $16,026
+---
+
+Note 2. Acquisitions, Divestitures, Equity-Method Investments, Licensing Arrangements and Collaborative Arrangements
+A. Acquisitions
+Trillium
+On November 17, 2021, we acquired all of the issued and outstanding common stock not already owned by Pfizer of Trillium, a clinical stage immuno-oncology company developing
+therapies targeting cancer immune evasion pathways and specific cell targeting approaches, fora price of $18.50 per share in cash, for total consideration of $2.0 billion, net of cash
+acquired. Asa result, Trillium became our wholly owned subsidiary. We previously helda 2% ownership investment in Trillium. Trilliums lead program, TTI-622, is an investigational
+fusion protein that is designed to block the inhibitory activity of CD47, a molecule that is overexpressed bya wide variety of tumors.
+We accounted for the transaction as an asset acquisition since the lead asset, TTI-622, represented substantially all of the fair value of the gross assets acquired, which exclude cash
+acquired. At the acquisition date, we recordeda $2.1 billion charge representing an acquired IPR&D asset with no alternative future use in Research and development expenses, of
+which the $2.0 billion net cash consideration is presented asa cash outflow from operating activities. In connection with this acquisition, we recorded $256 million of assets acquired
+primarily consisting of cash and investments. Liabilities assumed were approximately $81 million.
+Array
+On July 30, 2019, we acquired Array, a commercial stage biopharmaceutical company focused on the discovery, development and commercialization of targeted small molecule
+medicines to treat cancer and other diseases of high unmet need, for $48 per share in cash. The total fair value of the consideration transferred was $11.2 billion ($10.9 billion, net of
+cash acquired). In addition, $157 million in payments to Array employees for the fair value of previously unvested stock options was recognized as post-closing compensation expense
+and recorded in Restructuring charges and certain acquisition-related costs (see Note 3). We financed the majority of the transaction with debt and the balance with existing cash.
+
+---
+
+Therachon
+On July 1, 2019, we acquired all the remaining shares of Therachon, a privately-held clinical-stage biotechnology company focused on rare diseases, with assets in development for
+the treatment of achondroplasia, a genetic condition and the most common form of short-limb dwarfism, for $340 million upfront, plus potential milestone payments of up to $470
+million contingent on the achievement of key milestones in the development and commercialization of the lead asset. We accounted for the transaction as an asset acquisition since
+the lead asset represented substantially all the fair value of the gross assets acquired. The total fair value of the consideration transferred for Therachon was $322 million, which
+consisted of $317 million of cash and our previous $5 million investment in Therachon. In connection with this asset acquisition, we recordeda charge of $337 million in Research and
+development expenses.

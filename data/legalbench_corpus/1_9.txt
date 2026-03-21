@@ -1,0 +1,61 @@
+# Chapter 1.9
+
+
+## 1.9 Alternative Charges
+
+# 1.9 Alternative Charges
+
+
+
+1. The prosecution is entitled to include charges in an indictment that are presented in the alternative. Where this occurs, the jury cannot return a verdict on an alternative charge until it returns a verdict on the principal charge (*LLW v R* (2012) 35 VR 372; [2012] VSCA 54; *Medici v R* (2013) 39 VR 350; [2013] VSCA 111).
+
+2. The judge must ensure that the jury understands this rule. If the jury cannot agree on the principal charge, any agreement on an alternative charge would involve impermissible compromise (*LLW v R* (2012) 35 VR 372; [2012] VSCA 54; *Medici v R* (2013) 39 VR 350; [2013] VSCA 111).
+
+3. Where there are alternative charges on the indictment, the judge, at the start of the trial, should inform the jury that:
+
+
+
+- The indictment contains charges in the alternative;
+
+- The alternative charges all relate to the same factual allegations, but will require the jury to consider different legal tests;
+
+- At the end of the trial, the judge will need to take verdicts on each charge sequentially.
+
+
+
+4. For information on the obligation to leave alternative charges, see 3.10 Alternative Verdicts.
+
+5. For information on taking verdicts to alternative charges, see 3.12 Taking Verdicts.
+
+
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 1.9.1
+
+
+## 1.9.1 Charge: Alternative Charges
+
+# 1.9.1 Charge: Alternative Charges
+
+This charge should be given as part of the preliminary directions where the indictment contains alternatives. This model charge assumes that there is only one incident which involves alternatives. Where there are multiple incidents involving alternatives, this charge will need to be modified.
+
+Members of the jury, my tipstaff is now going to hand you a document called an “indictment”. This document lists the crimes that NOA is charged with. I will tell you more about what each crime involves at the end of the trial. However, there is one matter I want to draw to your attention now.
+
+Charges [*identify relevant alternatives*] are given to you as alternatives. The prosecution does not say that the accused should be convicted of [both/all] of these charges, but of one or the other. This is because they [both/all] relate to the same incident.
+
+At the end of the trial, when you are delivering your verdict[s], you will first be asked for your verdict on [*insert principal offence*], which is the more serious charge. If you reach a verdict of guilty in relation to that charge, you will not be asked for a verdict on [*insert alternative charge*].
+
+It is only if you unanimously reach a verdict of not guilty on [*insert principal offence*] that you will be asked to deliver a verdict on [*insert alternative charge*]. This is because the prosecution is entitled to your verdict on the most serious charge. It would be wrong to compromise and say “we cannot agree on a verdict on charge one, but we agree that the accused is at least guilty of charge two”.
+
+So when you are listening to the evidence, bear in mind that while there are [*insert number of charges*] charges on the indictment, there are actually only [*insert number*] of allegations that relate to different events because the other [*insert number*] charges are alternatives.
+
+Last updated: 11 July 2018
+
+
+---

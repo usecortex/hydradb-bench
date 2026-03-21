@@ -1,0 +1,879 @@
+# Chapter 8.11
+
+
+## 8.11 Common Law Duress
+
+# 8.11 Common Law Duress
+
+
+
+## Introduction
+
+
+[^2]: If the date of the victim’s death differs from the date on which the actus reus was committed, the relevant date for determining whether the provisions of the Crimes (Homicide) Act 2005 apply is the date of death (R v Gould (2007) 17 VR 393; [2007] VSC 420).
+
+
+---
+
+
+## 8.11 Common Law Duress
+
+1. Prior to 2005, duress in Victoria was governed solely by the common law. This situation has been altered by the passage of the Crimes (Homicide) Act 2005 and the Crimes Amendment (Abolition of Defensive Homicide) Act 2014, which introduced duress provisions into the Crimes Act 1958 (s 9AG, now repealed, and s 322O respectively).
+
+2. Section 9AG of the Crimes Act 1958 applies to homicide offences committed on or after 23 November 2005 and before 1 November 2014.[^2]
+
+3. Section 322O of the *Crimes Act 1958* applies to all offences committed on or after 1 November 2014.
+
+4. It is still necessary to apply the common law when there is evidence of duress in non-homicide cases committed before 1 November 2014. It is also necessary to rely on the common law in relation to homicides committed before 23 November 2005.
+
+5. Subdivision 1AAA of the Crimes Act 1958, including section 9AG, was introduced by the Crimes (Homicide) Act 2005. It had the effect of abrogating common law defences, including duress, to homicide offences and replacing them with statutory versions (Babic v The Queen (2010) 28 VR 297 [52]).
+
+6. The Crimes Amendment (Abolition of Defensive Homicide) Act 2014 abolished the common law defence of duress with respect to all offences committed on or after 1 November 2014 (Crimes Act 1958 s 322Q).
+
+7. If the accused is charged with both homicide and non-homicide offences, committed before 1 November 2014, it will be necessary to give multiple directions about duress. The jury will need to be charged about statutory duress in relation to the homicide charges, and common law duress in relation to any other charges (see R v Pepper (2007) 16 VR 637; [2007] VSC 234; DPP v McAllister [2007] VSC 315 for similar issues that arise in the context of self-defence).
+
+
+[^2]: If the date of the victim’s death differs from the date on which the actus reus was committed, the relevant date for determining whether the provisions of the Crimes (Homicide) Act 2005 apply is the date of death (R v Gould (2007) 17 VR 393; [2007] VSC 420).
+
+
+---
+
+
+## 8.11 Common Law Duress
+
+8. This topic outlines the common law defence of duress. For information concerning the statutory provisions, see 8.9 Statutory Duress (From 1/11/14) and 8.10 Statutory Duress (23/11/05–31/10/14).
+
+
+[^2]: If the date of the victim’s death differs from the date on which the actus reus was committed, the relevant date for determining whether the provisions of the Crimes (Homicide) Act 2005 apply is the date of death (R v Gould (2007) 17 VR 393; [2007] VSC 420).
+
+
+---
+
+
+## 8.11 What is Duress?
+
+## What is Duress?
+
+
+
+1. An act is said to be committed under duress if it is committed due to a threat of physical harm if the act is not done (*R v Dawson* [1978] VR 536).
+
+2. To have acted under duress, the circumstances must have been such that the accused’s will was really and absolutely so constrained that he or she became a mere innocent instrument of the crime (*R v Dawson* [1978] VR 536; *R v Darrington* [1980] VR 353).
+
+3. Where duress is available as a defence, and the prosecution cannot prove that the accused did not act under duress, he or she will have a complete defence to the offence charged (*R v **Japaljarri* (2002) 134 A Crim R 261).
+
+
+
+## Duress and Voluntariness
+
+
+
+4. As duress implies a deliberate choice to break the law (although under constrained circumstances), it is incorrect to treat duress as related to the voluntariness requirement (R v Palazoff (1986) 43 SASR 99).
+
+5. People who act under duress are therefore not excused because they acted involuntarily. They are excused because of the wrongfulness of the threat (R v Palazoff (1986) 43 SASR 99).
+
+
+
+## Duress and Intent
+
+
+
+6. In a true duress case, the accused will have had the necessary intent to commit the crime, but will be found not guilty due to the fact that he or she formed that intent due to a threat (R v Harding [1976] VR 129 (Murphy J); R v Palazoff (1986) 43 SASR 99).
+
+
+---
+
+
+## 8.11 To Which Crimes is Duress Available as a Defence?
+
+## To Which Crimes is Duress Available as a Defence?
+
+
+
+1. Duress is a defence to all criminal acts except for murder and some forms of treason (R v Harding [1976] VR 129; R v Goldman (No 4) (2004) 147 A Crim R 472; Attorney-General v Whelan [1934] IR 518; R v Hurley [1967] VR 526; R v Tawill [1974] VR 84).
+
+2. In Australia the defence has been applied to:
+
+
+
+- Manslaughter (R v Evans (No 1) [1976] VR 517);
+
+- Drug offences (R v Lawrence [1980] 1 NSWLR 122; R v Brown (1986) 43 SASR 33; R v Palazoff (1986) 43 SASR 99);
+
+- Prison escape (R v Smyth [1963] VR 737; R v Dawson [1978] VR 536);
+
+- Contempt of court (R v Garde–Wilson (2005) 158 A Crim R 20).
+
+
+
+## Duress and Murder
+
+
+
+3. It is clear that duress is not available on a charge of murder where the accused did the actual killing (R v Japaljarri (2002) 134 A Crim R 261; R v Evans (No 1) [1976] VR 517; R v Darrington [1980] VR 353).[^3]
+
+4. However, it is unclear whether duress is available to a person who was present at the killing and aided or abetted the crime (a "principal in the second degree"), or who was not present but counselled or procured the killing (an "accessory before the fact"):
+
+
+[^3]: For murders committed on or after 23 November 2005, duress is a defence. See 8.9 Statutory Duress (From 1/11/14) and 8.10 Statutory Duress (23/11/05–31/10/14).
+
+
+---
+
+
+## 8.11 To Which Crimes is Duress Available as a Defence?
+
+- Initially, it was held that in Victoria duress was not available to principals in the second degree (R v Harding [1976] VR 129).
+
+- The House of Lords subsequently held that duress was a defence to a person charged with murder as a principal in the second degree (Director of Public Prosecutions (Northern Ireland) v Lynch [1975] AC 653).
+
+- Although somewhat disapproving of the decision in Lynch, the Victorian Supreme Court felt obliged at the time to follow the House of Lords decision, and overruled Harding (holding that duress is denied only to the actual killer) (R v Darrington [1980] VR 353).
+
+- Subsequently, the House of Lords overruled its own decision in Lynch, holding that duress is not a defence to principals in the second degree, nor is it a defence to an accessory before the fact (R v Howe [1987] AC 417. See also R v Brown [1968] SASR 467).
+
+
+
+5. While the matter has not been authoritatively settled by a Victorian court, the issue has been the subject of judicial discussion in the following two cases:
+
+
+
+- In R v Japaljarri (2002) 134 A Crim R 261 the court stated that, due to Darrington, duress may be available on a charge of murder where the accused is a principal in the second degree. However, they also noted that the House of Lords had overruled its own decision in Lynch.
+
+- In R v Goldman (No 4) (2004) 147 A Crim R 472 Redlich J noted that, had the Court in Darrington had the benefit of the High Court’s guidance about when it was acceptable to depart from House of Lords decisions (that was subsequently given in Cook v Cook (1986) 162 CLR 376), it would have followed Harding instead (as Lynch was not perceived to be based upon established principles of common law).
+
+
+
+6. Even if duress is not available as a defence to people who aid, abet, counsel or procure murder, it may be available to accessories after the fact (as they have committed an offence against justice, rather than an offence against the person or the State) (Fairall and Yeo, 2005, p 141).
+
+
+
+## Attempted Murder
+
+
+[^3]: For murders committed on or after 23 November 2005, duress is a defence. See 8.9 Statutory Duress (From 1/11/14) and 8.10 Statutory Duress (23/11/05–31/10/14).
+
+
+---
+
+
+## 8.11 To Which Crimes is Duress Available as a Defence?
+
+7. The question whether duress is a defence to attempted murder has not been authoritatively resolved in Australia (R v Japaljarri (2002) 134 A Crim R 261; R v Goldman (No 4) (2004) 147 A Crim R 472).
+
+8. In R v Gotts [1992] 2 AC 412 a majority of the House of Lords held that duress is not a defence to attempted murder.
+
+9. However, in R v Goldman (No 4) (2004) 147 A Crim R 472 Redlich J followed the decision of the minority in Gotts (and the Canadian judgments of R v Hibbert [1995] 2 SCR 973 and Paquette v R (1976) 30 CCC (2d) 417), holding that duress is a defence to attempted murder.
+
+
+
+## Manslaughter
+
+
+
+10. Duress is available as a defence to a charge of manslaughter (R v Evans (No 1) [1976] VR 517; R v Harding [1976] VR 129).
+
+11. This means that a judge will need to charge the jury about duress in a case where the accused is charged with murder, but manslaughter is available as an alternative verdict (R v Evans (No 1) [1976] VR 517; R v Harding [1976] VR 129).
+
+
+
+## Other Heinous Crimes
+
+
+
+12. It has traditionally been held that duress is a defence to all crimes other than murder and "any other crime so heinous as to be excepted from the doctrine" (R v Hurley [1967] VR 526; R v Darrington [1980] VR 353; R v Dawson [1978] VR 536; R v Emery (1978) 18 A Crim R 49; R v Zaharias (2001) 122 A Crim R 586; R v Japaljarri (2002) 134 A Crim R 261).
+
+13. The other "heinous" crimes to which duress is denied as a defence seems to have been limited to some serious forms of treason (R v Goldman (No 4) (2004) 147 A Crim R 472).
+
+
+[^3]: For murders committed on or after 23 November 2005, duress is a defence. See 8.9 Statutory Duress (From 1/11/14) and 8.10 Statutory Duress (23/11/05–31/10/14).
+
+
+---
+
+
+## 8.11 Onus of Proof
+
+## Onus of Proof
+
+
+
+1. It is for the prosecution to prove, beyond reasonable doubt, that the accused was not acting under duress (R v Smyth [1963] VR 737; R v Harding [1976] VR 129; R v Emery (1978) 18 A Crim R 49; R v Zaharias (2001) 122 A Crim R 586).
+
+2. This is sometimes expressed as requiring the prosecution to eliminate any reasonable possibility that the accused acted under duress (R v Abusafiah (1991) 24 NSWLR 531).
+
+3. In some cases the fact that the accused was acting under duress may be raised as a "reasonable excuse" to a statutory offence, rather than as a defence in its own right (see e.g. R v Tawill [1974] VR 84; R v Daher [1981] 2 NSWLR 669). Depending on the terms of the relevant provision, in such cases the onus may be on the accused to prove that he or she was acting under duress (and therefore had a reasonable excuse).
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+## Elements of Duress
+
+
+
+1. The prosecution can prove that the accused was not acting under duress by proving any of the following matters (each of which are discussed below):
+
+1. That no-one was threatened with serious harm if the accused failed to commit the crime charged;
+
+1. That the threat was not present and continuing, imminent and impending;
+
+2. That the accused did not reasonably apprehend that the threat would be carried out;
+
+3. That it was not the threat that induced the accused to commit the crime charged;
+
+4. That, when free from the duress, the accused voluntarily exposed himself or herself to its application;
+
+5. That the accused could safely have prevented the execution of the threat; or
+
+6. That the circumstances were such that a person of ordinary firmness would not have been likely to yield to the threat in the way the accused did (R v Hurley [1967] VR 526. See also *R v Darrington *[1980] VR 353; *R v Dawson* [1978] VR 536; *R v Emery* (1978) 18 A Crim R 49; *R v Zaharias* (2001) 122 A Crim R 586; *R v **Japaljarri* (2002) 134 A Crim R 261).
+
+
+
+## Someone was Threatened with Harm if Crime Was Not Committed
+
+
+
+2. The first way the prosecution can prove that the accused was not acting under duress is by establishing that no-one was threatened with serious harm if the accused failed to commit the crime charged (R v Hurley [1967] VR 526).
+
+3. This can be done by proving either:
+
+
+
+- That no threat was made (R v Zaharias (2001) 122 A Crim R 586; R v Dawson [1978] VR 536);
+
+- That the threats made were not of a sufficient magnitude (R v Gibb [1983] 2 VR 155; R v Hurley [1967] VR 526; R v Harding [1976] VR 129); or
+
+- That the demand made was not to commit the offence charged (R v Dawson [1978] VR 536; R v Lorenz (1998) 146 FLR 369).
+
+
+
+### A Threat Must Have Been Made
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+4. It is not sufficient that the accused felt fear. A threat must have been made (see, e.g., *R v Darrington *[1980] VR 353; *R v **Japaljarri* (2002) 134 A Crim R 261).
+
+5. The threat may have been made by words or actions (including actual violence) (see, e.g., *R v Emery *(1978) 18 A Crim R 49; *R v Harding* [1976] VR 129 per Murphy J).
+
+6. A threat may also be implied from the threatener’s behaviour, conduct and character. For example, in *DPP v Lynch*, the third party was known to be a “ruthless gunman … whom it would be perilous to defy or disobey and who … gave his instructions in a manner which indicated … that he would tolerate no disobedience”. This was held to be sufficient to raise the issue of duress for the jury on the basis of an implied threat, without any need for the third party to make a threat explicit (*Director of Public Prosecutions (Northern Ireland) v Lynch* [1975] AC 653, 704-705).
+
+7. Similarly, in *R v Rowan* [2024] HCA 9, the High Court held that “evidence of pervasive violence, intimidation, control and sexual abuse … raised a reasonable possibility that any express or implicit demand … carried with it the implication that serious violence and more severe sexual abuse would be inflicted … if [the accused] refused” (at [62]).
+
+
+
+### The Threat Must Have Been of Sufficient Magnitude
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+8. In some cases it seems to have been suggested that the threat must have been of death or serious personal violence (see, e.g. R v Smyth [1963] VR 737; R v Hurley [1967] VR 526; R v Darrington [1980] VR 353; R v Japaljarri (2002) 134 A Crim R 261; Martin v The Queen (2010) 202 A Crim R 97, 104).
+
+9. Alternatively, other cases have referred only to ‘physical harm’ or ‘domestic violence’ without any further quantification (see R v Dawson [1978] VR 536; R v Runjanjic (1991) 56 SASR 114).
+
+10. In assessing the magnitude of the threat, the court must take into account the whole of the circumstances giving rise to the threat. Where the threat arises from a continuing relationship of violence and control, the threat should not be minimised by reference to the least serious past acts of violence (see Rowan v The King [2022] VSCA 236, [159]–[160] (Kyrou and Niall JJA)).
+
+11. However, it has also been suggested that a threat of imprisonment may be sufficient (R v Harding [1976] VR 129 (Murphy J)).
+
+12. While it is not clear whether duress can be constituted by threats of damage to property (R v Harding [1976] VR 129 (Murphy J)), such threats are unlikely to be of suitable severity (Director of Public Prosecutions (Northern Ireland) v Lynch [1975] AC 653). There are no known Victorian cases in which it has been suggested that the accused acted under duress due to a threat to property.
+
+13. The defence is not limited to threats made against the accused him or herself. The defence may be made out if the accused acted to avoid threatened death or harm to another person (see, e.g. R v Hurley [1967] VR 526; R v Harding [1976] VR 129 (Murphy J); Attorney-General v Whelan [1934] IR 518; R v Abusafiah (1991) 24 NSWLR 531).
+
+
+
+### The Demand Must Have Been to Commit the Offence Charged
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+14. The demand must have been to commit the offence charged. Duress will not be a defence if the accused committed a different offence due to his or her fear of the threatener (*R v Dawson* [1978] VR 536; *R v Lorenz* (1998) 146 FLR 369; c.f. *R v Rowan* [2024] HCA 9, [102]-[104] per Edelman J).
+
+15. Where there is an ever-present threat, this part of the duress test may be satisfied where the nature of the threat coerces the accused to perform whatever offences the threatener demands from time to time. This might also be framed as a conclusion that the ever-present threat gave rise to an unstated implied demand that the accused perform the relevant offence, otherwise the accused would be subject to the threatened harm. This kind of analysis is particularly relevant in circumstances of family violence (see *Rowan v The King* [2022] VSCA 236, [169], [174]. See also *R v Rowan* [2024] HCA 9, [62]).
+
+16. However, in *R v Rowan* [2024] HCA 9, Edelman J held at [97]-[111] that the defence of duress does not require the threatener to issue a demand or direction. Instead, any demand or direction is only relevant to the question whether a reasonable person in the accused’s position would have had no reasonable alternative other than to commit the offence charged. This conceptual approach to the issue of demand or direction was not adopted by the plurality, who resolved the case on the basis that a threat need not be express.
+
+
+
+## Threat Must Be Present and Continuing, Imminent and Impending
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+17. The second way the prosecution can prove that the accused was not acting under duress is by establishing that the threat was not present and continuing, imminent and impending (*R v Hurley* [1967] VR 526).
+
+18. While the coercion must be immediate, the threat need not be of immediate harm (*R v Hurley* [1967] VR 526; *R v Emery* (1978) 18 A Crim R 49).
+
+19. This component of duress does not require that the threat be made immediately before the crime is committed. Instead, the requirement is that the threat remain operative and effective at the time of the offending (*R v Rowan* [2024] HCA 9, [40]).
+
+20. Thus, while the threat must be effective at the moment the crime is committed, the carrying out of the threat may be delayed because of particular circumstances (*R v Dawson* [1978] VR 536).
+
+21. While the threat need not be of immediate harm, it is not clear whether it must at least be of imminent harm – or whether threats to be carried out in the future will suffice so long as the accused’s will is overborne by the threats at the time that he or she commits the criminal act (*R v Harding *[1976] VR 129 per Murphy J).
+
+22. An ongoing threat, such as may arise in circumstances of family violence, may be present, continuing, imminent and impending (see *Rowan v The King* [2022] VSCA 236, [176]-[177]).
+
+23. Where the offences were alleged to have been committed over a period spanning months or years, it is not realistic to expect the defence to identify a threat made at any particular time during that period (*Rowan v The King* [2022] VSCA 236, [176]).
+
+24. The threatener need not be present when the offence is committed, as long as the threat remains present and continuing, imminent and impending (*R v Hurley* [1967] VR 526; *R v Emery* (1978) 18 A Crim R 49).
+
+25. Thus, where the threat is to take a hostage’s life if the accused does not commit the offence, the defence of duress may be raised even if the kidnappers were not present when the offence was committed (see, e.g., *R v Hurley* [1967] VR 526).
+
+
+
+## Accused Reasonably Feared the Threat Would Be Carried Out
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+26. The third way the prosecution can prove that the accused was not acting under duress is by establishing that the accused did not reasonably apprehend that the threat would be carried out (R v Hurley [1967] VR 526; R v Emery (1978) 18 A Crim R 49).
+
+27. This can be done by proving that:
+
+
+
+- The accused did not fear that the threat would be carried out; or
+
+- That the accused did not have reasonable grounds for that fear (see, e.g. R v Emery (1978) 18 A Crim R 49).
+
+
+
+## The Threat Induced the Accused to Commit the Crime
+
+
+
+28. The fourth way the prosecution can prove that the accused was not acting under duress is by establishing that it was not the threat that induced the accused to commit the crime charged (R v Hurley [1967] VR 526).
+
+29. While the threat must have directly provoked the commission of the crime with which the accused is charged, it need not have completely overborne the accused’s will (R v Dawson [1978] VR 536).
+
+30. The crime must only have been committed because of the duress. The defence will not be available if the crime was committed for other reasons as well (R v Zaharias (2001) 122 A Crim R 586; R v Abusafiah (1991) 24 NSWLR 531; R v Hurley [1967] VR 526; R v Dawson [1978] VR 536. See also Warren v The Queen (1996) 88 A Crim R 78).
+
+31. In considering whether the threat induced the accused to commit the crime, the jury should consider the nature of the threats made, and the accused’s knowledge of the character and reputation of the person making them (see, e.g. R v Abusafiah (1991) 24 NSWLR 531).
+
+32. Where it is alleged that the accused was acting to protect a third party, it will be for the jury to determine whether he or she was acting under duress. In making this determination, the jury may take into account factors such as the strength of the accused’s attachment to the third party (see, e.g. R v Hurley [1967] VR 526).
+
+
+
+## Voluntary Exposure to Duress
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+33. The fifth way the prosecution can prove that the accused was not acting under duress is by establishing that, when free from the duress, the accused voluntarily exposed himself or herself to its application (R v Hurley [1967] VR 526).
+
+34. This will be the case if the accused voluntarily joined or associated with a criminal organisation, or became a party to a criminal enterprise knowing of its criminal purpose. In such circumstances the accused cannot rely upon the defence of duress in respect of any offence committed in response to coercion arising out of his or her association with the organisation, or his or her participation in the criminal enterprise (R v Hurley [1967] VR 526).
+
+35. The accused must have joined the enterprise or organisation voluntarily. The defence will remain available if he or she was coerced into joining the enterprise or organisation (R v Hurley [1967] VR 526. See also R v Emery (1978) 18 A Crim R 49).
+
+
+
+## Safe Escape
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+36. The sixth way the prosecution can prove that the accused was not acting under duress is by establishing that the accused could safely have prevented the execution of the threat (R v Hurley [1967] VR 526).
+
+37. This will be the case if the accused did not avail him or herself of any reasonable opportunity to escape or avoid the threatened conduct being performed (R v Dawson [1978] VR 536; R v Goldman (No 5) [2004] VSC 292; R v Hurley [1967] VR 526; R v Darrington [1980] VR 353).
+
+38. For the defence to be precluded on this ground, the opportunity to escape must have been capable of being performed with reasonable safety. The accused need not avail him or herself of the opportunity to escape if it was not reasonable in light of the threats made (R v Dawson [1978] VR 536; R v Hudson [1971] 2 QB 202; R v Smyth [1963] VR 737).
+
+39. If escaping from the immediate presence of the person making the threat would not have rendered the threat ineffective, reliance on the defence will not be precluded because the accused failed to escape. For example, if the threat was to cause death or serious injury at some time in the near future, failing to take advantage of an opportunity to escape would not preclude reliance on the defence (R v Abusafiah (1991) 24 NSWLR 531).
+
+40. The question of whether or not a safe means of escape was available to the accused is to be determined according to an objective standard, using the perspective of the reasonable person (R v Goldman (No 5) [2004] VSC 292; R v Besim [2004] VSC 168).
+
+41. When considering the perspective of the reasonable person, the circumstances in which the accused found him or herself are relevant and should be taken into account (R v Goldman (No 5) [2004] VSC 292).
+
+42. Where the carrying out of the threat can be prevented by reporting the matter to the authorities, a failure to do so may preclude the accused from relying upon the defence (see, e.g. R v Dawson [1978] VR 536).
+
+43. However, if the accused failed to report the situation to the police on the grounds that he or she reasonably believed police protection to be ineffective against the threatener, the defence of duress might still succeed.
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+44. Evidence of battered woman syndrome may be relied upon to explain why a woman of ordinary firmness did not escape the threatening situation by seeking police protection, including why the accused did not consider it was possible to escape the effect of the threat (R v Runjanjic (1991) 56 SASR 114; Rowan v The King [2022] VSCA 236, [187] (Kyrou and Niall JJA)). See "Duress and Battered Woman Syndrome" below.
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+## Person of Ordinary Firmness Would Have Been Likely to Yield
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+45. The seventh way the prosecution can prove that the accused was not acting under duress is by establishing that the circumstances were such that a person of ordinary firmness would not have been likely to yield to the threat in the way the accused did (R v Hurley [1967] VR 526; R v Zaharias (2001) 122 A Crim R 586; R v Dawson [1978] VR 536).
+
+46. This "objective test" restricts the defence of duress to circumstances in which the accused can be viewed objectively as having acted to avoid serious harm (R v Hurley [1967] VR 526).
+
+47. What is involved in the objective test is an evaluation of the behaviour of the accused by reference to a standard of reasonableness, not a prediction as to the way in which particular individuals may behave. The law requires the accused to have the self-control reasonably expected of the ordinary citizen in his or her situation (R v Abusafiah (1991) 24 NSWLR 531).
+
+48. The question is whether the accused could not reasonably have been expected to resist in the circumstances (R v Abusafiah (1991) 24 NSWLR 531).
+
+49. For the purpose of this limb of duress, the ordinary person is taken to have some of the accused’s characteristics, including age, gender, history and relationship with the threatener and placed in the same objective circumstances as the accused, including any circumstances of family violence. It includes the accused’s knowledge of the threatener’s personality and behaviour. It is not clear, however, what other characteristics are attributed to the ordinary person (Rowan v The King [2022] VSCA 236, [73], [180] (Kyrou and Niall JJA)).
+
+50. In Rowan v The King, Kyrou and Niall JJA rejected an argument that the ordinary person should have the accused’s ‘maturity’, in the broad sense of including aspects of the accused’s personality. Any consideration of ‘maturity’ is limited to the accused’s age. Further, it is not appropriate to attribute all of the accused’s personal characteristics, as this would unacceptably dilute the objective test (Rowan v The King [2022] VSCA 236, [73], [179]).
+
+
+---
+
+
+## 8.11 Elements of Duress
+
+51. Similarly, features such as a history of sexual abuse of the accused by someone other than the threatener, or intellectual disability of the accused, are not imputed to the ordinary person (*Rowan v The King* [2022] VSCA 236, [180]).
+
+52. In considering the objective test, the jury should consider the nature of the threats made, and the accused’s knowledge of the character and reputation of the person making them (see R v Abusafiah (1991) 24 NSWLR 531; Rowan v The King [2022] VSCA 236, [72] (Kyrou and Niall JJA)).
+
+53. Where the threat is not against the accused personally (e.g. where the accused’s family is threatened), the jury must determine whether a threat of that nature would be likely to coerce or compel a person of ordinary firmness of character to yield by committing the crime in question (R v Abusafiah (1991) 24 NSWLR 531).
+
+54. While traditionally the test was framed as whether or not the person of ordinary firmness "would" have been likely to yield (R v Hurley [1967] VR 526), in Victoria it is permissible to use "could" or "might" instead (R v Zaharias (2001) 122 A Crim R 586; R v Lanciana (1996) 84 A Crim R 268).
+
+
+---
+
+
+## 8.11 Duress and Battered Woman Syndrome
+
+## Duress and Battered Woman Syndrome
+
+
+
+1. Battered woman syndrome is not a defence in its own right (R v Lorenz (1998) 146 FLR 369).
+
+2. However, evidence that an accused suffered from the psychological condition of battered woman syndrome may be relevant to the defence of duress (R v Lorenz (1998) 146 FLR 369).
+
+3. Specifically, evidence of the existence of this syndrome may be used:
+
+
+
+- To explain why the accused’s will was overborne; and
+
+- To argue that a woman of ordinary firmness, if placed in the same position as that of the accused, would have committed the acts constituting the offence with which the accused was charged (R v Runjanjic (1991) 56 SASR 114; Rowan v The King [2022] VSCA 236, [74] (Kyrou and Niall JJA). See also Rice v McDonald (2000) 113 A Crim R 75).
+
+
+---
+
+
+## 8.11 When to Charge the Jury about Duress
+
+## When to Charge the Jury about Duress
+
+
+
+1. The need for a direction on duress will depend on whether the defence has indicated that duress is in issue or whether there are substantial and compelling reasons for directing on duress in the absence of any request (*Jury Directions Act 2015* ss 14 - 16).
+
+2. If a duress direction is requested, it is only if the judge is satisfied that there is no evidence that raises a reasonable possibility that the elements of duress exist that the judge would have good reason to decline to give the requested direction (*R v Rowan* [2024] HCA 9, [33]).
+
+3. Duress may be left to the jury even if the accused’s primary defence is that he or she did not commit the relevant conduct. The inconsistency between duress and denial of offending is a matter for the jury to assess (*Rowan v The King* [2022] VSCA 236, [79], [157]).
+
+4. At common law, the judge was required to direct the jury about duress if the evidence is such that it might lead a reasonable jury to decide that the accused committed the relevant act under duress (*R v Evans (No 1)* [1976] VR 517; *R v Harding* [1976] VR 129).
+
+5. The question was whether, on the version of events most favourable to the accused that is suggested by the evidence, a jury acting reasonably might fail to be satisfied beyond reasonable doubt that the accused was not acting under duress (*Taiapa** v R* (2009) 240 CLR 95. See also *Martin v R *(2010) 28 VR 579; *Rowan v The King* [2022] VSCA 236, [84]).
+
+6. The issue of duress may be raised at any time during the trial (*R v Zaharias* (2001) 122 A Crim R 586).
+
+7. While duress is not a defence to murder at common law, the judge must instruct the jury about duress in a murder trial if manslaughter is available as an alternative verdict, and the evidence is such that it might lead a reasonable jury to decide that the accused committed the relevant act under duress (*R v Evans (No 1)* [1976] VR 517; *R v Harding* [1976] VR 129).
+
+
+---
+
+
+## 8.11 Content of the Charge
+
+## Content of the Charge
+
+
+
+1. There is no single formulation that must be followed when charging a jury about duress. What is required is instructions expressed with sufficient clarity that the jury could be left in no doubt with respect to the principles that they must apply to the task before them (*R v Zaharias* (2001) 122 A Crim R 586).
+
+2. While the elements of duress were identified in *R v Hurley* [1967] VR 526, the case does not prescribe any particular form of jury direction, or require the judge to direct the jury by reference to 8 elements (*R v Rowan* [2024] HCA 9, [36]. See also *R v Emery* (1978) 18 A Crim R 49)
+
+3. For example, where the crime charged is not murder or any other excepted crime, no reference to the exclusion of such crimes should ordinarily be made (*R v Emery* (1978) 18 A Crim R 49).
+
+4. It is essential that the facts are related to the relevant issues (*R v Emery* (1978) 18 A Crim R 49).
+
+5. Judges should take care to instruct the jury in the context of the evidence and issues raised in the trial (*R v Zaharias* (2001) 122 A Crim R 586). The question of duress should be placed in its factual setting, and considerations that may assist the jury to reach its conclusion should be identified (*R v Goldman (No 5)* [2004] VSC 292; *R v Emery* (1978) 18 A Crim R 49).
+
+6. While not a misdirection, the jury should not be told to examine the evidence relating to duress with great care and scrutiny (due to the ease with which it can be invented). The question whether an accused’s claim that he or she was acting under duress is plausible enough to raise a reasonable doubt is exactly the kind of matter which juries are well-equipped to deal with, without the need for any special direction (*R v Goldman* [2007] VSCA 25).
+
+
+
+## Charging About the Onus of Proof
+
+
+---
+
+
+## 8.11 Content of the Charge
+
+7. It should be made clear that the accused does not have to establish that he or she acted under duress. It is for the prosecution to negate duress beyond reasonable doubt (R v Zaharias (2001) 122 A Crim R 586; R v Emery (1978) 18 A Crim R 49; R v Abusafiah (1991) 24 NSWLR 531; Rowan v The King [2022] VSCA 236, [81] (Kyrou and Niall JJA)).
+
+8. The jury may be directed about the onus of proof in any of the following ways:
+
+
+
+- The prosecution must prove, beyond reasonable doubt, that the accused did not act under duress;
+
+- The prosecution must establish that there is no reasonable possibility that the accused acted under duress; or
+
+- The prosecution must eliminate any reasonable possibility that the accused acted under duress (R v Lanciana (1996) 84 A Crim R 268; R v Zaharias (2001) 122 A Crim R 586).
+
+
+
+9. It is desirable to tell the jury that it is always difficult to give directions upon the issue of duress in a way which completely avoids any suggestion that the accused must prove the defence. However, the jury must always keep it in mind that it is the prosecution which must eliminate any reasonable possibility that the accused acted under duress (R v Abusafiah (1991) 24 NSWLR 531).
+
+10. Judges may refer to duress as a "defence", so long as the true incidence of the burden of proof is made clear (R v Lanciana (1996) 84 A Crim R 268).
+
+11. A judge should not use the wording of Smith J’s judgment in R v Hurley [1967] VR 526 when directing the jury, as it may cause the jury to incorrectly believe that the onus of proving the relevant matters is on the accused (R v Emery (1978) 18 A Crim R 49).
+
+12. The judge should not say that the prosecution has "merely" to prove, beyond reasonable doubt, that the accused did not act under duress. The use of the word "merely" is unnecessary and misplaced (R v Williams [1998] 4 VR 301).
+
+
+
+## Charging About the Objective Test
+
+
+---
+
+
+## 8.11 Content of the Charge
+
+13. The judge should clearly explain to the jury that for duress to fail due to the objective test, the prosecution must establish that there is no reasonable possibility that a person of ordinary firmness of mind and will could have been compelled by the threat in the way the accused was (R v Lanciana (1996) 84 A Crim R 268),
+
+14. The judge should explain that, when determining this issue, the jury should have regard not only to the nature of the threat and its proportion to the crime committed, but also to any circumstances known to the accused concerning the person making the threat, which may reasonably have affected the ordinary person’s reaction to it (R v Abusafiah (1991) 24 NSWLR 531; R v Goldman (No 5) [2004] VSC 292).
+
+15. It is important that the directions in relation to the objective test are consistent. For example, if the charge refers to threats which "could" compel a person of ordinary firmness to act in a certain way, subsequent references should be stated in the same terms to avoid confusion (R v Lanciana (1996) 84 A Crim R 268)
+
+16. Judges should avoid use of the term "the average person". The usual formulation is "the person of ordinary firmness of mind and will". That is a much wider concept than the "average person", and includes a greater range of differing temperaments (R v Abusafiah (1991) 24 NSWLR 531).
+
+17. Where the threat is directed to another person, the judge should explain that duress may operate if such a threat would be likely to compel the person of ordinary firmness of character to yield by committing the crime in question (R v Abusafiah (1991) 24 NSWLR 531).
+
+
+
+## Charging About Opportunities to Escape
+
+
+---
+
+
+## 8.11 Content of the Charge
+
+18. The question for the jury to determine in relation to the issue of escape is whether a person in the accused’s circumstances, and acting reasonably, would have taken one of the opportunities available to render the threat ineffective (R v Goldman (No 5) [2004] VSC 292).
+
+19. When directing the jury about this issue, they should be told to have regard to all of the circumstances and any risks associated with any course of action which would have rendered the threat ineffective (R v Goldman (No 5) [2004] VSC 292).
+
+20. The jury must consider whether such a course of action was reasonably safe, or whether it was likely to expose the accused to the very danger from which he or she was seeking to escape (R v Goldman (No 5) [2004] VSC 292).
+
+21. In deciding whether a reasonable person in the accused’s position would have availed themselves of the opportunity to escape, the jury should also take into account the fact that the circumstances may not have provided the accused with time to give calm and measured consideration to the course of conduct that was open to him or her (R v Goldman (No 5) [2004] VSC 292).
+
+22. As there is no legal "obligation" on the accused to escape, it would be preferable for the judge to avoid use of the term "obligation" in the charge (R v Abusafiah (1991) 24 NSWLR 531).
+
+
+
+## Charging About the Use of the Evidence for Other Purposes
+
+
+
+23. In some cases it may be necessary to direct the jury that evidence raised to support the defence of duress may also be used when determining whether or not the elements of the offence have been met (R v Darrington [1980] VR 353; R v Harding [1976] VR 129; R v Evans (No 1) [1976] VR 517).
+
+24. A direction on the use of evidence of coercion for this purpose may be required even where a direction on duress is not (R v Darrington [1980] VR 353).
+
+25. Where evidence of coercion can be used both for the purposes of proving duress, as well as due to its evidentiary significance for proving another matter, it is important that clear instructions be given so that the jury does not confuse the two issues (R v Darrington [1980] VR 353).
+
+
+
+## Duress and Marital Coercion
+
+
+---
+
+
+## 8.11 Content of the Charge
+
+26. In cases where a married woman is charged with an offence other than treason or murder, and she raises evidence that her actions (or inaction) were the result of coercion by her husband, the judge may also need to instruct the jury about the statutory defence of marital coercion (Crimes Act 1958 s 336(2)).
+
+
+---
+
+
+## 8.11 Use of Evidence of Duress to Disprove Elements of the Offence
+
+## Use of Evidence of Duress to Disprove Elements of the Offence
+
+
+
+1. Evidence which is relevant to the issue of duress may also be relevant to the determination of the elements. For example, the fact that the accused was threatened may help to explain the acts that he or she performed, and thus may influence the inferences the jury are willing to draw on the issue of mens rea (see, e.g. R v Darrington [1980] VR 353; R v Harding [1976] VR 129; R v Goldman (No 4) (2004) 147 A Crim R 472).
+
+2. In such cases the judge should:
+
+
+
+- Direct the jury about the relevance the evidence has to any of the elements of the offence; and
+
+- Direct the jury that, if they accept that one of the elements of the offence has not been proven because of that evidence, they must acquit the accused, even if all of the elements of the defence of duress have not be met (R v Hurley [1967] VR 526).
+
+
+
+Last updated: 17 April 2024
+
+
+---
+
+---
+
+# Chapter 8.11.1
+
+
+## 8.11.1 Charge: Common Law Duress
+
+# **8.11.1 Charge: Common Law Duress**
+
+This charge should be given if there is evidence from which a jury might infer that the accused was acting under duress when s/he:
+
+Committed an offence *other than homicide before 1 November 2014; *or
+
+Committed a *homicide* offence other than murder[^2] before *23 November 2005.*
+
+The charge should be given immediately after directing the jury about the relevant offence.
+
+
+
+## Introduction
+
+In this case the defence alleged that NOA was acting under duress when s/he [*insert relevant act*]. I therefore need to give you some directions about "duress".[^3]
+
+The defence of duress was introduced into the law a long time ago as a concession to human frailty. It is based on the recognition that sometimes people of ordinary firmness of character will commit crimes to avoid a threatened harm. While their actions may not be justified, the law excuses them from responsibility given the circumstances.
+
+This means that, even if you are satisfied that the prosecution has proven all of the elements of [*insert offence*] beyond reasonable doubt, NOA will not be guilty of that offence if s/he acted under duress.
+
+Because the prosecution must prove the accused’s guilt, it is for the prosecution to prove, beyond reasonable doubt, that NOA was not acting under duress. It is **not** for NOA to prove that s/he did act under duress.
+
+Unfortunately, it is always difficult to give directions about duress in a way which completely avoids any suggestion that it is a matter for the accused to prove. However, that is **not** the case. It is very important that you keep in mind at all times that it is the prosecution who must eliminate any reasonable possibility that the accused acted under duress.
+
+So before you can find the accused guilty of [*insert offence*], you must be satisfied, beyond reasonable doubt, that the prosecution has proven all of the elements of the offence **and** has negated the defence of duress.
+
+
+[^2]: While it is clear that duress cannot be a defence to the actual killer, it is unclear whether duress is available as a defence to people who aid, abet, counsel or procure murder. See 8.11 Common Law Duress for a discussion of this issue.
+[^3]: This charge only addresses the defence of duress. It is possible that the evidence in question may also have relevance to the determination of the elements (see, e.g. R v Darrington [1980] VR 353; R v Harding [1976] VR 129).
+
+
+---
+
+
+## 8.11.1 Elements of Duress
+
+## Elements of Duress
+
+There are **seven ways** in which the prosecution can negate the defence of duress. I will list them for you, and then examine each one in detail.[^4]
+
+**First**, the prosecution can prove that no-one was threatened with death or serious injury if the accused failed to [*describe relevant offence*].
+
+**Second**, the prosecution can prove that any threat that had been made was not present and continuing, imminent and impending when the offence was committed.
+
+**Third**, the prosecution can prove that the accused did not reasonably apprehend that the threat would be carried out.
+
+**Fourth**, the prosecution can prove that it was not the threat that induced the accused to commit the offence charged.
+
+**Fifth**, the prosecution can prove that, when free from the duress, the accused voluntarily exposed himself/herself to its application.
+
+**Sixth**, the prosecution can prove that the accused could safely have prevented the execution of the threat.
+
+**Seventh**, the prosecution can prove that the circumstances were such that a person of ordinary firmness of character would not have been likely to yield to the threat in the way the accused did.
+
+If the prosecution can prove **any** of these matters beyond reasonable doubt, then they will have negated the defence of duress. In such circumstances, if you are also satisfied that the prosecution has proven, beyond reasonable doubt, all of the elements of [*describe offence*], then s/he will be guilty of that offence.
+
+I will now examine each of these matters in more detail.
+
+
+[^4]: If any of these methods of negating duress are not relevant in the circumstances of the case, they should be deleted and the charge modified accordingly.
+
+
+---
+
+
+## 8.11.1 Threat of Serious Harm
+
+## Threat of Serious Harm
+
+The **first way** the prosecution can negate the defence of duress is by proving that no-one was threatened with death or serious injury if NOA failed to [*describe relevant offence*].[^5]
+
+The prosecution alleged that that was the case here. [*Summarise** prosecution arguments and evidence. The charge should clearly identify whether the argument is (**i**) that *no threat* was made; (ii) that the threat was *not of death or serious injury*; and/or (iii) that the demand was not to commit the *offence charged.]
+
+The defence denied this, arguing [*summarise** **defence** evidence and/or arguments*].
+
+
+[^5]: While not clear, it is possible that threats of lesser harm (e.g. imprisonment) may also be sufficient (see 8.11 Common Law Duress). If the alleged threat was of such a nature, the charge should be modified accordingly.
+
+
+---
+
+
+## 8.11.1 Present, Continuing, Imminent and Impending Threat
+
+## Present, Continuing, Imminent and Impending Threat
+
+The **second way** the prosecution can negate the defence of duress is by proving that any threat that had been made was not present and continuing, imminent and impending when NOA committed the offence.
+
+In other words, if the prosecution can prove that the threat had ended by the time the offence was committed, or that nobody was in imminent danger at that time, the defence of duress will fail.
+
+[*If the alleged threat was to commit harm in the future, add the following shaded section.*]
+
+This does not mean that the threat must have been to harm [*identify threatened party*] immediately if NOA did not commit the offence. The defence of duress does not fail simply because the threat was to harm [him/her/someone else] in the near future. The issue here is whether the threat – whatever its nature – was still effective at the time the crime was committed.
+
+[*If the threatener may not have been present at the time the offence was committed, add the following shaded section*.]
+
+This does not mean that the person who made the threat must have been present when the offence was committed. The issue is whether the threat was still present and continuing at that time. Threats can still be present and continuing, even if the person who made them is not physically present.
+
+The prosecution alleged that in this case, even if a threat had been made, it was not present and continuing, imminent and impending at the time the offence was committed. [*Summarise** prosecution evidence and/or arguments.*] The defence denied this, arguing [*summarise** **defence** evidence and/or arguments*].
+
+
+---
+
+
+## 8.11.1 Reasonable Apprehension
+
+## Reasonable Apprehension
+
+The **third way** the prosecution can negate the defence of duress is by proving that NOA did not reasonably apprehend that the threat would be carried out.
+
+This requires the prosecution to prove that NOA did not reasonably fear that [*identify threatener*] would actually [*identify threat*] if s/he did not [*describe offence*].
+
+The prosecution alleged that that was the case here. [*Summarise** prosecution arguments and evidence. The charge should clearly identify whether the argument is (**i**) that the accused *did not actually fear* that the threat would be carried out; and/or (ii) that the accused *did not have reasonable grounds* for that fear*.]
+
+The defence denied this, arguing [*summarise** **defence** evidence and/or arguments*].
+
+
+---
+
+
+## 8.11.1 Threat Induced the Crime
+
+## Threat Induced the Crime
+
+The **fourth way** the prosecution can negate the defence of duress is by proving that it was not the threat that induced the accused to commit the offence charged.
+
+This will be the case if the prosecution can prove that NOA committed that offence for any reason other than to avoid the threat being carried out. To have acted under duress, NOA must only have committed the crime because of the threat.
+
+In this case the prosecution alleged that it was not any threats made by [*identify threatener*] that caused NOA to [*describe offence*]. They argued that s/he committed that offence because [*summarise** prosecution arguments and evidence*]. The defence denied this, arguing [*summarise** **defence** arguments and evidence*].
+
+[*Where the accused’s knowledge of the threatener’s reputation may have influenced his or her response, add the following shaded section*.]
+
+In determining whether NOA’s actions were induced by the alleged threat, you should consider the nature of the threats made, as well as NOA’s knowledge of the character and reputation of [*identify threatener*].
+
+
+---
+
+
+## 8.11.1 Voluntary Exposure to Duress
+
+## Voluntary Exposure to Duress
+
+The** fifth way** the prosecution can negate the defence of duress is by proving that, when free from the duress, NOA voluntarily exposed himself/herself to its application.
+
+This will be the case if, for example, the accused voluntarily joined or associated with a criminal organisation, or became party to a criminal enterprise knowing of its criminal purpose. In such circumstances, the accused cannot rely on duress as a defence to any offences s/he commits in response to threats arising out of his/her association with the organisation, or his/her participation in the criminal enterprise. Because s/he voluntarily put him/herself in a position where such threats could be made, s/he is held responsible for the consequences.
+
+[*If the accused may have been coerced into joining the relevant **organisation** or enterprise, or may not have known of its criminal purpose, add the following shaded section*.]
+
+It is important to note that the accused must have voluntarily exposed himself/herself to the duress for the defence to be negated on this basis. This will not be the case if s/he [was coerced into joining the criminal organisation or enterprise in the first place/did not know that the organisation or enterprise s/he was joining had a criminal purpose].
+
+In this case the prosecution alleged that NOA voluntarily exposed himself/herself to duress by [*summarise** prosecution arguments and evidence*]. The defence denied this, arguing [*summarise** **defence** arguments and evidence*].
+
+
+---
+
+
+## 8.11.1 Safe Escape
+
+## Safe Escape
+
+The **sixth way** the prosecution can negate the defence of duress is by proving that NOA could safely have prevented the execution of the threat.
+
+In this case, the prosecution alleged that NOA could have done so by [*describe the actions the accused could have taken to prevent the threat, e.g. *"escaping when…" or "reporting the matter to the police"].
+
+For the prosecution to succeed on this basis, it is not enough to prove that NOA could have [*describe action*]. The prosecution must prove that if NOA had done so, the threat would not have been carried out.
+
+They alleged that that was the case here. [*Summarise** prosecution arguments and evidence*.] The defence denied this, arguing [*insert **defence** arguments and evidence*].
+
+In determining whether NOA could safely have prevented the execution of the threat, you should consider what the reasonable person would have done in those circumstances. If you find that a person in those circumstances, and acting reasonably, would have [*describe action*], and by doing so would have prevented the threat being carried out, then the defence of duress will fail.
+
+In making this determination, you should have regard to all of the circumstances, including any risks associated with the proposed course of action. A person is only required to pursue an opportunity if s/he can do so with reasonable safety.
+
+You should also take into account the fact that the circumstances may not have provided the accused time to give calm and measured consideration to the course of conduct that was open to him/her.
+
+
+---
+
+
+## 8.11.1 Person of Ordinary Firmness Would Not Have Yielded
+
+## Person of Ordinary Firmness Would Not Have Yielded
+
+The **seventh way** the prosecution can negate the defence of duress is by proving that the circumstances were such that a person of ordinary firmness of character would not have been likely to yield to the threat in the way the accused did.
+
+For this to be the case, the prosecution must prove that a person with the ordinary powers of self-control of an [*describe accused’s age and sex, e.g. *"adult male"], who was placed in the same situation as NOA, would not have been likely to give in to the threats by committing [*describe offence*].
+
+In determining this issue, you should consider the nature of the threats and the proportionality of those threats to the crime committed. You should also take into account anything that NOA knew about [*identify threatener*], which may have affected the ordinary person’s reactions to the threat.
+
+In this case the prosecution alleged that, in the circumstances, a person of ordinary firmness of character would not have been likely to yield to the threat in the way NOA did. [*Summarise** prosecution arguments and evidence*]. The defence denied this, arguing [*summarise** **defence** argument and evidence*].
+
+
+---
+
+
+## 8.11.1 Summary
+
+## Summary
+
+**To ****summarise**, even if you decide that all of the elements of [*insert offence*] have been proven beyond reasonable doubt, you may find that NOA was not guilty of that offence because s/he was acting under duress.
+
+Before you can find NOA guilty of [*insert offence*], you must therefore be satisfied **not only** that all of the elements have been met, but **also** that the prosecution has proven, beyond reasonable doubt, **at least one** of the following seven matters:
+
+**One** – that no-one was threatened with death or serious injury if NOA failed to [*describe relevant offence*].
+
+**Two** – that when that offence was committed, any threat that had been made was not present and continuing, imminent and impending.
+
+**Three** – that NOA did not reasonably apprehend that the threat would be carried out.
+
+**Four **– that it was not the threat that induced NOA to commit the offence charged.
+
+**Five** – that, when free from the duress, NOA voluntarily exposed himself/herself to its application.
+
+**Six** – that NOA could safely have prevented the execution of the threat; **o**r
+
+**Seven** – that the circumstances were such that a person of ordinary firmness of character would not have been likely to yield to the threat in the way NOA did.
+
+**If the prosecution cannot prove at least one of these matters beyond reasonable doubt, then you must find NOA not guilty of [*****insert offence*****].**
+
+Last updated: 1 November 2014
+
+
+---

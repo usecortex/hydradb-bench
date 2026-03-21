@@ -1,0 +1,189 @@
+benchmark:
+  name: "HydraDB RAG Benchmark"
+  run_id: null        # auto-generated UUID if null
+  output_dir: "./reports"
+
+hydradb:
+  base_url: "${HYDRADB_BASE_URL}"
+  timeout_seconds: 30
+  polling_interval_seconds: 5
+  max_polling_attempts: 60
+  tenant_id: "${HYDRADB_TENANT_ID}"
+  sub_tenant_id: "${HYDRADB_SUB_TENANT_ID}"
+  create_tenant_on_start: true
+
+ingestion:
+  documents_dir: "./data/documents"
+  file_extensions: [".txt", ".pdf", ".md", ".docx"]
+  verify_before_querying: true
+
+# ── HuggingFace Dataset ───────────────────────────────────────────────────────
+# Use a HuggingFace dataset as your evaluation source or document corpus.
+#
+# MODE: "qa"     — dataset has question/answer pairs (replaces test_dataset.json)
+#                  Example: explodinggradients/amnesty_qa
+# MODE: "corpus" — dataset is a document collection (docs uploaded to HydraDB)
+#                  Example: isaacus/legal-rag-bench
+#
+# Enable via YAML or CLI: python run_benchmark.py --hf-dataset REPO_ID
+#
+hf_dataset:
+  enabled: false
+  mode: "qa"                       # "qa" | "corpus"
+  repo_id: ""                      # e.g. "explodinggradients/amnesty_qa"
+  split: "test"
+
+  # QA mode options:
+  max_samples: null                # limit Q&A rows (null = all)
+  column_map: {}                   # explicit column mapping, e.g.:
+                                   #   question: "query"
+                                   #   reference_answer: "ground_truth"
+                                   #   reference_contexts: "contexts"
+  save_qa_path: null               # save loaded Q&A to JSON, e.g. "./data/hf_qa.json"
+  id_prefix: "hf"
+
+  # Corpus mode options:
+  max_docs: null                   # limit number of documents
+  text_column: null                # text column name (auto-detected if null)
+  title_column: null               # title column name (used for filenames, optional)
+  corpus_output_dir: "./data/hf_documents"
+
+# ── Testset Generation ──────────────────────────────────────────────────────
+# Set enabled: true to auto-generate Q&A pairs from your documents instead of
+# using the hand-written test_dataset.json.
+# WARNING: generation calls OpenAI and takes 1-3 minutes.
+testset_generation:
+  enabled: false
+  output_path: "./data/test_dataset.json"
+  testset_size: 15
+  query_distribution:
+    simple: 0.5          # single-hop factual questions
+    multi_context: 0.3   # questions requiring multiple chunks
+    reasoning: 0.2       # comparative / reasoning questions
+
+# ── Evaluation ──────────────────────────────────────────────────────────────
+evaluation:
+  test_dataset_path: "./data/test_dataset.json"
+  search_endpoint: "qna"     # "qna" | "full_recall"
+  max_results: 5
+  concurrent_requests: 3
+
+  # Standard RAGAS metrics — uncomment any to enable
+  metrics:
+    # Core RAG
+    - faithfulness
+    - response_relevancy
+    - context_precision
+    - context_recall
+    - factual_correctness
+    # Answer quality
+    # - answer_correctness       # requires embeddings
+    # - answer_accuracy
+    # - noise_sensitivity
+    # - response_groundedness
+    # Context analysis
+    # - context_relevance
+    # - context_utilization
+    # - context_entity_recall
+    # - non_llm_context_recall   # no LLM call, very fast
+    # Semantic / embedding-based (no LLM)
+    # - semantic_similarity      # requires embeddings
+    # - non_llm_string_similarity
+    # Fully offline string-overlap metrics (no API calls)
+    # - bleu_score
+    # - rouge_score
+    # - chrf_score
+    # - exact_match
+    # - string_presence
+    # Summarisation
+    # - summary_score
+    # Rubric-based scoring
+    # - rubrics_with_reference
+    # - rubrics_without_reference
+    # Agent / tool-use (best with multi-turn)
+    # - topic_adherence
+    # - agent_goal_accuracy
+
+  # AspectCritic — define custom evaluation criteria
+  # Each aspect runs as an independent binary (0/1) RAGAS metric.
+  aspect_critics:
+    - name: "answer_completeness"
+      definition: "Is the answer complete and does it fully address all parts of the question without omitting important details?"
+      strictness: 1
+    - name: "answer_safety"
+      definition: "Does the answer avoid harmful, misleading, offensive, or legally problematic content?"
+      strictness: 1
+    # Add your own:
+    # - name: "answer_conciseness"
+    #   definition: "Is the answer concise without unnecessary repetition or padding?"
+    #   strictness: 3   # majority-vote over 3 checks
+
+  # Multi-turn conversation evaluation
+  multi_turn:
+    enabled: false
+    dataset_path: "./data/multi_turn_dataset.json"
+    metrics:
+      - topic_adherence
+      - agent_goal_accuracy
+
+# ── RAGAS ────────────────────────────────────────────────────────────────────
+ragas:
+  # ── LLM (judge) ─────────────────────────────────────────────────────────────
+  # Provider "openai":      llm_model is any OpenAI model name
+  # Provider "openrouter":  llm_model is "provider/model", e.g.:
+  #   "anthropic/claude-3.5-sonnet"   "meta-llama/llama-3.1-70b-instruct"
+  #   "google/gemini-flash-1.5"       "mistralai/mistral-large"
+  llm_provider: "openai"          # "openai" | "openrouter"
+  llm_model: "gpt-4o-mini"
+
+  # ── Embeddings ───────────────────────────────────────────────────────────────
+  # Provider options:
+  #
+  #   "openai"      — OpenAI hosted embeddings (needs OPENAI_API_KEY)
+  #                   embeddings_model: "text-embedding-3-small"  (default)
+  #                                     "text-embedding-3-large"
+  #                                     "text-embedding-ada-002"
+  #
+  #   "openrouter"  — OpenRouter hosted embeddings (needs OPENROUTER_API_KEY)
+  #                   embeddings_model: "openai/text-embedding-3-small"
+  #                                     "mistral/mistral-embed"
+  #
+  #   "huggingface" — sentence-transformers running locally (no API key needed)
+  #                   pip install sentence-transformers
+  #                   embeddings_model: "BAAI/bge-small-en-v1.5"   (fast, good quality)
+  #                                     "BAAI/bge-large-en-v1.5"   (higher quality)
+  #                                     "sentence-transformers/all-MiniLM-L6-v2"
+  #
+  #   "ollama"      — Ollama local server (no API key needed)
+  #                   pip install langchain-ollama
+  #                   embeddings_model: "nomic-embed-text"    (default ollama choice)
+  #                                     "mxbai-embed-large"
+  #                                     "all-minilm"
+  #                   embeddings_base_url: "http://localhost:11434"  (optional override)
+  #
+  embeddings_provider: "openai"
+  embeddings_model: "text-embedding-3-small"
+  # embeddings_base_url: "http://localhost:11434"   # only needed for ollama with custom port
+
+  max_retries: 3
+  timeout: 60
+  max_workers: 4
+  raise_exceptions: false
+
+  # Cost tracking (uses gpt-4o-mini prices by default)
+  cost_tracking:
+    enabled: true
+    cost_per_input_token: 0.00000015    # $0.15 / 1M tokens
+    cost_per_output_token: 0.0000006    # $0.60 / 1M tokens
+
+  # Prompt customization — override the instruction for any metric
+  # The key is the metric name from the metrics list above.
+  # prompt_overrides:
+  #   faithfulness: "Be strict: only mark a claim as supported if it is explicitly stated in the context."
+  #   context_recall: "Check carefully whether every key fact in the reference answer appears in the retrieved context."
+  #   answer_completeness: "Score 1 only if the answer thoroughly addresses every aspect of the question."
+
+# ── Reporting ────────────────────────────────────────────────────────────────
+reporting:
+  formats: ["json", "csv", "html"]
+  include_per_sample_scores: true

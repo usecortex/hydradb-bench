@@ -1,0 +1,287 @@
+# Chapter 1.10
+
+
+## 1.10 Trial Procedure
+
+# 1.10 Trial Procedure
+
+
+
+## Order of Proceedings
+
+
+[^1]: This provision overrides the practice of the prosecution not addressing the jury a second time when the accused was unrepresented (see, e.g. *R v Ginies* [1972] VR 494). The prosecution may now determine whether or not to give a closing address if the accused is unrepresented (*R v Marijancevic* [1982] VR 936; *R v Trotter* (1982) 7 A Crim R 8; *R v Zorad* (1990) 19 NSWLR 91).
+
+
+---
+
+
+## 1.10 Trial Procedure
+
+1. To help set the jury at ease, and provide a framework for understanding the nature of the trial, it may be desirable to outline the way in which the trial is likely to proceed.
+
+2. Unless the court otherwise directs, the prosecution must serve on the defence and file in court a summary of the prosecution opening at least 28 days before the trial is due to commence (*Criminal Procedure Act 2009* s 182).
+
+3. Once the prosecution has served its summary of the prosecution opening on the defence, the defence response must serve its response on the prosecution and file the response in court at least 14 days before the trial is listed to commence (*Criminal Procedure Act 2009* s 183).
+
+4. After the jury has been empanelled and the judge has given any preliminary directions, the prosecution will open their case (*Criminal Procedure Act 2009* s 224).
+
+5. Immediately after the prosecution opening, if the accused is represented by a legal practitioner, the defence must present their response to the jury (*Criminal Procedure Act 2009* s 225). However, if the accused is not represented by a legal practitioner, the accused may choose not to present a response.
+
+6. The prosecution opening and the defence response must be restricted to the matters set out in the documents served and filed under *Criminal Procedure Act 2009* ss 182 and 183 (see also *Duong v R* [2017] VSCA 78, [39]–[41]).
+
+7. If there is more than one accused, in the absence of agreement amongst counsel, they must make their addresses in the order in which their names appear on the presentment (*R v Webb* (1992) 64 A Crim R 38).
+
+8. At any time during the trial, the judge may address the jury about the issues in the trial, the relevance of any admissions made, directions given or matters determined prior to the commencement of the trial or any other matters relevant to the jury’s function (*Criminal Procedure Act 2009* s 222).
+
+9. It may be appropriate for the judge to refer to any other preliminary or practical matters which have not yet been addressed by counsel, such as the nature of the trial process and the hours of sitting. See 1.1 Introductory Remarks for further information about matters which may be addressed at this time.
+
+
+[^1]: This provision overrides the practice of the prosecution not addressing the jury a second time when the accused was unrepresented (see, e.g. *R v Ginies* [1972] VR 494). The prosecution may now determine whether or not to give a closing address if the accused is unrepresented (*R v Marijancevic* [1982] VR 936; *R v Trotter* (1982) 7 A Crim R 8; *R v Zorad* (1990) 19 NSWLR 91).
+
+
+---
+
+
+## 1.10 Trial Procedure
+
+10. The prosecution will then call their witnesses. At the close of the prosecution case, the defence must choose whether to make a submission that there is no case to answer, to choose to give evidence or call other witnesses, or not give evidence or call witnesses (*Criminal Procedure Act 2009* s 226). It is at the judge’s discretion whether this should be done in the presence or absence of the jury. However, it may be advisable to do so in the absence of the jury in joint trials or in trials in which a no-case submission may be anticipated (*R v Aiton* (1993) 68 A Crim R 578).
+
+11. If there are 2 or more accused, all accused who wish to do so must make a submission that there is no case to answer before any accused indicates whether he or she wishes to give evidence or call witnesses. All submissions of no case to answer must first be resolved and if there are then 2 or more accused remaining, the judge must ask the first accused whether he or she wishes to give evidence or call witnesses. Each accused named subsequently on the indictment is not required to inform the judge of this decision until the close of the case for the previous accused (*Criminal Procedure Act 2009* s 229).
+
+12. If the accused intends to call witnesses, the accused must indicate, when called on by the judge to do so, the names of those witnesses other than the accused and the order in which the witnesses will be called (*Criminal Procedure Act 2009* s 230).
+
+13. The defence may give an opening address before calling the accused or a witness other than the accused (*Criminal Procedure Act 2009* s 231).
+
+14. After the close of all evidence, the prosecution may make a closing address, summing up the evidence (*Criminal Procedure Act 2009* s 234).[^1]
+
+15. After the close of the evidence and after the prosecution closing address, the defence may give a closing address summing up the evidence (*Criminal Procedure Act 2009* s 235).
+
+16. If the accused, in his or her closing address, asserts facts which are not supported by evidence, the judge may allow the prosecution to make a supplementary address which is confined to replying to those assertions (*Criminal Procedure Act 2009* s 236).
+
+
+[^1]: This provision overrides the practice of the prosecution not addressing the jury a second time when the accused was unrepresented (see, e.g. *R v Ginies* [1972] VR 494). The prosecution may now determine whether or not to give a closing address if the accused is unrepresented (*R v Marijancevic* [1982] VR 936; *R v Trotter* (1982) 7 A Crim R 8; *R v Zorad* (1990) 19 NSWLR 91).
+
+
+---
+
+
+## 1.10 Trial Procedure
+
+17. The power to allow the prosecution to make a supplementary submission under s 236 is limited to cases in which the defence asserts facts which are unsupported by evidence. It does not extend to cases in which the defence makes illogical, extravagant or dishonest defence arguments. It is for the judge to deal with such arguments in his or her charge in a way that restores the balance without engaging in impermissible advocacy for the prosecution (*R v Glusheski* (1986) 33 A Crim R 193; *R v O’Donoghue* (1988) 34 A Crim R 397; *Kamalasanan & Sam v The Queen* [2019] VSCA 180, [97]–[101]; *Mareangareu v The Queen* [2019] VSCA 101, [67]–[99]).
+
+
+[^1]: This provision overrides the practice of the prosecution not addressing the jury a second time when the accused was unrepresented (see, e.g. *R v Ginies* [1972] VR 494). The prosecution may now determine whether or not to give a closing address if the accused is unrepresented (*R v Marijancevic* [1982] VR 936; *R v Trotter* (1982) 7 A Crim R 8; *R v Zorad* (1990) 19 NSWLR 91).
+
+
+---
+
+
+## 1.10 Juror Questions
+
+## Juror Questions
+
+
+
+## Clarifying Law and Evidence
+
+
+
+1. Jurors may question a judge about the evidence presented in a case, or about the relevant law. Judges are under a duty to ensure that jurors receive all of the assistance they require to discharge their task properly (*R v Southammavong; R v Sihavong *[2003] NSWCCA 312; *R v Leggatt *[1971] VR 705).
+
+2. If a communication from the jury indicates that they require assistance on a material aspect of the case, the judge has a duty to ascertain the specifics of the assistance required (*R v Ion *(1950) 34 Cr App R 152; *R v Berry *(1992) 96 Cr App R 77).
+
+3. If the jury asks a second question before the first is answered, the judge should not assume the jury no longer wants an answer to the first question. S/he must ask them whether they still want a response to the original question (*R v De Simone *[2008] VSCA 216).
+
+4. If the jury’s question indicates that they may be speculating or drawing inferences going beyond the evidence, they should be reminded of the extent of the evidence (*R v Adair *(1958) 42 Cr App R 227).
+
+5. When answering the jury’s question, the judge must be careful not to introduce a basis for liability which has not previously been addressed. This may disadvantage the accused, who will have had no opportunity to meet the new case (*R v Falcone *[2008] VSCA 225. See 3.9 Judge’s Summing Up on Issues and Evidence for further information).
+
+6. After answering the jury’s question, the judge should enquire whether the answer covers their concerns. The judge is entitled to accept the foreperson’s affirmative response, if given without dissent (*R v Leggatt *[1971] VR 705;* R v Coombes *16/4/1999 CA Vic).
+
+
+
+## Questioning Witnesses
+
+
+[^2]: Jurors may communicate with court officials about administrative or technical matters (such as setting up equipment) (*Dempster* (1980) 71 Cr App R 302; *R v Barnowski* [1969] SASR 386).
+
+
+---
+
+
+## 1.10 Juror Questions
+
+7. There is no rule of law prohibiting jurors from questioning witnesses (*R v Lo Presti *[1992] 1 VR 696; *R v Cvijic *21/2/1986 Vic CCA;* R v Boland *[1974] VR 849).
+
+8. In *R v Lo Presti *[1992] 1 VR 696, the Court of Appeal laid down the following guidelines in relation to such questions:
+
+
+
+1. Juries should not be told of any right possessed by them to question a witness.
+
+2. A juror who wishes to put, or have put, a question to a witness has a right for that to be done provided that the question or questions is or are limited to the clarification of evidence given or the explanation of some matter about which confusion exists.
+
+3. It is not essential that the question asked be formulated by the foreman.
+
+4. It is highly desirable that the question sought to be asked first be submitted to the judge so that he may consider its relevance and admissibility.
+
+5. If the judge allows the question it is immaterial whether it is actually asked by the juror or the judge. However, if the judge puts the question there will be removed the risk that exists when a layman is the questioner of the generation of a spontaneous exchange of questions and answers in the course of which improper material may emerge.
+
+
+[^2]: Jurors may communicate with court officials about administrative or technical matters (such as setting up equipment) (*Dempster* (1980) 71 Cr App R 302; *R v Barnowski* [1969] SASR 386).
+
+
+---
+
+
+## 1.10 Juror Questions
+
+9. The points above are guidelines only. Judges have discretion to determine what course is best in the circumstances to ensure justice between the parties and the avoidance of unacceptable prejudice to the accused. They have the right and obligation to control the proceedings in their court in a manner that will enable the ends of justice to be met (*R v Lo Presti *[1992] 1 VR 696. See also *McKinnin v The Queen* [2019] VSCA 114).
+
+10. Judges should not encourage jurors to ask questions or give the jury time to formulate questions at the end of a witness’ evidence. Doing so risks a fundamental departure from the jury’s proper role as impartial arbiters and invites the jury to form views about the state of the evidence before the end of the trial (*Tootle v R* (2017) 94 NSWLR 430. See also *McKinnin v The Queen* [2019] VSCA 114).
+
+11. Jurors are often told that the parties can be trusted to ask all relevant questions and, if a question is not asked, there is often a very good reason (*Tootle v R* (2017) 94 NSWLR 430, [60]).
+
+
+
+## Communicating with Jurors
+
+
+[^2]: Jurors may communicate with court officials about administrative or technical matters (such as setting up equipment) (*Dempster* (1980) 71 Cr App R 302; *R v Barnowski* [1969] SASR 386).
+
+
+---
+
+
+## 1.10 Juror Questions
+
+12. Jurors should not ask court officers questions concerning the case, or channel questions to the judge through a court officer.[^2] Questions should be asked by the foreperson in open court, or preferable put in writing by the foreperson and delivered directly to the judge. (*R v Cavkic (No 2)* (2009) 28 VR 341. See also *R v Stretton *[1982] VR 251; *R v Emmett* (1988) 14 NSWLR 327; *Jackson & Le Gros v R* [1995] 1 Qd R 547; *R v Briffa & Portillo* 21/4/96 Vic CCA; *R v GAE* (2000) 1 VR 198; *R v Edwards* [2002] 1 Qd R 203).
+
+13. Juror questions should be asked (or read aloud) in open court, in the presence of the accused, their counsel and the jury – unless the communication is on a matter which does not touch upon the case in any relevant way. There should be no private communication between the judge and jury if the communication is material or may affect the jury’s consideration of the case (*R v Cavkic (No 2)* (2009) 28 VR 341; *Sonnet v R* (2010) 30 VR 519; *R v Yuill *(1994) 34 NSWLR 179; *Smith v R *(1985) 159 CLR 532; *R v Boland *[1974] VR 849; *R v Kerr (No 2) *[1951] VLR 239).
+
+14. A judge should not, upon receiving a note from the jury, send them an answer without communicating with the accused or defence counsel. That would infringe the fundamental principle that the accused is entitled to hear and see all that takes place during a trial (*R v Black* (2007) 15 VR 551; *R v GAE *(2000) 1 VR 198;* Rabey v R *[1980] WAR 84; *R v Fitzgerald *(1889) 15 VLR 40).
+
+
+[^2]: Jurors may communicate with court officials about administrative or technical matters (such as setting up equipment) (*Dempster* (1980) 71 Cr App R 302; *R v Barnowski* [1969] SASR 386).
+
+
+---
+
+
+## 1.10 Juror Questions
+
+15. In most cases, a judge must inform the parties of the precise terms of the questions asked. It is not sufficient to identify the subject matter of the question in general terms (*R v Black* (2007) 15 VR 551; [2007] VSCA 61).
+
+16. A judge must inform the parties of the terms of a question, even if that question indicates matters that are in the jurors’ minds during their deliberations. This is especially important if the communication relates to matters in issue in the trial. In such circumstances, the parties are entitled to know the content of the communication and, if appropriate, to make submissions as to the appropriate response (*R v Black* (2007) 15 VR 551; *Sonnet v R* (2010) 30 VR 519).
+
+17. However, if a communication reveals information which the jury should not have imparted (such as voting figures), the judge should not disclose that information to the parties. He or she should, however, announce the fact of the communication, and disclose any information that is unexceptionable (*R v Black* (2007) 15 VR 551; *Sonnet v R* (2010) 30 VR 519; *R v Gorman *[1987] 2 All ER 435).
+
+18. If the judge needs a jury communication clarified, he or she should not question the foreperson about it on oath in isolation from the rest of the jury. It is instead preferable to suggest that the jury reformulate the communication in private (*R v Foster *(1995) 78 A Crim R 517).
+
+19. If any answer to a communication from the jury would amount to a material irregularity, the judge should not answer the question nor disclose the contents of the communication until an appropriate stage of the proceedings (*R v Oduro* (1982) 76 Cr App R 38).
+
+20. The trial judge should ensure that an adequate record appears in the transcript of proceedings of all communications which it is permissible to disclose, and that any written communications, of whatever nature, are preserved (*R v Masters* (1992) 26 NSWLR 450;* Shepherd (No 4) *(1989) 41 A Crim R 420).
+
+
+[^2]: Jurors may communicate with court officials about administrative or technical matters (such as setting up equipment) (*Dempster* (1980) 71 Cr App R 302; *R v Barnowski* [1969] SASR 386).
+
+
+---
+
+
+## 1.10 Note-taking
+
+## Note-taking
+
+
+
+1. Jurors are allowed to take notes during the trial if they choose, and should be provided with appropriate materials. Practices vary as to whether such note-taking is to be encouraged or discouraged.
+
+2. Any notes made by a discharged juror should not be left with the remaining jurors (*Derbas v R *(1993) 66 A Crim R 327).
+
+3. Notes and other documents left in the jury room after deliberations have ended must be collected and destroyed after the verdict has been delivered (*R v Smart *[1983] VR 265).
+
+
+
+Last updated: 28 August 2019
+
+
+---
+
+---
+
+# Chapter 1.10.1
+
+
+## 1.10.1 Charge: Trial Procedure
+
+# 1.10.1 Charge: Trial Procedure
+
+
+
+## Order of Proceedings
+
+I will now describe the procedure that we will follow during the trial, and some general administrative matters.
+
+In a moment we will hear the opening address from the prosecutor, and the reply from counsel for the accused.[^1] Then we will proceed to hear the evidence. After that, there will be closing addresses from counsel. I will then instruct you about the law, the issues and the evidence. You will then go to the jury room to discuss your verdict[s].
+
+
+[^1]: This will need to be modified if the judge’s remarks are made after the opening address and reply.
+
+
+---
+
+
+## 1.10.1 Transcripts and Note-taking
+
+## Transcripts and Note-taking
+
+All of the evidence in this case is going to be tape recorded and transcribed. This means that you will be able to check on any part of the evidence you later cannot remember.
+
+However, you should always listen carefully to the evidence as it is given, because it is not only what the witnesses say, but also how they say it that is important to your assessment of their evidence.
+
+When you are listening to the evidence from the witnesses, you may take notes if you wish, but you do not have to. It is completely up to you. If you do take notes, you should not allow it to distract you from listening to the evidence and assessing the witnesses. You may always ask to hear a tape of a witness’s testimony or have some evidence read back to you, but you only have one chance to observe the appearance and behaviour of the witnesses when they give the evidence.
+
+
+---
+
+
+## 1.10.1 Sitting times and breaks
+
+## Sitting times and breaks
+
+Our hours here in court are [*insert starting time*] until [*insert lunch time*] and then [*insert starting time after lunch*] until [*insert finishing time*].
+
+If something comes up which means that you may not able to attend court when we would normally be sitting, please let me know as soon as possible, so that we can try to resolve the issue.
+
+
+---
+
+
+## 1.10.1 Jury Guide
+
+## Jury Guide
+
+[*If the judge is providing the jury with a jury guide, add the following shaded section.*]
+
+To help you remember the directions I have just given you, my tipstaff will now give you a jury guide. You can write on it if you wish. The Guide, like all documents we will give you during the trial, must not be taken home. You may bring it to the courtroom, but you must leave it in the jury room at the end of each day. If you bring the Guide to the courtroom, do not allow it to distract you. Do not try to read it while I am giving you directions, or when counsel are addressing you, or while a witness is giving evidence.
+
+The Guide is a simplified reminder of some of the directions I have given you. It is a publication designed for general use by jurors in criminal trials and is not specific to this case. It does not cover all of the directions I have given word for word and it will not cover directions I will give you during the trial and at the end of the trial which will be specific to this trial. If you think there is anything in the Guide which is different to what I have instructed you, then you must follow what I tell you in court and ignore what is in the guide. If you are confused or unsure about whether there is a difference between the Guide and my directions, you should ask me to clarify.
+
+
+---
+
+
+## 1.10.1 Opening Address
+
+## Opening Address
+
+We will now hear the opening address from the prosecution, who will tell you what the case is about.
+
+[*After opening and reply, briefly state the issues*.]
+
+Last updated: 14 August 2023
+
+
+---

@@ -1,0 +1,1919 @@
+# Chapter 8.2
+
+
+## 8.2 Statutory Self-Defence (Pre-1/11/14) and Defensive Homicide
+
+# **8.2 ****Statutory Self-****Defence**** ****(Pre-1/11/14) and Defensive Homicide**
+
+
+
+## Commencement and Repeal Information
+
+
+
+1. Prior to 2005, self-defence in Victoria was governed solely by the common law. This situation was altered by the passage of the *Crimes (Homicide) Act 2005*, which introduced two statutory self-defence provisions into the *Crimes Act 1958*: one for use in murder cases (s 9AC) and the other for use in manslaughter cases (s 9AE). The Act also introduced a new offence of "Defensive Homicide" (s 9AD).
+
+2. The provisions of the *Crimes (Homicide) Act 2005 *commenced operation on 23 November 2005, and apply to offences committed on or after that date (*Crimes Act 1958 *s 603).
+
+3. If the date of the victim’s death differs from the date on which the *actus reus *was committed, the relevant date for determining whether the provisions of the *Crimes (Homicide) Act 2005* apply is the date of death (*R v Gould* (2007) 17 VR 393; [2007] VSC 420).
+
+4. Subdivision (1AA) of Division 1 of Part I of the *Crimes Act 1958* (which includes ss 9AC, 9AD and 9AE) was repealed by the *Crimes Amendment (Abolition of Defensive Homicide) Act 201*4 on 1 November 2014.
+
+5. This topic therefore applies only to offences committed between 23 November 2005 and 1 November 2014. For self-defence cases in which the offence is alleged to have been committed on or after 1 November 2014, see 8.1 Statutory Self-defence (From 1/11/14).
+
+
+---
+
+
+## 8.2 Application of Statutory Provisions
+
+## Application of Statutory Provisions
+
+
+
+1. Although *Crimes Act 1958 *s 9AB states that the statutory self-defence provisions only apply to the "relevant offences" of murder, manslaughter or defensive homicide, it has been held that they also apply to attempted murder (*R v Pepper* (2007) 16 VR 637; [2007] VSC 234; *DPP v McAllister* [2007] VSC 315).
+
+
+---
+
+
+## 8.2 Replacement of Common Law Self-defence
+
+## Replacement of Common Law Self-defence
+
+
+
+1. Where it applies, this statutory defence has replaced the common law defence (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198). Consequently, common law self-defence is not available when:
+
+
+
+- The accused is charged with murder, manslaughter, defensive homicide, attempted murder or attempted defensive homicide; and
+
+- It is alleged that the death occurred on or after 23 November 2005.
+
+
+
+2. However, common law self-defence may be raised when:
+
+
+
+- The accused is charged with an offence other than the homicide offences listed above, and such offence was alleged to have been committed before 1 November 2014; or
+
+- The accused is charged with one of those homicide offences listed above, and such offence, was alleged to have been committed before 23 November 2005.
+
+
+
+3. See 8.3 Common Law Self-defence for information concerning the common law defence.
+
+
+---
+
+
+## 8.2 When to Charge the Jury about Self-defence
+
+## When to Charge the Jury about Self-defence
+
+
+---
+
+
+## 8.2 When to Charge the Jury about Self-defence
+
+1. The judge must direct the jury about self-defence if the accused indicates that self-defence is in issue or if the judge considers that there are substantial and compelling reasons to direct the jury about self-defence in the absence of a request (*Jury Directions Act 2015* ss 14–16). See Directions under Jury Directions Act 2015.
+
+2. At common law, the judge was required to instruct the jury about self-defence if there was evidence on which a reasonable jury could decide the issue favourably to the accused (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Kear* [1997] 2 VR 555; *R v Kell & Dey (Ruling No. 1)* [2008] VSC 518).
+
+3. The issue of self-defence could be held to arise if there was any evidence from which the jury might infer that the accused acted in self-defence (*R v Kear* [1997] 2 VR 555; *R v **Imadonmwonyi* [2004] VSC 361).
+
+4. To see if there was any such evidence, a judge could look not only to the direct evidence, but also to whether a circumstantial case could fairly be made out to support the defence (*R v Kear* [1997] 2 VR 555; *R v **Imadonmwonyi* [2004] VSC 361).
+
+5. At common law, if there was sufficient evidence to raise the possibility of self-defence, the trial judge was required to leave the issue to the jury even if the judge considered the defence to be “weak or tenuous” (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Kear* [1997] 2 VR 555; *R v **Muratovic* [1967] Qd R 15; *R v Kell & Dey (Ruling No. 1)* [2008] VSC 518).
+
+
+---
+
+
+## 8.2 When to Charge the Jury about Self-defence
+
+6. If there was sufficient evidence to raise the possibility of self-defence, the judge was required at common law to instruct the jury about it, whether or not the defence is raised by the accused (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Kear *[1997] 2 VR 555; *R v Kell & Dey (Ruling No. 1)* [2008] VSC 518).
+
+7. Where there was sufficient evidence to raise the possibility of self-defence, the judge was required to instruct the jury about it even if the factual basis for the defence was inconsistent with the accused’s version of events at trial (*R v Kear* [1997] 2 VR 555; *R v Kell & Dey (Ruling No. 1)* [2008] VSC 518).
+
+8. These common law principles may be relevant to the operation of the residual obligation to give directions under *Jury Directions Act 2015* s 16, but must be read in light of the whole of Part 3 of the Act.
+
+
+---
+
+
+## 8.2 Onus of Proof
+
+## Onus of Proof
+
+
+
+1. Once the question of self-defence is put in issue, the onus is on the prosecution to prove that the accused did not act in self-defence (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198; *Zecevicv** Director of Public Prosecutions* (1987) 162 CLR 645; *Virov** R *(1978) 141 CLR 88;* **Dziduch** v R* (1990) 47 A Crim R 378).
+
+
+---
+
+
+## 8.2 Murder Self-defence
+
+## Murder Self-defence
+
+
+
+1. Section 9AC provides that a person is not guilty of murder if he or she carries out conduct that would otherwise constitute murder "while believing the conduct to be necessary to defend himself or herself or another person from the infliction of death or really serious injury."
+
+2. Although this provision appears to suggest that it is for the accused to establish that he or she held the relevant belief, this is not the case. The onus is on the prosecution to prove that the accused did not hold such a belief (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+3. The accused will therefore not be guilty of murder if the jury:
+
+
+
+- Finds that the accused believed that it was necessary to do what he or she did to defend him or herself or another person from death or really serious injury; or
+
+- Is not satisfied that the prosecution has proven beyond reasonable doubt that the accused did not have such a belief (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+
+---
+
+
+## 8.2 Murder Self-defence
+
+4. Unlike common law self-defence (see 8.3 Common Law Self-defence), section 9AC does not require the accused’s belief to have been based on reasonable grounds. It is a purely subjective test that focuses on the belief of the accused (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198; *R v Carrington* (2007) 16 VR 694; [2007] VSC 422).
+
+5. This means that even if the prosecution can prove that the accused’s belief in the necessity of his or her action was unreasonable in the circumstances, if the accused genuinely held that belief he or she must not be convicted of murder. However, he or she may be convicted of defensive homicide (see "Defensive Homicide" below).
+
+6. The statutory defence will fail if the accused did not believe that his or her actions were necessary to defend him or herself or another person from the infliction of* death or really serious injury*. This also differs from common law self-defence, which does not specify the type of harm that must be threatened before a person can raise self-defence. At common law, even if people defend themselves against less serious harm, or act to protect property or prevent crime, they may successfully raise self-defence if the jury finds they believed upon reasonable grounds that their actions were necessary (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v McKay *[1957] VR 560. See also *Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+7. The *Crimes Act* does not define "really serious injury" for the purposes of s 9AC. Although it has not been determined, it seems likely that it can include psychological injuries as well as physical injuries. It will be for the jury to decide whether what the accused was threatened with was an "injury", as well as whether that threatened injury was "really serious".
+
+
+---
+
+
+## 8.2 Murder Self-defence
+
+8. As s 9AC involves a purely subjective test, the jury should not consider what a reasonable or ordinary person would have believed in the circumstances, but what the *accused* believed (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *Virov** R *(1978) 141 CLR 88; *R v Conlon* (1993) 69 A Crim R 92 (SC NSW)).
+
+9. It does not matter if the accused’s belief was mistaken, as long as it was genuinely held (*R v McKay *[1957] VR 560).
+
+10. If the accused was intoxicated at the time he or she committed the relevant acts, this can be taken into account when determining whether he or she believed his or her actions to be necessary (*R v Conlon* (1993) 69 A Crim R 92 (NSWSC); *R v **Katarzynski** *[2002] NSWSC 613. See "Intoxication" below for further information).
+
+11. The determination of whether the accused believed that his or her actions were necessary incorporates two questions: first, whether the accused believed it was necessary to defend himself or herself at all and, secondly, whether the accused believed it was necessary to respond as he or she did given the threat as s/he perceived it (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645).
+
+12. In determining whether the accused believed that the force used was necessary, consideration should be given to the fact that a person who has reacted instantly to imminent danger cannot be expected to weigh precisely the exact measure of self-defensive action which is required (*R v Palmer* [1971] AC 814; *Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Conlon* (1993) 69 A Crim R 92).
+
+13. The proportionality of the accused’s response to the harm threatened is just one factor to take into account in determining whether the accused believed that his or her actions were necessary (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178; *R v Carrington* (2007) 16 VR 694; [2007] VSC 422).
+
+
+---
+
+
+## 8.2 Murder Self-defence
+
+14. There is no rule requiring the accused to retreat from an attack rather than defend himself or herself. However, a failure to retreat is a factor to be taken into account in determining whether the accused believed that what was done was necessary (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Howe* (1958) 100 CLR 448).
+
+15. If the accused acted under the pretence of defending himself or herself to attack another or retaliate for a past attack, then the test for self-defence will not be met. Factors such as a failure to retreat when possible or a highly disproportionate response might indicate an intention to use the circumstances for aggression or retaliation rather than for self-defence.
+
+16. Circumstances of "family violence" can affect the accused’s determination of what is necessary (s 9AH). See "Family Violence" below for further information.
+
+
+---
+
+
+## 8.2 Defensive Homicide
+
+## Defensive Homicide
+
+**Warning:*** *The offence of defensive homicide is only available for conduct that occurred between 20 November 2005 and 1 November 2014. The offence of defensive homicide is not available outside that period.
+
+
+---
+
+
+## 8.2 Defensive Homicide
+
+1. As noted above, the "reasonableness" of the accused’s belief in the necessity of his or her actions is not taken into account when determining whether he or she acted in self-defence. The focus is solely on whether the accused believed his or her actions were necessary (s 9AC).
+
+2. However, *Crimes Act 1958 *s 9AD states that a person who kills in circumstances that, but for s 9AC, would constitute murder will be guilty of the indictable offence of "defensive homicide" if he or she did not have reasonable grounds for his or her belief.
+
+3. Sections 9AC and 9AD therefore create a scheme whereby people who kill in circumstances that would ordinarily constitute murder will not be convicted of murder if they genuinely, but unreasonably, believed their actions were necessary (or if the prosecution cannot disprove such a belief). However, they remain criminally responsible (though to a lesser extent) if the jury finds that the accused’s belief was not based on reasonable grounds.
+
+4. Although s 9AD refers to the accused’s "belief" in the necessity of his or her actions, that section does not only apply to cases where the jury positively finds that the accused believed that his or her actions were necessary. It also applies to cases where the prosecution fails to persuade the jury beyond reasonable doubt that the accused did not have such a belief (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+5. In such cases, the jury must focus on the accused’s asserted belief. To convict the accused of defensive homicide, they must find that, *if *the accused believed his or her actions were necessary to defend himself or herself or another person from the infliction of death or really serious injury, that belief was not held on reasonable grounds (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+6. This element does not require the jury to determine whether the accused *acted unreasonably* in the circumstances. It requires the jury to determine whether there were no* reasonable grounds *for the accused’s belief that it was necessary to do what he or she did (*R v Hendy *[2008] VSCA 231).
+
+
+---
+
+
+## 8.2 Defensive Homicide
+
+7. This is not a test about what the hypothetical "reasonable person" might have believed in the circumstances, but about whether the *accused *had no reasonable grounds for his or her belief, in the circumstances as he or she perceived them to be (*R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178; *Virov** R *(1978) 141 CLR 88).
+
+8. The accused’s belief will not have been based on reasonable grounds if it was not a belief which the accused might reasonably have held in all the circumstances (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Wills* [1983] 2 VR 201).
+
+9. In determining whether the accused’s belief was not based on reasonable grounds, the jury may take into account the following matters:
+
+
+---
+
+
+## 8.2 Defensive Homicide
+
+- The surrounding circumstances (*R v Wills* [1983] 2 VR 201);
+
+- All of the facts within the accused’s knowledge (*R v Wills* [1983] 2 VR 201);
+
+- The relationship between the parties involved (*R v Hector* [1953] VLR 543);
+
+- The prior conduct of the victim (*R v **Besim* [2004] VSC 169);
+
+- Circumstances of family violence (s 9AH – see "Family Violence" below);
+
+- The personal characteristics of the accused, such as:
+
+- Any deluded beliefs he or she held (*Grosser v R* (1999) 73 SASR 584; *R v Walsh* (1991) 60 A Crim R 419 (Tas SC));
+
+- Any excitement, affront or distress he or she was experiencing (*R v Wills* [1983] 2 VR 201);
+
+- The proportionality of the accused’s response (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178);
+
+- The accused’s failure to retreat (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v Howe* (1958) 100 CLR 448).
+
+
+
+10. The accused’s intoxication should not be taken into account in determining whether his or her belief was based on reasonable grounds, unless it was not self-induced (s 9AJ. See "Intoxication" below for further information).
+
+
+---
+
+
+## 8.2 Manslaughter Self-defence
+
+## Manslaughter Self-defence
+
+
+
+1. Section 9AE provides that a person is not guilty of manslaughter if:
+
+
+
+he or she carries out the conduct that would otherwise constitute manslaughter while believing the conduct to be necessary –
+
+(a) to defend himself or herself or another person; or
+
+(b) to prevent or terminate the unlawful deprivation of his or her liberty or the liberty of another person –
+
+and he or she had reasonable grounds for that belief.
+
+
+
+2. This provision substantially replicates the common law of self-defence, in that it involves both a subjective element (a belief by the accused that what he or she was doing was necessary) and an objective element (that the belief was based on reasonable grounds). See "Murder Self-defence" above for a discussion of the subjective element, and "Defensive Homicide" above for a discussion of the objective element.
+
+3. However, unlike at common law, s 9AE restricts self-defence in the case of manslaughter to situations where people act to defend themselves or other people, or to prevent or terminate the unlawful deprivation of their liberty or the liberty of other people. It does not allow defensive force to be used for the protection of property or the prevention of other crimes (cf. *R v McKay* [1957] VR 560).
+
+4. As the test for manslaughter self-defence differs from the test for murder self-defence, in murder cases that raise the possibility of a manslaughter verdict, it will be necessary to charge the jury separately about the requirements of each. See "Procedure for Charging the Jury about Statutory Self-defence" below.
+
+
+---
+
+
+## 8.2 Attempts
+
+## Attempts
+
+
+
+1. Where the offence of attempted murder is alleged to have been committed on or after 23 November 2005 and before 1 November 2014, the statutory self-defence provisions in Subdivision (1AA) of Division 1 of Part I apply (*R v Pepper* (2007) 16 VR 637; [2007] VSC 234; *DPP v McAllister* [2007] VSC 315; *R v Carrington* (2007) 16 VR 694; [2007] VSC 422).
+
+2. Where the charge is attempted murder, and the issue of self-defence arises, the alternative verdict of attempted defensive homicide can be left to the jury (*R v Pepper* (2007) 16 VR 637; [2007] VSC 234; *DPP v McAllister* [2007] VSC 315; *R v Carrington* (2007) 16 VR 694; [2007] VSC 422; but compare *DPP v **Ayyad* (2014) 44 VR 346; [2014] VSC 629).
+
+3. If the accused is charged with another offence, such as intentionally causing serious injury, in addition to attempted murder or attempted defensive homicide, it will be necessary to give multiple directions about self-defence. The jury will need to be charged about statutory self-defence in relation to the attempted murder or attempted defensive homicide charges, and common law self-defence in relation to any other charges (*R v Pepper* (2007) 16 VR 637; [2007] VSC 234; *DPP v McAllister* [2007] VSC 315).
+
+4. In such cases, a judge should consider how to accommodate the fact that the jury will be required to consider the less serious charge of attempted defensive homicide (maximum penalty level 4 imprisonment) before the more serious charge of intentionally causing serious injury (maximum penalty level 3 imprisonment) (*R v Pepper* (2007) 16 VR 637; [2007] VSC 234. See *R v Carrington* (2007) 16 VR 694; [2007] VSC 422 for an example of how the jury may be directed).
+
+
+---
+
+
+## 8.2 Defence against Lawful Force
+
+## Defence against Lawful Force
+
+
+
+1. Unlike at common law, the statutory defences of murder self-defence (s 9AC) and manslaughter self-defence (s 9AE) do not apply if the accused is responding to lawful conduct, and knows at the time of his or her response that the conduct is lawful (s 9AF).
+
+2. In applying s 9AF, the relevant question is whether a jury could find or consider that there was a reasonable possibility that the other party’s conduct was unlawful. This may require the court to consider whether the other party was engaged in self-defence, which may include a pre-emptive strike (*DPP v McDowall* [2019] VSC 341, [9], [13]–[16]).
+
+
+---
+
+
+## 8.2 Accused as the Initial Aggressor
+
+## Accused as the Initial Aggressor
+
+
+
+1. At common law, one of the factors to be taken into account in determining whether the accused was acting in self-defence was whether he or she had been the initial aggressor. However, there was no rule to prevent lawful self-defence when the accused originated the attack, as long as the original aggression had ceased to create a continuing situation of emergency that provoked a lawful counter attack on the accused. Initial aggression by the accused was part of the surrounding circumstances the jury was required to take into account in determining whether the accused believed it was necessary to act in self-defence or whether there were reasonable grounds for that belief (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645).
+
+2. Where it is alleged that the accused was the initial aggressor, the jury must consider all the circumstances as perceived by the accused, including, for example, the extent to which the accused declined further conflict, stopped using force, was defeated, faced a disproportionately escalated level of force in response, or attempted to retreat (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645;* R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178; *Ruben **Anandan** v R* [2011] VSCA 413; see also *R v Lawson and Forsythe* [1986] VR 515 (Ormiston J))
+
+
+---
+
+
+## 8.2 Intoxication
+
+## Intoxication
+
+
+
+1. At common law, it is possible to take into account the accused’s state of intoxication in determining whether the accused believed his or her actions were necessary, as well as in determining whether that belief was based on reasonable grounds (*R v Conlon* (1993) 69 A Crim R 92 (NSWSC); *R v **Katarzynski** *[2002] NSWSC 613).
+
+2. However, s 9AJ(2) of the *Crimes Act 1958* states that:
+
+
+
+If any part of an element of a relevant offence, or of a defence to a relevant offence, relies on a person having reasonable grounds for a belief, in determining whether those reasonable grounds existed, regard must be had to the standard of a reasonable person who is not intoxicated.
+
+
+
+3. A "relevant offence" for the purpose of this provision is defined as murder, manslaughter or defensive homicide (s 9AB).
+
+4. The effect of this provision is to prevent intoxication being taken into account in homicide cases when determining whether the accused had reasonable grounds for believing in the necessity of his or her actions. It does not, however, prevent intoxication being taken into account in determining whether the accused believed his or her actions were necessary in self-defence.
+
+5. Section 9AJ(4) provides an exception for cases in which the intoxication is not self-induced. In such cases regard must be had to the standard of a reasonable person intoxicated to the same extent as the person concerned. See ss 9AJ(5) and (6) for the definition of "self-induced intoxication".
+
+6. For more information, see 8.5 Statutory Intoxication (From 1/11/14) (23/11/05–31/10/14).
+
+
+---
+
+
+## 8.2 Use of Pre-emptive Force
+
+## Use of Pre-emptive Force
+
+
+
+1. People are not only entitled to rely on self-defence if they act whilst an attack is in progress or immediately threatened. They are entitled to take steps to forestall a threatened attack before it has begun (*Osland** v R* (1998) 197 CLR 316; *Virov** R *(1978) 141 CLR 88; *R v Lane* [1983] 2 VR 449; *R v Conlon* (1993) 69 A Crim R 92).
+
+2. The key issue is not whether an attack was imminent or immediately threatened, but whether the accused’s perception of danger led him or her to believe that the use of defensive force was necessary, and (in the case of manslaughter or defensive homicide) whether there were reasonable grounds for such a belief (*Osland** v R* (1998) 197 CLR 316).
+
+3. However, what is believed to be necessary in the circumstances, and whether there were reasonable grounds for such a belief, may be affected by the lack of immediacy of the threat, although this will not necessarily be the case (*R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178).
+
+4. Where a person responds pre-emptively to what he or she perceives to be a threat from a violent partner, expert evidence of "battered woman syndrome" may be admitted. Such evidence can assist the jury to understand that an act committed when there is no actual attack underway may be a self-defensive response to a genuinely apprehended threat of imminent danger, sufficient to warrant a pre-emptive strike (*Osland** v R* (1998) 197 CLR 316. See also "Family Violence" below).
+
+
+---
+
+
+## 8.2 Family Violence
+
+## Family Violence
+
+
+
+1. *The Crimes (Homicide) Act 2005* introduced into the *Crimes Act 1958 *a new provision concerning homicide cases involving allegations of "family violence" (s 9AH). This is defined in s 9AH(4) to mean "violence" against a person by a "family member".
+
+2. "Family member" is defined broadly in s 9AH(4), and includes:
+
+
+
+- a person who is or has been married to the person;
+
+- a person who has or has had an intimate personal relationship with the person;
+
+- a person who is or has been the father, mother, step-father or step-mother of the person;
+
+- a child who normally or regularly resides with the person;
+
+- a guardian of the person; and
+
+- another person who is or has been ordinarily a member of the household of the person.
+
+
+
+3. "Violence" is also defined broadly in s 9AH(4) to mean:
+
+
+
+- physical abuse;
+
+- sexual abuse;
+
+- psychological abuse (which need not involve actual or threatened physical or sexual abuse), including but not limited to:
+
+- intimidation;
+
+- harassment;
+
+- damage to property;
+
+- threats of physical abuse, sexual abuse or psychological abuse;
+
+- in relation to a child:
+
+- causing or allowing the child to see or hear the physical, sexual or psychological abuse of a person by a family member; or
+
+- putting the child, or allowing the child to be put, at real risk of seeing or hearing that abuse occurring.
+
+
+
+4. A single act may amount to "abuse" for the purpose of the definition of violence (s 9AH(5)(a)). A number of acts that form part of a pattern of behaviour may also amount to "abuse", even though some or all of those acts, when viewed in isolation, may appear to be minor or trivial (s 9AH(5)(b)).
+
+5. Section 9AH(1) provides that, for cases of murder, defensive homicide or manslaughter committed in circumstances where family violence is alleged, people may believe, and may have reasonable grounds for believing, that their conduct is necessary, even if:
+
+
+
+- They are responding to a harm that is not immediate; or
+
+- Their response involves the use of force in excess of the force involved in the harm or threatened harm.
+
+
+---
+
+
+## 8.2 Family Violence
+
+6. The provisions in s 9AH(1) clarify what is already the law in relation to self-defence. As noted above (see "Use of Pre-emptive Force"), people are not required to wait until an attack is in progress or immediately threatened before using defensive force. They are entitled to take steps to forestall a threatened attack before it has begun (*Osland** v R* (1998) 197 CLR 316). Similarly, disproportionate force may be used, as long as the accused believed it was necessary, and (in the case of defensive homicide or manslaughter) there were reasonable grounds for such a belief (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645).
+
+7. Sections 9AH(2) and (3) state that, in cases involving allegations of family violence, the following evidence may be relevant in determining whether the accused believed his or her conduct to be necessary, or had reasonable grounds for believing his or her conduct to be necessary:
+
+1. (a) the history of the relationship between the person and a family member, including violence by the family member towards the person or by the person towards the family member or by the family member or the person in relation to any other family member;
+
+2. (b) the cumulative effect, including psychological effect, on the person or a family member of that violence;
+
+3. (c) social, cultural or economic factors that impact on the person or a family member who has been affected by family violence;
+
+4. (d) the general nature and dynamics of relationships affected by family violence, including the possible consequences of separation from the abuser;
+
+5. (e) the psychological effect of violence on people who are or have been in a relationship affected by family violence;
+
+6. (f) social or economic factors that impact on people who are or have been in a relationship affected by family violence.
+
+8. If such evidence is given, the judge will need to explain to the jury its relevance to the facts in issue. This will differ, depending on the area under consideration:
+
+
+---
+
+
+## 8.2 Family Violence
+
+- In cases of murder self-defence (s 9AC), the judge will need to explain the way in which family violence may affect the accused’s belief about what actions were necessary to defend himself or herself.
+
+- In cases of defensive homicide (s 9AD), the judge will need to explain the way in which family violence may affect the reasonableness of the accused’s belief.
+
+- In cases of manslaughter self-defence (s 9AE), the judge will need to explain the way in which family violence may affect the accused’s belief about what actions were necessary to defend himself or herself, as well as the way in which it may affect the reasonableness of the grounds for that belief.
+
+
+
+9. See ‘Chapter 4: Evidence of Relationship and Family Violence’ in the Victorian Law Reform Commission’s [Defences to Homicide: Final Report](http://www.lawreform.vic.gov.au/sites/default/files/FinalReport.pdf)* *for a more detailed discussion of the relationship between self-defence and family violence, and the use which can be made of the evidence outlined above.
+
+
+---
+
+
+## 8.2 Family Violence and Self-defence
+
+## Family Violence and Self-defence
+
+
+
+1. The *Crimes Amendment (Abolition of Defensive Homicide) Act 2014* introduced a new Part 7 into the *Jury Directions Act 2013*. On 29 June 2015, these provisions were revised and relocated to Part 6 of the *Jury Directions Act 2015*.
+
+2. Part 3 of the *Jury Directions Act 2015* does not apply to Part 6 of the Act.
+
+3. Part 6 of the *Jury Directions Act 2015 *applies to any trial commencing on or after 29 June 2015, regardless of the date of any alleged offence.
+
+4. For the purposes of Part 6, “family violence” has the same meaning as in s 322J(2) of the *Crimes Act 1958* (which replicates the previous definition in s 9AH, see “Family Violence” above).
+
+5. The trial judge must give the jury preliminary directions on family violence, in accordance with s 59 of the *Jury Directions Act 2015*, if the defence counsel or the accused requests such directions, unless there are good reasons for not doing so (*Jury Directions Act 2015* s 58). And the judge may give them if the accused is unrepresented and the judge considers it in the interests of justice to do so (*Jury Directions Act 2015* s 58(3)).
+
+6. The judge must give the statutory directions on family violence as soon as practicable after the request is made and the judge may give the direction before any evidence is adduced in the trial. The directions may be repeated at any time during the trial (*Jury Directions Act 2015* s 58(4)–(5)).
+
+7. The directions must include all of the following (*Jury Directions Act 2015* s 59):
+
+
+
+(a) self-defence or duress (as the case requires) is, or is likely to be, in issue in the trial; and
+
+(b) as a matter of law, evidence of family violence may be relevant to determining whether the accused acted in self-defence or under duress (as the case requires); and
+
+(c) […] evidence in the trial is likely to include evidence of family violence committed by the victim against the accused or another person whom the accused was defending [...].
+
+
+---
+
+
+## 8.2 Family Violence and Self-defence
+
+8. The following directions under s 60 may also be sought and, if sought, must be given unless there are good reasons for not doing so:
+
+
+
+(a) that family violence–
+
+(i) is not limited to physical abuse and may include sexual abuse and psychological abuse;
+
+(ii) may involve intimidation, harassment and threats of abuse;
+
+(iii) may consist of a single act;
+
+(iv) may consist of separate acts that form part of a pattern of behaviour which can amount to abuse even though some or all of those acts may, when viewed in isolation, appear to be minor or trivial;
+
+(b) if relevant, that experience shows that–
+
+(i) people may react differently to family violence and there is no typical, proper or normal response to family violence;
+
+(ii) it is not uncommon for a person who has been subjected to family violence–
+
+(A) to stay with an abusive partner after the onset of family violence, or to leave and then return to the partner;
+
+(B) not to report family violence to police or seek assistance to stop family violence;
+
+(iii) decisions made by a person subjected to family violence about how to address, respond to or avoid family violence may be influenced by-
+
+(A) family violence itself;
+
+(B) cultural, social, economic and personal factors;
+
+(c) that, as a matter of law, evidence that the accused assaulted the victim on a previous occasion does not mean that the accused could not have been acting in self-defence […] in relation to the offence charged.
+
+
+---
+
+
+## 8.2 Content of the Charge
+
+## Content of the Charge
+
+
+---
+
+
+## 8.2 Content of the Charge
+
+1. When directing the jury about self-defence there is no set formula to be used (*Collingburn** v R* (1985) 18 A Crim R 294; *Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178).
+
+2. The burden of proof should be made very clear to the jury. They should be told that the accused should only be convicted of murder if the prosecution has proved that he or she did not act in self-defence (*R v **Alpagut* 27/7/1989 NSWCCA; *R v **Dziduch* (1990) 47 A Crim R 378; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178; *Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+3. One way the judge can do this is by explaining to the jury that they must acquit the accused of murder (and go on to consider whether he or she is guilty of defensive homicide), if they find *either*:
+
+1. That the accused believed it was necessary to do what he or she did to defend him or herself or another person from death or really serious injury; or
+
+2. That the prosecution has not proven beyond reasonable doubt that the accused did not have such a belief (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+4. The judge may explain to the jury that even if they are not sure that the accused held the requisite belief, they may still convict him or her of defensive homicide. In such a case they must assume that the accused held the belief that he or she said that he or she held. They may only convict him or her of defensive homicide if they are satisfied that the accused had no reasonable grounds for that asserted belief (*Babic v R* (2010) 28 VR 297; [2010] VSCA 198).
+
+
+---
+
+
+## 8.2 Content of the Charge
+
+5. When addressing defensive homicide, judges should be careful not to direct the jury that the accused’s *conduct* must have been unreasonable. The focus of the charge must be on the grounds for the accused’s *belief* (see, e.g. *R v Hendy *[2008] VSCA 231).
+
+6. The question of self-defence should be placed in its factual setting, and considerations which may assist the jury to reach its conclusion should be identified (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Dziduch* (1990) 47 A Crim R 378; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178).
+
+7. The jury should be told to consider all of the circumstances of the case, and that any one factor should be considered within that broader context. This helps ensure that matters of evidence, such as the proportionality of the force, are not elevated to rules of law (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Alpagut* 27/7/1989 NSWCCA; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178).
+
+8. The judge should offer such assistance by way of comment as is appropriate to the particular case. It will often be desirable to tell the jury to approach the task in a practical manner, giving proper weight to the predicament of the accused, which may have afforded little, if any, opportunity for calm deliberation or detached reflection (*Zecevic** v Director of Public Prosecutions* (1987) 162 CLR 645; *R v **Dziduch* (1990) 47 A Crim R 378; *R v **Portelli* (2004) 10 VR 259; [2004] VSCA 178).
+
+9. The issue of self defence should be listed with all of the other issues which the prosecution must establish, rather than being dealt with separately (*R v **Alpagut* 27/7/1989 NSWCCA).
+
+
+---
+
+
+## 8.2 Procedure for Charging the Jury about Statutory Self-defence
+
+## Procedure for Charging the Jury about Statutory Self-defence
+
+
+
+1. In most murder cases alleged to be committed on or after 23 November 2005 and before 1 November 2014 in which there is evidence that the accused acted in self-defence, it will be necessary to charge the jury about each of the following matters:
+
+
+
+- The other elements of murder;
+
+- Murder self-defence (s 9AC);
+
+- Defensive homicide (s 9AD);
+
+- The elements of manslaughter; and
+
+- Manslaughter self-defence (s 9AE).
+
+
+
+2. To assist the jury to understand the way in which these offences and defences interact, and the fact that there are different tests for self-defence in relation to murder and manslaughter, it is recommended that these matters be addressed in the order outlined above.
+
+
+
+Last updated: 27 October 2022
+
+
+---
+
+---
+
+# Chapter 8.2.1
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+# **8.2.1 Charge: Murder Self-****Defence**
+
+This charge should be given if it is alleged that the accused committed *murder *on or after 23 November 2005 and before 1 November 2014, and there is evidence from which a jury might infer that he or she was acting in self-defence. It should be inserted where indicated in the murder charge.
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+## Murder Self-defence
+
+In this case the defence has alleged that NOA was acting to defend him/herself when s/he killed NOV.[^2] I therefore need to give you some directions about "self-defence".
+
+The law recognises the right of people to defend themselves from attacks or threatened attacks. The law says that people may even commit acts that would otherwise be classified as "murder" if they believe those acts are necessary to defend themselves from being killed or really seriously injured. So in this case, even if you are satisfied that the prosecution has proven all of the other elements of murder beyond reasonable doubt, NOA will not be guilty of that offence if s/he acted in self-defence.
+
+Because the prosecution must prove the accused’s guilt, it is for the prosecution to prove, beyond reasonable doubt, that NOA was not acting in self-defence when s/he killed NOV.It is **not** for NOA to prove that s/he did act in self-defence.
+
+To prove that the accused was not acting in self-defence, the prosecution must satisfy you, beyond reasonable doubt, that when s/he killed NOV, s/he did not believe that it was necessary to do what s/he did to defend him/herself from the infliction of death or really serious injury.
+
+This involves assessing the accused’s state of mind at the time s/he [*insert relevant act*]. What threat did s/he believe s/he faced? Did s/he believe s/he was defending him/herself from the infliction of death or really serious injury? If so, did s/he believe it was necessary to react to that threat with force, and to react with the level of force used in order to defend him/herself from that harm – or was s/he acting for some other purpose, such as [*insert relevant example from the evidence and/or arguments, e.g. *"in retaliation for a past attack"]?
+
+[*If the harm the accused allegedly believed s/he faced may not amount to death or really serious injury, add the following shaded section.*]
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+According to the law, a person may only commit what would otherwise be considered murder if s/he believes s/he is responding to a threat of death or really serious injury. If s/he intentionally kills someone in response to what s/he believes is a less serious threat, s/he will be guilty of murder. You must therefore determine whether NOA believed s/he was responding to a threat of death or really serious injury when s/he killed NOV. If the prosecution can prove, beyond reasonable doubt, that s/he did not, then this element will be met.
+
+In making this assessment, you must consider the circumstances as **NOA** perceived them to be at the time s/he killed NOV. It does not matter if you think s/he was mistaken about the danger s/he faced, or if you believe that s/he overreacted to the threat or acted unreasonably. The question here is what **NOA** believed was necessary in the circumstances. You must determine whether the prosecution has proven that **NOA** did not believe it was necessary to act in the way s/he did, to defend him/herself against the threat of death or really serious injury that s/he thought s/he faced at the time.
+
+It is **only** if you are satisfied that NOA did not believe s/he was threatened with death or really serious injury, or did not act in the belief that what s/he did was necessary to defend him/herself from that threat, that this element will be satisfied.
+
+Considerations
+
+You must take into account all of the circumstances in which the killing occurred when determining whether NOA believed that it was necessary to do what s/he did to defend him/herself from the infliction of death or really serious injury. This includes [*insert any relevant factors, such as the *nature of the perceived threat*, any previous *relationship* between the parties, any *prior conduct* of the victim, or any personal *characteristics of the accused *that may have affected his or her **behaviour**, and relate to the facts in issue*].
+
+You should also consider the defence’s claim that NOA was reacting to an imminent threat. In such circumstances, a person cannot be expected to weigh precisely the exact amount of defensive action required. You should not look at the situation with the benefit of hindsight, but instead take into account the fact that calm reflection cannot always be expected in such a situation.
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+[*If it is alleged that the force used was disproportionate to the threat, add the following shaded section. However, if there is evidence of **self-defence** in the context of family violence, see the shaded section on family violence instead.*]
+
+It is for this reason the law does not require that any defensive force used be exactly proportionate to the harm threatened.
+
+However, if you consider that the accused’s actions were out of all proportion to the harm threatened, that is one of the factors you can take into account in determining whether s/he believed his/her actions to be necessary in the circumstances.
+
+In this case, the prosecution alleged that NOA’s acts were plainly disproportionate to the threat s/he believed s/he faced. [*Insert evidence and/or arguments.*] The defence responded [*insert evidence and/or arguments*].
+
+[*If it is alleged that the accused failed to retreat, add the following shaded section.*]
+
+In this case, you have heard evidence that NOA had the opportunity to retreat from the [*insert relevant act*], but failed to do so.
+
+Although the law does not require people to retreat from an attack before defending themselves, you can take into account a failure to do so when determining whether NOA believed that what s/he was doing was necessary in self-defence.
+
+[*If it is alleged that the accused engaged in a pre-emptive strike, add the following shaded section. However, if there is evidence of family violence between the accused and the victim, see the shaded section on family violence instead.*]
+
+In this case, the defence claimed that NOA was acting in self defence, even though s/he was not being physically attacked at the time s/he [*insert relevant act*]. The defence claimed that his/her actions were necessary despite the lack of an immediate threat, to defend against [*insert relevant evidence*]*.*
+
+The law says that people are not required to wait until an attack is actually in progress before defending themselves. They are entitled to use whatever force they believe is necessary to defend themselves from being killed or really seriously injured.
+
+However, the lack of immediacy of a threat is one of the factors you can take into account in determining what the accused believed to be necessary in the circumstances.
+
+[*If it is alleged that the accused was intoxicated, add the following shaded section.*]
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+In this case you have heard evidence that NOA was intoxicated at the time that s/he [*insert relevant act*]. If you find that s/he was intoxicated, you should take this into account when assessing whether s/he believed it was necessary to act in the way s/he did. This is because the issue to be decided is what the accused believed was necessary in all of the circumstances, including his/her state of intoxication.
+
+[*If there is evidence of family violence involving the accused and the victim, add the following shaded section if relevant*.[^3]]
+
+In this case you have heard evidence of what is called "family violence" between NOA and NOV. [*Insert evidence and/or arguments.*]
+
+The law says that where a person is killed in circumstances where family violence is alleged, the accused may believe that his/her conduct was necessary to defend him/herself even if:
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Charge: Murder Self-Defence
+
+- [*If relevant*] s/he is responding to a harm that is not immediate;
+
+- [*If relevant*] his/her response involves the use of force in excess of the force involved in the harm or threatened harm.
+
+
+
+This does not mean that a person who has suffered family violence may use any level of force in any circumstances. A person who has suffered family violence will still be guilty of murder if s/he did not believe that it was necessary to act in the way s/he did.
+
+However, the law recognises that in determining whether a person was defending him/herself from "family violence", it is not a simple matter of determining whether [an attack was in progress at the time the accused acted/the accused’s response was proportionate to the threatened harm]. Such cases are complicated, and require you to consider all of the evidence, including evidence of:
+
+[*Where there is evidence of one or more of the following matters (listed in *Crimes Act 1958 *s 9AH(3)), the judge should identify the evidence and relate it to the facts in issue:*
+
+(a) The *history of the relationship* between the person and a family member, including violence by the family member towards the person or by the person towards the family member or by the family member or the person in relation to any other family member;
+
+(b) The *cumulative effect*, including psychological effect, on the person or a family member of that violence;
+
+(c) *Social, cultural or economic factors *that impact on the person or a family member who has been affected by family violence;
+
+(d) The general *nature and dynamics* of relationships affected by family violence, including the possible consequences of separation from the abuser;
+
+(e) The *psychological effect of violence* on people who are or have been in a relationship affected by family violence;
+
+(f) *Social or economic factors* that impact on people who are or have been in a relationship affected by family violence.]
+
+In this case, the defence has submitted that NOA was acting defensively when s/he [*insert relevant act and arguments*]. The prosecution denied this was the case, alleging [*insert relevant evidence and/or arguments*].
+
+If, in light of all of the circumstances, you are satisfied that NOA did not believe that it was necessary to do what s/he did to defend him/herself from the infliction of death or really serious injury, then this fourth element will be met.
+
+
+[^2]: This charge is drafted for use in cases in which the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It will need to be modified if used in the following circumstances:
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another.
+[^3]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.1 Summary
+
+## Summary
+
+[*This section should replace point four onwards in the summary to the *murder charge*.*]
+
+
+
+- **Four** – that NOA did not believe that it was necessary to do what s/he did to defend him/herself from the infliction of death or really serious injury.
+
+
+
+If you find that these matters have not been proven, then you must find NOA not guilty of murder.
+
+However, a finding that NOA is not guilty of murder is not the end of the matter. If you decide that NOA is not guilty of murder because s/he was acting in self-defence, you must **then** consider whether s/he is guilty of "defensive homicide". I will now explain that offence to you.
+
+[*Insert *defensive homicide charge.]
+
+Last updated: 29 June 2015
+
+
+---
+
+---
+
+# Chapter 8.2.10
+
+
+## 8.2.10 Checklist: Criminal Negligence Manslaughter
+
+# **8.2.10 Checklist: Criminal Negligence Manslaughter**
+
+This checklist can be used instead of 7.2.3.2 Checklist: Negligent Manslaughter if it is alleged that the accused committed *criminal negligence manslaughter *on or after *23 November 2005 *and before *1 November 2014* and there is evidence from which a jury might infer that he or she was acting in *self-defence*.
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, that:
+
+
+
+1. The accused committed a criminally negligent act; **and**
+
+2. The accused’s act was not committed in self-defence.
+
+
+
+**Criminal Negligence**
+
+**1.** Has the prosecution proved that the act which caused the victim’s death was committed in circumstances which involved such a great falling short of the standard of care that a reasonable person would have exercised, and involved such a high risk of causing death or really serious injury, that it deserves to be criminally punished?
+
+If Yes, then go to 2a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**2a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Question 1)
+
+If No, then go to 2b
+
+**2b.** Has the prosecution proved that the accused did not have reasonable grounds for his/her belief that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Question 1)
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 8.2.2
+
+
+## 8.2.2 Charge: Defensive Homicide
+
+# **8.2.2 Charge: Defensive Homicide**
+
+This charge should be given if it is alleged that the accused committed *murder *on or after 23 November 2005 and before 1 November 2014, and there is evidence from which a jury might infer that he or she was acting in self-defence. It should be given after the charge on murder self-defence.
+
+The charge may be modified for use in cases where the accused has been *charged* with the offence of defensive homicide.
+
+
+
+## Introduction
+
+According to the law, people who kill in the belief that what they are doing is necessary to defend themselves from death or really serious injury do not commit murder, even if their belief is unreasonable. However, if they do not have reasonable grounds for believing that what they are doing is necessary in self-defence, they will be guilty of the offence of defensive homicide.
+
+To find the accused guilty of this offence, you must be satisfied that:
+
+
+
+- The prosecution have proven the first three elements of murder beyond reasonable doubt, but have failed to prove the fourth. That is, they have failed to prove that NOA did not act in self defence; and
+
+- The prosecution have proven, beyond reasonable doubt, that NOA did not have reasonable grounds for believing that what s/he did was necessary in self-defence.
+
+
+---
+
+
+## 8.2.2 Reasonable Grounds
+
+## Reasonable Grounds
+
+In determining whether NOA is guilty of this offence, you must focus on the belief that NOA said s/he had.[^2] That is, you must ask whether or not s/he had reasonable grounds for believing it was necessary to act in the way s/he did, to defend him/herself from death or really serious injury.
+
+In making your determination, you must consider the circumstances as NOA perceived them to be at the time s/he killed NOV. You must determine whether the prosecution has proven that, in those circumstances, there was no reasonable basis for the **accused** to have believed that it was necessary to act in the way s/he did, in response to the perceived threat.
+
+It does not matter if NOA was mistaken about that threat. The question is whether or not there were reasonable grounds for NOA to believe in the need to respond to the threat in the way s/he did, in the circumstances as s/he perceived them to be.
+
+
+[^2]: This charge has been drafted for use in cases where the accused has personally asserted that s/he acted in self-defence. If the issue of self-defence has arisen in another way, it will need to be modified accordingly.
+
+
+---
+
+
+## 8.2.2 Considerations
+
+## Considerations
+
+When determining whether the prosecution has proven that NOA had no reasonable grounds for believing his/her actions were necessary, you must again take into account all of the circumstances in which the killing occurred. This includes [*insert any relevant factors, such as the *nature of the perceived threat*, any previous *relationship* between the parties, any *prior conduct* of the victim, or any personal *characteristics of the accused* that may have affected his or her **behaviour**, and relate to the facts in issue*].
+
+As was the case in relation to self-defence, you must consider the defence’s claim that NOA was reacting to an imminent threat, and could not be expected to weigh precisely the exact amount of defensive action required.
+
+[*If it is alleged that the force used was disproportionate to the threat, add the following shaded section. However, if there is evidence of **self-defence** in the context of family violence, see the shaded section on family violence instead.*]
+
+Once again, the law does not require that any defensive force used be exactly proportionate to the harm threatened.
+
+However, if you consider that the accused’s actions were out of all proportion to the harm threatened, that is one of the factors you can take into account in determining whether s/he had reasonable grounds for believing his/her actions were necessary to defend him/herself from the threat of death or really serious injury.
+
+In this case, the prosecution alleged that NOA’s acts were plainly disproportionate to the threat s/he perceived. [*Insert evidence and/or arguments.*] The defence responded [*insert evidence and/or arguments*].
+
+[*If it is alleged that the accused failed to retreat, add the following shaded section.*]
+
+The evidence that NOA had the opportunity to retreat from the [*insert relevant act*], but failed to do so, is also relevant to this issue. Although the law does not require people to retreat from an attack before defending themselves, a failure to retreat is one of the factors that you can take into account in deciding whether NOA had reasonable grounds for believing that his/her actions were necessary.
+
+[*If it is alleged that the accused engaged in a pre-emptive strike, add the following shaded section. However, if there is evidence of family violence between the accused and the victim, see the shaded section on family violence instead.*]
+
+
+[^3]: If it is alleged that the intoxication was not self–induced, this section will need to be modified (see s 9AJ(4)). See Crimes Act 1958 ss 9AJ(5) and (6) for the definition of "self–induced" intoxication. Model charges are available from 8.6.1 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced) or 8.6.2 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced contested), as relevant.
+[^4]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.2 Considerations
+
+In this case, the defence claimed that NOA was acting in self defence, even though s/he was not being physically attacked at the time s/he [*insert relevant act*]. The defence said [*insert evidence and/or arguments*].
+
+As I told you in relation to self defence for murder, people are not required to wait until an attack is actually in progress before defending themselves. They are entitled to use whatever force they believe is necessary to defend themselves from being killed or really seriously injured.
+
+However, the lack of immediacy of a threat is one of the factors you can take into account in determining whether NOA had reasonable grounds for believing that his/her actions were necessary.
+
+[*If it is alleged that the accused was intoxicated, add the following shaded section.*]
+
+While evidence that NOA was intoxicated at the time that s/he [*insert relevant act*] was relevant to your determination of whether s/he believed it was necessary to act in the way s/he did, you must not take any intoxication into account in determining whether the accused had reasonable grounds for believing in the necessity of his/her actions.[^3] The law requires you to consider whether a person who was not intoxicated would have had reasonable grounds for believing those actions were necessary, in the circumstances as perceived by the accused.
+
+[*If there is evidence of family violence involving the accused and the victim, add the following shaded section if relevant*.[^4]]
+
+The evidence of "family violence" between NOA and NOV that I mentioned earlier is also relevant in this context. The law says that where a person is killed in circumstances where family violence is alleged, the accused may have reasonable grounds for believing, that his/her conduct was necessary to defend him/herself even if:
+
+
+[^3]: If it is alleged that the intoxication was not self–induced, this section will need to be modified (see s 9AJ(4)). See Crimes Act 1958 ss 9AJ(5) and (6) for the definition of "self–induced" intoxication. Model charges are available from 8.6.1 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced) or 8.6.2 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced contested), as relevant.
+[^4]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.2 Considerations
+
+- [*If relevant*] s/he is responding to a harm that is not immediate;
+
+- [*If relevant*] his/her response involves the use of force in excess of the force involved in the harm or threatened harm.
+
+
+
+I note again that this does not mean that a person who has suffered family violence may use any level of force in any circumstances. A person who has suffered family violence will be guilty of defensive homicide if s/he did not have reasonable grounds for believing that it was necessary to act in the way s/he did.
+
+However, as I mentioned earlier, the law recognises that in determining whether a person was defending him/herself from "family violence", it is not a simple matter of determining whether [an attack was in progress at the time the accused acted/the accused’s response was proportionate to the threatened harm]. Such cases are complicated, and require you to consider all of the evidence, including evidence of:
+
+[*Where there is evidence of one or more of the following matters (listed in *Crimes Act 1958 *s 9AH(3)), the judge should identify the evidence and relate it to the facts in issue:*
+
+(a) The *history of the relationship* between the person and a family member, including violence by the family member towards the person or by the person towards the family member or by the family member or the person in relation to any other family member;
+
+(b) The *cumulative effect*, including psychological effect, on the person or a family member of that violence;
+
+(c) *Social, cultural or economic factors* that impact on the person or a family member who has been affected by family violence;
+
+(d) The general *nature and dynamics* of relationships affected by family violence, including the possible consequences of separation from the abuser;
+
+(e) The *psychological effect* *of violence* on people who are or have been in a relationship affected by family violence;
+
+(f) *Social or economic factors* that impact on people who are or have been in a relationship affected by family violence.]
+
+In this case, the defence has submitted that NOA was acting defensively when s/he [*insert relevant act and arguments*]. The prosecution denied this was the case, alleging [*insert relevant evidence and/or arguments*].
+
+
+[^3]: If it is alleged that the intoxication was not self–induced, this section will need to be modified (see s 9AJ(4)). See Crimes Act 1958 ss 9AJ(5) and (6) for the definition of "self–induced" intoxication. Model charges are available from 8.6.1 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced) or 8.6.2 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced contested), as relevant.
+[^4]: If the trial commenced after 1 November 2014, irrespective of the date of the alleged offence, certain preliminary directions may need to be given to the jury. See 8.1.1 Preliminary Directions: Self-defence in the Context of Family Violence (Jury Directions Act 2015 ss 59, 60).
+
+
+---
+
+
+## 8.2.2 Summary
+
+## Summary
+
+**To ****summarise**, to find NOA guilty of defensive homicide:
+
+**One **– you must be satisfied that the prosecution have proven the first three elements of murder beyond reasonable doubt; and
+
+**Two **– you must find that the prosecution have failed to prove the fourth element of murder. That is, you must conclude that NOA is not guilty of murder because s/he was acting in self-defence; and
+
+**Three **– you must be satisfied that the prosecution have proven, beyond reasonable doubt, that NOA did not have reasonable grounds for believing that what s/he did was necessary in self-defence.
+
+**If you are not satisfied that this is the case, then you must find NOA not guilty of defensive homicide.**
+
+Last updated: 29 June 2015
+
+
+---
+
+---
+
+# Chapter 8.2.3
+
+
+## 8.2.3 Checklist: Murder Self-Defence with Manslaughter
+
+# **8.2.3 Checklist: Murder Self-Defence with Manslaughter**
+
+This checklist can be used if it is alleged that the accused committed *murder *on or after *23 November 2005 *and before *1 November 2014*, there is evidence from which a jury might infer that he or she was acting in *self-defence*, and ***both**** criminal negligence and unlawful and dangerous act manslaughter* are available as alternative verdicts.[^2]
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of murder, there are **four elements** that the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused caused the victim’s death; **and**
+
+2. The accused’s acts were conscious, voluntary and deliberate; **and**
+
+3. The accused intended to kill or cause really serious injury; **and**
+
+4. The accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured.
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.3 Checklist: Murder Self-Defence with Manslaughter
+
+**Cause of Death**
+
+**1.** Has the prosecution proved that the accused caused the victim’s death?
+
+***Consider – Were the accused’s actions a substantial or significant cause of the victim’s death?***
+
+If Yes then go to 2
+
+If No, then the accused is not guilty of Murder
+
+**Conscious, Voluntary and Deliberate Acts**
+
+**2.** Has the prosecution proved that the accused’s actions which caused the death were conscious, voluntary and deliberate?
+
+If Yes then go to 3
+
+If No, then the accused is not guilty of Murder
+
+**Intention**
+
+**3.** Has the prosecution proved that at the time the accused did the acts that caused the victim’s death, s/he intended to kill or to cause really serious injury?
+
+If Yes then go to 4
+
+If No, then the accused is not guilty of Murder (but may be guilty of Manslaughter – Go to 6)
+
+**Self-****defence**
+
+**4.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Murder (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then the accused is not guilty of Murder (but may be guilty of Defensive Homicide – Go to 5)
+
+Defensive Homicide
+
+The offence of defensive homicide should only be considered if you answered "Yes" to Questions 1, 2 and 3 above, and "No" to Question 4.
+
+Before you can convict the accused of defensive homicide, the prosecution must prove, beyond reasonable doubt, that:
+
+5. There were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured.
+
+**Defensive Homicide**
+
+**5.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Defensive Homicide (as long as you also answered Yes to Questions 1, 2 and 3 and No to Question 4)
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.3 Checklist: Murder Self-Defence with Manslaughter
+
+If No, then the accused is not guilty of Defensive Homicide
+
+Manslaughter
+
+The offence of manslaughter should **only** be considered if you answered "Yes" to Questions 1 and 2 above, and "No" to Question 3.
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, **either** that:
+
+**6.** The accused committed a criminally negligent act; **or**
+
+**7.** The accused committed an unlawful and dangerous act.
+
+The prosecution must **also** prove, beyond reasonable doubt, that:
+
+**8.** The accused’s act was not committed in self-defence.
+
+**Criminal Negligence**
+
+**6.** Has the prosecution proved that the act which caused the victim’s death was committed in circumstances which involved such a great falling short of the standard of care that a reasonable person would have exercised, and involved such a high risk of causing death or really serious injury, that it deserves to be criminally punished?
+
+If Yes, then go to 8a
+
+If No, then go 7a
+
+**Unlawful and Dangerous Act**
+
+**7a.** Has the prosecution proved that the accused intended to commit the act that caused the victim’s death?
+
+If Yes, then go to 7b
+
+If No, then the accused is not guilty of Manslaughter
+
+**7b.** Has the prosecution proved that the accused’s act that caused the victim’s death was unlawful?
+
+If Yes, then go to 7c
+
+If No, then the accused is not guilty of Manslaughter
+
+**7c.** Has the prosecution proved that the accused’s act that caused the victim’s death was dangerous?
+
+***Consider – Would a reasonable person consider that an act of that kind would ******expose another person or other people to an appreciable risk of serious injury?***
+
+If Yes, then go to 8a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**8a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and either 6 or 7(a, b and c))
+
+If No, then go to 8b
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.3 Checklist: Murder Self-Defence with Manslaughter
+
+**8b.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and either 6 or 7(a, b and c))
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+---
+
+# Chapter 8.2.4
+
+
+## 8.2.4 Checklist: Murder Self-Defence with Criminal Negligence Manslaughter
+
+# **8.2.4 Checklist: Murder Self-Defence with Criminal Negligence Manslaughter**
+
+This checklist can be used if it is alleged that the accused committed *murder *on or after *23 November 2005* and before *1 November 2014*, there is evidence from which a jury might infer that he or she was acting in *self-defence*, and *criminal negligence manslaughter *is available as an alternative verdict.[^2]
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of murder, there are **four elements** that the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused caused the victim’s death; **and**
+
+2. The accused’s acts were conscious, voluntary and deliberate; **and**
+
+3. The accused intended to kill or cause really serious injury; **and**
+
+4. The accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured.
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: Intentional and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.4 Checklist: Murder Self-Defence with Criminal Negligence Manslaughter
+
+**Cause of Death**
+
+**1.** Has the prosecution proved that the accused caused the victim’s death?
+
+***Consider – Were the accused’s actions a substantial or significant cause of the victim’s death?***
+
+If Yes then go to 2
+
+If No, then the accused is not guilty of Murder
+
+**Conscious, Voluntary and Deliberate Acts**
+
+**2.** Has the prosecution proved that the accused’s actions which caused the death were conscious, voluntary and deliberate?
+
+If Yes then go to 3
+
+If No, then the accused is not guilty of Murder
+
+**Intention**
+
+**3.** Has the prosecution proved that at the time the accused did the acts that caused the victim’s death, s/he intended to kill or to cause really serious injury?
+
+If Yes then go to 4
+
+If No, then the accused is not guilty of Murder (but may be guilty of Manslaughter – Go to 6)
+
+**Self-****defence**
+
+**4.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Murder (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then the accused is not guilty of Murder (but may be guilty of Defensive Homicide – Go to 5)
+
+Defensive Homicide
+
+The offence of defensive homicide should **only** be considered if you answered "Yes" to Questions 1, 2 and 3 above, and "No" to Question 4.
+
+Before you can convict the accused of defensive homicide, the prosecution must prove, beyond reasonable doubt, that:
+
+5. There were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured.
+
+**Defensive Homicide**
+
+**5.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Defensive Homicide (as long as you also answered Yes to Questions 1, 2 and 3 and No to Question 4)
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: Intentional and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.4 Checklist: Murder Self-Defence with Criminal Negligence Manslaughter
+
+If No, then the accused is not guilty of Defensive Homicide
+
+Manslaughter
+
+The offence of manslaughter should **only** be considered if you answered "Yes" to Questions 1 and 2 above, and "No" to Question 3.
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, that:
+
+6. The accused committed a criminally negligent act; **and**
+
+7. The accused’s act was not committed in self-defence.
+
+**Criminal Negligence**
+
+**6.** Has the prosecution proved that the act which caused the victim’s death was committed in circumstances which involved such a great falling short of the standard of care that a reasonable person would have exercised, and involved such a high risk of causing death or really serious injury, that it deserves to be criminally punished?
+
+If Yes, then go to 7a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**7a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and 6)
+
+If No, then go to 7b
+
+**7b.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and 6)
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: Intentional and Reckless Murder (without Self-defence).
+
+
+---
+
+---
+
+# Chapter 8.2.5
+
+
+## 8.2.5 Checklist: Murder Self-Defence with Unlawful and Dangerous Act Manslaughter
+
+# **8.2.5 Checklist: Murder Self-Defence with Unlawful and Dangerous Act Manslaughter**
+
+This checklist can be used if it is alleged that the accused committed *murder *on or after *23 November 2005* and before *1 November 2014*, there is evidence from which a jury might infer that he or she was acting in *self-defence*, and *unlawful and dangerous act manslaughter* is available as an alternative verdict.[^2]
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of murder, there are **four elements** that the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused caused the victim’s death; **and**
+
+2. The accused’s acts were conscious, voluntary and deliberate; **and**
+
+3. The accused intended to kill or cause really serious injury; **and**
+
+4. The accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured.
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.5 Checklist: Murder Self-Defence with Unlawful and Dangerous Act Manslaughter
+
+**Cause of Death**
+
+**1.** Has the prosecution proved that the accused caused the victim’s death?
+
+***Consider – Were the accused’s actions a substantial or significant cause of the victim’s death?***
+
+If Yes then go to 2
+
+If No, then the accused is not guilty of Murder
+
+**Conscious, Voluntary and Deliberate Acts**
+
+**2.** Has the prosecution proved that the accused’s actions which caused the death were conscious, voluntary and deliberate?
+
+If Yes then go to 3
+
+If No, then the accused is not guilty of Murder
+
+**Intention**
+
+**3.** Has the prosecution proved that at the time the accused did the acts that caused the victim’s death, s/he intended to kill or to cause really serious injury?
+
+If Yes then go to 4
+
+If No, then the accused is not guilty of Murder (but may be guilty of Manslaughter – Go to 6)
+
+**Self-****defence**
+
+**4.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Murder (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then the accused is not guilty of Murder (but may be guilty of Defensive Homicide – Go to 5)
+
+Defensive Homicide
+
+The offence of defensive homicide should **only** be considered if you answered "Yes" to Questions 1, 2 and 3 above, and "No" to Question 4.
+
+Before you can convict the accused of defensive homicide, the prosecution must prove, beyond reasonable doubt, that:
+
+5. There were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured.
+
+**Defensive Homicide**
+
+**5.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Defensive Homicide (as long as you also answered Yes to Questions 1, 2 and 3 and No to Question 4)
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.5 Checklist: Murder Self-Defence with Unlawful and Dangerous Act Manslaughter
+
+If No, then the accused is not guilty of Defensive Homicide
+
+Manslaughter
+
+The offence of manslaughter should **only** be considered if you answered "Yes" to Questions 1 and 2 above, and "No" to Question 3.
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, that:
+
+6. The accused intended to commit the act that caused the victim’s death; **and**
+
+7. The accused’s act was unlawful; **and**
+
+8. The accused’s act was dangerous; **and**
+
+9. The accused’s act was not committed in self-defence.
+
+**Intention**
+
+**6.** Has the prosecution proved that the accused intended to commit the act that caused the victim’s death?
+
+If Yes, then go to 7
+
+If No, then the accused is not guilty of Manslaughter
+
+**Unlawful Act**
+
+**7.** Has the prosecution proved that the accused’s act that caused the victim’s death was unlawful?
+
+If Yes, then go to 8
+
+If No, then the accused is not guilty of Manslaughter
+
+**Dangerous Act**
+
+**8.** Has the prosecution proved that the accused’s act that caused the victim’s death was dangerous?
+
+***Consider – Would a reasonable person consider that an act of that kind would expose another person or other people to an appreciable risk of serious injury?***
+
+If Yes, then go to 9a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**9a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2, 6, 7 and 8)
+
+If No, then go to 9b
+
+**9b.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2, 6, 7 and 8)
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.5 Checklist: Murder Self-Defence with Unlawful and Dangerous Act Manslaughter
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+---
+
+# Chapter 8.2.6
+
+
+## 8.2.6 Checklist: Murder Self-Defence with No Manslaughter
+
+# **8.2.6 Checklist: Murder Self-Defence with No Manslaughter**
+
+This checklist can be used if it is alleged that the accused committed *murder *on or after *23 November 2005* and before *1 November 2014*, there is evidence from which a jury might infer that he or she was acting in *self-defence*, and *manslaughter is not available* as an alternative verdict.[^2]
+
+Before you can convict the accused of murder, there are **four elements** that the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The accused caused the victim’s death; **and**
+
+2. The accused’s acts were conscious, voluntary and deliberate; **and**
+
+3. The accused intended to kill or cause really serious injury; **and**
+
+4. The accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured.
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.6 Checklist: Murder Self-Defence with No Manslaughter
+
+**Cause of Death**
+
+**1.** Has the prosecution proved that the accused caused the victim’s death?
+
+***Consider – Were the accused’s actions a substantial cause of the victim’s death?***
+
+If Yes then go to 2
+
+If No, then the accused is not guilty of Murder
+
+**Conscious, Voluntary and Deliberate Acts**
+
+**2.** Has the prosecution proved that the accused’s actions which caused the death were conscious, voluntary and deliberate?
+
+If Yes then go to 3
+
+If No, then the accused is not guilty of Murder
+
+**Intention**
+
+**3.** Has the prosecution proved that at the time the accused did the acts that caused the victim’s death, s/he intended to kill or to cause really serious injury?
+
+If Yes then go to 4
+
+If No, then the accused is not guilty of Murder
+
+**Self-****defence**
+
+**4.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Murder (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then the accused is not guilty of Murder (but may be guilty of Defensive Homicide – Go to 5)
+
+Defensive Homicide
+
+The offence of defensive homicide should **only** be considered if you answered "Yes" to Questions 1, 2 and 3 above, and "No" to Question 4.
+
+Before you can convict the accused of defensive homicide, the prosecution must prove, beyond reasonable doubt, that:
+
+5. There were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured.
+
+**Defensive Homicide**
+
+**5.** Has the prosecution proved that there were no reasonable grounds for the accused to believe that what s/he did was necessary to defend him/herself from being killed or really seriously injured?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes then the accused is guilty of Defensive Homicide (as long as you also answered Yes to Questions 1, 2 and 3 and No to Question 4)
+
+If No, then the accused is not guilty of Defensive Homicide
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+
+## 8.2.6 Checklist: Murder Self-Defence with No Manslaughter
+
+Last updated: 1 November 2014
+
+
+[^2]: This checklist will need to be adapted if reckless murder has been left to the jury – see 7.2.1.2 Checklist: International and Reckless Murder (without Self-defence).
+
+
+---
+
+---
+
+# Chapter 8.2.7
+
+
+## 8.2.7 Charge: Manslaughter Self-Defence
+
+# **8.2.7 Charge: Manslaughter Self-****Defence**
+
+**Warning: **This charge relates to the defence of "manslaughter – self-defence" (Crimes Act 1958 s 9AE). As this defence has so far been the subject of only limited judicial interpretation, the charge should be treated with caution.
+
+This charge should be given if *manslaughter* is available as a verdict in relation to a homicide committed on or after 23 November 2005 and before 1 November 2014, and there is evidence from which a jury might infer that the accused was acting in self-defence. It is recommended that the charge be given immediately after directing the jury about the elements of manslaughter.
+
+
+
+## Introduction
+
+As I have already mentioned, in this case the defence has alleged that NOA was acting defensively when s/he killed NOV.[^2] I have already explained the law of self-defence in relation to murder, as well as directing you about the offence of defensive homicide. I now need to tell you about the law of self-defence in relation to manslaughter.
+
+The law says that people may commit acts that would otherwise be classified as "manslaughter" if they believe, on reasonable grounds, that it is necessary to commit those act to defend themselves. So even if you are satisfied that the prosecution has proven all of the elements of manslaughter beyond reasonable doubt, NOA will not be guilty of that offence if s/he acted in self-defence.
+
+As is the case for self-defence in relation to murder, it is for the prosecution to prove, beyond reasonable doubt, that NOA was not acting in self-defence when s/he committed the acts that would otherwise be considered "manslaughter".[^3] It is **not** for NOA to prove that s/he did act in self-defence.
+
+So before you can find the accused guilty of manslaughter, you must be satisfied that the prosecution has proven, beyond reasonable doubt:
+
+
+
+- All of the elements of the offence, **and**
+
+- That NOA did **not** act in self-defence.
+
+
+[^2]: This charge is drafted for use in cases in which the principal charge is murder, manslaughter is raised as an alternative verdict, and the defence does not deny that the accused killed the victim, but contends that it was done in self-defence. It assumes that the jury has already been charged in relation to murder self-defence and defensive homicide (see Charge: Murder Self-defence and Charge: Defensive Homicide).
+The charge will need to be modified if used in the following circumstances:
+– If manslaughter is the principal charge;
+– If the jury has not been instructed about murder self-defence;
+– If self-defence arises on the evidence, but is not alleged by the defence;
+– If the defence denies that the accused killed the victim; or
+– If there is evidence that the accused was acting in defence of another or to prevent or terminate the unlawful deprivation of liberty.
+[^3]: This charge assumes that the defence does not deny that the accused killed the victim, but contends it was done in self-defence. If the defence does deny that the accused killed the victim, parts of the charge will need to be modified.
+
+
+---
+
+
+## 8.2.7 Elements of Manslaughter Self-defence
+
+## Elements of Manslaughter Self-defence
+
+In relation to manslaughter, there are **two possible ways** for the prosecution to prove that the accused was not acting in self-defence.
+
+**First**, the prosecution can prove that when NOA killed NOV, s/he did not believe that it was necessary to do what s/he did to defend him/herself.
+
+As with self-defence in relation to murder, this involves assessing the accused’s state of mind at the time s/he killed NOV. What threat did s/he believe s/he faced? Did s/he believe it was necessary to react to the threat with force, and to do what s/he did in order to defend him/herself – or was s/he acting for some other purpose, such as [*insert relevant example from the evidence and/or arguments, e.g. *"to attack another" *or* "in retaliation for a past attack"]?
+
+**Secondly**, the prosecution can prove that even if NOA believed his/her acts were necessary, that belief was not based on reasonable grounds.
+
+This again requires you to consider the circumstances as NOA perceived them to be at the time s/he killed NOV, as is the case in relation to defensive homicide. You must determine whether the prosecution has proven that there was no reasonable basis for the **accused** to have believed that it was necessary to act in the way s/he did, in response to the threat s/he believed s/he faced.
+
+If the prosecution fails to prove to you beyond reasonable doubt **either** that NOA did **not **believe it was necessary to act in the way s/he did to defend him/herself, **or** that that belief was **not** based on reasonable grounds, then you must find him/her not guilty of manslaughter. It is **only** if you are satisfied that the prosecution has proven one or other of these matters that you may convict him/her of manslaughter – as long as you are also satisfied that all of the elements of the offence have been proven.
+
+
+---
+
+
+## 8.2.7 Considerations
+
+## Considerations
+
+In making your determination, you must again take into account all of the circumstances in which the killing took place, including the fact that a person cannot be expected to weigh precisely the exact amount of self-defensive action required to respond to an imminent threat.
+
+You should also take into account the same factors that I mentioned in relation to murder self-defence and defensive homicide, such as [*insert relevant factors from the following list*:
+
+
+
+- The nature of the threat;
+
+- Any previous relationship between the parties;
+
+- Any prior conduct of the victim;
+
+- Any personal characteristics of the accused that may have affected his or her behaviour;
+
+- The proportionality of the of the accused’s response to the harm threatened;
+
+- Any failure to take obvious evasive action;
+
+- The lack of immediacy of the threatened harm;
+
+- Any circumstances of family violence.]
+
+
+
+[*If it is alleged that the accused was intoxicated, add the following shaded section.*]
+
+As is the case in relation to murder self-defence and defensive homicide, you can also take into account the accused’s intoxication when assessing whether s/he believed it was necessary to act in the way s/he did. However, you must not take any intoxication into account in determining whether the accused’s belief in the necessity of his/her actions was based on reasonable grounds.[^4] The law requires you to consider whether a person who was not intoxicated would have had reasonable grounds for believing those actions were necessary, in the circumstances as perceived by the accused.
+
+
+[^4]: If it is alleged that the intoxication was not self–induced, this section will need to be modified (see s 9AJ(4)). See Crimes Act 1958 ss 9AJ(5) and (6) for the definition of "self–induced" intoxication. Model charges are available from 8.6.1 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced) or 8.6.2 Charge: Statutory Intoxication (23/11/05–31/10/14) (Self–induced contested), as relevant.
+
+
+---
+
+
+## 8.2.7 Summary
+
+## Summary
+
+**To ****summarise**, even if you decide that all of the elements of manslaughter have been proven beyond reasonable doubt, you may find that NOA was not guilty of that offence because s/he was acting in self-defence.
+
+Before you can find NOA guilty of manslaughter, you must therefore be satisfied **not only** that all of the elements of the offence have been met, but **also** that the prosecution has proven, beyond reasonable doubt, that NOA **either**:
+
+
+
+- Did not believe that it was necessary to do what s/he did to defend him/herself; **or**
+
+- Did not have reasonable grounds for holding that belief.
+
+
+
+**If the prosecution cannot prove one or other of these matters beyond reasonable doubt, then you must find NOA not guilty of manslaughter.**
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 8.2.8
+
+
+## 8.2.8 Checklist: Manslaughter Self-Defence
+
+# **8.2.8 Checklist: Manslaughter Self-****Defence**
+
+This checklist can be used instead of the Manslaughter Checklist if it is alleged that the accused committed ***either**** criminal negligence manslaughter ****or**** unlawful and dangerous act manslaughter *on or after *23 November 2005* and before *1 November 2014* and there is evidence from which a jury might infer that he or she was acting in *self-defence*.
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, **either** that:
+
+
+
+1. The accused committed a criminally negligent act; **or**
+
+2. The accused committed an unlawful and dangerous act.
+
+
+
+The prosecution must **also** prove, beyond reasonable doubt, that:
+
+
+
+3. The accused’s act was not committed in self-defence.
+
+
+---
+
+
+## 8.2.8 Checklist: Manslaughter Self-Defence
+
+**Criminal Negligence**
+
+**1.** Has the prosecution proved that the act which caused the victim’s death was committed in circumstances which involved such a great falling short of the standard of care that a reasonable person would have exercised, and involved such a high risk of causing death or really serious injury, that it deserves to be criminally punished?
+
+If Yes, then go to 3a
+
+If No, then go 2a
+
+**Unlawful and Dangerous Act**
+
+**2a.** Has the prosecution proved that the accused intended to commit the act that caused the victim’s death?
+
+If Yes, then go to 2b
+
+If No, then the accused is not guilty of Manslaughter
+
+**2b.** Has the prosecution proved that the accused’s act that caused the victim’s death was unlawful?
+
+If Yes, then go to 2c
+
+If No, then the accused is not guilty of Manslaughter
+
+**2c.** Has the prosecution proved that the accused’s act that caused the victim’s death was dangerous?
+
+***Consider – Would a reasonable person consider that an act of that kind would expose another person or other people to an appreciable risk of serious injury?***
+
+If Yes, then go to 3a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**3a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to either Question 1 or 2(a, b and c))
+
+If No, then go to 3b
+
+**3b.** Has the prosecution proved that the accused did not have reasonable grounds for his/her belief that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to either Question 1 or 2(a, b and c))
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 8.2.9
+
+
+## 8.2.9 Checklist: Unlawful and Dangerous Act Manslaughter
+
+# **8.2.9 Checklist: Unlawful and Dangerous Act Manslaughter**
+
+This checklist can be used instead of 7.2.2.3 Checklist: Manslaughter by Unlawful and Dangerous Act if it is alleged that the accused committed *unlawful and dangerous act manslaughter *on or after *23 November 2005* and before *1 November 2014*, and there is evidence from which a jury might infer that he or she was acting in *self-defence*.
+
+The checklist is designed for use where it is alleged that the accused believed it was necessary to do what s/he did to *defend him/herself*. It will need to be modified if it is alleged that the accused acted to *defend another person* or to *terminate the unlawful deprivation of liberty.*
+
+Before you can convict the accused of manslaughter, the prosecution must prove, beyond reasonable doubt, that:
+
+
+
+1. The accused intended to commit the act that caused the victim’s death; **and**
+
+2. The accused’s act was unlawful; **and**
+
+3. The accused’s act was dangerous; **and**
+
+4. The accused’s act was not committed in self-defence.
+
+
+---
+
+
+## 8.2.9 Checklist: Unlawful and Dangerous Act Manslaughter
+
+**Intention**
+
+**1.** Has the prosecution proved that the accused intended to commit the act that caused the victim’s death?
+
+If Yes, then go to 2
+
+If No, then the accused is not guilty of Manslaughter
+
+**Unlawful Act**
+
+**2.** Has the prosecution proved that the accused’s act that caused the victim’s death was unlawful?
+
+If Yes, then go to 3
+
+If No, then the accused is not guilty of Manslaughter
+
+**Dangerous Act**
+
+**3.** Has the prosecution proved that the accused’s act that caused the victim’s death was dangerous?
+
+***Consider – Would a reasonable person consider that an act of that kind would expose another person or other people to an appreciable risk of serious injury?***
+
+If Yes, then go to 4a
+
+If No, then the accused is not guilty of Manslaughter
+
+**Self-****defence**
+
+**4a.** Has the prosecution proved that the accused did not believe that it was necessary to do what s/he did to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then go to 4b
+
+**4b.** Has the prosecution proved that the accused did not have reasonable grounds for his/her belief that what s/he did was necessary to defend him/herself?
+
+***Consider – What were the circumstances as perceived by the accused?***
+
+If Yes, then the accused is guilty of Manslaughter (as long as you also answered Yes to Questions 1, 2 and 3)
+
+If No, then the accused is not guilty of Manslaughter
+
+Last updated: 1 November 2014
+
+
+---

@@ -1,0 +1,2466 @@
+# Chapter 7.7.1
+
+
+## 7.7.1 Employer’s Duty to Employees and Non-Employees
+
+# 7.7.1 Employer’s Duty to Employees and Non-Employees
+
+
+
+## Overview of OHS Offences
+
+
+
+1. Division 2 of Part 3 of the Occupational Health and Safety Act 2004 (“OHS Act 2004”) creates three offences that an employer may be charged with:
+
+
+
+- failing to provide and maintain a safe working environment for employees (s 21);
+
+- failing to monitor the health of employees or the conditions at a workplace, or to provide information to employees about health and safety (s 22);
+
+- failing to ensure that people other than employees are not exposed to risks to health and safety (s 23).
+
+
+
+1. This topic concerns the first and third of these offences.
+
+
+---
+
+
+## 7.7.1 Authority to Prosecute
+
+## Authority to Prosecute
+
+
+
+1. Proceedings for offences under the Act may only be brought by:
+
+
+
+- the Victorian Workcover Authority;
+
+- an inspector with the written authorisation of the Authority; or
+
+- in the case of indictable offences,[^2] the Director of Public Prosecutions (OHS Act 2004 s 130).
+
+
+
+2. Authority to prosecute is not an element of an offence. Consequently, if the accused does not raise the issue, the presumption of regularity applies and the court may presume the prosecution was validly commenced (AB Oxford Cold Storage Co v Arnott (2005) 11 VR 298; AB Oxford Cold Storage Co v Arnott (2003) 8 VR 288).
+
+3. Where the accused raises an issue regarding authorisation, the prosecution must prove that the prosecution was validly commenced on the balance of probabilities (AB Oxford Cold Storage Co v Arnott (2005) 11 VR 298; AB Oxford Cold Storage Co v Arnott (2003) 8 VR 288).
+
+4. Difficulties may arise where the Victorian Workcover Authority only authorises an inspector to prosecute in a particular case (rather than providing an inspector with a general power to prosecute). Such an authorisation is not put in doubt simply because it does not, on its face, identify the specific prosecution commenced. There is a rebuttable presumption that an authorisation which is capable of applying to a proceeding does apply. To rebut the presumption, the accused must show that the apparent authorisation does not apply (AB Oxford Cold Storage Co v Arnott (2005) 11 VR 298; Berwin v Donohoe (1915) 21 CLR 1).
+
+5. To determine whether an inspector had the necessary authority to prosecute, the court will need to examine the wording of the written authorisation, in conjunction with the charge–sheet or indictment (AB Oxford Cold Storage Co v Arnott (2005) 11 VR 298; Berwin v Donohoe (1915) 21 CLR 1).
+
+
+[^2]: The offences created by ss 21 and 23 are an indictable offence (OHS Act 2004 ss 21(4), 23(2)).
+
+
+---
+
+
+## 7.7.1 Overview of Elements and Circumstances
+
+## Overview of Elements and Circumstances
+
+
+
+## Elements
+
+
+
+1. The offences under ss 21 and 23 both have the following 4 elements:
+
+1. the accused was an employer at the relevant time;
+
+1. there was a risk to health and safety;
+
+2. the accused failed to take an identified measure which would have eliminated or reduced the risk (as the case may be);
+
+3. it was ‘reasonably practicable’ in the circumstances for the employer to have taken those measures (DPP v Vibro-Pile (2016) 49 VR 676, [6]; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [25]).
+
+2. There is no need to prove mens rea, and no defence of honest and reasonable mistake of fact or “due diligence” (R v Commercial Industrial Construction Group (2006) 14 VR 321; ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+
+3. There is also no need to prove any of the elements of negligence, such as duty of care, loss or foreseeability (Dinko Tuna Farmers v Markos (2007) 98 SASR 96).[^3]
+
+
+
+## Circumstances in which s 21 may be breached
+
+
+[^3]: However, foreseeability may be relevant to the fourth element.
+
+
+---
+
+
+## 7.7.1 Overview of Elements and Circumstances
+
+4. Without limiting the general obligation in s 21(1) to provide and maintain a safe working environment for employees, section 21(2) specifies five circumstances in which an employer breaches s 21:
+
+1. failing to provide or maintain plants or systems of work that are, so far as is reasonably practicable, safe and without risks to health;
+
+4. failing to make arrangements for ensuring, so far as is reasonably practicable, safety and the absence of risks to health in connection with the use, handling, storage or transport of plant or substances;
+
+5. failing to maintain, so far as is reasonably practicable, each workplace under the employer’s management and control in a condition that is safe and without risks to health;
+
+6. failing to provide, so far as is reasonably practicable, adequate facilities for the welfare of employees at any workplace under the employer’s management and control; and
+
+7. failing to provide the information, instruction, training or supervision to employees that is necessary to enable them to perform their work in a way that is safe and without risks to health.
+
+5. This list is not exhaustive of the ways in which s 21 may be breached (Kirk v Industrial Court of NSW (2010) 239 CLR 531).
+
+6. While this list does not directly apply to charges under s 23, these circumstances inform the assessment of whether an employer has breached its duty to non-employees (DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [23]).
+
+7. After setting out the general approach that employers must take to workplace safety, this commentary examines the elements of the offence and then the operation of the deemed breach circumstances.
+
+
+[^3]: However, foreseeability may be relevant to the fourth element.
+
+
+---
+
+
+## 7.7.1 Duty to eliminate or reduce
+
+## Duty to eliminate or reduce
+
+
+
+1. The duties in ss 21 and 23 require the employer to eliminate risks to health and safety, so far as is reasonably practicable. If it is not reasonably practicable to eliminate risks, then the employer must reduce the risks so far as is reasonably practicable (OHS Act 2004 s 20(1)).
+
+
+
+## Employers Must Take a Proactive Approach to Safety
+
+
+---
+
+
+## 7.7.1 Duty to eliminate or reduce
+
+2. Compliance with the obligations created by ss 21 and 23 requires employers to be proactive in identifying and responding to risks in a workplace (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119).
+
+3. In providing a working environment that is safe and without risks to health, employers must account for employees who are hasty, careless, inattentive or who fail to take reasonable care for their own safety or who fail to comply with a prescribed safe system of work (R v Commercial Industrial Construction Group (2006) 14 VR 321, [49]. See also McLean v Tedman (1984) 155 CLR 306; Workcover Authority (NSW) (Inspector Mulder) v Arbor Products International (Aust) Pty Ltd [2001] NSWIRComm 50; Dunlop Rubber Australia Ltd v Buckley (1952) 87 CLR 313 (Dixon CJ); DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [51]).
+
+4. The jury must not consider the accused’s acts or omissions with the benefit of hindsight, but with an understanding that one of the chief responsibilities of an employer is the safety of their employees and non-employees. The Act requires employers to adopt an active, imaginative and flexible approach to potential dangers in the workplace, while recognising that human frailty is an ever-present reality (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119; WorkCover Authority of New South Wales (Inspector Egan) v Atco Controls Pty Ltd (1998) 82 IR 80; R v Commercial Industrial Construction Group (2006) 14 VR 321; R v Australian Char Pty Ltd [1999] 3 VR 834; Director of Public Prosecutions v Amcor Packaging Australia Pty Ltd (2005) 11 VR 557).
+
+5. From time to time employers must search for and address hazards that may exist in the workplace. The degree of vigilance required in searching for hazards depends in part on the degree of harm that may result from those hazards. It is especially important that employers responsible for inherently dangerous workplaces search for and eliminate hazards (Rail Infrastructure Corporation v Page [2008] NSWIRComm 169).
+
+
+---
+
+
+## 7.7.1 Elements
+
+## Elements
+
+
+
+## The accused is an employer
+
+
+
+1. The first element the prosecution must prove is that the accused is an employer (OHS Act 2004 s 21).
+
+2. An employer is defined as a person who employs one or more people under contracts of employment or contracts of training (OHS Act 2004 s 5).
+
+
+---
+
+
+## 7.7.1 A risk to health and safety
+
+## A risk to health and safety
+
+
+
+1. The second element is that there is a risk to health and safety.
+
+2. This element operates differently for the offences under ss 21 and 23.
+
+3. For s 21, the prosecution must prove that there was a risk in the working environment to employee health and safety.
+
+4. For s 23, the prosecution must prove that there was a risk from the conduct of the employer’s undertaking to the health and safety of non-employees.
+
+
+---
+
+
+## 7.7.1 Section 21 – Duty to employees
+
+## Section 21 – Duty to employees
+
+
+
+1. The prosecution must prove that the accused’s failure to take the identified measures led to their employees’ health or safety being placed at risk (OHS Act 2004 s 21; Cahill v State of New South Wales [2008] NSWIRComm 123; WorkCover Authority of NSW v Kellogg (Aust) Pty Ltd (No 1) [1999] NSWIRComm 453).
+
+2. There are three aspects to this requirement:
+
+1. there must be a risk;
+
+1. it must have been a risk to the health or safety of employees; and
+
+2. the risk must have arisen in the working environment.
+
+
+
+## Risk
+
+
+---
+
+
+## 7.7.1 Section 21 – Duty to employees
+
+3. The first part of this element requires the prosecution to identify a particular risk which is said to exist.
+
+4. Proof of the existence of that risk provides the factual framework against which the third and fourth elements are assessed.
+
+5. The prosecution does not need to show that the accused created the risk to their employees’ health and safety, or that the risk was caused solely by the accused’s failure to take the specified measures (O'Sullivan v The Crown in the Right of the State of New South Wales (Department of Education and Training) (2003) 125 IR 361; State of New South Wales (NSW Police) v Inspector Covi [2005] NSWIRComm 303; WorkCover Authority of NSW v Kellogg (Aust) Pty Ltd (No 1) [1999] NSWIRComm 453).
+
+6. The risk may arise from a single act or omission, or a combination of acts or omissions (Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+7. The prosecution must identify the general class of risk that it is alleged existed (State of New South Wales (NSW Police) v Inspector Covi [2005] NSWIRComm 303; O'Sullivan v The Crown in the Right of the State of New South Wales (Department of Education and Training) (2003) 125 IR 361).
+
+8. The court must not artificially confine the alleged class of risk. For example, it may not be appropriate to attempt to distinguish between a risk of harm resulting from deliberate conduct and a risk of harm arising from negligent conduct (State of New South Wales (NSW Police) v Inspector Covi [2005] NSWIRComm 303; Cahill v State of New South Wales [2008] NSWIRComm 123; O'Sullivan v The Crown in the Right of the State of New South Wales (Department of Education and Training) (2003) 125 IR 361).
+
+9. When describing workplace risks, the judge should avoid the term “potential risk”, as that may refer to a risk that does not yet exist. The Act does not require employers to address non-existent risks (Morrison v Powercoal Pty Ltd (2004) 137 IR 253; Newcastle Wallsend Coal Company v McMartin [2006] NSWIRComm 339).
+
+
+---
+
+
+## 7.7.1 Section 21 – Duty to employees
+
+10. In determining whether a risk exists (and whether a measure is necessary to reduce or eliminate that risk), the employer is not entitled to assume that employees are highly trained and experienced (DPP v Vibro-Pile (2016) 49 VR 676, [59]).
+
+
+---
+
+
+## 7.7.1 Section 21 – Duty to employees
+
+## Employees
+
+
+
+11. The prosecution must prove that it was the health and safety of the accused’s employees that was placed at risk (OHS Act 2004 s 21; Linfox & Ors v The Queen (2010) 30 VR 507).
+
+12. Section 21(3) defines “employee” to include independent contractors and sub-contractors. See “Independent Contractors” below.
+
+13. Section 21 concerns the accused’s failure to protect employees as a class. Consequently, the prosecution does not need to identify a particular employee that was put at risk by the accused’s failure to take the specified measure (Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+14. However, it will sometimes be necessary to specify (in the particulars to the offence) which people it is alleged were exposed to the risk, in order to identify the relevant class of employees (Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+15. The jury must be satisfied that the accused’s employees were placed at risk, rather than employees of some other entity (Linfox & Ors v the Queen (2010) 30 VR 507).
+
+16. However, in the case of a work-site involving employees of several entities, each employer will have separate duties to their employees. This is especially relevant in relation to labour-hire companies, which are responsible for the safety of their employees even when the company does not control the employee’s work site (DPP v Vibro-Pile (2016) 49 VR 676, [151]).
+
+17. In particular, a labour-hire company will need to take steps to take positive steps to ensure the safety of their employees and provide appropriate supervision and monitoring to ensure a safe working environment (DPP v Vibro-Pile (2016) 49 VR 676, [151]).
+
+
+
+## Working environment
+
+
+---
+
+
+## 7.7.1 Section 21 – Duty to employees
+
+18. The risk to employees’ health or safety must have arisen in the working environment (OHS Act 2004 s 21).
+
+19. The concept of the “working environment” is not confined to permanent premises or environments with clear physical boundaries. It covers any environment where an employee may be expected to work, and may move with the employee based on the nature of the work (see, e.g. TTS Pty Ltd v Griffiths (1991) 105 FLR 255; Gough v National Coal Board [1959] AC 698; Whittaker v Delmina Pty Ltd [1998] VSC 175; DPP v Vibro-Pile (2016) 49 VR 676).
+
+20. A “working environment” can include:
+
+
+
+- a truck driver’s truck;
+
+- a construction site;
+
+- the location of high voltage electrical lines;
+
+- segments of road under construction; or
+
+- the area in which a guided tour takes place (see TTS Pty Ltd v Griffiths (1991) 105 FLR 255; Gough v National Coal Board [1959] AC 698; Whittaker v Delmina Pty Ltd [1998] VSC 175).
+
+
+---
+
+
+## 7.7.1 Section 23 – Duty to non-employees
+
+## Section 23 – Duty to non-employees
+
+
+
+1. For a charge under s 23, the prosecution must prove that the conduct of the employer’s undertaking created a risk to the health and safety of non-employees. There are the three aspects of this element:
+
+1. The employer conducted an undertaking;
+
+1. The employer’s undertaking created a risk;
+
+2. The risk was to the health or safety of non-employees.
+
+
+
+## Employer’s undertaking
+
+
+
+2. The employer’s undertaking is the employer’s enterprise or business (R v Associated Octel Co Ltd [1994] 4 All ER 1051; DPP v Vibro-Pile (2016) 49 VR 676; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50).
+
+3. The undertaking is not limited to the employer’s normal place of work, or where the employer is in control of the workplace. It is assessed based on the nature of the employer’s business (DPP v Vibro-Pile (2016) 49 VR 676, [175]–[177]; Whittaker v Delmina Pty Ltd [1998] VSC 175).
+
+
+
+## Non-employees
+
+
+
+4. For the s 23 offence, the person placed at risk must have been a non-employee.
+
+5. For the purpose of this offence, the deeming provision that extends the definition of employees to certain independent contractors (See “Independent Contractors” below) does not apply. As a result, where the case involves a risk to an independent contractor, the prosecution may choose to bring the charge either under s 21, and rely on the deeming provision, or under s 23 where there is no deeming provision (Muscat v Magistrates’ Court of Victoria (2018) 59 VR 570, [45]).
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+## Failure to take an identified measure which would have eliminated or reduced the risk
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+1. The Act requires that employers “provide and maintain … a working environment that is safe and without risks to health” or “ensure … that persons other than employees are not exposed to risks to their health or safety”. This is an obligation to achieve a result (that is, the provision and maintenance of a safe environment) (ABC Development Learning Centres Pty Ltd v Wallace (2007) 16 VR 409; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [24]).
+
+2. However, as a matter of practice, the prosecution must identify, with sufficient precision, the particular measures that it says the accused should have taken to prevent the identified risk from eventuating (Kirk v Industrial Court of NSW (2010) 239 CLR 531; John Holland v Industrial Court of NSW [2010] NSWCA 338. See also Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+3. The prosecution must identify, as part of the particulars of the offence, the measure or measures which it claims were necessary to eliminate or reduce the risk. These must be identified before the trial begins, as the adequacy of particulars does not depend on the evidence which is presented (DPP v Vibro-Pile (2016) 49 VR 676, [131]).
+
+4. It is not sufficient to make generic allegations that the accused failed to “guarantee” or “ensure” that a workplace was safe, or failed to take “adequate” steps (Kirk v Industrial Court of NSW (2010) 239 CLR 531; John Holland v Industrial Court of NSW [2010] NSWCA 338).
+
+5. The degree of specificity required will depend on the issues in the case, and whether the particulars identify the act or omission that constitutes the offence (Baida Poultry Pty Ltd v Glenister [2015] VSCA 344, [49]; DPP v Vibro-Pile (2016) 49 VR 676, [134]).
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+6. The prosecution does not, however, need to provide particulars that show the proposed actions were ‘reasonably practicable’ or, in the case of a charge involving s 21(2)(e), that the actions were ‘necessary’. The question of ‘reasonably practicable’ or ‘necessity’ is a broad jury question that involves a consideration of all of the evidence (Baida Poultry v Inspector Glenister [2015] VSCA 344; Downer EDI Works Pty Ltd v The Queen (2017) 53 VR 1, [28]–[33]).
+
+7. The measures necessary will depend on the circumstances prevailing at the workplace, the activities undertaken, the skills of the employees and the plant or substances in use (Kirk v Industrial Court of NSW (2010) 239 CLR 531; DPP v Vibro-Pile (2016) 49 VR 676, [51]; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [40]).[^4]
+
+8. In determining whether a measure is necessary, the employer is not entitled to assume that employees are highly trained and experienced (DPP v Vibro-Pile (2016) 49 VR 676, [59]).
+
+9. It may be alleged that the accused failed to take one specific measure or a number of identified measures (Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+10. As ss 21 and 23 do not rely on principles of attribution or vicarious liability, it is not necessary to identify at what level within an organisation the alleged failure occurred. The focus instead is on whether the employer has failed to take all reasonably practicable measures, either by actively implemented an unsafe system of work, or allowing an unsafe system of work to continue (R v Commercial Industrial Construction Group (2006) 14 VR 321; State Rail Authority of New South Wales v Dawson (1990) 37 IR 110; ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409; R v Gateway Foodmarkets Ltd [1997] 3 All ER 78; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [39], [47]).
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+11. The section does not create a system of vicarious criminal liability where a failure by an employee on a single occasion to follow safe processes necessarily constitutes a failure to maintain a safe system of work (DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [45]).
+
+12. While it is not necessary to identify the level at which the alleged failure occurred, failures by employees to follow safe systems of work may raise the question of precisely what the duty required in the circumstances. Where the prosecution alleges a failure to maintain a safe system, the jury will need to examine the whole system, including the experience, skill, knowledge and training of employees within that system. The prosecution will also need to show that there was a reasonably practicable step the employer failed to take to maintain its system (DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [41]–[43]).
+
+13. The prosecution must prove that the proposed measure would have eliminated or reduced the risk. It is insufficient to establish that the measure might have improved workplace safety (Kirk v Industrial Court of NSW (2010) 239 CLR 531; Chugg v Pacific Dunlop Ltd (1990) 170 CLR 249; Baiada Poultry Pty Ltd v The Queen (2012) 246 CLR 92).
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+## Measures and Accidents (Causation not required)
+
+
+
+14. It is commonly the case that OH&S prosecutions occur after an incident has occurred that has demonstrated a system of work was unsafe. In such cases, the parties and the judge must maintain a clear understanding of how the accident may be relevant to proof of the offence.
+
+15. The prosecution does not need to show that the accident was caused by the accused’s failure to take the necessary steps. The occurrence of an accident is of evidentiary significance only (DPP v Vibro-Pile (2016) 49 VR 676, [10]; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [24]).
+
+16. As evidence, the occurrence of an accident may help the prosecution show:
+
+
+
+- that a risk existed;
+
+- the likelihood of the risk eventuating;
+
+- the gravity of consequences if the risk does eventuate;
+
+- whether the accused took all reasonably practicable steps to eliminate or reduce that risk (DPP v Vibro-Pile (2016) 49 VR 676, [91]. See also R v Irvine (2009) 25 VR 75; R v Australian Char Pty Ltd [1999] 3 VR 834; Whittaker v Delmina Pty Ltd [1998] VSC 175; Orbit Drilling Pty Ltd v The Queen (2012) 35 VR 399).
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Failure to take an identified measure which would have eliminated or reduced the risk
+
+17. In cases where the prosecution relies on an accident for evidentiary purposes:
+
+1. the jury should be specifically directed that it is not necessary to show that the relevant measure would have prevented the accident. Further, that any exploration of the circumstances of the accident is only for the purpose of showing or rebutting its evidentiary significance (DPP v Vibro-Pile (2016) 49 VR 676, [89], [99]);
+
+2. it is best to avoid the language of causation in directions to the jury. References to an act or omission causing or producing a risk is apt to mislead the jury to think that the prosecution must show that the act or omission caused an accident or injury (DPP v Vibro-Pile (2016) 49 VR 676, [83]);
+
+1. an undue focus on the accident will also lead to an unnecessary narrowing of the relevant risk (DPP v Vibro-Pile (2016) 49 VR 676, [86]);
+
+2. a judge must be careful to ensure that any directions on the permissible use of evidence of an accident does not mislead the jury into thinking that they need to determine whether the failure to take the prescribed steps caused the accident (DPP v Vibro-Pile (2016) 49 VR 676, [91]).
+
+
+[^4]: A non-exhaustive list of ways in which an employer may breach the obligation to provide and maintain a safe working environment is contained in s 21(2): see “Circumstances in which section 21 may be breached” below.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+## Reasonable practicability
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+1. The fourth element the prosecution must prove is that it was reasonably practicable for the accused to take the specified measures (OHSA 2004 s 21; DPP v Vibro-Pile (2016) 49 VR 676, [6]).
+
+2. Employers are not required to ensure that accidents never happen. Their obligation is to provide and maintain, so far as is reasonably practicable, a working environment that is safe and without risks to health, or ensure, so far as is reasonably practicable, that persons other than employees are not exposed to risks to their health and safety (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119. See also R v Australian Char Pty Ltd [1999] 3 VR 834; R v Commercial Industrial Construction Group (2006) 14 VR 321; Western Power Corporation v Shepherd [2004] WASCA 233; Baiada Poultry Pty Ltd v The Queen (2012) 246 CLR 92; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [24]).
+
+3. The words “so far as is reasonably practicable” define the scope of the employer’s duty. While liability for breaching the duty is absolute, the content of the obligation is not (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409; TTS Pty Ltd v Griffiths (1991) 105 FLR 255).
+
+4. The content of the obligation to take reasonably practicable steps may vary over time, due to changes in knowledge about risks, the means available to address risks, and the availability, suitability and cost of remedial action (Western Power Corporation v Shepherd [2004] WASCA 233).
+
+5. The question of what is reasonably practicable must be determined objectively, having regard to all sources of knowledge, including those in the particular trade or industry of the employer (DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [28]).
+
+6. It is not appropriate to ask whether a particular measure was necessary. The statutory question is whether the particular measure was reasonably practicable. An argument that a particular measure was not necessary is better expressed as an argument that, in the circumstances, there was no subsisting risk (Keilor Melton Quarries v The Queen [2020] VSCA 169, [43]–[45]).
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+7. The burden is on the prosecution to prove that the specified measures were reasonably practicable. It is not sufficient to demonstrate that a measure could have been taken and that, if taken, it might have had some effect on the safety of a working environment (Baiada Poultry Pty Ltd v The Queen (2012) 246 CLR 92. But see Chugg v Pacific Dunlop Ltd (1990) 170 CLR 249).
+
+8. An obligation to take “reasonably practicable” measures is less onerous than an obligation to take “practical”, “physically possible” or “feasible” measures (Slivak v Lurgi (Australia) Pty Ltd (2001) 205 CLR 304 (Gaudron J); Kent v Gunns Ltd (2009) 18 Tas R 454).
+
+9. The words “so far as is reasonably practicable” do not introduce an element of intention or negligence into the offence (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409; TTS Pty Ltd v Griffiths (1991) 105 FLR 255).
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+## Factors relevant to “reasonably practicable”
+
+
+
+10. Determining whether a measure is reasonably practicable involves a common sense assessment (Kirk v Industrial Court of NSW (2010) 239 CLR 531).
+
+11. The jury must consider the following matters when determining what is reasonably practicable:
+
+1. the likelihood of the hazard or risk eventuating;
+
+1. the degree of harm that would result if the hazard or risk eventuated;
+
+2. what the accused knows or reasonably ought to know about the hazard or risk and any ways of eliminating or reducing the hazard or risk;
+
+3. the availability and suitability of ways to eliminate or reduce the hazard or risk; and
+
+4. the cost of eliminating or reducing the hazard or risk (OHS Act 2004 s 20(2). See also Tenix Defence Pty Ltd v MacCarron [2003] WASCA 165; Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119; R v Australian Char Pty Ltd [1999] 3 VR 834).
+
+12. These considerations direct attention to the state of affairs at the accused’s workplace at the relevant time (DPP v Vibro-Pile (2016) 49 VR 676, [51]).
+
+13. For example, the fact that there is a formal system in place may not be sufficient if that system is not followed. Instead, it may be necessary and reasonably practicable to implement a system which is followed, including a requirement to read, understand and follow relevant instructions (see, e.g. DPP v Vibro-Pile (2016) 49 VR 676, [53]).
+
+
+
+## Level of risk
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+14. Two of the factors that are relevant to the jury’s determination of reasonable practicability are the likelihood of the risk eventuating, and the degree of harm that would result if it did eventuate (OHS Act 2004 s 20(2)(a)–(b)).
+
+15. As noted above under ‘Measures and Accidents (Causation not required)’, the prosecution does not need to prove that an accident occurred or that anyone was injured. However, the occurrence of an accident may provide evidence of the existence and seriousness of an existing risk (Theiss Pty Ltd v Industrial Court of NSW (2010) 78 NSWLR 94; Kirk v Industrial Court of NSW (2010) 239 CLR 531; R v Irvine (2009) 25 VR 75, [41]; R v Australian Char Pty Ltd [1999] 3 VR 834; Orbit Drilling Pty Ltd v The Queen (2012) 35 VR 399). See also Measures and Accidents (Causation not required), above.
+
+16. In some cases minor and less obvious risks may pose a greater danger than major and obvious risks. Where relevant, the jury should be reminded of this fact (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119; R v Australian Char Pty Ltd [1999] 3 VR 834; Western Power Corporation v Shepherd [2004] WASCA 233).
+
+
+
+## Reasonable foreseeability
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+17. Another factor that is relevant to the jury’s determination of reasonable practicability is whether the accused knew, or reasonably ought to have known, about the risk and ways of reducing that risk (OHS Act 2004 s 20(2)(c)).
+
+18. Foreseeability of risk is related to reasonable practicability because it is not reasonably practicable to protect against unforeseeable risks (R v Powercor (Aust) [2005] VSCA 163; MacCarron v Coles Supermarkets Australia Pty Ltd & Ors (2001) 23 WAR 355 (Murray J); WorkCover v Fletcher Constructions [2002] NSWIRComm 316; Marshall v Gotham Co Ltd [1954] AC 360).
+
+19. It is therefore not sufficient for the prosecution to simply identify a risk in hindsight. They must show that the accused either knew of the risk in advance, or ought to have known of that risk (and thus should have taken the specified measure) (R v Powercor (Aust) [2005] VSCA 163; MacCarron v Coles Supermarkets Australia Pty Ltd & Ors (2001) 23 WAR 355 (Murray J); WorkCover v Fletcher Constructions [2002] NSWIRComm 316; Marshall v Gotham Co Ltd [1954] AC 360).
+
+20. A risk will have been reasonably foreseeable if a reasonable employer in the accused’s position could have foreseen the risk (R v Powercor (Aust) [2005] VSCA 163).
+
+21. The reasonable foreseeability test is objective. The fact that the accused did not foresee the risk in question may be relevant to whether or not the risk was foreseeable, but it will not be conclusive (R v Australian Char Pty Ltd [1999] 3 VR 834).
+
+22. In considering whether a risk was reasonably foreseeable, the jury must take into account the general state of knowledge about that risk, as well as any specific knowledge that was available within a relevant industry (Chugg v Pacific Dunlop (No 2) [1999] 3 VR 934 (Ormiston JA); Yamasa Seafood Australia Pty Ltd v Watkins [2000] VSC 156; Silent Vector v Shepherd [2003] WASCA 315).
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+23. The jury must also consider the risk posed to employees who act inadvertently or carelessly in relation to their own safety.[^5] The range of behaviour that is reasonably foreseeable is not limited to behaviour that is reasonable (R v Australian Char Pty Ltd [1999] 3 VR 834; Smithwick v National Coal Board (1950) 2 KB 335; Dunlop Rubber Australia Ltd v Buckley (1952) 87 CLR 313; DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [51]).
+
+24. The jury must weigh the chance of spontaneous carelessness against the practicality of taking measures to address the risk of human error (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119; R v Australian Char Pty Ltd [1999] 3 VR 834; Western Power Corporation v Shepherd [2004] WASCA 233).
+
+25. Where an accident has occurred, the jury does not need to consider whether that precise accident was foreseeable. Instead, the question is whether the risk, which manifested in the accident, was reasonably foreseeable. However, the accident may provide evidence that informs whether the risk was reasonably foreseeable (Holmes v RE Spence & Co Pty Ltd (1992) 5 VIR 119; DPP v Vibro-Pile (2016) 49 VR 676, [56]).
+
+26. While foreseeability of risk is relevant to the jury’s determination of whether the accused took all reasonably practicable measures, it is not an element of the offence. It is therefore not appropriate to substitute a test of foreseeability for the statutory test of “reasonably practicable” (see Chugg v Pacific Dunlop (1990) 170 CLR 249; Chugg v Pacific Dunlop (No 2) [1999] 3 VR 934 (Ormiston JA); Kent v Gunns Ltd (2009) 18 Tas R 454).
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Reasonable practicability
+
+## Regulations, compliance codes and industry standards
+
+
+
+27. In some cases, there will be a regulation or a compliance code that contains a provision regarding an employer’s duty in certain circumstances. If the employer has complied with the regulation or code, no offence will have been committed (OHS Act 2004 s 152).
+
+28. In other cases, there will be industry standards documents or former regulations that address the relevant area. As such documents are not legally binding,[^6] compliance does not constitute a defence. However, the court may consider such standards, in conjunction with expert evidence, when determining whether the accused took all reasonably practicable steps to provide a safe working environment (Yamasa Seafood Australia Pty Ltd v Watkins [2000] VSC 156; Kent v Gunns Ltd (2009) 18 Tas R 454; Hughes v Van Eyk [2008] NSWSC 525; Reed v Peridis [2005] SASC 136).
+
+29. When standards or former regulations are used in this manner, they are not substituted for the elements of the offence. They merely provide a guide to whether the accused has taken all reasonably practicable steps (Yamasa Seafood Australia Pty Ltd v Watkins [2000] VSC 156; Kent v Gunns Ltd (2009) 18 Tas R 454; Hughes v Van Eyk [2008] NSWSC 525; Reed v Peridis [2005] SASC 136).
+
+
+[^5]: Although employees are obliged to take reasonable care for their own safety and the safety of others (OHS Act 2004 s 25), this does not limit the scope or nature of the duty placed on employers by s 21 (ABC Developmental Learning Centres Pty Ltd v Wallace (2007) 16 VR 409).
+[^6]: This includes standards published by the Standards Association of Australia.
+
+
+---
+
+
+## 7.7.1 Foreseeability, experts and independent contractors
+
+## Foreseeability, experts and independent contractors
+
+
+
+1. Where the employer engages a specialist contractor to perform a task, the employer is not expected to foresee dangers known only within the specialist contractor’s field of expertise (Reilly v Devcon (2008) 36 WAR 492; Tobiassen v Reilly [2009] WASCA 26).
+
+2. It is difficult to establish that an employer has breached the Act where it relies on a specialist contractor to perform a task outside the employer’s expertise, and the contractor appears to perform its task carefully and safely (Reilly v Devcon (2008) 36 WAR 492; Hamersley Iron Pty Ltd v Robertson, WASC 2/10/1998; Tobiassen v Reilly [2009] WASCA 26; Complete Scaffolding Services v Adelaide Brighton Cement [2001] SASC 199).
+
+
+
+## Non-Delegable Duty
+
+
+
+3. The duty that is placed on employers by ss 21 and 23 is non-delegable (Kirk v Industrial Court of NSW (2010) 239 CLR 531).
+
+4. Consequently, where a worksite is shared by several employers, the fact that other employers have an obligation to take all reasonably practicable measures to protect the health and safety of their employees will be of little relevance to the case against the accused employer (Territory Commercial Roofing Pty Ltd v Steven Hart [2009] ACTSC 119).
+
+5. However, evidence that other employers have undertaken various safety measures may be relevant to demonstrating whether the accused has taken all reasonably practicable steps to provide a safe working environment or to eliminate risks to health and safety (Territory Commercial Roofing Pty Ltd v Steven Hart [2009] ACTSC 119).
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+## Circumstances in Which Section 21 may be Breached
+
+
+
+1. Without limiting the general obligation in s 21(1) to provide and maintain a safe working environment for employees, section 21(2) specifies five circumstances in which an employer breaches s 21:
+
+1. failing to provide or maintain plants or systems of work that are, so far as is reasonably practicable, safe and without risks to health;
+
+1. failing to make arrangements for ensuring, so far as is reasonably practicable, safety and the absence of risks to health in connection with the use, handling, storage or transport of plant or substances;
+
+2. failing to maintain, so far as is reasonably practicable, each workplace under the employer’s management and control in a condition that is safe and without risks to health;
+
+3. failing to provide, so far as is reasonably practicable, adequate facilities for the welfare of employees at any workplace under the employer’s management and control; and
+
+4. failing to provide the information, instruction, training or supervision to employees that is necessary to enable them to perform their work in a way that is safe and without risks to health.
+
+2. These subparagraphs are self-contained. Where the accused’s conduct meets the description in any one paragraph, then that will, by itself, constitute a breach of s 21(1) (DPP v Vibro-Pile (2016) 49 VR 676, [106], [108]).
+
+3. These subparagraphs do not apply to risks to non-employees which lead to a charge under s 23. However, the failures and measures described in the subparagraphs will inform the assessment of whether an employer has breached the s 23 duty (DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50, [23]).
+
+4. To reflect the deeming and self-contained nature of s 21(2), the following sections provide modified statements of elements for use in cases where the prosecution relies on a deemed breach under s 21(2).
+
+
+
+## Failing to provide and maintain safe systems of work
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+5. Section 21(2)(a) imposes an obligation to provide and maintain systems of work that are, so far as is reasonably practicable, safe and without risks to health.
+
+6. To meet the statutory obligation to provide and maintain a safe system of work, a system must be sufficiently systematic or comprehensive and contain appropriate detail. Employees must also be sufficiently trained to implement that system (Genner Constructions Pty Limited v WorkCover Authority of New South Wales (Insp Guillarte) [2001] NSWIRComm 267; WorkCover v Fletcher Constructions [2002] NSWIRComm 316).
+
+7. The phrase “system of work” describes the regularly adopted method of carrying on the employer’s business. Isolated day to day acts by an employee, in contravention of general practice or procedures, do not form part of a system of work (Andar Transport Pty Ltd v Brambles Ltd (2004) 217 CLR 424; English v Wilsons and Clyde Coal Co Ltd [1936] SC 883).
+
+8. Not every procedure that forms part of a system of work needs to be documented. The need for documentation depends on the particular circumstances and the nature of the work environment (WorkCover v Fletcher Constructions [2002] NSWIRComm 316).
+
+9. Because employers must actively manage risks in the workplace, they must monitor the implementation of systems of work. A “paper system” that is not implemented or enforced is not sufficient (Inspector Campbell v Hitchcock [2004] NSWIRComm 87; R v Commercial Industrial Construction Group (2006) 14 VR 321; WorkCover Authority of NSW (Inspector Penfold) v Fernz Construction Materials Ltd [No 2] [2000] NSWIRComm 99).
+
+10. Consequently, in determining whether an employer has failed to provide or maintain safe systems of work, the jury should also look at the employer’s methods for checking whether their procedures are complied with (WorkCover v Fletcher Constructions [2002] NSWIRComm 316).
+
+11. A system of work may break down due to employees becoming lax through routine or over-familiarity. Employers may also need to take steps to protect against this danger (Rail Infrastructure Corporation v Page [2008] NSWIRComm 169; R v Commercial Industrial Construction Group (2006) 14 VR 321; R v Australian Char Pty Ltd [1999] 3 VR 834).
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+12. It will generally not be sufficient for an employer to simply assign responsibility for safety issues to a supervisor or manager. They must ensure that the supervisor or manager effectively implements the employer’s safe system of work. This may require the employer to monitor the supervisor or manager (Rail Infrastructure Corporation v Page [2008] NSWIRComm 169; R v Commercial Industrial Construction Group (2006) 14 VR 321; WorkCover v Fletcher Constructions [2002] NSWIRComm 316).
+
+13. Where an employer sets up and properly implements a safe system of work, the mere fact that the system is not complied with does not, of itself, establish that s 21(2)(a) has been breached. The prosecution must prove that it was reasonably practicable for the employer to have taken further steps to guard against the breach of an established and properly implemented system. This may depend on whether the breach of the existing system of work was reasonably foreseeable (WorkCover v Fletcher Constructions [2002] NSWIRComm 316. See also DPP v JCS Fabrications Pty Ltd & Anor [2019] VSCA 50).
+
+14. In cases where the prosecution relies on s 21(2)(a), the judge should modify the charge to refer to the following four elements:
+
+1. the accused is an employer;
+
+5. there was a risk in the working environment to employee health and safety;
+
+6. the accused failed to provide or maintain plant or systems of work that would have eliminated or reduced the risk (as the case may be);
+
+7. it was ‘reasonably practicable’ in the circumstances for the employer to have provided or maintained that plant or systems of work (DPP v Vibro-Pile (2016) 49 VR 676, [6], [106]).
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+## Failing to maintain a workplace in a safe condition
+
+
+
+15. Section 21(2)(c) requires employers, as far as is reasonably practicable, to maintain workplaces under their management and control in a condition that is safe and without risks to health.
+
+16. A person may have control over a workplace without having control over every activity engaged in at the workplace (Tobiassen v Reilly [2009] WASCA 26).
+
+17. Consequently, the fact that an employer generally cannot control the specific manner in which a specialist contractor performs a task does not mean that the employer does not have control over the workplace where the contractor performs that task (Tobiassen v Reilly [2009] WASCA 26).[^7]
+
+18. Where a work site is shared by two or more employers, the fact that one employer has assumed control or authority over the workplace does not diminish the duty of the other employer to ensure the health and safety of its employees (Morrison v Waratah Engineering [2005] NSWIRComm 63).
+
+19. An employer only has management and control of a site when it has the ability to address risks to health. The employer’s absence from a site, such as a workplace that is shut down on a weekend, may mean that the employer does not have management or control of the site during that absence (Markos v Commercial and General Projects Pty Ltd [2009] SAIRC 45).
+
+20. In cases where the prosecution relies on s 21(2)(c), the judge should modify the charge to refer to the following four elements:
+
+1. the accused is an employer;
+
+8. there was a risk in the working environment to employee health and safety;
+
+9. the accused failed to maintain the condition of each workplace under the employer’s management and control so as to eliminate or reduce the risk (as the case may be);
+
+10. it was ‘reasonably practicable’ in the circumstances for the employer to maintain each workplace in this manner (DPP v Vibro-Pile (2016) 49 VR 676, [6], [106]).
+
+
+
+## Failing to provide information, instruction or training or supervision
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+21. Under s 21(2)(e) employers must provide the information, instruction, training and supervision necessary to enable employees to work safely and without risks to health.
+
+22. This may include appropriately disseminating safety alerts to employees who need such information (DPP v Coates Hire Operations Pty Ltd (2012) 36 VR 361).
+
+23. Under this sub-paragraph, the question of fact for the jury is to consider what training (or information, instruction or supervision) is necessary to perform the work safely and without risks to health. This will be fact-dependent and involve consideration of the nature of the risks and the available options. It may, for instance, involve practical, hands-on, training (see, e.g. DPP v Vibro-Pile (2016) 49 VR 676, [119] and [124]).
+
+24. However, as noted above under ‘Measures and Accidents (Causation not required)', where the case involves an accident, it is not necessary to show that the lack of training caused the accident (DPP v Vibro-Pile (2016) 49 VR 676, [128]).
+
+25. Unlike the other obligations set out in s 21(2), this obligation is not qualified by the words “so far as is reasonably practicable”. The obligation is, under this subparagraph, absolute (R v Commercial Industrial Construction Group (2006) 14 VR 321, [44]; DPP v Vibro-Pile (2016) 49 VR 676, [104]; c.f. R v H Waterhouse & Son Pty Ltd [2009] VSCA 121, [59]–[65]).
+
+26. In cases where the prosecution relies on s 21(2)(e), the judge should modify the charge to only refer to three elements:
+
+1. the accused is an employer;
+
+2. there was a risk in the working environment to employee health and safety;
+
+3. the accused failed to provide such information, instruction, training or supervision as is necessary to eliminate or reduce the risk (see DPP v Vibro-Pile (2016) 49 VR 676, [6], [104]).
+
+27. Despite the absence of the requirement of ‘so far as is reasonably practicable’ for proof of the offence under this limb of s 21(2), the statement of the charge in the indictment may be drafted as follows:
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Circumstances in Which Section 21 may be Breached
+
+[The accused, at a named place and date] being an employer, failed so far as was reasonably practicable to provide and maintain for its employees a working environment that was safe and without risks to health in that it failed to provide such information, instruction, training or supervision to employees of the employer as is necessary to enable those persons to perform their work in a way that is safe and without risks to health (Downer EDI Works Pty Ltd v The Queen (2017) 53 VR 1, [12]).
+
+
+
+28. This style of drafting reflects the fact that the offence provision is s 21(1) and complies with the requirement in Criminal Procedure Act 2009 Schedule 1, clause 1 to ‘state the offence that the accused is alleged to have committed’ (Downer EDI Works Pty Ltd v The Queen (2017) 53 VR 1, [19]. See also Criminal Procedure Act 2009 Schedule 1, clauses 1, 3).
+
+
+[^7]: See “Independent Contractors” below for further information concerning an employer’s duty in relation to such contractors.
+
+
+---
+
+
+## 7.7.1 Independent Contractors
+
+## Independent Contractors
+
+
+
+1. As noted above, the offence in s 21 only addresses the duties an employer owes to its employees. An employer’s duty to non-employees is primarily governed by s 23.
+
+2. While the duty to independent contractors under s 21 depends on whether the employer controls the conduct of the contractor, the duty under s 23 does not. Section 23 can therefore apply to an independent contractor, whether or not that contractor is also treated as an employee for the purpose of section 21 (Muscat v Magistrates’ Court of Victoria [2018] VSC 650, [45]).
+
+3. The following discussion should not be transposed to a case involving s 23 (see DPP v Vibro-Pile (2016) 49 VR 676, [170]–[173]).
+
+4. Independent contractors engaged by an employer are considered to be employees for the purpose of s 21, as are the employees of those independent contractors (OHS Act 2004 s 21(3); DPP v Coates Hire Operations Pty Ltd (2012) 36 VR 361).
+
+5. To be included within the scope of s 21(3), an independent contractor must have been “engaged by” the employer. It is for the judge to determine the meaning of the word “engaged”. He or she must instruct the jury on its meaning, as well as the facts necessary to establish engagement (R v ACR Roofing Pty Ltd (2004) 11 VR 187).
+
+6. The term “engaged by” is complex and can be factually dependent. The judge should therefore invite the prosecution to identify at the start of the trial the particular matters that give rise to engagement.
+
+7. Engagement of a contractor exists in relation to any matters over which the employer has control, whether by privity of contract or arising from a contract between the contractor and another person. This covers direct contracts, sub-contracts and any further layers of contractual relations (R v ACR Roofing Pty Ltd (2004) 11 VR 187).
+
+
+
+## Scope of the duty owed to independent contractors
+
+
+---
+
+
+## 7.7.1 Independent Contractors
+
+8. While independent contractors engaged by an employer are considered to be employees for the purpose of s 21, the duties owed to independent contractors are more limited than the duties owed to other employees. An employer only owes a duty to an independent contractor “in relation to matters over which the employer has control or would have control if not for any agreement purporting to limit or remove that control” (s 21(3)(b)).
+
+9. Consequently, where it is alleged that an employer breached his or her duty to an independent contractor, it is necessary for the jury to determine whether the employer had control over the matter in issue (see, e.g. Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+10. An employer has control over the work of an independent contractor where:
+
+
+
+- there is a legal right to direct the contractor; or
+
+- where the employer considered that it had the right to direct the contractor and the contractor would accept and act on that direction (Stratton v Van Driel Ltd [1998] VSC 75).
+
+
+---
+
+
+## 7.7.1 Independent Contractors
+
+11. While employers are unlikely to have control over certain matters (such as the way expert contractors performs the specific tasks they are engaged to perform), they may nonetheless retain control over other matters (such as where the work is to be undertaken or the safety measures that must be observed) (Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23; Reilly v Devcon Australia Pty Ltd (2008) 36 WAR 492; R v Associated Octel Ltd [1994] 4 All ER 1051; R v ACR Roofing Pty Ltd (2004) 11 VR 187; [2004] VSCA 215).
+
+12. To determine whether an employer has control over a matter, the court will look at the details of the contractual relationship between the employer and the contractor, as well as any other indications that the employer had the right to direct the contractor in the performance of its work (Stratton v Van Driel Ltd [1998] VSC 75; Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+13. Contractual interpretation is a mixed question of fact and law that involves three stages:
+
+1. the judge must determine, as a question of law, whether the words used in the contract have a legal meaning, a technical meaning or their ordinary meaning;
+
+1. if the words have a legal meaning, the judge must explain that meaning to the jury. If the words have their ordinary meaning or a technical meaning, the judge must instruct the jury to determine, as a question of fact, what that meaning is;
+
+2. the judge must direct the jury about the legal effect of the relevant contractual provisions, depending on the jury’s findings of fact at the second stage (Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+
+
+## Sub-contractors
+
+
+---
+
+
+## 7.7.1 Independent Contractors
+
+14. Employers do not only owe duties to those contractors they have directly engaged. They also owe duties to the employees of those contractors, in relation to matters over which the employer has control (or would have control if not for any agreement purporting to limit or remove that control) (OHS Act 2004 s 21(3); R v ACR Roofing Pty Ltd (2004) 11 VR 187).
+
+15. Where the prosecution relies on principles of agency to establish that the accused had control over the sub-contractor, the judge must explain the relevant principles and relate them to the evidence (R v ACR Roofing Pty Ltd (2004) 11 VR 187).
+
+
+
+## Content of the duty owed to independent contractors
+
+
+
+16. The prosecution must prove that the accused did not, so far as is reasonably practicable, provide and maintain a working environment that was safe and without risks to the health of those independent contractors or sub-contractors who fall within the scope of s 21(3).
+
+17. As noted above (see “Use of experts and independent contractors”), an employer who lacks the expertise necessary to safely complete a task may fulfil its duties under s 21 by relying on an external expert. Consequently, the prosecution will need to prove that engaging the relevant contractor was not sufficient to discharge its obligations under the Act (Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+18. This may depend on whether it was reasonably practicable for the employer to have directed the independent contractor to undertake their task in a certain way. This will be a matter of fact and degree (Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+19. Determining what was reasonably practicable may depend on:
+
+
+
+- the size of the employer;
+
+- the employer’s expertise in relation to the particular task and knowledge of the risks involved;
+
+- the nature and gravity of the risk;
+
+- the competence and expertise of the independent contractor and its employees; and
+
+- the nature of the precautions the contractor was taking and whether the employer was aware of any defects in the contractor’s safety practices (R v ACR Roofing Pty Ltd (2004) 11 VR 187; R v Associated Octel Pty Ltd [1994] 4 All ER 1051; Baiada Poultry Pty Ltd v The Queen [2011] VSCA 23).
+
+
+
+## Employee or independent contractor?
+
+
+---
+
+
+## 7.7.1 Independent Contractors
+
+20. Because the scope and content of the duty owed to employees and independent contractors differs slightly, it may be important to determine whether a particular individual was an employee or an independent contractor.
+
+21. Determining whether a person is an employee or an independent contractor is a matter of substance, not form. It depends on the rights and obligations under the relevant contract between the employer and the other party, and not on the labels used by the parties or their subjective views (Tobiassen v Reilly [2009] WASCA 26; Hollis v Vabu Pty Ltd (2001) 207 CLR 21; Stevens v Brodribb Sawmilling Co Pty Ltd (1986) 160 CLR 16).
+
+22. One factor that is relevant to determining whether a person is an employee or an independent contractor is whether the employer has the right to control the performance of the person’s work. Control of work is a characteristic of an employer-employee relationship (Zuijs v Wirth Brothers Pty Ltd (1955) 93 CLR 561; Tobiassen v Reilly [2009] WASCA 26).
+
+
+---
+
+
+## 7.7.1 Duplicity and Multiple Offences
+
+## Duplicity and Multiple Offences
+
+
+[^8]: The section reverses the position that existed under the *OHS Act 1985*, which held that each factual matter giving rise to a breach of the employer’s duty to provide a safe working environment needed to be separately charged (See *R v Australian Char Pty Ltd* [1999] 3 VR 834; *Chugg** v Pacific Dunlop Ltd* [1988] VR 411).
+
+
+---
+
+
+## 7.7.1 Duplicity and Multiple Offences
+
+1. While s 21(1) creates a single offence, the specific types of breaches identified in s 21(2) may each be charged as separate offences (Newcastle Wallsend Coal Company v Inspector McMartin [2006] NSWIRComm 339; DPP v Coates Hire Operations Pty Ltd (2012) 36 VR 361).
+
+2. Alternatively, if the breaches arose out of the same factual circumstances, they may be charged as a single offence (subject to any contrary court order) (OHS Act 2004 s 33. See also John Holland v Industrial Court of NSW [2010] NSWCA 338, [66]; Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+3. Section 33 is a facilitative provision that overrides the common law prohibition on duplicity (See John Holland v Industrial Court of NSW [2010] NSWCA 338; Coombs v Patrick Stevedores [2002] NSWIRComm 215).[^8]
+
+4. An aggregated charge under s 33 differs from a “rolled-up” charge at common law (DPP v Coates Hire Operations Pty Ltd (2012) 36 VR 361).
+
+5. For s 33 to apply, the court must find that the alleged contraventions arose out of the same factual circumstances (See John Holland v Industrial Court of NSW [2010] NSWCA 338; Coombs v Patrick Stevedores [2002] NSWIRComm 215).
+
+6. The same factual circumstances will only exist where the relevant act or omission constituting the offence is the same. Common factual circumstances do not exist merely because there is an accident caused by multiple breaches of workplace safety (DPP v Vibro-Pile (2016) 49 VR 676, [144]).
+
+7. While s 33 alleviates the strictness of the rule against duplicity, there are risks associated with this provision and the prosecution should be selective in its use. First, a jury verdict to a s 33 charge will be inscrutable, and this may present problems for sentencing. Second, errors in relation to one part of a case under a s 33 charge may leave the charge vulnerable on appeal, even if there were other paths to conviction which were free of error (DPP v Vibro-Pile (2016) 49 VR 676, [137], [143]).
+
+
+[^8]: The section reverses the position that existed under the *OHS Act 1985*, which held that each factual matter giving rise to a breach of the employer’s duty to provide a safe working environment needed to be separately charged (See *R v Australian Char Pty Ltd* [1999] 3 VR 834; *Chugg** v Pacific Dunlop Ltd* [1988] VR 411).
+
+
+---
+
+
+## 7.7.1 Duplicity and Multiple Offences
+
+8. Because of these risks, the prosecution should not use s 33 where the allegations involve different factual or legal issues, or where the question of reasonable practicability may be different for different allegations (DPP v Vibro-Pile (2016) 49 VR 676, [141]).
+
+9. The prosecution cannot lay separate charges for each employee who is exposed to a risk of harm from a single incident. However, where there are multiple acts or omissions giving rise to risks of harm to different employees, the prosecution may bring separate charges for each separate failure to provide a safe working environment (Diemould Tooling Services v Oaten (2008) 101 SASR 339).
+
+
+[^8]: The section reverses the position that existed under the *OHS Act 1985*, which held that each factual matter giving rise to a breach of the employer’s duty to provide a safe working environment needed to be separately charged (See *R v Australian Char Pty Ltd* [1999] 3 VR 834; *Chugg** v Pacific Dunlop Ltd* [1988] VR 411).
+
+
+---
+
+
+## 7.7.1 Overlap Between sections 21 and 23
+
+## Overlap Between sections 21 and 23
+
+
+
+1. In some cases, the accused’s failure to take a certain measure may give rise to a risk to both employees and non-employees. A jury may return a verdict of guilty on charges under both s 21 and s 23 of the Act (Director of Public Prosecutions Reference (No 1 of 1992) [1992] 2 VR 405).
+
+2. Where a risk is posed to an independent contractor in relation to matters over which the employer has control, a prosecutor can choose to bring charges under either section 21 or 23 (Muscat v Magistrates’ Court of Victoria [2018] VSC 650, [52]–[54]).
+
+
+---
+
+
+## 7.7.1 Witness Warnings
+
+## Witness Warnings
+
+
+
+1. Where an employee is called to give evidence against their employer, it may be necessary to give a criminally concerned witness warning or a Faure warning. However, this will usually not be necessary, as:
+
+
+
+- any incentive to minimise the employee’s involvement in the offending will usually be obvious to the jury; and
+
+- a witnesses’ guilt of an OH&S offence as an employee might not affect the guilt of the employer or another employee (R v Irvine (2009) 25 VR 75; R v Powercor (Aust) Pty Ltd [2005] VSCA 163).
+
+
+
+Last updated: 21 July 2021
+
+
+---
+
+---
+
+# Chapter 7.7.1.1
+
+
+## 7.7.1.1 Charge: Employer’s Duty to Employees
+
+# ***7.7.1.1 Charge: Employer’s Duty to Employees***
+
+At the start of the trial, the judge should seek particulars from the prosecution regarding:
+
+i) What the accused should have done to avoid creating a risk to the health and safety of employees; and
+
+ii) If it is in issue, the basis for establishing the employee/employer relationship.
+
+iii) If it is in issue, the facts necessary to support a finding that an employee or independent contractor relationship existed
+
+These matters will inform the content of the charge.
+
+If the prosecution relies on a breach of s 21(2) to establish the offence, this charge must be adapted accordingly. See Employer's Duty to Employees and non-Employees for guidance.
+
+NOA has been charged with failing to provide and maintain a safe working environment. This crime consists of four elements:
+
+**One** – The accused was an employer at the relevant time;
+
+**Two** – There was a risk in the accused’s working environment to the health and safety of employees;
+
+**Three** – The accused failed to do something which would have eliminated or reduced that risk;
+
+**Four** – It was reasonably practicable in the circumstances to have taken steps to eliminate or reduce that risk.
+
+Before you can find NOA guilty of failing to provide and maintain a safe workplace you must be satisfied that the prosecution has proven all four of these elements beyond reasonable doubt.
+
+I will now explain these elements in detail.[^2]
+
+
+
+## The Accused was an Employer
+
+The **first element** that the prosecution must prove is that on [*identify relevant date(s)*], the accused was an employer.
+
+An **employer** is someone who employs at least one person under a contract of employment or training.
+
+[*Summarise** evidence and arguments concerning the accused’s status as an employer*.]
+
+
+[^2]: If an element or part of an element is not in issue it should not be explained in full. Instead, it should be described briefly, followed by an instruction such as: “It is [admitted/not disputed] that NOA [*describe conduct, state of mind or circumstances that meets the element*], and you should have no difficulty finding this [element/matter] proven.”
+
+
+---
+
+
+## 7.7.1.1 Risk in the working environment to employee health and safety
+
+## Risk in the working environment to employee health and safety
+
+The **second element** is that there was a risk in the accused’s working environment to the health and safety of employees.
+
+There are three parts to this element.
+
+**First** – Risk. The prosecution says that there was a risk of [*identify relevant risk*].
+
+**Second** – Working environment. The prosecution says that [*identify location*] was part of NOA’s **working environment**.
+
+**Third** – Employees. The risk must be to the health and safety of the accused’s employees. That is, people under a contract of employment with NOA.[^3]
+
+[*If the offence relates to an *independent contractor*, add the following shaded section*.]
+
+Because this case involves independent contractors, there are two additional matters that the prosecution must prove. **First**, they must prove that [*identify relevant contractors*] were hired by the accused to do some work.[^4]
+
+[*If this matter is not in issue, add the following darker shaded section.*]
+
+In this case, it is not disputed that [*identify relevant contractors*] were hired by the accused. You will not have any difficulty with this matter.
+
+[*If this matter is in issue, add the following darker shaded section.*]
+
+In this case, this matter is in dispute. [*Summarising** prosecution and **defence** evidence and arguments*]. In order to find that [*identify relevant contractors*] were hired by the accused to do some work, you must be satisfied that [*identify facts necessary to prove contractor relationship*].
+
+Second, they must prove that the accused had sufficient control over the contractors that s/he could have directed them to [*identify suggested measure, **e.g**.** *‘use safety goggles while working’].[^5]
+
+In relation to this second matter, it is useful to note that employers generally **do not** control the way in which competent independent contractors perform their work. However, they may have control over certain aspects of the contractors’ work, such as where and when they undertake it. They may also have other rights to direct the contractor, based on their contract or the relationship between them.
+
+[*Identify relevant evidence and arguments on any parts of this element in dispute.*]
+
+
+[^3]: Where the risk extends to independent contractors who are treated as employees under OHSA 2004 s 21(3), this direction should be modified accordingly and the shaded text added.
+[^4]: This statement should be modified if a different form of engagement is alleged.
+[^5]: If the accused would have had sufficient control over the contractor, but there was an agreement to the contrary, this part of the charge will need to be modified to reflect the fact that the agreement is not operative for the purpose of this element.
+
+
+---
+
+
+## 7.7.1.1 Failure to eliminate or reduce risk
+
+## Failure to eliminate or reduce risk
+
+The **third element** that the prosecution must prove is that the accused failed to do something that would have eliminated or reduced the risk.
+
+The law requires the prosecution to identify a particular measure which the accused should have done to address the risk.
+
+In this case, the prosecution say that NOA was required to [*identify relevant measures, e.g.* “install an isolation switch on the mulcher”].
+
+The prosecution must prove that if NOA had done so, then the risk of [*identify relevant risk*] would have been eliminated or reduced. It is **not enough** to say that the risk might have been reduced if the accused had taken that measure.
+
+[*Summarise** relevant evidence and arguments*.]
+
+
+---
+
+
+## 7.7.1.1 Reasonable Practicability
+
+## Reasonable Practicability
+
+The **fourth element** that the prosecution must prove is that [*describe specific measure*] was a reasonably practicable means of addressing the risk of [*identify relevant risk*].
+
+Practicable is a word that is not commonly used. It means that something is able to be done or put into practice. This element requires you to determine whether [*describe specific measure*] was reasonably feasible or reasonably capable of being done.
+
+To determine whether the proposed measure was reasonably practicable, you must consider matters such as:
+
+
+
+- How likely it was that [*describe relevant risk*] would occur;
+
+- What harm was likely to be caused if [*describe relevant risk*];
+
+- What could be done to eliminate or reduce the risk;
+
+- How suitable those options were, and how much they would have cost; and
+
+- What the accused knew about the risk and the ways of eliminating or reducing it, or reasonably should have known.
+
+
+---
+
+
+## 7.7.1.1 Reasonable Practicability
+
+You must consider these matters by reference to the position of a reasonably prudent employer. It is **no answer** for the accused to say that s/he did not know about the risk, or thought that things were unlikely to go wrong, or could not afford to do what was suggested.
+
+You must also consider these matters without the benefit of hindsight. You must decide whether the proposed measure was reasonably practicable before [*identify event which raised accused’s awareness of risk*].
+
+If the risk was reasonably foreseeable by a reasonable employer, then the accused may have been required to take steps to prevent it, even if s/he had no personal knowledge of the risk.
+
+However, employers do not need to guard against risks that are unforeseeable. This is because it is not reasonably practicable to protect against unforeseeable risks.
+
+[*If it is necessary to direct the jury that the duty is non-delegable, add the following shaded section*.]
+
+The law says that the employer’s duty to eliminate or reduce risks cannot be delegated to anyone else. This means that when you are deciding whether [*identify relevant measure*] is reasonably practicable, the accused cannot say [*identify how the issue of delegation arose in the context of the case, **e.g.* “that they did not need to do anything further, because they had a health and safety officer and Mr Smith should have identified the risk”].
+
+Employers must proactively search for and address risks in the workplace. They must adopt an active, imaginative and flexible approach to workplace safety. They may need to protect against risks that arise where an employee acts inadvertently or carelessly.
+
+However, the law does not require an employer to eliminate all dangers that could conceivably arise. That would involve imposing an unrealistic standard of perfection. The test is whether the accused failed to do what was reasonably practicable.
+
+[*If multiple measures are identified, add the following shaded section.*]
+
+
+---
+
+
+## 7.7.1.1 Reasonable Practicability
+
+The prosecution has identified [*insert **number of measures*] things NOA should have done to eliminate or reduce the risk. These are alternatives. For each of them, you must ask “Would it have eliminated or reduced the risk” and “Was it reasonably practicable”. If all of you answer yes to both questions for a particular measure, then you are satisfied of both the third and fourth elements of this offence. If half of you say [*insert **first measure*] was not reasonably practicable, but [*insert **second measure*] was and half of you say [*insert **second measure*] was not reasonably practicable but [*insert **first measure*] was, then you have not reached agreement on this fourth element.
+
+[*If evidence is led of an accident involving the workplace, add the following shaded section.*]
+
+You have heard evidence that [*describe circumstances of accident*]. NOA has **not** been charged with causing that accident, or causing NOV’s [death/injury]. Instead, NOA has been charged with failing to address a risk.
+
+You might wonder “how can I use the evidence of the accident then?”
+
+The evidence that [*identify relevant accident*] may help you decide:
+
+
+---
+
+
+## 7.7.1.1 Reasonable Practicability
+
+- Did a risk exist?
+
+- How likely was this risk to occur?
+
+- What would happen if this risk occurs?
+
+- Did NOA taken all reasonably practicable steps to eliminate the risk?
+
+
+
+But don’t use the benefit of hindsight. Remember that just because an accident has happened it does not mean that this was due to a relevant failure on the part of the employer. Sometimes accidents happen and no one is to blame.
+
+You do not need to decide whether [*identify relevant measure*] would have prevented [*describe relevant accident*]. There are two important questions. “Would [*identify relevant measure*] have eliminated or reduced the risk of [*identify relevant risk*]?” and “Was it reasonably practicable to [*identify relevant measure*]?” If you answer yes to both questions, then you are satisfied of both the third and fourth elements of this offence.
+
+[*If the case concerns a hidden risk, add the following shaded section.*]
+
+In making your determination, you must consider the fact that hidden risks are sometimes more dangerous than obvious risks. While people will often be aware of the need to avoid obvious risks, they may overlook the need to avoid hidden risks.
+
+[*If the offence relates to an *independent contractor*, add the following shaded section*.]
+
+In this case, the defence argued that NOA had met his/her obligations by hiring NOC, a specialist contractor, to [*describe work*]. It is for the prosecution to prove that this was **not** sufficient, and that it was reasonably practicable for NOA to have gone further and [*identify measure*].
+
+When deciding whether it was reasonably practicable for NOA to have taken other measures in these circumstances, you must consider:
+
+
+
+- The nature and seriousness of the risks involved;
+
+- NOC’s competence and expertise;
+
+- NOA’s expertise in relation to [*describe the tasks engaged in by the contractor*] and his/her knowledge of the risks involved;
+
+- The nature of the precautions NOC was taking, and whether NOA was aware of any defects in NOC’s safety practices; and
+
+- The size of NOA’s business.
+
+
+
+Ultimately, determining what is reasonably practicable is a balancing exercise that requires you to use your common sense. Consider the danger posed by the risk and the difficulty of addressing the risk. Using that, decide whether the measure(s) posed by the prosecution were reasonably practicable.
+
+[*Summarise** relevant evidence and arguments*.]
+
+
+---
+
+
+## 7.7.1.1 Summary
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of failing to provide and maintain a safe workplace, the prosecution must prove to you, beyond reasonable doubt:
+
+**One** – The accused was an employer at the relevant time;
+
+**Two** – There was a risk in the accused’s working environment to the health and safety of employees;
+
+**Three** – The accused failed to do something which would have eliminated or reduced that risk;
+
+Four – It was reasonably practicable in the circumstances to have taken steps to eliminate or reduce that risk.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA **not guilty** of failing to provide and maintain a safe workplace.
+
+Last updated: 27 March 2019
+
+
+---
+
+---
+
+# Chapter 7.7.1.2
+
+
+## 7.7.1.2 Checklist: Employer's Duty to Employees
+
+# ***7.7.1.2 Checklist: Employer's Duty to Employees***
+
+**Note** – If a breach of s 21(2) is alleged, these elements and questions must be adapted. See 7.7.1 Employer's Duty to Employees for guidance.
+
+Four elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused was an employer at the relevant time; and
+
+2. There was a risk in the working environment to employee health and safety; and
+
+3. The accused failed to take an identified measure which would have eliminated or reduced the risk; and
+
+4. It was reasonably practicable in the circumstances to have taken that measure.
+
+**Accused as an Employer**
+
+**1.** Was the accused an employer at the relevant time?
+
+If yes, then go to 2
+
+If no, then the accused is not guilty of breaching the duty to employees
+
+**Risk**
+
+**2.** Was there a risk in the working environment to employee health and safety?
+
+***Consider – The prosecution claims that there was a risk of [insert relevant risk]***
+
+If yes, then go to 3
+
+If no, then the accused is not guilty of breaching the duty to employees
+
+**Failure to eliminate or reduce ****risk**
+
+**3.** Did the accused fail to take an identified measure which would have eliminated or reduced the risk?
+
+***Consider – The prosecution argues that the accused should have [insert relevant measure]?***
+
+***Consider – Would [insert relevant measure] have eliminated or reduced the risk of [insert relevant risk]?***
+
+If yes, then go to 4
+
+If no, then the accused is not guilty of breaching the duty to employees
+
+**Reasonably practicable**
+
+**4.** Was [*insert* *relevant remedial act*] a reasonably practicable way of addressing [*insert **relevant risk*]?
+
+***Consider – How likely was [insert relevant risk] to occur?***
+
+***Consider – What harm would follow if [insert relevant risk] occurred?***
+
+***Consider – What could be done to eliminate or reduce the risk?***
+
+***Consider – How suitable were those options and how much would these options have cost?***
+
+***Consider – What did the accused know about the risk and ways of addressing it or what should the accused have reasonably known?***
+
+If yes, then the accused is guilty of breaching the duty to employees (as long as you also answered yes to questions 1, 2 and 3)
+
+
+---
+
+
+## 7.7.1.2 Checklist: Employer's Duty to Employees
+
+If no, then the accused is not guilty of breaching the duty to employees
+
+Last updated: 15 April 2016
+
+
+---
+
+---
+
+# Chapter 7.7.1.3
+
+
+## 7.7.1.3 Charge: Employer’s Duty to Employees (s 21(2)(e))
+
+# 7.7.1.3 Charge: Employer’s Duty to Employees (s 21(2)(e))
+
+This charge is designed for a case where the prosecution relies on a failure to provide necessary training under s 21(2)(e).
+
+At the start of the trial, the judge should seek particulars from the prosecution regarding:
+
+i) What the accused should have done to avoid creating a risk to the health and safety of employees; and
+
+ii) If it is in issue, the basis for establishing the employee/employer relationship.
+
+iii) If it is in issue, the facts necessary to support a finding that an employee or independent contractor relationship existed
+
+These matters will inform the content of the charge.
+
+NOA has been charged with failing to provide and maintain a safe working environment. This crime consists of three elements:
+
+**One** – The accused was an employer at the relevant time;
+
+**Two** – There was a risk in the accused’s working environment to the health and safety of employees;
+
+**Three** – The accused failed to provide such information, instruction or training as necessary to eliminate or reduce the risk;
+
+Before you can find NOA guilty of failing to provide and maintain a safe workplace you must be satisfied that the prosecution has proven all three of these elements beyond reasonable doubt.
+
+I will now explain these elements in detail.[^2]
+
+
+
+## The Accused was an Employer
+
+The **first element** that the prosecution must prove is that on [*identify relevant date(s)*], the accused was an employer.
+
+An **employer** is someone who employs at least one person under a contract of employment or training.
+
+[*Summarise** evidence and arguments concerning the accused’s status as an employer*.]
+
+
+[^2]: If an element or part of an element is not in issue it should not be explained in full. Instead, it should be described briefly, followed by an instruction such as: “It is [admitted/not disputed] that NOA [*describe conduct, state of mind or circumstances that meets the element*], and you should have no difficulty finding this [element/matter] proven.”
+
+
+---
+
+
+## 7.7.1.3 Risk in the working environment to employee health and safety
+
+## Risk in the working environment to employee health and safety
+
+The **second element** is that there was a risk in the accused’s working environment to the health and safety of employees.
+
+There are three parts to this element.
+
+**First** – Risk. The prosecution says that there was a risk of [*identify relevant risk*].
+
+**Second** – Working environment. The prosecution says that [*identify location*] was part of NOA’s **working environment**.
+
+**Third** – Employees. The risk must be to the health and safety of the accused’s employees. That is, people under a contract of employment with NOA.[^3]
+
+[*If the offence relates to an *independent contractor*, add the following shaded section*.]
+
+Because this case involves independent contractors, there are two additional matters that the prosecution must prove. **First**, they must prove that [*identify relevant contractors*] were hired by the accused to do some work.[^4]
+
+[*If this matter is not in issue, add the following darker shaded section.*]
+
+In this case, it is not disputed that [*identify relevant contractors*] were hired by the accused. You will not have any difficulty with this matter.
+
+[*If this matter is in issue, add the following darker shaded section.*]
+
+In this case, this matter is in dispute. [*Summarising** prosecution and **defence** evidence and arguments*]. In order to find that [*identify relevant contractors*] were hired by the accused to do some work, you must be satisfied that [*identify facts necessary to prove contractor relationship*].
+
+Second, they must prove that the accused had sufficient control over the contractors that s/he could have directed them to [*identify suggested measure, e.g**.** *‘use safety goggles while working’].[^5]
+
+In relation to this second matter, it is useful to note that employers generally **do not** control the way in which competent independent contractors perform their work. However, they may have control over certain aspects of the contractors’ work, such as where and when they undertake it. They may also have other rights to direct the contractor, based on their contract or the relationship between them.
+
+[*Identify relevant evidence and arguments on any parts of this element in dispute.*]
+
+
+[^3]: Where the risk extends to independent contractors who are treated as employees under *OHSA 2004 *s 21(3), this direction should be modified accordingly and the shaded text added.
+[^4]: This statement should be modified if a different form of engagement is alleged.
+[^5]: If the accused would have had sufficient control over the contractor, but there was an agreement to the contrary, this part of the charge will need to be modified to reflect the fact that the agreement is not operative for the purpose of this element.
+
+
+---
+
+
+## 7.7.1.3 Failure to provide necessary information, instruction or training
+
+## Failure to provide necessary information, instruction or training
+
+The **third element** that the prosecution must prove is that the accused failed to provide the necessary information, instruction or training to eliminate or reduce the risk.
+
+The law requires the prosecution to identify precisely what the accused should have done to address the risk.
+
+In this case, the prosecution says that NOA was required to [*identify relevant measures, e.g.* “show NOV how to operate the [*machine*]”].
+
+The prosecution must prove that doing this was necessary to eliminate or reduce the risk of [*identify relevant risk*]. It is **not enough** to say that the risk might have been reduced if the accused had taken that measure.
+
+[*If multiple measures are identified, add the following shaded section.*]
+
+The prosecution has identified [*insert **number of measures*] things NOA should have done . These are alternatives. For each of them, you must ask “Was it necessary for NOA to provide this information, instruction or training to eliminate or reduce the risk?”. If half of you say [*insert **first measure*] was not necessary, but [*insert **second measure*] was and half of you say [*insert **second measure*] was not necessary but [*insert **first measure*] was, then you have not reached agreement on this element.
+
+You must consider the circumstances that existed at the time when you are deciding whether it was necessary for NOA to [*identify relevant measures*]. You must consider factors such as:
+
+
+
+- How likely it was that [*describe relevant risk*] would occur?
+
+- What harm was likely to be caused if [*describe relevant risk*]?
+
+- What was the nature of the task the employees were performing?
+
+- What training and experience did the employees have?
+
+- Who else was working nearby?
+
+- What training and experience did co-workers have?
+
+
+---
+
+
+## 7.7.1.3 Failure to provide necessary information, instruction or training
+
+You must also consider whether [*identify relevant measures*] would have reduced the risk of [*identify relevant risk*].
+
+[*If an accident has occurred, add the following shaded section*]
+
+You have heard evidence that [*describe circumstances of accident*]. The prosecution does not need to prove that [*describe relevant measure*] would have prevented [*describe accident*]. The question is whether the prosecution has proved that [*describe relevant measure*] was necessary to reduce the risk of [*describe relevant risk*].
+
+[*Summarise** relevant evidence and arguments*.]
+
+[*If evidence is led of an accident involving the workplace, add the following shaded section*.]
+
+You have heard evidence that [*describe circumstances of accident*]. NOA has **not** been charged with causing that accident, or causing NOV’s [death/injury]. Instead, NOA has been charged with failing to provide necessary instruction, information or training.
+
+You might wonder “how can I use the evidence of the accident then?”
+
+The evidence that [*identify relevant accident*] may help you decide:
+
+
+
+- Did a risk exist?
+
+- How likely was this risk to occur?
+
+- What would happen if this risk occurs?
+
+
+
+But don’t use the benefit of hindsight. Remember that just because an accident has happened it does not mean that this was due to a relevant failure on the part of the employer. Sometimes accidents happen and no one is to blame.
+
+
+---
+
+
+## 7.7.1.3 Summary
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of failing to provide and maintain a safe workplace, the prosecution must prove to you, beyond reasonable doubt:
+
+**One** – The accused was an employer at the relevant time;
+
+**Two** – There was a risk in the accused’s working environment to the health and safety of employees;
+
+**Three** – The accused failed to provide such information, instruction or training as necessary to eliminate or reduce the risk
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA **not guilty** of failing to provide and maintain a safe workplace.
+
+Last updated: 24 October 2024
+
+
+---
+
+---
+
+# Chapter 7.7.1.4
+
+
+## 7.7.1.4 Charge: Employer’s Duty to Non-Employees
+
+# ***7.7.1.******4****** Charge: Employer’s Duty to Non-Employees***
+
+At the start of the trial, the judge should seek particulars from the prosecution regarding:
+
+i) What the accused should have done to avoid creating a risk to the health and safety of non-employees; and
+
+ii) The extent of the employer’s business.
+
+These matters will inform the content of the charge.
+
+NOA has been charged with failing to eliminate risks to the health of safety of non-employees. This crime consists of four elements:
+
+**One **– The accused was an employer at the relevant time;
+
+**Two **– There was a risk from the conduct of the accused’s undertaking to the health and safety of non-employees;
+
+**Three **– The accused failed to do something which would have eliminated or reduced that risk;
+
+**Four **– It was reasonably practicable in the circumstances to have taken steps to eliminate or reduce that risk.
+
+Before you can find NOA guilty of failing to eliminate risks to the health of safety of non-employees you must be satisfied that the **prosecution **has proven all four of these elements beyond reasonable doubt.
+
+I will now explain these elements in detail.[^2]
+
+
+
+## The Accused was an Employer
+
+The **first element **that the prosecution must prove is that on [*identify relevant date(s)*], the accused was an employer.
+
+An **employer **is someone who employs at least one person under a contract of employment or training.
+
+[*Summarise** evidence and arguments concerning the accused’s status as an employer.*]
+
+
+[^2]: If an element or part of an element is not in issue it should not be explained in full. Instead, it should be described briefly, followed by an instruction such as: “It is [admitted/not disputed] that NOA [*describe conduct, state of mind or circumstances that meets the element*], and you should have no difficulty finding this [element/matter] proven.”
+
+
+---
+
+
+## 7.7.1.4 Risk from the conduct of the employer’s undertaking to the health and safety of non-employees
+
+## Risk from the conduct of the employer’s undertaking to the health and safety of non-employees
+
+The **second element** is that the conduct of the employer’s undertaking created a risk to the health and safety of non-employees.
+
+There are three parts to this element.
+
+First – Conduct of the employer’s undertaking. This means the conduct of the employer’s business or enterprise. The prosecution says that NOA’s business or enterprise was [*identify scope of enterprise*].
+
+Second – Risk to health and safety. The prosecution says that NOA’s business or enterprise created a risk of [*identify relevant risk*].
+
+Third – Non-Employees. The risk must be to the health and safety of *non- employees*. That is, people who are not under a contract of employment with NOA.
+
+[*Identify relevant evidence and arguments on any parts of this element in dispute.*]
+
+
+---
+
+
+## 7.7.1.4 Failure to eliminate or reduce risk
+
+## Failure to eliminate or reduce risk
+
+The **third element **that the prosecution must prove is that the accused failed to do something that would have eliminated or reduced the risk.
+
+The law requires the prosecution to identify a particular measure which the accused should have done to address the risk.
+
+In this case, the prosecution say that NOA was required to [*identify relevant measures, e.g.* “install an isolation switch on the mulcher”].
+
+The prosecution must prove that if NOA had done so, then the risk of [*identify relevant risk*] would have been eliminated or reduced. It is not enough to say that the risk might have been reduced if the accused had taken that measure.
+
+[*Summarise** relevant evidence and arguments.*]
+
+
+---
+
+
+## 7.7.1.4 Reasonable Practicability
+
+## Reasonable Practicability
+
+The **fourth element **that the prosecution must prove is that [*describe specific measure*] was a reasonably practicable means of addressing the risk of [*identify relevant risk*].
+
+Practicable is a word that is not commonly used. It means that something is able to be done or put into practice. This element requires you to determine whether [*describe specific measure*] was reasonably feasible or reasonably capable of being done.
+
+To determine whether the proposed measure was reasonably practicable, you must consider matters such as:
+
+
+
+- How likely it was that [*describe relevant risk*] would occur;
+
+- What harm was likely to be caused if [*describe relevant risk*];
+
+- What could be done to eliminate or reduce the risk;
+
+- How suitable those options were, and how much they would have cost; and
+
+- What the accused knew about the risk and the ways of eliminating or reducing it, or reasonably should have known.
+
+
+---
+
+
+## 7.7.1.4 Reasonable Practicability
+
+You must consider these matters by reference to the position of a reasonably prudent employer. It is **no answer** for the accused to say that s/he did not know about the risk, or thought that things were unlikely to go wrong, or could not afford to do what was suggested.
+
+You must also consider these matters without the benefit of hindsight. You must decide whether the proposed measure was reasonably practicable before [*identify event which raised accused’s awareness of risk*].
+
+If the risk was reasonably foreseeable by a reasonable employer, then the accused may have been required to take steps to prevent it, even if s/he had no personal knowledge of the risk.
+
+However, employers do not need to guard against risks that are unforeseeable. This is because it is not reasonably practicable to protect against unforeseeable risks.
+
+[*If it is necessary to direct the jury that the duty is non-delegable, add the following shaded section*.]
+
+The law says that the employer’s duty to eliminate or reduce risks cannot be delegated to anyone else. This means that when you are deciding whether [*identify relevant measure*] is reasonably practicable, the accused cannot say [*identify how the issue of delegation arose in the context of the case, e.g.* “that they did not need to do anything further, because they had a health and safety officer and Mr Smith should have identified the risk”]. An employer also cannot say “NOV should have taken better care of him/herself”. It is the accused’s duty to eliminate or reduce risks to non-employees, as far as reasonably practicable.
+
+Employers must proactively search for and address risks in the workplace. They must adopt an active, imaginative and flexible approach to workplace safety. They may need to protect against risks that arise where an employee acts inadvertently or carelessly.
+
+However, the law does not require an employer to eliminate all dangers that could conceivably arise. That would involve imposing an unrealistic standard of perfection. The test is whether the accused failed to do what was reasonably practicable.
+
+[*If multiple measures are identified, add the following shaded section.*]
+
+The prosecution has identified [*insert **number of measures*] things NOA should have done to eliminate or reduce the risk. These are alternatives. For each of them, you must ask “Would it have eliminated or reduced the risk” and “Was it reasonably practicable”. If all of you answer yes to both questions for a particular measure, then you are satisfied of both the third and fourth elements of this offence.
+
+
+---
+
+
+## 7.7.1.4 Reasonable Practicability
+
+If half of you say [*insert **first measure*] was not reasonably practicable, but [*insert **second measure*] was and half of you say [*insert **second measure*] was not reasonably practicable but [*insert **first measure*] was, then you have not reached agreement on this fourth element.
+
+[*If evidence is led of an accident involving the workplace, add the following shaded section.*]
+
+You have heard evidence that [*describe circumstances of accident*]. NOA has **not **been charged with causing that accident, or causing NOV’s [death/injury]. Instead, NOA has been charged with failing to address a risk.
+
+You might wonder “how can I use the evidence of the accident then?”
+
+The evidence that [*identify relevant accident*] may help you decide:
+
+
+---
+
+
+## 7.7.1.4 Reasonable Practicability
+
+- Did a risk exist?
+
+- How likely was this risk to occur?
+
+- What would happen if this risk occurs?
+
+- Did NOA take all reasonably practicable steps to eliminate the risk?
+
+
+
+But don’t use the benefit of hindsight. Remember that just because an accident has happened it does not mean that this was due to a relevant failure on the part of the employer. Sometimes accidents happen and no one is to blame.
+
+You do not need to decide whether [*identify relevant measure*] would have prevented [*describe relevant accident*]. There are two important questions. “Would [*identify relevant measure*] have eliminated or reduced the risk of [*identify relevant risk*]?” and “Was it reasonably practicable to [*identify relevant measure*]?” If you answer yes to both questions, then you are satisfied of both the third and fourth elements of this offence.
+
+[*If the case concerns a hidden risk, add the following shaded section.*]
+
+In making your determination, you must consider the fact that hidden risks are sometimes more dangerous than obvious risks. While people will often be aware of the need to avoid obvious risks, they may overlook the need to avoid hidden risks.
+
+[*If the offence relates to an *independent contractor*, add the following shaded section.*]
+
+In this case, the defence argued that NOA had met his/her obligations by hiring NOC, a specialist contractor, to [*describe work*]. It is for the prosecution to prove that this was not sufficient, and that it was reasonably practicable for NOA to have gone further and [*identify measure*].
+
+When deciding whether it was reasonably practicable for NOA to have taken other measures in these circumstances, you must consider:
+
+
+
+- The nature and seriousness of the risks involved;
+
+- NOC’s competence and expertise;
+
+- NOA’s expertise in relation to [*describe the tasks engaged in by the contractor*] and his/her knowledge of the risks involved;
+
+- The nature of the precautions NOC was taking, and whether NOA was aware of any defects in NOC’s safety practices; and
+
+- The size of NOA’s business.
+
+
+
+Ultimately, determining what is reasonably practicable is a balancing exercise that requires you to use your common sense. Consider the danger posed by the risk and the difficulty of addressing the risk. Using that, decide whether the measure(s) posed by the prosecution were reasonably practicable.
+
+[*Summarise** relevant evidence and arguments.*]
+
+
+---
+
+
+## 7.7.1.4 Summary
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of failing to eliminate risks to the health of safety of non-employees, the prosecution must prove to you, beyond reasonable doubt:
+
+**One **– The accused was an employer at the relevant time;
+
+**Two **– There was a risk from the conduct of the accused’s undertaking to the health and safety of non-employees;
+
+**Three **– The accused failed to do something which would have eliminated or reduced that risk;
+
+**Four **– It was reasonably practicable in the circumstances to have taken steps to eliminate or reduce that risk.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA **not guilty** of failing to eliminate risks to the health of safety of non-employees.
+
+Last updated: 27 March 2019
+
+
+---
+
+---
+
+# Chapter 7.7.1.5
+
+
+## 7.7.1.5 Checklist: Employer’s duty to Non-Employees
+
+# ***7.7.1.******5****** Checklist: Employer’s duty to Non-Employees***
+
+Four elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused was an employer at the relevant time; and
+
+2. There was a risk from the conduct of the accused’s undertaking to the health and safety of non-employees; and
+
+3. The accused failed to do something which would have eliminated or reduced that risk; and
+
+4. It was reasonably practicable in the circumstances to have taken steps to eliminate or reduce that risk.
+
+**Accused as an Employer**
+
+**1.** Was the accused an employer at the relevant time?
+
+If Yes, then go to 2
+
+If No, then the accused is not guilty of breaching the duty to non-employees
+
+**Risk**
+
+**2.** Did the conduct of the accused’s business create a risk to the health and safety of non-employees?
+
+***Consider – The prosecution claims that the scope of the accused’s business included [insert relevant conduct] ***
+
+***Consider – The prosecution claims that the accused’s business created a risk of [insert relevant risk]***
+
+If Yes, then go to 3
+
+If No, then the accused is not guilty of breaching the duty to non-employees
+
+**Failure to eliminate or reduce risk**
+
+**3.** Did the accused fail to take an identified measure which would have eliminated or reduced the risk?
+
+***Consider – The prosecution argues that the accused should have [insert relevant measure]?***
+
+***Consider – Would [insert relevant measure] have eliminated or reduced the risk of [insert relevant risk]? ***
+
+If Yes, then go to 4
+
+If No, then the accused is not guilty of breaching the duty to non-employees
+
+**Reasonably practicable**
+
+**4.** Was [*insert **relevant remedial act*] a reasonably practicable way of addressing [*insert **relevant risk*]?
+
+***Consider – How likely was [insert relevant risk] to occur?***
+
+***Consider – What harm would follow if [insert relevant risk] occurred?***
+
+***Consider – What could be done to eliminate or reduce the risk?***
+
+***Consider – How suitable were those options and how much would these options have cost?***
+
+***Consider – What did the accused know about the risk and ways of addressing it or what should the accused have reasonably known?***
+
+
+---
+
+
+## 7.7.1.5 Checklist: Employer’s duty to Non-Employees
+
+If Yes, then the accused is guilty of breaching the duty to non-employees (as long as you also answered yes to questions 1, 2 and 3)
+
+If No, then the accused is not guilty of breaching the duty to non-employees
+
+Last updated: 12 September 2019
+
+
+---
+
+---
+
+# Chapter 7.7.2
+
+
+## 7.7.2 Discrimination Offence
+
+# **7.7.2 Discrimination Offence**
+
+
+
+1. Section 76 of the *Occupational Health and Safety Act 2004* is entitled ‘Prohibition on discrimination’. The section creates an indictable offence that applies where an employer engages in adverse conduct as a result of a person’s actions in relation to health and safety issues.
+
+1. The offence consists of 5 elements:
+
+1. the accused is an employer or prospective employer;
+
+2. the complainant is employed by the accused or was a prospective employee of the accused;
+
+3. the complainant engaged in protected action;
+
+4. the accused engaged in adverse conduct against the complainant;
+
+5. the dominant reason why the accused engaged in that conduct was because the complainant engaged in protected action (Occupational Health and Safety Act 2004 s 76).
+
+
+
+## Accused an employer or prospective employer
+
+
+
+2. The first element is that the accused is an employer or prospective employer (*Occupational Health and Safety Act 2004* s 76).
+
+3. For information on this element, see 7.7.1 Employer’s Duty to Employees.
+
+
+---
+
+
+## 7.7.2 Complainant an employee or prospective employee of accused
+
+## Complainant an employee or prospective employee of accused
+
+
+
+1. The second element is that the complainant was an employee or prospective employee of the accused (*Occupational Health and Safety Act 2004* s 76).
+
+2. For information on employment relationships and distinguishing employees from independent contractors, see 7.7.1 Employer’s Duty to Employees.
+
+
+---
+
+
+## 7.7.2 Complainant engaged in protected action
+
+## Complainant engaged in protected action
+
+
+
+1. The third element is that the complainant:
+
+1. is or has been a health and safety representative or a member of a health and safety committee;
+
+1. exercises or has exercised a power as a health and safety representative or as a member health and safety representative or as a member of a health and safety committee; or
+
+2. assists or has assisted, or gives or has given any information to, an inspector, the Authority, an authorised representative of a registered employee organisation, a health and safety representative or a member of a health and safety committee; or
+
+3. raises or has raised an issue or concern about health or safety to the employer, an inspector, the Authority, an authorised representative of a registered employee organisation, a health and safety representative, a member of a health and safety committee or an employee of the employer (Occupational Health and Safety Act 2004 s 76(2)).
+
+2. Proof for Occupational Health and Safety Act 2004 s 76(2)(d) that the employee raised an issue or concern about health or safety, is a question of fact for the jury to be assessed in the circumstances of the case (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [26]).
+
+3. While the jury may consider evidence that the employee acted disingenuously and did not genuinely seek to raise a health and safety issue, it is not necessary for the prosecution to affirmatively prove that the employee’s actions were genuine (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [27]).
+
+4. In assessing whether an employee has raised a health and safety issue, it is not appropriate to draw a distinction between “genuine” concern about health and safety and an “industrial” objective. This is a false dichotomy, as there is no necessary inconsistency between health and safety objectives and industrial objectives (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [33]).
+
+
+---
+
+
+## 7.7.2 Adverse conduct
+
+## Adverse conduct
+
+
+
+1. The fourth element is that the accused engaged in one or more forms of proscribed adverse conduct (*Occupational Health and Safety Act 2004* s 76).
+
+2. The prohibited forms of adverse conduct are:
+
+1. dismiss or threaten to dismiss an employee;
+
+1. injure or threaten to injure an employee in the accused’s employment;
+
+2. alter or threaten to alter the position of an employee to the employee’s detriment;
+
+3. refuse or fail to offer employment to a prospective employee;
+
+4. treats a prospective employee less favourably than another prospective employee would be treated in offering terms of employment (Occupational Health and Safety Act 2004 s 76(1)).
+
+3. The word “threat” carries its ordinary meaning. In *DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [40], the Court of Appeal quoted with approval the following parts of the Macquarie Dictionary definition of threat:
+
+
+
+1. a declaration of an intention or determination to inflict punishment, pain or loss on someone in retaliation for, or conditionally upon, some action or course; menace.
+
+2. an indication of probable evil to come; something that gives indication of causing evil or harm.
+
+
+
+4. There is no part of this element which requires the prosecution to prove that the accused intended to carry out the threat, intended that the employee believe the threat or that the accused was reckless as to whether the employee would believe that the threat would be carried out (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [42]).
+
+5. It is also not necessary to prove that the threat was communicated to the employee who was said to be the subject of the threat (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [43]).
+
+6. Terms such as “dismiss”, “injure”, “alter” and “detriment” are not used in a special legal sense. They are ordinary words and the judge does not need to give the jury a special legal definition. However, the judge can give the jury assistance on matters to consider when deciding whether the relevant form of conduct has been proved (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [78]–[84]).
+
+
+---
+
+
+## 7.7.2 Reason for prohibited conduct
+
+## Reason for prohibited conduct
+
+
+
+1. The fifth element involves showing that the protected action was the dominant reason for the prohibited (*Occupational Health and Safety Act 2004* s 76(3))
+
+2. The accused bears the onus of showing that the reason alleged in the charge was not the dominant reason for the conduct (*Occupational Health and Safety Act 2004* s 77).
+
+3. There is no basis for reading in a word like “genuine” into the language of section 77, or requiring the jury to consider whether the alleged dominant reason was genuinely held by the accused (*DPP v Acme Storage Pty Ltd* [2017] VSCA 90, [92]).
+
+
+
+Last updated: 22 August 2018
+
+
+---
+
+---
+
+# Chapter 7.7.2.1
+
+
+## 7.7.2.1 Charge: Discrimination Offence
+
+# ***7.7.2.1 Charge: Discrimination Offence***
+
+NOA has been charged with discriminating against an employee because of health and safety. This crime consists of five elements:
+
+**One **– The accused was an employer at the relevant time;
+
+**Two **– NOC was an employee of the accused;
+
+**Three **– NOC engaged in protected conduct;
+
+**Four **– The accused took action against NOC;
+
+**Five **– The accused took action against NOC because of NOC’s protected conduct.
+
+I will now explain these elements in detail.
+
+
+
+## Accused was an employer
+
+The first element is that the accused was an employer. There is no dispute about this matter and so you should have no difficulty finding this element proved.[^2]
+
+
+[^2]: If this element is disputed, this part of the charge will need to be modified. The judge should set out the matters the jury needs to consider to determine whether the accused was an employer and identify the competing arguments of the parties.
+
+
+---
+
+
+## 7.7.2.1 Employed by the accused
+
+## Employed by the accused
+
+The second element is that NOC was an employee of the accused. There is also no dispute about this matter and so you should have no difficulty finding this element proved.[^3]
+
+
+[^3]: If this element is disputed, this part of the charge will need to be modified. The judge should set out the matters the jury needs to consider to determine whether the complainant was employed by the accused and identify the competing arguments of the parties.
+
+
+---
+
+
+## 7.7.2.1 Protected actions
+
+## Protected actions
+
+The third element is that the complainant engaged in protected conduct.
+
+The law recognises many types of protected conduct. In this case, the prosecution must prove that NOC [*identify relevant form of protected conduct, in accordance with Occupational Health and Safety Act 2004 *s 76(2)].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+
+---
+
+
+## 7.7.2.1 Adverse conduct
+
+## Adverse conduct
+
+The fourth element is that accused took action against NOC.
+
+In this case, that means the prosecution must prove that NOA [*identify relevant form of adverse conduct as stated in the indictment, e.g. "*dismissed NOC*"*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+
+---
+
+
+## 7.7.2.1 Prohibited reason
+
+## Prohibited reason
+
+The fifth element is that the accused took action against NOC because of [his/her] protected conduct.
+
+The law has created a special rule for this element. For this element, the defence must prove that [his/her/its] dominant reason for taking action against NOC was not because [*identify relevant prohibited reason as stated in the indictment, e.g. "*NOC was a health and safety representative*"*]. This is an exception to the usual rule that the prosecution must prove all elements beyond reasonable doubt.
+
+Unlike the other elements of the offence, the defence only needs to prove this matter on what is called the “balance of probabilities”. This is a much lower standard than that required of the prosecution. It only requires the defence to prove that it is more likely than not that NOA’s dominant reason for taking action against NOC was **not **because [*identify relevant prohibited reason as stated in the indictment, e.g. "*NOC was a health and safety representative*"*].
+
+When you are considering this matter, you are looking at what NOA has proved about the **dominant **reason for the action against NOC. In other words, what was NOA’s main or most influential reason? Another way of looking for the dominant reason is to ask: Would NOA have taken that action if [*identify the converse of the relevant prohibited reason as stated in the indictment, e.g.* *"*NOC was not a health and safety representative*"*]? If NOA would have engaged in the conduct anyway, then [*identify relevant prohibited reason as stated in the indictment, e.g.* *"*NOC being a health and safety representative*"*] was not the dominant purpose.
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+
+---
+
+
+## 7.7.2.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of discriminating against an employee because of health and safety, the prosecution must prove three elements beyond reasonable doubt:
+
+**One **– NOA was an employer at the relevant time;
+
+**Two **– NOC was an employee of NOA;
+
+**Three **– NOC [*identify relevant form of protected action*];
+
+**Four **– NOA [*identify relevant form of adverse conduct as stated in the indictment*,* e.g.* *"*dismissed NOC*"*].
+
+If you find these four elements proved, then you may find NOA guilty unless NOA has proved, on the balance of probabilities, that [his/her/its] dominant reason for [*identify relevant form of adverse conduct as stated in the indictment, e.g. "*dismissing NOC*"*] was not that [*identify relevant prohibited reason as stated in the indictment, e.g.* *"*NOC was a health and safety representative*"*].
+
+Last updated: 22 August 2018
+
+
+---
+
+---
+
+# Chapter 7.7.2.2
+
+
+## 7.7.2.2 Checklist: Discrimination Offence
+
+# ***7.7.2.2 Checklist: Discrimination Offence***
+
+This offence consists of five elements:
+
+1. The accused was an employer; and
+
+2. The complainant was an employee of the accused; and
+
+3. The complainant was engaged in protected conduct; and
+
+4. The accused took action against the complainant; and
+
+5. The dominant reason the accused took that action was because the complainant engaged in protected conduct.
+
+**Accused as an Employer**
+
+**1.** Has the prosecution proved that the accused was an employer?
+
+If yes, then go to 2
+
+If no, then the accused is not guilty of discriminating against an employee
+
+**Complainant as an Employee**
+
+**2.** Has the prosecution proved that the complainant was an employee of the accused?
+
+If yes, then go to 3
+
+If no, then the accused is not guilty of discriminating against an employee
+
+**Protected conduct**
+
+**3.** Has the prosecution proved that the complainant engaged in protected conduct?
+
+***Consider – In this case, protected conduct is ***[***identify relevant form of protected conduct***]***.***
+
+If yes, then go to 4
+
+If no, then the accused is not guilty of discriminating against an employee
+
+**Action against complainant**
+
+**4.** Has the prosecution proved that the accused took action against the complainant?
+
+***Consider – In this case, taking action against the complainant means ***[***identify relevant form of adverse conduct***]***?***
+
+If yes, then go to 5
+
+If no, then the accused is not guilty of discriminating against an employee
+
+**Dominant reason**
+
+**5.** Has the accused proved that the complainant’s protected conduct was not the dominant reason for taking action against the complainant?
+
+***Consider – The standard of proof for this element is ‘the balance of probabilities’, which means ‘more likely than not’.***
+
+***Consider – The dominant reason is the main, or most influential, reason.***
+
+If yes, then the accused is not guilty of discriminating against an employee
+
+If no, then the accused is guilty of discriminating against an employee (provided you have answered yes to questions 1, 2, 3 and 4)
+
+Last updated: 22 August 2018
+
+
+---
+
+---
+
+# Chapter 7.7.3
+
+
+## 7.7.3 Duties of persons who manage or control workplaces
+
+# 7.7.3 Duties of persons who manage or control workplaces
+
+
+
+1. *Occupational Health and Safety Act 2004 *s 26 creates the offence of failing to ensure the safety of workplaces.
+
+2. The offence consists of 5 elements:
+
+1. The accused had management or control of a workplace to any extent
+
+1. There was a risk to health and safety in the workplace or in the means of entering or leaving the workplace
+
+2. The risk arose in relation to a matter over which the accused had management or control
+
+3. The accused failed to take an identified measure that would have eliminated or reduced the risk
+
+4. It was reasonably practicable for the accused to have taken those measures
+
+3. There are two principal differences between this offence and the offences in ss 21 and 23.
+
+4. First, the s 26 offence applies to those with management or control of a workplace, whereas ss 21 and 23 apply to employers.
+
+5. Second, s 26 applies to risks in the workplace and the means of entering and leaving the workplace. In contrast, s 21 applies to the working environment of employees and s 23 applies to risks arising from the conduct of the undertaking of the employer.
+
+6. For information on the common elements of this offence with ss 21 and 23, see 7.7.1 Employer’s duty to employees and non-employees.
+
+7. As with the ss 21 and 23 offences, this offence does not require proof that the accused’s failure caused harm to an individual, or that implementing a particular measure would have prevented harm to an individual (*DPP v **Yarra** Valley Park Lane Holiday Park Pty Ltd *[2024] VCC 1051, [25]).
+
+
+
+## Management or control of a workplace
+
+
+---
+
+
+## 7.7.3 Duties of persons who manage or control workplaces
+
+8. The first element is that the accused had management or control of a workplace to any extent (*Occupational Health and Safety Act 2004 *s 26(1)).
+
+9. “Workplace” is defined as “a place, whether or not in a building or structure, where employees or self-employed persons work” (*Occupational Health and Safety Act 2004 *s 5(1)).
+
+10. Whether a person had management or control of a workplace will be a question of fact to be determined based on the practical and legal relationships between the employer and the workplace.
+
+11. Management or control of a workplace is not limited to the owner of a workplace. External personnel may exercise control over a workplace (see, e.g., *DPP v Celsius Fire Services Pty Ltd *[2023] VCC 2385 (fire services company performing maintenance on a client’s sprinkler system); *DPP v **Phelpsys** Constructions *[2018] VCC 394 (earthmoving company performing works at private residence)).
+
+12. On one occasion, the Court of Appeal has drawn parallels between a person’s duty under s 26 and principles of occupier’s liability (see *Karatjas** v Deakin University *[2012] VSCA 53, [50]).
+
+
+---
+
+
+## 7.7.3 Risk to health and safety
+
+## Risk to health and safety
+
+
+
+1. The second element is that there was a risk to health and safety in the workplace or in the means of entering or leaving the workplace.
+
+2. This element is similar to the second element of the s 21 offence. See 7.7.1 Employer’s Duty to Employees and Non-Employees. The key difference is that for this offence, the risk must be in the workplace or the means of entering or leaving the workplace, whereas for the s 21 offence, the risk must have been in the working environment.
+
+
+---
+
+
+## 7.7.3 Risk arose within the scope of the accused’s management or control
+
+## Risk arose within the scope of the accused’s management or control
+
+
+
+1. Section 26(2) provides that the duties in s 26(1) only apply “in relation to matters over which the person has management or control”.
+
+2. This provision operates in a similar fashion to the duty of an employer in relation to an independent contractor under s 21(3)(b). The question is whether the accused had a right to control the matter or activity giving rise to the risk, regardless of whether the accused was exercising control (see *Keilor** Melton Quarries v The Queen *[2020] VSCA 169, [26]–[33]).
+
+
+---
+
+
+## 7.7.3 Failure to take identified measure
+
+## Failure to take identified measure
+
+
+
+1. The prosecution must identify the act or omission that constitutes the charge. This requires more than merely reciting the words of the Act. Instead, the prosecution should identify particular acts or outcomes that were required (see, e.g., *Baida Poultry v VWA *[2015] VSCA 344, [48]–[53]).
+
+2. For more information on this element, see 7.7.1 Employer’s Duty to Employees and Non-Employees.
+
+
+---
+
+
+## 7.7.3 Reasonably practicable
+
+## Reasonably practicable
+
+
+
+1. The principles of this element are the same as for the offences in ss 21 and 23. For information on those offences, see 7.7.1 Employer’s Duty to Employees and Non-Employees.
+
+2. In *Keilor** Melton Quarries v The Queen*, the accused argued that certain actions were not necessary, because the identified risk would only arise if the workplace was used in a manner that was not intended. The Court of Appeal noted that the concept of necessity has no place in the assessment of reasonable practicability. Instead, the argument was better understood as an assertion that there was no extant risk, due to how the workplace was being used. The Court rejected a formulation which accepted that a risk existed, but asserted that safety measures were unnecessary (see *Keilor** Melton Quarries v The Queen *[2020] VSCA 169, [42]–[45]).
+
+
+
+Last updated: 24 October 2024
+
+
+---
+
+---
+
+# Chapter 7.7.3.1
+
+
+## 7.7.3.1 Charge: Duties of persons who manage or control workplaces
+
+# 7.7.3.1 Charge: Duties of persons who manage or control workplaces
+
+I will now direct you about the crime of failing to ensure health and safety of a workplace. To prove this crime, the prosecution must prove the following 5 elements beyond reasonable doubt:
+
+**One** – The accused has management or control of a workplace to any extent.
+
+**Two** – There was a risk to health and safety in the workplace or in the means of entering or leaving the workplace.
+
+**Three** – The risk arose in relation to a matter which the accused managed or controlled.
+
+**Four** – The accused failed to take an identified measure that would have eliminated or reduced the risk.
+
+**Five** – It was reasonably practicable for the accused to have taken that measure.
+
+I will now explain each of these elements in more detail.
+
+
+
+## Management or control of a workplace
+
+The **first element** that the prosecution must prove is that the accused has management or control of a workplace to any extent.
+
+For this charge, the prosecution says that the workplace was [*identify relevant workplace*].
+
+As a matter of law, a workplace is a place where employees or self-employed people work. It does not matter whether the workplace is in a building or structure. A workplace can be an outdoors space.
+
+For this element, the prosecution must prove that NOA was able to control what happened in the workplace or how people entered or left the workplace to any extent.
+
+The prosecution says that NOA had management or control of [*identify relevant workplace*] because [*identify relevant evidence and arguments*].
+
+The defence says [*identify relevant evidence and arguments*]
+
+
+---
+
+
+## 7.7.3.1 Risk to health and safety
+
+## Risk to health and safety
+
+The **second element** that the prosecution must prove is that there was a risk to health and safety in the workplace or in the means of entering or leaving the workplace.
+
+For this charge, the prosecution says there was a risk of [*identify relevant risk*].
+
+The prosecution must prove this risk existed, and that it was a risk in the workplace, or in the means of accessing or leaving the workplace.
+
+The defence says [*identify relevant evidence and arguments*]
+
+
+---
+
+
+## 7.7.3.1 Risk within the extent of management or control
+
+## Risk within the extent of management or control
+
+The **third element** that the prosecution must prove is that the risk arose in relation to a matter which the accused managed or controlled.
+
+This element brings together the first and second elements.
+
+For the first element, the prosecution needed to prove that the accused had management or control over the workplace to any extent. For the second element, the prosecution needed to prove that a risk existed in the workplace, or in the manner of entering or leaving the workplace. For this element, the prosecution must prove that the risk existed within the limits of the accused’s management or control of the workplace.
+
+This is because a person is not required to ensure safety in a workplace beyond the extent of their management or control of that workplace.
+
+[*Insert evidence or arguments*]
+
+
+---
+
+
+## 7.7.3.1 Failure to eliminate or reduce risk
+
+## Failure to eliminate or reduce risk
+
+The **fourth element** that the prosecution must prove is that the accused failed to do something to eliminate or reduce the risk.
+
+The law requires the prosecution to identify a particular measure which the accused should have done to address the risk.
+
+In this case, the prosecution says that NOA was required to [*identify relevant measures*, e.g. “install lane markings on where forklifts could travel”].
+
+The prosecution must prove that if NOA had done so, then the risk of [*identify relevant risk*] would have been eliminated or reduced. It is not enough to say that the risk might have been reduced if the accused had taken that measure.
+
+[*Insert evidence or arguments*]
+
+
+---
+
+
+## 7.7.3.1 Reasonable Practicability
+
+## Reasonable Practicability
+
+The **fifth element** that the prosecution must prove is that the prosecution failed to take a reasonably practicable measure to eliminate or reduce risk.
+
+Practicable is a word that is not commonly used. It means that something can be done or put into practice. This element requires you to decide whether [*describe specific measure*] was reasonably feasible or reasonably capable of being done.
+
+To decide whether the proposed measure was reasonably practicable, you must consider matters such as:
+
+
+
+- How likely it was that [*describe relevant risk*] would occur;
+
+- What harm was likely to be caused if [*describe relevant risk*];
+
+- What could be done to eliminate or reduce the risk;
+
+- How suitable those options were, and how much they would have cost; and
+
+- What the accused knew about the risk and the ways of eliminating or reducing it, or reasonably should have known.
+
+
+---
+
+
+## 7.7.3.1 Reasonable Practicability
+
+You must consider these matters by reference to the position of a reasonably prudent workplace manager. It is no answer for the accused to say that they did not know about the risk, or thought that things were unlikely to go wrong, or could not afford to do what was suggested.
+
+You must also consider these matters without the benefit of hindsight. You must decide whether the proposed measure was reasonably practicable before [*identify event which raised accused’s awareness of risk*].
+
+If the risk was reasonably foreseeable, then the accused may have been required to take steps to prevent it, even if they had no personal knowledge of the risk.
+
+However, people do not need to guard against risks that are unforeseeable. This is because it is not reasonably practicable to protect against unforeseeable risks.
+
+[*If it is necessary to direct the jury that the duty is non-delegable, add the following shaded section*.]
+
+The law says that the duty to eliminate or reduce risks cannot be delegated to anyone else. This means that when you are deciding whether [*identify relevant measure*] is reasonably practicable, the accused cannot say [*identify how the issue of delegation arose in the context of the case*, e.g. “that NO3P used the workplace and so they were responsible for eliminating or reducing the risk”].
+
+Workplace managers and controllers must proactively search for and address risks in the workplace. They must adopt an active, imaginative and flexible approach to workplace safety. They may need to protect against risks that arise where people act inadvertently or carelessly.
+
+However, the law does not require a person to eliminate all dangers that could conceivably arise. That would involve imposing an unrealistic standard of perfection. The test is whether the accused failed to do what was reasonably practicable.
+
+[*If multiple measures are identified, add the following shaded section*.]
+
+The prosecution has identified [*insert number of measures*] things NOA should have done to eliminate or reduce the risk. These are alternatives. For each of them, you must ask “Would it have eliminated or reduced the risk” and “Was it reasonably practicable”. If all of you answer yes to both questions for a particular measure, then you are satisfied of both the third and fourth elements of this offence. If half of you say [*insert first measure*] was not reasonably practicable, but [*insert second measure*] was and half of you say [*insert second measure*] was not reasonably practicable but [*insert first measure*] was, then you have not reached agreement on this element.
+
+
+---
+
+
+## 7.7.3.1 Reasonable Practicability
+
+[*If evidence is led of an accident involving the workplace, add the following shaded section*.]
+
+You have heard evidence that [*describe circumstances of accident*]. NOA has not been charged with causing that accident, or causing NOV’s [death/injury]. Instead, NOA has been charged with failing to address a risk.
+
+You might wonder “how can I use the evidence of the accident then?” The evidence that [*identify relevant accident*] may help you decide:
+
+
+---
+
+
+## 7.7.3.1 Reasonable Practicability
+
+- Did a risk exist?
+
+- How likely was this risk to occur?
+
+- What would happen if this risk occurs?
+
+- Did NOA taken all reasonably practicable steps to eliminate the risk?
+
+
+
+But don’t use the benefit of hindsight. Remember that just because an accident has happened it does not mean that this was due to a relevant failure on the part of the accused. Sometimes accidents happen and no one is to blame.
+
+You do not need to decide whether [*identify relevant measure*] would have prevented [*describe relevant accident*]. There are two important questions. “Would [*identify relevant measure*] have eliminated or reduced the risk of [*identify relevant risk*]?” and “Was it reasonably practicable to [*identify relevant measure*]?” If you answer yes to both questions, then you are satisfied of both the fourth and fifth elements of this offence.
+
+[*If the case concerns a hidden risk, add the following shaded section*.]
+
+In making your decision, you must consider the fact that hidden risks are sometimes more dangerous than obvious risks. While people will often be aware of the need to avoid obvious risks, they may overlook the need to avoid hidden risks.
+
+Ultimately, deciding whether something is reasonably practicable is a balancing exercise that requires you to use your common sense. Consider the danger posed by the risk and the difficulty of addressing the risk. Using that, decide whether the measure(s) posed by the prosecution were reasonably practicable.
+
+[*Summarise** relevant evidence and arguments*]
+
+
+---
+
+
+## 7.7.3.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of failing to ensure health and safety of a workplace the prosecution must prove to you beyond reasonable doubt:
+
+**One** – NOA had management or control of a workplace to any extent.
+
+**Two** – There was a risk to health and safety in the workplace or in the means of entering or leaving the workplace.
+
+**Three** – The risk arose in relation to a matter NOA managed or controlled.
+
+**Four** – NOA failed to take an identified measure that would have eliminated or reduced the risk.
+
+**Five** – It was reasonably practicable for the accused to have taken that measure.
+
+If you find that any of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of failing to ensure health and safety of a workplace.
+
+Last updated: 24 October 2024
+
+
+---

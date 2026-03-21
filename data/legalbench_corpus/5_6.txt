@@ -1,0 +1,394 @@
+# Chapter 5.6
+
+
+## 5.6 Assist Offender
+
+# 5.6 Assist Offender
+
+
+
+## Overview
+
+
+
+1. The offence of assisting an offender is created by *Crimes Act 1958* s 325.
+
+2. The offence is available as an alternative to all serious indictable offences (*Crimes Act 1958 *s 325(2)).
+
+3. It is for the trial judge to determine whether or not to leave this offence to the jury. This determination does not need to be made until the close of the evidence (*Crimes Act 1958 *s 325(2); *R v Taylor & Ors* 22/6/1989 Vic CCA).
+
+
+---
+
+
+## 5.6 Elements
+
+## Elements
+
+
+
+1. The offence has the following five elements:
+
+1. A person (the "principal offender") committed a serious indictable offence (the "principal offence");
+
+1. The accused performed a positive act after the completion of that offence;
+
+2. When the accused performed that act, s/he knew or believed that the principal offender had committed the principal offence, or any other serious indictable offence;
+
+3. The accused acted with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender; and
+
+4. The accused had no lawful authority or reasonable excuse for his/her actions (Crimes Act 1958 s 325).
+
+
+
+## Serious Indictable Offence
+
+
+
+2. The first element requires the prosecution to prove that the principal offender committed a "serious indictable offence" (*Crimes Act 1958* s 325; *R v Morton* [2001] VSC 16).
+
+3. A "serious indictable offence" is defined as an indictable offence that "is punishable on first conviction with imprisonment for life or for a term of five years or more" (*Crimes Act 1958 *s 325(6)).
+
+4. The principal offender does not need to have committed the offence personally. His/her liability may be derivative, or the result of a legal doctrine, such as acting in concert (*R v Welsh* [1999] 2 VR 62).
+
+5. A record of conviction of the principal offender is *prima facie* evidence that the principal offence was committed. It is not, however, necessary or sufficient. An accused may lead evidence to rebut the record of conviction (*R v Dawson *[1961] VR 773; *R v Welsh* [1999] 2 VR 62; *R v Kirkby* [2000] 2 Qd R 57).
+
+6. If the principal offender and the accused are tried at the same time, the judge must give a separate consideration direction to the jury. S/he must make it clear that evidence that is admissible only against the principal offender (such as out of court admissions that were not made in the presence of the accused) cannot be used to establish, for the purpose of the offence of assisting an offender, that the principal offence has been committed (*R v Welsh* [1999] 2 VR 62) See 1.8 Separate Consideration for further information.
+
+
+
+## Accused’s Actions
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+
+## 5.6 Elements
+
+7. The second element requires the prosecution to prove that the accused performed a positive act (*Crimes Act 1958* s 325; *R v Taylor & Ors* 22/6/1989 Vic CCA; *R v Hurley & Murray *[1967] VR 526; *R v Ready & Manning* [1942] VLR 85).
+
+8. The accused’s act must have been performed after the principal offence was completed (*R v Taylor & Ors* 22/6/1989 Vic CCA).[^2]
+
+9. The accused simply needs to have performed a positive act. His/her act does not need to have actually assisted the principal offender (*R v Tevendale* [1955] VLR 95; *R v Levy *[1912] 1 KB 158).
+
+10. Concealing evidence, or laying a false trail, may be a positive act (*R v Levy *[1912] 1 KB 158; *R v Taylor & Ors* 22/6/1989 Vic CCA).
+
+11. However, the accused does not perform a positive act if s/he only instructs others not to give evidence, or refuses to give evidence him/herself (*R v Ready & Manning* [1942] VLR 85; *Ready & Manning v R *[1942] ALR 138).
+
+12. Failing to inform the police of the principal offender’s whereabouts is not a positive act. However, it can be relevant, in conjunction with other acts of assistance, to demonstrate that the accused intended to assist the principal offender (*R v Hurley & Murray* [1967] VR 526).
+
+
+
+## Knowledge or Belief
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+
+## 5.6 Elements
+
+13. The third element requires the prosecution to prove that, when the accused performed the relevant act, s/he knew or believed that the principal offender had committed the principal offence, or any other serious indictable offence (*Crimes Act 1958* s 325).
+
+14. The accused does not need to have known the precise offence that the principal offender committed. It is sufficient for him/her to have known, or believed, that the principal offender had committed some serious indictable offence (*Crimes Act 1958 *s 325; *R v Taylor & Ors* 22/6/1989 Vic CCA; c.f. *R v Stone *[1981] VR 737; *R v Tevendale* [1955] VLR 95; *Middap v R *(1992) 63 A Crim R 434).
+
+15. The accused must have had the requisite state of knowledge at the time s/he performed the relevant act. This element will not be satisfied if s/he acquired the necessary knowledge after completing the act (*R v Kawicki* (1995) 82 A Crim R 191).
+
+
+
+## Purpose
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+
+## 5.6 Elements
+
+16. The fourth element requires the prosecution to prove that the accused performed the relevant act for the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender (*Crimes Act 1958* s 325; *R v Hurley & Murray* [1967] VR 526; *Middap v R *(1992) 63 A Crim R 434).
+
+17. It is not sufficient for the accused to have performed that act *knowing that its probable result *would be to impede the apprehension, prosecution, conviction or punishment of the principal offender. S/he must have been motivated by a *subjective desire* to impede the principal offender’s apprehension, prosecution, conviction or punishment (*R v Hurley & Murray* [1967] VR 526).
+
+18. It will usually only be necessary to explain the difference between desiring a result, and acting with the knowledge that that result will probably occur, if the defence argues that the accused did not subjectively desire the foreseen consequences of his/her action (*Middap v R *(1992) 63 A Crim R 434).
+
+19. It is best to avoid directing the jury that the accused must "intend" to impede the apprehension, prosecution, conviction or punishment of the principal offender, as the word "intend" is ambiguous, covering both knowledge of probable consequences and a desire for those consequences (*R v Hurley & Murray* [1967] VR 526).
+
+20. The accused’s conduct does not need to have been solely motivated by a desire to protect the principal offender. This element may be satisfied even if s/he had other motivations for acting, such as seeking to conceal his/her own wrongdoing (*Middap v R *(1992) 63 A Crim R 434; *R v Tevendale* [1955] VLR 95).
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+
+## 5.6 Elements
+
+21. While a desire to protect the principal offender does not need to have been the accused’s sole purpose for acting, the jury must be satisfied beyond reasonable doubt that it was at least one his/her motivations. If the jury are unable to exclude the possibility that the accused was solely motivated by another desire (e.g. to conceal his/her own involvement in the crime), then this element will not be met (*R v Taylor & Ors* 22/6/1989 Vic CCA; *R v Jones *(1948) 33 Cr App R 230; *Middap v R *(1992) 63 A Crim R 434).[^3]
+
+22. The accused must have had this purpose at the time s/he performed the relevant act. This element will not be satisfied if this desire arose after s/he had completed the act (*R v Kawicki* (1995) 82 A Crim R 191).
+
+23. It is not necessary to show that the accused was successful in impeding the apprehension, prosecution, conviction or punishment of the principal offender (*R v Dawson* [1961] VR 773).
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+
+## 5.6 Elements
+
+## Lawful Authority or Excuse
+
+
+
+24. The prosecution must disprove any defences that are open on the evidence (*R v Hurley & Murray* [1967] VR 526; *Middap v R (1992) 63 A Crim R 434*).
+
+25. A married person cannot be convicted of assisting his/her spouse (*Crimes Act 1958 *s 338).
+
+
+
+Last updated: 23 April 2008
+
+
+[^2]: This means that this element will not be satisfied in cases where the accused acts between the time of the principal offender’s causal acts and the time when the offence is finally committed (e.g. in a murder case, between the time the victim is stabbed and the time s/he dies). The accused’s actions must be committed after the completion of the principal offence (i.e. after the victim’s death).
+[^3]: This means that, if the accused’s purpose is to be inferred from the circumstances, the inference that the accused was at least partly motivated by a desire to protect the principal offender must be the only available inference (*R v Taylor & Ors* 22/6/1989 Vic CCA; R v Jones (1948) 33 Cr App R 230; *Middap v R* (1992) 63 A Crim R 434). See 3.6 Circumstantial Evidence and Inferences for further information.
+
+
+---
+
+---
+
+# Chapter 5.6.1
+
+
+## 5.6.1 Charge: Assist Offender
+
+# 5.6.1 Charge: Assist Offender
+
+I must now direct you about the crime of assisting an offender. To prove this crime, the prosecution must prove five elements beyond reasonable doubt:
+
+One – that someone committed a serious criminal offence. Throughout these directions, I will call the person who committed that offence the "principal offender".
+
+Two – that, after that offence was committed, the accused performed some act.
+
+Three – that, when the accused performed that act, s/he knew or believed that the principal offender had committed a serious criminal offence.
+
+Four – that the accused acted with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender.
+
+Five – that the accused had no lawful authority or reasonable excuse for his/her actions.
+
+Before you can find NOA guilty of assisting an offender you must be satisfied that the prosecution has proved all five of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in detail.
+
+
+
+## Serious Criminal Offence
+
+The first element the prosecution must prove is that the principal offender committed a serious criminal offence.
+
+[*If this element is not in issue, add the following shaded section.*]
+
+In this case it is not disputed that NO3P committed NOO.[^2] The law says that NOO is a serious criminal offence. You should therefore have no difficulty finding this element proven.
+
+[*If this element is in issue, add the following shaded section.*]
+
+In this case, it is alleged that NO3P committed the offence of NOO. The law says that NOO is a serious criminal offence. This element will therefore be met if you are satisfied that NO3P committed NOO.
+
+This requires you to be satisfied that all of the following matters have been proven beyond reasonable doubt:
+
+[*Describe **all of** the elements of the offence, explain those elements, and relate them to the facts*.]
+
+[*If evidence of the principal offender’s conviction has been led and contested, add the following darker shaded section.*]
+
+In order to prove this element, the prosecution provided evidence that NO3P was convicted of NOO by another jury. While you may use this fact as evidence that NO3P did commit the offence of NOO, it is not conclusive. You must make your own assessment of the evidence in this case, and consider whether, based on all the evidence you have heard, you are satisfied that NO3P actually did commit the offence of NOO.
+
+
+[^2]: Name of Offence.
+
+
+---
+
+
+## 5.6.1 Accused’s Action
+
+## Accused’s Action
+
+The second element the prosecution must prove is that, after the offence of NOO was completed, the accused performed some act.
+
+In this case it is alleged that NOA [*describe relevant act*]. This element will only be met if you are satisfied, beyond reasonable doubt, that s/he performed this act, and that this occurred after the offence of NOO was completed.
+
+[*Describe relevant prosecution and **defence** evidence and/or arguments.*]
+
+
+---
+
+
+## 5.6.1 Knowledge or Belief
+
+## Knowledge or Belief
+
+The third element the prosecution must prove is that, when the accused [*describe relevant act*], s/he knew or believed that the principal offender had committed a serious criminal offence.
+
+[*If it is alleged that NOA believed that NO3P had committed a different offence from that which s/he had committed, add the following shaded section.*]
+
+It does not matter if NOA believed that NO3P had committed a different offence from the one s/he actually committed. All that is required for this element is that NOA believed that NO3P had committed some serious criminal offence.
+
+In this case, the prosecution alleged that, when NOA [*describe relevant act*], s/he knew or believed that NO3P had committed [*describe relevant offence*]. [*Describe relevant prosecution evidence and/or arguments.*] The defence denied this, arguing [*describe relevant **defence** evidence and/or arguments*].
+
+
+---
+
+
+## 5.6.1 Purpose
+
+## Purpose
+
+The fourth element the prosecution must prove is that the accused acted with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender. That is, NOA [*describe relevant act*] because s/he wanted to prevent NO3P from being caught by the police and brought to trial.
+
+[*If the **defence** argued **that,** the effect of impeding apprehension was not desired, add the following shaded section.*]
+
+It is not sufficient for NOA to have known that his/her acts would probably impede NO3P’s apprehension, prosecution, conviction or punishment. For this element to be met, s/he must have actively desired that result.
+
+This does not need to have been NOA’s only motivation for acting in that way. However, for this element to be met, you must be satisfied, beyond reasonable doubt, that it was at least one of his/her motivations. If you are unable to exclude the possibility that NOA was solely motivated by another desire, then this element will not be met.
+
+In this case, the prosecution argued that the purpose of NOA’s actions was to impede NO3P’s apprehension, prosecution, conviction or punishment. [*Describe relevant prosecution evidence and/or arguments.*] The defence denied this, arguing [*describe relevant **defence** evidence and/or arguments*].
+
+
+---
+
+
+## 5.6.1 Reasonable excuse
+
+## Reasonable excuse
+
+The fifth element the prosecution must prove is that the accused had no lawful authority or reasonable excuse for his/her actions.
+
+[*If this element is not in issue, add the following shaded section.*]
+
+This element is not in dispute in this case. You should therefore have no difficulty finding this element proven.
+
+[*If this element is in issue, explain any relevant **defences** or justifications and relate to the facts.*]
+
+
+
+## Application of Law to Evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+---
+
+
+## 5.6.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of assisting an offender, the prosecution must prove to you beyond reasonable doubt:
+
+One – That NO3P committed NOO; and
+
+Two – That after the completion of that offence, NOA performed some act; and
+
+Three – That when NOA performed that act, s/he knew or believed that NO3P had committed a serious criminal offence; and
+
+Four – That NOA acted with the purpose of impeding NO3P’s apprehension, prosecution, conviction or punishment; and
+
+Five – That NOA had no lawful authority or reasonable excuse for his/her actions.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of assisting an offender.
+
+Last updated: 7 February 2013
+
+
+---
+
+---
+
+# Chapter 5.6.2
+
+
+## 5.6.2 Checklist: Assist Offender
+
+# 5.6.2 Checklist: Assist Offender
+
+Five elements the prosecution must prove beyond reasonable doubt:
+
+
+
+1. The principal offender committed a serious criminal offence; and
+
+2. After that offence was committed, the accused performed some act; and
+
+3. When the accused performed that act, s/he knew or believed that the principal offender had committed a serious criminal offence; and
+
+4. The accused acted with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender; and
+
+5. The accused acted without lawful authority or reasonable excuse.
+
+1. Serious Criminal Offence
+
+1. 1. Did the principal offender commit a serious criminal offence?
+
+1. Consider – Has the prosecution proven all of the elements of ***[***describe offence***]***?
+
+1. If Yes, then go to Question 2
+
+2. If No, then the accused is not guilty of assisting an offender
+
+2. Accused’s Actions
+
+2. 2. After that offence was committed, did the accused perform some act?
+
+2. Consider – Did the accused ***[***describe relevant act***]***?
+
+3. If Yes, then go to Question 3
+
+4. If No, then the accused is not guilty of assisting an offender
+
+3. Accused’s Knowledge or Belief
+
+3. 3. When the accused performed that act, did s/he know or believe that the principal offender had committed a serious criminal offence?
+
+5. If Yes, then go to Question 4
+
+6. If No, then the accused is not guilty of assisting an offender
+
+4. Accused’s Purpose
+
+4. 4. Did the accused act with the purpose of impeding the apprehension, prosecution, conviction or punishment of the principal offender?
+
+3. Consider – Was at least one of the accused’s motivations for acting that s/he wanted to prevent the principal offender from being apprehended, prosecuted, convicted or punished?
+
+7. If Yes, then go to Question 5
+
+8. If No, then the accused is not guilty of assisting an offender
+
+5. Lawful Justification
+
+5. 5. Did the accused act without lawful justification or reasonable excuse?
+
+9. If Yes, then the accused is guilty of assisting an offender (as long as you have also answered Yes to questions 1, 2, 3 and 4)
+
+10. If No, then the accused is not guilty of assisting an offender
+
+
+
+Last updated: 23 April 2008
+
+
+---

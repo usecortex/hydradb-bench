@@ -1,0 +1,489 @@
+# Chapter 11.1
+
+
+## 11.1 Consolidated Final Directions – Split Charge[^2]
+
+# 11.1 Consolidated Final Directions – Split Charge[^2]
+
+
+
+## Overview of Final Directions
+
+Members of the jury, you have now heard all the evidence that will be called in this trial. I will soon invite counsel to address you and put arguments to you about how to approach the evidence and issues in this trial. But before that, I will first give you a question trail. This document identifies the matters you must decide to reach your verdicts in this case.
+
+[*Associate / Tipstaff*], please give the jury the question trails.
+
+The question trail numbers match the charge numbers on the indictment. Question trail one relates to charge one, question trail 2 relates to charge 2, and so on. The differences relate to what NOA allegedly did on each occasion, and when s/he did it. As I directed you at the start of the trial, and I will remind you again after counsel’s addresses, you must consider each charge separately, using only the evidence that is relevant to that charge. It is wrong to say that simply because you find the accused guilty or not guilty of one charge, s/he must be guilty or not guilty of another charge.
+
+[*Insert question trail offence directions*]
+
+
+[^2]: This document was last updated on 1 January 2023.
+
+
+---
+
+
+## 11.1 Using the question trails - Alternative Charges on the Indictment
+
+## Using the question trails - Alternative Charges on the Indictment
+
+[*If there are alternative charges on the indictment, add the following shaded section*]
+
+In this case, charges [*insert principal charge*] and [*insert alternative charge*] relate to the same alleged event, and are alternatives. The prosecution does not say that NOA is guilty of both of these charges, but of one or the other.
+
+When you are delivering your verdict[s], you will first be asked for your verdict on charge [*number*], which is the more serious charge.[^3]  If you reach a verdict of guilty in relation to that charge, you will not be asked for a verdict on [*insert alternative charge*].
+
+It is only if find NOA not guilty of charge [*number*] that you will be asked to deliver a verdict on charge [*number*].
+
+The question trails help you remember this in two ways. First, the question trail for charge [*number*] states it is an alternative to charge [*number*]. Second, the instructions in charge [*number*] direct you to go to either charge [*number*] or charge [*number*], depending on your answers.
+
+I remind you that the accused is entitled to a separate trial of each charge, and that you must not reach your verdict by compromising between them.
+
+
+[^3]: This charge is based on the assumption that the charges are of differing gravity. If the charges are of the same gravity, it will need to be modified accordingly.
+
+
+---
+
+
+## 11.1 Using the question trails - Alternative Charges Not on the Indictment
+
+## Using the question trails - Alternative Charges Not on the Indictment
+
+[*If there are alternative charges not on the indictment, add the following shaded section*]
+
+In this case, the accused has been charged with [insert principal offence]. The law says that when a person is charged with this offence, you are entitled to find him/her guilty of the offence of [*insert alternative offence*] instead.
+
+When you are delivering your verdict[s], you will first be asked for your verdict on charge [number], which is the more serious charge.[^4]  If you reach a verdict of guilty in relation to that charge, you will not be asked for a verdict on [*insert alternative charge*].
+
+It is only if find NOA not guilty of charge [number] that you will be asked to deliver a verdict on charge [number].
+
+The question trails help you remember this in two ways. First, the question trail for charge [*number*] states it is an alternative to charge [*number*]. Second, the instructions in charge [*number*] direct you to go to either charge [*number*] or charge [*number*], depending on your answers.
+
+I remind you that the accused is entitled to a separate trial of each charge, and that you must not reach your verdict by compromising between them.
+
+
+[^4]: This charge is based on the assumption that the charges are of differing gravity. If the charges are of the same gravity, it will need to be modified accordingly.
+
+
+---
+
+
+## 11.1 Closing addresses of counsel
+
+## Closing addresses of counsel
+
+[Prosecuting counsel], you may now address the jury.
+
+[*Prosecution counsel’s final address*]
+
+Thank you [prosecuting counsel]. [Defence counsel], you may now address the jury.
+
+[*Defence** counsel’s final address*]
+
+Thank you [defence counsel].
+
+
+---
+
+
+## 11.1 Final directions
+
+## Final directions
+
+Before you leave to consider your verdict, I must remind you the principles of law you must apply when you decide the case. While I have already told you some of these principles at different times during the trial, it is important that I both remind you of what I said earlier, and place those principles in the context of the trial which has now taken place. You must apply these instructions carefully. I will also explain how the evidence and the arguments of the parties relate to the questions in your question trails. In doing this, I will have to be selective. The mere fact that I don’t mention certain evidence does not mean that that evidence is not important. Similarly, the fact that I include certain evidence does not make that evidence more important than other evidence. You must consider **all** of the evidence, not just the parts of it that I mention. Which parts of that evidence are important or not important is a matter for you to determine. I will then explain what verdicts you may return and what happens when you have reached your verdicts.
+
+Remember, if at any time you have a question about anything I say, you are free to ask me by passing a note to my tipstaff.
+
+
+---
+
+
+## 11.1 Review of the Role of the Jury
+
+## Review of the Role of the Jury
+
+In this case, the prosecution alleges that NOA committed the offence[s] of [*insert offences*].[^5]  These are the offences stated in the indictment and on your question trails. The accused has pleaded “not guilty”, and so it is for you, and you alone, to decide whether s/he is guilty or not guilty of [this/these] crime[s].
+
+You do that by answering the questions on each question trail. Your answers will depend on what you make of the evidence that has been given during the trial.
+
+
+[^5]: This charge is drafted for cases involving one accused. If the case involves multiple accused, it will need to be modified accordingly.
+
+
+---
+
+
+## 11.1 Review of the Role of the Judge
+
+## Review of the Role of the Judge
+
+It is my role, as the **judge**, to explain to you the principles of law that you must apply when you are answering the questions on the question trails. You must accept and follow all of those directions.
+
+I want to emphasise again that it is **not** my responsibility to decide this case – that is your role. The verdict that you return has absolutely nothing to do with me. So while you must follow any directions I give you about the law, you are not bound by any comments I may make about the facts.
+
+As I told you at the start of the trial, it is unlikely that I will make any comments about the evidence. If I do make a comment about the evidence, you must not give it any extra weight because I, as the judge, have made that comment. You must disregard any comment I make about the evidence, unless you agree with that view after making own independent assessment of the evidence. That is what I mean when I say that you alone are the judges of the facts in this case.
+
+
+---
+
+
+## 11.1 Review of the Role of Counsel
+
+## Review of the Role of Counsel
+
+Throughout the trial, **counsel** have presented the prosecution and defence cases. While their comments and arguments have been designed to assist you to reach your decision, you also do not need to accept what they have said. Of course, if you agree with an argument they have presented, you can adopt it. But if you do not agree with their view, you must put it aside.
+
+
+---
+
+
+## 11.1 Review of the Need to Decide Solely on the Evidence
+
+## Review of the Need to Decide Solely on the Evidence
+
+I have told you that it is your task to determine the facts in this case. In determining the facts, you must consider all of the evidence that you heard from the witness box. Remember, it is the answers the witnesses gave that are the evidence, not the questions they were asked.
+
+You must also take into account the exhibits that were tendered. These include [*insert examples*]. When you go to the jury room to decide this case, [most of/some of] the exhibits will go with you, where you may examine them. Consider them along with the rest of the evidence and in exactly the same way.[^6]  [However, the following exhibits will not go with you to the jury room [*insert exhibits*]].
+
+[*If any formal admissions were put to the jury, add the following shaded section*.]
+
+In addition, in this case the following admissions were made: [insert admissions]. You must accept these admissions as established facts.
+
+Nothing else is evidence in this case. As I have told you, this includes any comments counsel make about the facts.[^7]  It also includes:
+
+[*Identify other relevant matters which do not constitute evidence in the case, such as transcripts.*
+
+*It may be appropriate to insert charges relating to these matters here*.]
+
+It your duty to decide this case only on the basis of the witnesses’ testimony, [the admissions] and the exhibits. You should consider the evidence which is relevant to a particular matter in its individual parts and as a whole, and come to a decision one way or another about the facts.
+
+As I have told you, in doing this you must ignore all other considerations, such as any feelings of sympathy or prejudice you may have for anyone involved in the case. You should not, for example, be influenced by [*insert case specific examples*].[^8]  Such emotions have no part to play in your decision.
+
+Remember, you are the judges of the facts. That means that in relation to all of the issues in this case, you must act like judges. You must dispassionately weigh the evidence logically and with an open-mind, not according to your passion or feelings.
+
+
+[^6]: Depending on the nature of the evidence, it may be necessary to warn the jury of the possible dangers of conducting experiments in the jury room: see Decide Solely on the Evidence for further information.
+[^7]: If the accused is unrepresented, the jury should be told that what s/he said in his/her addresses, or when questioning witnesses, is also not evidence.
+[^8]: Some matters which it may be appropriate to point out (as they could conceivably give rise to prejudice or sympathy) include:
+The nature of the injuries suffered by the complainant;
+The race or ethnicity of the accused or the complainant;
+The sexual orientation of the accused or the complainant;
+The fact that the accused or the complainant are drug users.
+In some cases, it may be appropriate to point out that although a party’s behaviour does not accord with what the jury might think is morally acceptable, the jury is not a court of morals. Everyone has the right to be treated equally before the law.
+[^9]: If there has been significant publicity about the case or the parties involved, it may be necessary to give a more detailed warning.
+
+
+---
+
+
+## 11.1 Review of the Need to Decide Solely on the Evidence
+
+## Outside Information
+
+At the start of the trial I also told you that you must not base your decision on any information you may have obtained outside this courtroom. For example, you must completely ignore anything that you have seen or heard in the media about this case, or about the people involved in it. You must consider only the evidence that has been presented to you here in court.[^9]
+
+
+[^6]: Depending on the nature of the evidence, it may be necessary to warn the jury of the possible dangers of conducting experiments in the jury room: see Decide Solely on the Evidence for further information.
+[^7]: If the accused is unrepresented, the jury should be told that what s/he said in his/her addresses, or when questioning witnesses, is also not evidence.
+[^8]: Some matters which it may be appropriate to point out (as they could conceivably give rise to prejudice or sympathy) include:
+The nature of the injuries suffered by the complainant;
+The race or ethnicity of the accused or the complainant;
+The sexual orientation of the accused or the complainant;
+The fact that the accused or the complainant are drug users.
+In some cases, it may be appropriate to point out that although a party’s behaviour does not accord with what the jury might think is morally acceptable, the jury is not a court of morals. Everyone has the right to be treated equally before the law.
+[^9]: If there has been significant publicity about the case or the parties involved, it may be necessary to give a more detailed warning.
+
+
+---
+
+
+## 11.1 Circumstantial Evidence and Inferences
+
+## Circumstantial Evidence and Inferences
+
+I will now give you some directions about how you approach the evidence in this case.
+
+Evidence comes in many forms.  It can be evidence about what someone saw or heard.  It can be an exhibit admitted into evidence.  It can be someone's opinion.
+
+Some evidence can prove a fact directly.  For example, if a witness said that s/he saw or heard it raining outside, that would be direct evidence of the fact that it was raining.
+
+Other evidence can prove a fact indirectly.  For example, if a witness said that s/he saw someone enter the courthouse wearing a raincoat and carrying an umbrella, both dripping wet, that would be indirect or ‘circumstantial’ evidence of the fact that it was raining outside.  You can conclude from the witness’s evidence that it was raining, even though s/he didn’t actually see or hear the rain.
+
+As far as the law is concerned, it makes no difference whether evidence is direct or indirect.  Although people often believe that indirect or circumstantial evidence is weaker than direct evidence, that is not true.  It can be just as strong or even stronger.  What matters is how strong or weak the particular evidence is, not whether it is direct or indirect.
+
+However, you must take care when drawing conclusions from indirect evidence.  You should consider all of the evidence in the case, and only draw reasonable conclusions based on the evidence that you accept.  Do not guess.  While we might be willing to act on the basis of guesses in our daily lives, it is not safe to do that in a criminal trial.
+
+[*In cases involving a **significant amount of circumstantial evidence**, add the following shaded section.]*
+
+In determining whether a conclusion is reasonable, you should look at all of the evidence together.  It may help you to consider the pieces of evidence to be like the pieces of a jigsaw puzzle.  While one piece may not be very helpful by itself, when all the pieces are put together the picture may become clear.
+
+
+---
+
+
+## 11.1 Circumstantial Evidence and Inferences
+
+However, when putting all the pieces together, you must take care not to jump to conclusions.  It is sometimes easy for people to be too readily persuaded of a fact, on the basis of insufficient evidence or evidence that turns out to be truly coincidental.  Once convinced of that fact, they may then seek support for it in the other evidence, perhaps distorting that evidence to fit their theory or disregarding ‘inconvenient’ facts.  You must make sure that you do not do this.  You must keep an open mind, and be prepared to change your views.
+
+You may only convict the accused if you are satisfied that his/her guilt is the only reasonable conclusion to be drawn from the whole of the evidence, both direct and indirect.  If there is another reasonable view of the facts which is consistent with the accused’s innocence, then the prosecution will not have proved his/her guilt beyond reasonable doubt, and you must acquit him/her.
+
+
+---
+
+
+## 11.1 Review of the Assessment of Witnesses
+
+## Review of the Assessment of Witnesses
+
+You have now listened to what each witness has said, and watched how they presented their evidence and answered the questions under cross-examination. No further evidence will be given.
+
+To decide what the facts are in this case, you now need to assess the evidence. It is up to you to decide how much or how little of the testimony of any witness you will believe or rely on. You may believe all, some or none of a witness’s evidence. No one can tell you how to approach any particular witness’s evidence in this regard.
+
+It is also for you to decide what weight should be attached to any particular evidence – that is, the extent to which the evidence helps you to determine the relevant issues.
+
+As I mentioned at the start of the trial, in assessing witnesses’ evidence, some matters which may concern you include their credibility and reliability. It is for you to judge whether the witnesses told the truth, and whether they correctly recalled the facts about which they gave evidence. This is something you do all the time in your daily lives. There is no special skill involved – you just need to use your common sense.
+
+While you may take into account the witness’s manner when he or she gave evidence, you should be careful when doing so. As I noted at the start of the case, giving evidence in a trial is not common, and may be a stressful experience. People react and appear differently. Witnesses come from different backgrounds, and have different abilities, values and life experiences. There are too many variables to make the manner in which a witness gives evidence the only, or even the most important, factor in your decision.
+
+In making your decision, do not consider only the witnesses’ testimony. Also take into account the exhibits [and admissions]. Consider all of the evidence in the case, use what you believe is true and reject what you disbelieve. Give each part of it the importance which you – as the judge of the facts – think it should be given, and then determine what, in your judgment, are the true facts.
+
+
+---
+
+
+## 11.1 Review of the Onus and Standard of Proof
+
+## Review of the Onus and Standard of Proof
+
+I want to emphasise again that under our justice system people are presumed to be innocent, unless and until they are proved guilty. So before you may return a verdict of guilty, the prosecution must satisfy you that [each of] the accused is guilty of the charge[s] in question. The accused does/do not have to prove anything.
+
+The prosecution must do this by proving [each of] the accused’s guilt of the charge[s] beyond reasonable doubt.
+
+Beyond reasonable doubt is the highest standard of proof that our law demands. It is not enough for the prosecution to prove that the accused is probably guilty, or very likely to be guilty.
+
+As I have told you, it is almost impossible to prove anything with absolute certainty when reconstructing past events and the prosecution does not have to do so. A reasonable doubt is not an imaginary or fanciful doubt, or an unrealistic possibility.
+
+You cannot be satisfied the accused is guilty if you have a reasonable doubt about whether the accused is guilty.
+
+As I have told you, these words mean exactly what they say – proof beyond reasonable doubt.
+
+The prosecution does not need to prove every fact that they allege to this standard. It is the essential ingredients or “elements” of the charge[s] that they must prove beyond reasonable doubt. To help you in your deliberations, the question trails identify each element in the form of a question. By answering the questions in a question trail, and following the instructions after each question, you will decide whether the accused is guilty or not guilty of that charge.
+
+
+---
+
+
+## 11.1 Judge’s Summary of Issues and Evidence
+
+## Judge’s Summary of Issues and Evidence
+
+I am now going to remind you of some of the evidence and arguments you have heard. Before doing so, I want to remind you again that the mere fact that I may leave out a part of a particular witness’ evidence does not mean that that evidence is not important.
+
+Similarly, the fact that I include evidence from a particular witness does not make that evidence more important than the evidence of other witnesses. You must consider all of the evidence and not just the parts of it that I mention. Which parts of the evidence are important or not important is a matter for you to determine.
+
+I’ll do this by reference to the question trails. So please turn to the first question trail.
+
+I also want to emphasise again that it is not my responsibility to decide this case – that is your role. So while you must follow any directions I give you about the law, you are not bound by any comments I may make about the facts. If I happen to express any views upon questions of fact, you must disregard those views, unless they happen to agree with your own assessment of the evidence.
+
+[**Note** – *When describing the evidence on each element, add any necessary evidentiary directions, including any from chapter 4 of this charge book, when first discussing that type of evidence*.]
+
+
+---
+
+
+## 11.1 Sole Evidence Direction
+
+## Sole Evidence Direction
+
+[*If there is a single piece of evidence relied on to prove one or more elements, add the following shaded section*.]
+
+In this case, the only evidence that [*identify relevant elements or facts in issue*] is the evidence that [describe relevant single piece of evidence, e.g., NOA confessed to NOW]. It follows that you cannot be satisfied beyond reasonable doubt that [*identify relevant elements or facts in issue*] unless you are satisfied, beyond reasonable doubt, that the evidence of [*describe relevant single piece of evidence*] is true and proves [*identify relevant elements or facts in issue*].
+
+
+---
+
+
+## 11.1 Liberato Direction
+
+## Liberato Direction
+
+[*If the case turns on a conflict between the evidence of a prosecution witness and a **defence** witness, and there is a reasonable likelihood that the jury will think that they must believe the **defence** evidence to be true before they can acquit the accused, add the following shaded section*].
+
+In this case, there is a clear conflict between the evidence of [prosecution witness] and the evidence of [*defence** witness*].
+
+It is not necessary for you to accept [*defence** witness’s*] evidence in order to find the accused “not guilty”. In keeping with the requirement that the prosecution must prove their case beyond reasonable doubt, you must acquit NOA if [*defence** witness’s*] evidence gives rise to a reasonable doubt.
+
+This is the case even if you prefer the evidence of [*prosecution witness*] to the evidence of [*defence** witness*]. It is not sufficient for you merely to find the prosecution case to be preferable to the defence case. Before you can convict NOA, you must be satisfied that the prosecution have proven their case beyond reasonable doubt.
+
+So even if you do not think [*defence** witness*] is telling the truth, but are unsure where the truth lies, you must find the accused “not guilty”.
+
+In fact, even if you are convinced that [defence witness’s] evidence is not true, it is not the case that you must convict NOA. In such circumstances, you should put [defence witness’s] evidence to one side, and ask yourself whether the prosecution have proved the accused’s guilt beyond reasonable doubt on the basis of the evidence you do accept.
+
+
+---
+
+
+## 11.1 Review of Separate Consideration - Multiple Accused
+
+## Review of Separate Consideration - Multiple Accused
+
+[*If the case involves multiple accused, add the following shaded section*].
+
+I now want to remind you of the significance that there are [number] separate accused. As I told you at the start of the trial, there are really [*insert number*] trials [all] being heard together for convenience.
+
+You must be careful not to allow convenience to override justice. The accused and the prosecution are entitled to have the case against each accused considered separately.
+
+You must consider the case against each accused separately, in light only of the evidence which applies to that accused. You must ask yourselves, in relation to each accused, whether the evidence relating to that accused has satisfied you, beyond reasonable doubt, that s/he is guilty of the offence s/he has been charged with. If the answer is yes, then you should find him/her guilty. If the answer is no, then you should find him/her not guilty.
+
+You will note that I said you must consider the case against each accused “in light only of the evidence which applies to that accused”. This is because some of the evidence you have heard in this case is only relevant to the case against one accused or another. If a particular piece of evidence is only relevant to one accused, you may only use it when deciding whether or not that accused is guilty. You must not consider it in relation to [any of] the other accused.
+
+As part of explaining the case in relation to each charge, I highlighted the main evidence relevant to each question. I am now going to highlight the evidence which you might mistakenly think is relevant for certain charges or particular accused. [*Identify any evidence which is not admissible against **particular accused*].
+
+
+---
+
+
+## 11.1 Review of Separate Consideration – Multiple Charges
+
+## Review of Separate Consideration – Multiple Charges
+
+[*If the case involves multiple charges, add the following shaded section*].
+
+I now want to remind you of the significance that there are [*number*] separate charges.
+
+I want to remind you that you must be careful not to allow the convenience of one jury deciding all these charges to override justice. Both the prosecution and the accused are entitled to have you consider each charge separately.
+
+It would therefore be wrong to say that simply because you find the accused guilty or not guilty of one charge, that s/he must be guilty or not guilty, as the case may be, of another.
+
+[*If logic dictates that a finding in relation to one charge is material to another charge, this should be clearly explained to the jury here. For example, the jury should be told if an acquittal on one charge would require an acquittal on another*.]
+
+You must consider each charge separately, in light only of the evidence which applies to it. You must ask yourselves, in relation to each charge, whether the evidence relating to that charge has satisfied you, beyond reasonable doubt, that the accused is guilty of that particular crime. If the answer is yes, then you should find the accused guilty of that charge. If the answer is no, then you should find the accused not guilty of it.
+
+You will note that I said you must consider each charge “in light only of the evidence which applies to it”. This is because some of the evidence you have heard in this case is only relevant to one charge or another. If a particular piece of evidence is only relevant to one charge, you may only use it when deciding whether or not the accused is guilty of that charge. You must not consider it in relation to [any of] the other charge[s].
+
+As part of explaining each question trail, I highlighted the main evidence relevant to each question. I am now going to highlight the evidence which you might mistakenly think is relevant for certain charges. [*Identify any evidence which is not admissible against **particular accused*].
+
+
+---
+
+
+## 11.1 Unanimous and Majority Verdicts
+
+## Unanimous and Majority Verdicts
+
+I will now explain the verdicts you can return and how you reach them.
+
+In almost all criminal cases, a verdict of guilty or not guilty must be unanimous. That is, whatever decision you make, you must all agree on it.
+
+So if, for example, you are to find NOA guilty of [insert charge 1], then you must all agree that [he/she] is guilty of that offence. In exactly the same way, if you are to find NOA not guilty of [insert charge 1], then you must all agree that [he/she] is not guilty of that offence.
+
+**However,** this requirement does not mean that you must all reach your verdict for the same reasons. Indeed, you may each rely on quite different reasons for making your decision. For example, you may each rely upon different parts of the evidence, or you may each emphasise different aspects of the evidence.
+
+You also might reach your verdict by reference to different questions on the question trail. For example, for a verdict of not guilty, some of you might find the accused not guilty at question [*number*], while others might find the accused not guilty at question [*number*].
+
+[*If the question trail provides several different paths to guilt, and extended unanimity is not required, add the following shaded section*]
+
+Similarly, for charge [*number*], some of you might find the accused guilty at question [*number*], while others find the accused guilty at question [*number*].
+
+What is important is that, no matter how you reach your verdict, you all agree. Your verdict of guilty or not guilty [in relation to each charge / for each person charged] must be unanimous, the agreed decision of you all.
+
+**You may have noted** that I said that a verdict must be unanimous in “almost all” criminal cases. There are some circumstances in which a jury is allowed to give a majority verdict instead of a unanimous verdict. However, this is not yet one of those cases and may never be. I will tell you if the situation changes. Until I do, you should consider that your verdict[s] of guilty or not guilty must be unanimous.[^10]
+
+
+[^10]: This paragraph should be excluded in cases of murder, treason, offences against sections 71 or 72 of the *Drugs, Poisons and Controlled Substances Act 1981*, or offences against a law of the Commonwealth, as majority verdicts are not permitted in relation to such offences (*Juries Act 2000* s 46).
+
+
+---
+
+
+## 11.1 Using the question trails - Materially Different Issues or Consequences
+
+## Using the question trails - Materially Different Issues or Consequences
+
+[*The following shaded section may be added if evidence has been presented which shows possible alternative bases of responsibility for a particular offence, and the bases involve **materially different issues or consequences**. For example, culpable driving causing death due to gross negligence or culpable driving causing death due to intoxication: See **Unanimous and Majority Verdicts*.]
+
+I now need to mention an exception to the general rule I just explained, that you only need to agree on your verdict, and not your reasons for the verdict.
+
+Charge(s) [*number*] contains alternative pathways to guilt and a verdict of guilt requires special unanimity. Special unanimity means you agree on a verdict of guilt due to the same question on the question trail.
+
+[*Identify the questions which allow conviction through materially different findings*].
+
+You can only find NOA guilty of this/those charge(s) if you all agree on the same pathway. For example, this might mean that all of you answer yes to question [number]. Or it might mean that all of you answer yes to question [*different number*].
+
+If some of you find NOA guilty by answering yes to question [number] and others find [him/her] guilty by answering yes to question [*different number*], then you do not have the kind of special unanimity the law requires for this charge. If that happens, there are three ways forward. First, those of you who reached a verdict at question [number] could go on to consider the remaining questions, and decide whether they would also reach the same verdict if they did not stop at question [*number*]. Second, you could discuss the case further as a jury, each of you putting forward your views and listening to the opinions of your fellow jurors, to see whether anyone’s views change. But you must always reach your own decision, according to your personal view of the evidence. You must not change your mind merely to reach a unanimous verdict. Third, you could let me know that you are unable to agree on a verdict, and I can give you further directions.
+
+Importantly, special unanimity only applies to [*identify relevant charges*] and only to a finding a guilt. There is no equivalent principle for finding NOA not guilty. You could have 12 different ways of finding NOA not guilty, and that would still be unanimous.
+
+
+---
+
+
+## 11.1 Using the question trails - Multiple Discrete Acts
+
+## Using the question trails - Multiple Discrete Acts
+
+[*The following shaded section may be added if evidence has been presented of multiple acts **on the basis of** which guilt can be found, but there must be unanimity as to at least one [or a specified number] of those acts having been committed. *
+
+*This requirement has mostly arisen in relation to a charge of maintaining a sexual relationship with a child under 16, under which the jury must agree on (at least) the same three acts having been committed from amongst **all of** the acts presented by the prosecution. For this reason, this charge has been drafted in relation to the requirement for agreement on **three** acts. If necessary, this can be amended to instead require agreement on a different number of acts*.]
+
+I now need to mention an exception to the general rule I just explained, that you only need to agree on your verdict, and not your reasons for the verdict.
+
+If you turn to page [*number*] of your question trails, you will see that question [number] asks whether the prosecution has proved beyond reasonable doubt that NOA committed at least three of the following acts.
+
+A verdict of guilty on this charge requires a special form of unanimity. You can only find NOA guilty of this charge if you all agree on the same three acts. If half of you thought [*identify group of acts*] were proved, and half thought [*identify different group of acts*], then even though you have all answered yes to question [*number*], you are not unanimous about the same acts and so do not have a unanimous verdict. If that happens, then you should give the tipstaff note saying that you cannot agree on one of the charges, and I can give you further directions. In the note, do not tell me which charge, or why you cannot agree.
+
+Importantly, this special form of unanimity only applies to question [number] on [*identify relevant charges*] and only to a finding a guilt. There is no equivalent principle for finding NOA not guilty. You could have 12 different ways of finding NOA not guilty, and that would still be unanimous.
+
+
+---
+
+
+## 11.1 Taking a Unanimous Verdict
+
+## Taking a Unanimous Verdict
+
+**Once you have reached a unanimous verdict** on [all of] the charge[s], you should push the buzzer in the jury room and tell my tipstaff. [He/she] will then arrange for us all to return to court.
+
+When you have taken your places in the jury box, my associate will ask you whether you have agreed on a verdict, and what your verdict is [in relation to each charge in turn]. Your foreperson will answer “guilty” or “not guilty”, according to the decision the jury has reached.
+
+My associate will then read your verdict back to you, to confirm that what [he/she] has recorded is correct. If any of you think that what my associate has recorded is wrong in any way, you should say so immediately. The record of your verdict[s] can then be corrected.
+
+
+---
+
+
+## 11.1 Concluding Remarks
+
+## Concluding Remarks
+
+
+
+## Questions
+
+If, at any stage of your discussions, you would like me to repeat or explain any directions of law I have given you, please do not hesitate to ask. It is fundamental that you understand the principles you are required to apply. If you have any doubt about those principles, then you are not only entitled to ask for further assistance, but you should ask for it.
+
+You should do this by handing a note to my tipstaff indicating what your question is. S/he will pass it to me, and after discussing the matter with counsel, we will reassemble in court to assist you.
+
+There is really only one thing that you must not include on any note, and that is the numbers involved in any part of your discussions such as any vote within the jury. That matter must remain completely confidential to you and that includes even telling me about it in a note. Please in any note leave the numbers out.[^11]
+
+
+
+## Transcripts
+
+[If the jury has not been provided with a transcript, add the following shaded section.]
+
+I also want to remind you that all of the evidence in this trial has been tape-recorded and transcribed. If at any time during your discussions you wish to have a certain section of the evidence replayed to you, or have a section of the transcript [read back/provided] to you, please let me know. You can do this by providing a note to my tipstaff, outlining the part of the evidence you wish to hear.
+
+
+
+## Conclusion
+
+I have now completed my summing-up. With a final reminder that any verdict[s] you reach must be unanimous, I ask you to go to the jury room to consider your verdict[s]. When you have reached a verdict or if you have a question, please send a note to the court through the tipstaff.
+
+
+[^11]: In *MRJ v R* [2011] VSCA 374, the Court of Appeal stated that jurors should be instructed to omit any information on the outcome of discussions when asking for further directions or assistance.
+
+
+---

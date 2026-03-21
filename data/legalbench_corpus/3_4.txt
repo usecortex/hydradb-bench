@@ -1,0 +1,64 @@
+# Chapter 3.4.1
+
+
+## 3.4.1 Charge: Review of the Need to Decide Solely on the Evidence
+
+# 3.4.1 Charge: Review of the Need to Decide Solely on the Evidence
+
+Note: This charge is based on the assumption that the judge has already instructed the jury about the need to base their decision solely on the evidence at the beginning of the trial (see 1.5.1 Charge: Decide Solely on the Evidence). If this has not been done, it will need to be modified accordingly.
+
+See 1.5 Decide Solely on the Evidence, for a discussion of the legal principles relevant to this area.
+
+
+
+## Introduction: The Evidence
+
+I have told you that it is your task to determine the facts in this case. In determining the facts, you must consider all of the evidence that you heard from the witness box. Remember, it is the answers the witnesses gave that are the evidence, not the questions they were asked.
+
+You must also take into account the exhibits that were tendered. These include [*insert examples*]. When you go to the jury room to decide this case, [most of/some of] the exhibits will go with you, where you may examine them. Consider them along with the rest of the evidence and in exactly the same way.[^2] [However, the following exhibits will not go with you to the jury room [*insert exhibits*]].
+
+[*If any formal admissions were put to the jury, add the following shaded section:*]
+
+In addition, in this case the following admissions were made: [*insert admissions*]. You must accept these admissions as established facts.
+
+Nothing else is evidence in this case. As I have told you, this includes any comments counsel make about the facts.[^3] It also includes:
+
+[*Identify other relevant matters which do not constitute evidence in the case. See *2.2 Providing Documents to the Jury* and associated charges*. *It may be appropriate to insert charges relating to these matters here*.]
+
+
+[^2]: Depending on the nature of the evidence, it may be necessary to warn the jury of the possible dangers of conducting experiments in the jury room: see 1.5 Decide Solely on the Evidence for further information.
+[^3]: If the accused is unrepresented, the jury should be told that what s/he said in his/her addresses, or when questioning witnesses, is also not evidence.
+
+
+---
+
+
+## 3.4.1 Review of the Need to Decide Solely on the Evidence
+
+## Review of the Need to Decide Solely on the Evidence
+
+It your duty to decide this case only on the basis of the witnesses’ testimony, [the admissions] and the exhibits. You should consider the evidence which is relevant to a particular matter in its individual parts and as a whole, and come to a decision one way or another about the facts.
+
+As I have told you, in doing this you must ignore all other considerations, such as any feelings of sympathy or prejudice you may have for anyone involved in the case. You should not, for example, be influenced by [*insert case specific examples*].[^4] Such emotions have no part to play in your decision.
+
+Remember, you are the judges of the facts. That means that in relation to all of the issues in this case, you must act like judges. You must dispassionately weigh the evidence logically and with an open mind, not according to your passion or feelings.
+
+
+
+## Outside Information
+
+At the start of the trial I also told you that you must not base your decision on any information you may have obtained outside this courtroom. For example, you must completely ignore anything that you have seen or heard in the media about this case, or about the people involved in it. You must consider only the evidence that has been presented to you here in court.[^5]
+
+Last updated: 17 May 2019
+
+
+[^4]: Some matters which it may be appropriate to point out (as they could conceivably give rise to prejudice or sympathy) include:
+• The nature of the injuries suffered by the complainant;
+• The race or ethnicity of the accused or the complainant;
+• The sexual orientation of the accused or the complainant;
+• The fact that the accused or the complainant are drug users.
+In some cases, it may be appropriate to point out that although a party’s behaviour does not accord with what the jury might think is morally acceptable, the jury is not a court of morals. Everyone has the right to be treated equally before the law.
+[^5]: If there has been significant publicity about the case or the parties involved, it may be necessary to give a more detailed warning.
+
+
+---

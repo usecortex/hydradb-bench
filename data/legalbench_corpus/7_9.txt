@@ -1,0 +1,560 @@
+# Chapter 7.9
+
+
+## 7.9 Prohibited Person Possess, Carry or Use a Firearm
+
+# **7.9 Prohibited Person Possess, Carry or Use a Firearm**
+
+
+
+1. Section 5(1) of the *Firearms Act 1996 *creates the offence of a prohibited person possessing, carrying or using a firearm.
+
+2. The offence consists of three elements:
+
+
+
+- The item was a firearm
+
+- The accused possessed, carried or used the firearm
+
+- The accused is a prohibited person.
+
+
+
+## Firearm
+
+
+
+3. Firearm is defined in *Firearms Act 1996* s 3 as follows:
+
+
+
+firearm means any device, whether or not assembled or in parts—
+
+(a) which is designed or adapted, or is capable of being modified, to discharge shot or a bullet or other missile by the expansion of gases produced in the device by the ignition of strongly combustible materials or by compressed air or other gases, whether stored in the device in pressurised containers or produced in the device by mechanical means; and
+
+(b) whether or not operable or complete or temporarily or permanently inoperable or incomplete—
+
+and which is not—
+
+(c) an industrial tool powered by cartridges containing gunpowder or compressed air or other gases which is designed and intended for use for fixing fasteners or plugs or for similar purposes; or
+
+(d) a captive bolt humane killer; or
+
+(e) a spear gun designed for underwater use; or
+
+(f) a device designed for the discharge of signal flares; or
+
+(h) a device commonly known as a kiln gun or ringblaster, designed specifically for knocking out or down solid material in kilns, furnaces or cement silos; or
+
+(i) a device commonly known as a line thrower designed for establishing lines between structures or natural features and powered by compressed air or other compressed gases and used for rescue purposes, rescue training or rescue demonstration; or
+
+(j) a device of a prescribed class;
+
+
+---
+
+
+## 7.9 Prohibited Person Possess, Carry or Use a Firearm
+
+1. One effect of this definition is that a device continues to be a firearm even if it is rendered inoperable, such as through disassembly, or modifications to the barrel or firing pin (see, e.g. *Keys v **Kitto** *(1996) 90 A Crim R 288; *Carlson v **Karlovsky** *[1988] WAR 59; *Ali v The Queen *[2019] NSWCCA 207, [44]–[50]; *Beaton v Wray-Watts *[2003] WASCA 314, [35]).
+
+2. Similarly, an object may be a firearm even if it has never been operable or complete. An object may be a firearm even if critical parts are missing (see *DPP v Morgan *(2013) 235 A Crim R 491, [40], [47]–[52], but c.f. *Jacob v The Queen *(2014) 240 A Crim R 239, [147]–[148] (Hulme J).
+
+3. While it has not been the subject of consideration in Victoria, the equivalent provision in New South Wales has been the source of divergent judicial views on the extent to which disassembled parts can be treated as the whole item, or whether there must be some limitation on the capacity of a provision like paragraph (b) of the definition to transform unassembled or incomplete items into the whole item (compare *DPP v Morgan *(2013) 235 A Crim R 491, [40], [47]–[52] and *Jacob v The Queen *(2014) 240 A Crim R 239, [12]–[17] (Ward JA)[147]–[148] (Hulme AJ). See also *Ali v The Queen *[2019] NSWCCA 207, [45]–[50]). It is suggested that whether parts of a firearm should be treated as a disassembled firearm is a question of fact and degree.
+
+
+---
+
+
+## 7.9 Prohibited Person Possess, Carry or Use a Firearm
+
+4. In *Beaton v Wray-Watts*, the Western Australian Court of Appeal drew a distinction between whether the changes required to make an item into an operable firearm should be characterised as alterations (in which case the device would remain a firearm, even if inoperable) or manufacture (in which case the device would not be a firearm). The Court noted that it would be a matter of fact and degree whether the required changes amount to alteration or manufacture (*Beaton v Wray-Watts *[2003] WASCA 314, [35]–[39]).
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+## Possession, carrying or use
+
+
+
+1. The second element is that the accused possessed, carried or used the firearm.
+
+2. *Firearms Act 1996 *s 3(1) states that possession, in relation to a firearm, includes:
+
+1. Actual physical possession of the firearm;
+
+2. Custody or control of the firearm;
+
+3. Having and exercising access to the firearm, either solely or in common with others.
+
+3. In each case, the directions required on the element of possession will depend on the issues which the evidence raises for consideration. The jury only needs to be directed about so much of possession as is in issue (*R v **Bandiera** *[1999] 3 VR 103, [20]; *R v Henderson & Warwick *(2009) 22 VR 662, [114]).
+
+4. This definition, in substance, matches the definition of possession from s 3(1) of the *Firearms Act 1958*.
+
+5. In the context of the *Firearms Act 1958* definition of possession, possession was held to cover:
+
+
+
+- Actual possession, in the sense explained in *Moors v Burke *(1919) 26 CLR 265 at 275 – ‘in actual fact and without the necessity of taking any further step, the complete present personal physical control of the property to the exclusion of others not act in concert’ whether by having ‘present manual custody, or by having it where he alone has the exclusive right of power to place his hands on it, and so have manual custody when he wishes’; and
+
+- Physical custody or control, or having and exercising access to a weapon, whether alone or with others, regardless of any propriety or exclusive possessory rights. For this purpose, custody has its ordinary meaning of safe keeping, protection, charge or care, and control refers to actual power to deal with the firearm by restraint or direction. When dealing with the words custody, control and access, there is no “need for some physical act in connection with the weapon consistent with ownership or dominion” (*Yeates** v Hoare *[1981] VR 1034, 1038. See also *Keys v **Kitto** *(1996) 90 A Crim R 288, 293).
+
+
+
+6. Under the common law meaning of possession, the prosecution must prove that the accused:
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+- Had physical custody or control of the firearm;
+
+- Intended to have or exercise physical custody or control of the firearm
+
+- Knew of the existence and nature of the firearm (*R v Maio *[1989] VR 281, 285; *He Kaw **Teh** v The Queen *(1985) 157 CLR 523, 537-539, 546, 585-587, 599-600; *Momcilovic** v The Queen *(2011) 245 CLR 1, [16]; *R v Henderson & Warwick *(2009) 22 VR 662, [82], [86], [106], [107]; *Yeates** v Hoare *[1981] VR 1034, 1039; *Seifeddine** v The Queen *[2021] NSWCCA 214, [8]).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+7. “Physical custody or control” is not limited to the accused having the firearm on their person. It also is apt to describe the situation where the person has placed the firearm somewhere that they have the exclusive right or power to take it into their hands. This may include where the accused has hidden the firearm somewhere, even if the hiding place is in a public location (*Moors v Burke *(1919) 26 CLR 265, 274; *Williams v Douglas *(1949) 78 CLR 521, 527; *Musa v The Queen *[2019] NSWCCA 279).
+
+8. However, in *R v Dib *(1991) 52 A Crim R 64, Hunt J spoke of the requirement that the goods must be in a place where the accused and any others acting in concert with the accused may go without physical* *bar to obtain manual possession of the goods (at 66-67).
+
+9. The form of knowledge required to prove possession is often an issue of some complexity. In the context of drug offences, it is recognised that the accused must know that the goods in question are drugs, as distinct from being some other item or prohibited import, but does not need to know the precise identity of the drug in question (see, e.g. *He Kaw **Teh** v The Queen *(1985) 157 CLR 523; *Weng v The Queen *(2013) 279 FLR 119). It is likely that the same principle applies in the case of firearms – the prosecution must prove as part of possession that the accused intended to possess a firearm[^2] and a belief that the item is a firearm of a different type would not be exculpatory. Similarly, if the jury is satisfied that the item meets the definition of firearms, the fact that the accused did not realise that the definition includes incomplete or inoperable firearms would not be exculpatory, provided the accused was aware that they had an incomplete or inoperable firearm.
+
+10. A lack of knowledge that the definition of firearms includes incomplete or inoperable firearms would not be exculpatory, if the accused knew they had an incomplete firearm.
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+11. Mere knowledge that the firearm is present is not sufficient to prove possession under *Firearms Act 1996 *s 3 (but see the discussion of deemed possession under *Firearms Act 1996 *s 145, below). Where firearms are located in a place where the accused has access, the prosecution must also prove that the accused intended to control the firearms (see, e.g. *R v Henderson & Warwick *(2009) 22 VR 662, [178]–[180]). However, where the accused gives someone permission to leave a firearm on the accused’s premises, the accused may then have custody or control of the firearm (see, e.g. *Yeates** v Hoare *[1981] VR 1034, 1039; *Keys v **Kitto** *(1996) 90 A Crim R 288 and compare *R v Hussain *[1969] 2 QB 567).
+
+12. Where the accused leaves the firearm with another person who will return the firearm on request, the accused might retain possession in the form of control even while separated from the firearm (see, e.g. *R v Cottrell *[1983] 1 VR 143; *R v Sleep *(1861) 169 ER 1296).
+
+13. Conventionally, the prosecution must prove that the accused exercised possession to the exclusion of others not acting in concert (‘exclusive possession’). This has been said to require proof of a legal right to exclude all persons from the premises in which the property is located (*Moors v Burke *(1919) 26 CLR 265, 271, 274; *R v Dib *(1991) 52 A Crim R 64, 66-67; *R v **Flippetti** *(1984) 13 A Crim R 335).
+
+14. The need to prove exclusive possession means that two people cannot be in possession of the same item unless they have joint possession of that item (*Lee v The Queen *[2013] NSWCCA 68, [281]). This can be relevant for consistency of verdicts, and for the availability of factual alternative charges, where several people are accused of being in possession of a single item at a given time.
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+15. However, in some cases, the requirement that the accused have exclusive possession is better treated as a requirement (where the matter arises on the facts) that the jury exclude any reasonable possibility that a specific person could take possession or control of the firearms, or interfere with the accused’s possession or control (see, e.g. *Audsley** v The Queen *[2013] VSCA 41, [81], [98]–[99], noting though that this was a case concerning handling stolen goods, rather than possession of firearms, and that the meaning of possession can vary depending on its statutory context).
+
+16. The need to prove exclusive possession must be treated with caution where items are found in a location where several people have access (such as items in a house, or a storage shed). In such cases, the question will be who is actually responsible for the item, rather than finding that no one is in possession because co-tenants were not excluded (see *R v Henderson & Warwick *(2009) 22 VR 662, [113]).
+
+17. While it is common for courts to speak of the need to prove that the accused possessed the goods to the exclusion of anyone* not acting in concert with them*, some courts have disapproved of the idea that joint possession requires proof of concert. Instead, it may be sufficient for the prosecution to prove that several people, between them, intended to exercise control to the exclusion of any other person. This does not require proof of a joint enterprise as to the future use or disposal of the goods (*R v Nguyen *(2010) 108 SASR 66, [66]; *R v **Becirovic** *[2017] SASCFC 156. See also *R v Colenso *[2016] SASCFC 128, [39]–[44]. See also *R v Wan *[2003] NSWCCA 225, [14]).
+
+18. Carry is defined to include “the carriage of that firearm either as a whole or in parts and either by one person or more than one person” (*Firearms Act 1996 *s 3(1)).
+
+19. Use is not defined in the Act and so is presumed to carry its ordinary meaning.
+
+20. Section 145 of the *Firearms Act 1996 *is a deeming provision which supports proof of possession. The section states:
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+(1) A firearm is taken to be in the possession of a person if the firearm is found—
+
+(a) on land or premises occupied by, in the care of or under the control or management of the person; or
+
+(b) in a vehicle of which the person is in charge.
+
+(2) Subsection (1) does not apply if, at the time the firearm was found—
+
+(a) the firearm was in the possession of another person who was lawfully authorised under this Act to possess the firearm; or
+
+(b) the person believed on reasonable grounds that the firearm was in the possession of another person who was lawfully authorised under this Act to possess the firearm; or
+
+(c) the person did not know, and could not reasonably be expected to know, that the firearm was on the premises or in the vehicle.
+
+
+
+21. In relation to a similarly worded South Australian provision, Kourakis CJ observed that the provision should be construed widely, that forms of control or relationship less than ownership are sufficient, and that care or management of premises will generally be significantly less than control of premises (*R v Marafioti* (2014) 118 SASR 511, [23]–[25]).
+
+22. When interpreting the similar South Australian provisions, Lovell and Hinton JJ held that:
+
+
+
+- Care is synonymous with ‘safe-keeping’
+
+- Control supposes physical possession of the property, and uses the conventional meaning of possession
+
+- Management means effective control of the premises (*R v **Becirovic** *[2017] SASCFC 156, [226]–[227]).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+23. When the prosecution relies on s 145(1)(a), it must show that the accused was in practical control of the premises, bearing in mind that the consequence of this conclusion is that the accused would be deemed to be in possession of firearms unless s 145(2) applies. One important consideration will be whether the accused was able to control who had access to the premises, and hence control access to the firearm (*R v Phung *[2003] VSCA 32, [28]; *R v Henderson & Warwick *(2009) 22 VR 662, [87]; *R v Tran *[2007] VSCA 19, [20]–[21]; *Conant v The Queen *(2021) 138 SASR 239, [41]).
+
+24. A person may be the occupier of premises without living at those premises, such as by keeping the premises ready for habitation whenever they wish (*R v Clarke & Johnstone *[1986] VR 643, 651, citing *Shire of **Poowong** and **Jeetho** v Gillen *[1907] VLR 37, 40), or where the person considers themselves as having power to grant or deny others access to the premises (*R v Clarke & Johnstone *[1986] VR 643, 652).
+
+25. A person does not cease to be an occupier merely because they are away from the premises for a period of time. However, the reason for the departure, and whether it is of indefinite duration, may be significant (*Conant v The Queen *(2021) 138 SASR 239, [40]).
+
+26. A person may be the occupier of more than one location, such as where a person lives at several houses over the course of a week, or where the person has a holiday home that they use infrequently (see, e.g. *Conant v The Queen *(2021) 138 SASR 239).
+
+27. When the prosecution relies on s 145(1)(b), it must prove that the accused had “a degree of practical control over the vehicle that is suggestive of some knowledge of, or connection with, items located in the vehicle” (*R v **Gjergji** *(2016) 126 SASR 106, [43]).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+28. The most natural and obvious way for a person to be in charge of a vehicle is to be the driver of the vehicle (*R v Marafioti* (2014) 118 SASR 511, [26]).
+
+29. Another common way to be “in charge of” a vehicle is through ownership, though that may not be enough if it does not provide practical control. For example, when a vehicle is lent to another person, the owner may cease having the degree of practical control required to engage s 145(1)(b) (see *R v **Gjergji** *(2016) 126 SASR 106, [44], [55]).
+
+30. Whether a person other the driver can be in charge of the vehicle is a question of fact and degree. A person who has legal or de facto authority to dictate how the driver manages the vehicle (*R v Marafioti* (2014) 118 SASR 511, [27]), or the vehicle owner who travels in the vehicle as a passenger (*R v **Gjergji** *(2016) 126 SASR 106, [46]) may be in charge of the vehicle. More than one person can be “in charge of” a vehicle at the same time (*R v Marafioti* (2014) 118 SASR 511, [28]; *R v **Gjergji** *(2016) 126 SASR 106, [46]).
+
+31. The result of s 145(1)(b) is that a person who voluntarily drives a vehicle will have a practical responsibility to take steps to ascertain whether the vehicle carries a firearm (*R v Marafioti* (2014) 118 SASR 511, [29]).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+32. In the context of drug offences, deemed possession due to occupation can be rebutted by the accused proving, on the balance of probabilities, that they were unaware that the drug was on the premises or they had no intention to exercise control over the drug or the place where it was kept. This reflects the fact that the onus is on the accused to rebut possession as it is defined at common law (*R v Clarke & Johnstone *[1986] VR 643, 647-648; *R v Tran *[2007] VSCA 19, [24]). However, *Firearms Act 1996 *provides a more narrow set of circumstances in which deemed possession due to occupation can be rebutted:
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+- Lack of knowledge of the firearm is not enough by itself. The accused must not reasonably be expected to know of the firearm;
+
+- Knowledge of the firearm accompanied by a lack of intention to possess is not enough. The firearm must be in the possession of someone lawfully authorised to possess it, or the accused must believe on reasonable grounds that the other person was lawfully authorised to possess it (see *Firearms Act 1996 *s 145(2)).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+33. The *Firearms Act 1996 *is silent on whether the accused bears the onus of establishing the exceptions to deemed possession in s 145. While there are two decisions which held that the section imposes a legal onus on the accused, these decisions do not appear to have been the product of considered submissions on the question of onus and do not appear to have engaged closely with the terms of the Act (see *R v Henderson & Warwick *(2009) 22 VR 662, [64]; *R v Lowe *[2014] VSC 543, [24]).[^3]
+
+34. Out of an abundance of caution, the approach taken in this Charge Book is that, where there is sufficient evidence to raise the exceptions, the onus is on the prosecution to exclude the exceptions.
+
+35. *Firearms Act 1996* s 145(2) may be compared to *Drugs, Poisons and Controlled Substances Act 1981* s 5, both of which extend the concept of possession to the situation in which goods are found on premises occupied by the accused. However, *Drugs, Poisons and Controlled Substances Act 1981* s 5 states that the deemed possession applies “unless the person satisfies the court to the contrary”. The express statement that the accused must satisfy the court to the contrary has been influential in the interpretation of *Drugs, Poisons and Controlled Substances Act 1981* s 5 (see, e.g, *R v Clarke & Johnstone *[1986] VR 643; *R v **Tragear* (2003) 9 VR 107; *Momcilovic** v The Queen *(2011) 245 CLR 1, [56] (French CJ), [191] (Gummow J), [464]–[468] (Heydon J), [510]–[511] (Crennan and Kiefel J) [670] (Bell J)).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Possession, carrying or use
+
+36. Similarly, the South Australian equivalent provisions, *Firearms Act 1977 *(SA) s 5(15) provides that the accused must ‘establish[]’ the defence, which has led to the conclusion that the accused bears a legal onus (*R v Fuller & **Zazzaro** *[2012] SASCFC 101, [45]–[50]). The New South Wales equivalent states that the deemed possession operates “unless the court is satisfied”, which has also been held to put the onus on the accused (*May v The Queen *[2012] NSWCCA 250, [32]; *Strachan v The Queen *[2017] NSWCCA 322, [33]). These may be contrasted with s 145(2), which states that the deeming provision “does not apply if” one of the exceptions applies.
+
+37. Without equivalent language, interpretative principles which presume that the prosecution bears the onus of proving all elements (see, e.g. *He Kaw **Teh** v The Queen *(1985) 157 CLR 523, 582 (Brennan J)) and s 25 of the *Charter of Human Rights and Responsibilities Act 2006* weigh in favour of the onus resting on the prosecution.
+
+38. Contrary indications, such as the potential for inconsistent directions in a prosecution where there are both drugs and firearms charges, the distinction between provisos and exceptions explained in *Vines v **Djordjevitch** *(1995) 91 CLR 512, the fact that the provision is designed to extend liability and that several of the matters in s 145(2) may be peculiarly within the accused’s knowledge are suggested not to be of sufficient weight to produce a different conclusion in the absence of explicit wording putting the onus on the accused.
+
+39. While knowledge of the firearms is a requirement of possession under the definition in s 3, it is not a requirement when the prosecution relies on deemed possession due to occupation (*R v Henderson & Warwick *(2009) 22 VR 662, [112]). A person therefore cannot rely on any of the grounds of exception in s 145(2) on the basis that they knew an object was on the premises, but they did not realise it was a firearm (see, in relation to similar South Australian provisions, *R v Fuller & **Zazzaro** *[2012] SASCFC 101, [72]).
+
+
+[^2]: Note that while *Whelan v **Kallane* [2021] WASC 74 and *R v Fuller & **Zazzaro* [2012] SASCFC 101, [71]-[75], [81] both considered that a belief that the object was not a firearm engaged the relevant mistake of fact defences (provided the accused knew of the existence of the object), it is suggested that under the Victorian legislation, a belief that the object is not a firearm would be treated as raising a doubt about whether the accused had possession of the item, in accordance with the principles discussed in *He** Kaw **Teh** v The Queen* (1985) 157 CLR 523 and *R v Maio* [1989] VR 281.
+[^3]: French CJ in *Momcilovic** v The Queen* (2011) 245 CLR 1, footnote 38 observed that s 145 of the *Firearms Act 1996* is a “similar provision” to *Drugs, Poisons and Controlled Substances Act 1981* s 5, and that neither were amended as part of changes introduced by the *Statute Law Amendment (Charter of Human Rights and Responsibilities) Act 2009* to replace legal burdens of proof with either evidentiary burdens or to remove the burdens entirely.
+
+
+---
+
+
+## 7.9 Prohibited person
+
+## Prohibited person
+
+
+
+1. “Prohibited person” is defined in *Firearms Act 1996 *s 3(1). The Act contains four and a half pages of conditions which will lead to a person being a prohibited person. Many of the conditions involve the accused serving, or having recently served, a sentence of imprisonment for certain specified offences, or being the subject of certain orders.
+
+2. As a practical matter, the accused’s status as a prohibited person will rarely be in issue in a trial. If it were in issue, then it would likely be one of the rare cases where the probative value of proof of prior convictions outweighs the prejudicial effect of such evidence (compare *Mokbel** v The Queen *[2010] VSCA 354, [33]).
+
+3. In most cases, it is expected that the parties will tender a statement of agreed facts under *Evidence Act 2008 *s 191 on whether the accused was a prohibited person at the relevant time (see, e.g. *Farrugia v The King *[2023] VSCA 248, [17]).
+
+4. It may also be necessary for the judge to give strong anti-speculation directions in relation to this element, to minimise the risk of prejudice which might arise if the jury were to speculate about why the accused was a prohibited person. These directions may also need to inform the jury that there are a wide range of circumstances in which a person can be prohibited from possessing a firearm, and they must not use the fact of prohibition in any way adverse to the accused (see, e.g. *Huynh v The Queen *[2020] VSCA 222, [26]).
+
+5. In *Huynh v The Queen*, Priest JA (Maxwell P and Weinberg JA agreeing) called for legislative reform so that the question of the accused being a prohibited person could be determined by the trial judge and the jury would only need to determine the elements of possession and that the object is a firearm, without the ‘prohibited person’ element being mentioned in the trial (*Huynh v The Queen *[2020] VSCA 222, [55]–[58]). This has not yet occurred.
+
+
+---
+
+
+## 7.9 Legislative history
+
+## Legislative history
+
+
+
+1. * **Firearms Act 1996 *s 5 was significantly amended by the *Control of Weapons and Firearms Acts Amendment Act 2012 *s 8 on 16 May 2012. Before the amendment, the section contains separate offence provisions depending on whether the accused possessed a registered or unregistered firearm, with different maximum penalties. The effect of the 2012 amendments was to remove this distinction, and adopt the single lower maximum penalty. The result was that for offences alleged to be committed after 16 May 2012, the prosecution no longer needed to lead evidence about the registration status of the firearm in question.
+
+2. For offences alleged to have been committed before the amendments, the offence contains an additional element, requiring the prosecution to prove either that the firearm was registered (in the case of offences against s 5(1)) or was not registered (in the case of offences against s 5(2)).
+
+
+
+Last updated: 4 March 2024
+
+
+---
+
+---
+
+# Chapter 7.9.1
+
+
+## 7.9.1 Charge: Prohibited Person Possess, Carry or Use a Firearm
+
+# **7.9.1 Charge: ****Prohibited Person Possess, Carry or Use a Firearm**
+
+**Note**: This direction is designed for a case where the accused is alleged to have possessed the firearm. The direction must be modified if the prosecution relies on proof of carrying or use of the firearm.
+
+I must now direct you about the crime of being a prohibited person in possession of a firearm. To prove this crime, the prosecution must prove the following 3 elements beyond reasonable doubt:
+
+**One** – The item in question is a firearm.
+
+**Two** – The accused had possession of the firearm.
+
+**Three** – The accused is prohibited from possessing firearms.
+
+I will now explain each of these elements in more detail.
+
+
+
+## Firearm
+
+The first element is that the item in question is a firearm. For the purpose of this charge, the item is the [*describe relevant item*].[^2]
+
+[*If this element is not in issue, add the following shaded section.*]
+
+There is no dispute that the [*describe relevant item*] is a firearm. The only issue in this case is whether NOA had possession of it.* *
+
+[*If this element is in issue, add the following shaded section.*]
+
+The law states that a firearm is a device which is designed to fire shot, a bullet or other projectile by the expansion of gases produced in the device by the ignition of strongly combustible material or by compressed air or other gases, whether stored in the device in pressurised containers or produced in the device by mechanical means.[^3]
+
+The law also says that it does not matter whether the device is assembled or in parts, or whether it functions or does not function. A firearm remains a firearm even if it is temporarily or permanently inoperable or incomplete.
+
+[*Identify relevant evidence and arguments about this element.*]
+
+
+[^2]: If there are multiple charges of this offence, the judge should identify each of the relevant alleged firearms.
+[^3]: This charge is written on the assumption that the dispute is about whether the device is capable of firing (either in its current form, or if assembled). If the dispute relates to one of the exceptions to the definition of a firearm in paragraphs (c) to (j), then the jury will need to be directed about those exceptions.
+
+
+---
+
+
+## 7.9.1 Possession
+
+## Possession
+
+The second element is that the accused had possession of the firearm.
+
+[*If the prosecution relies on actual physical possession, add the following shaded section.*]
+
+One way the prosecution can prove the accused had possession of the firearm is to show that NOA had personal and physical control of the firearm to the exclusion of anyone else [*who did not jointly possess the firearm*].
+
+This requires proof that the accused either had the firearm on his/her/their body, or by having it in a place where the accused had the exclusive right to take it, and so able to take it when he/she/they wish.
+
+As part of this, the prosecution must also prove that the accused intended to have the firearm, and knew that it was a firearm.
+
+The prosecution does not need to prove the accused knew the legal definition of a firearm. Instead, they must prove the accused knew the facts which make the item, in law, a firearm. To give you two examples which are not related to this case, a person will not intend to possess a firearm if it has been put into their bag without their knowledge. A person will not know something is a firearm if they think it is an imitation firearm which never has and never will be able to fire bullets.
+
+[*Identify relevant evidence and arguments.*]
+
+[*If the prosecution relies on custody and control, add the following shaded section.*]
+
+One way the prosecution can prove the accused had possession of the firearm is to show that NOA had custody or control of the firearm.
+
+This requires proof that the accused has the firearm somewhere they can take it back, whenever they wish.
+
+There are many situations in which a person has something in their custody or control. It includes when a person leaves something with someone else, who will return it on request.
+
+It also includes where the person leaves something in a place where they have access, and intend to retain control over, provided the prosecution also proves the accused either had a right to exclude others from the place, or the place is somewhere others are unlikely to discover the firearm, except by accident. For example, a person might have custody and control over something they have left at their home, or have hidden at their workplace.
+
+[*Identify relevant evidence and arguments*]
+
+[*If the prosecution relies on access, add the following shaded section.*]
+
+One way the prosecution can prove the accused had possession of the firearm is to show that NOA had and exercised access to the firearm, whether alone or in common with others
+
+
+---
+
+
+## 7.9.1 Possession
+
+This requires proof that the accused could access the firearm and did access the firearm.
+
+[*Identify relevant evidence and arguments*]
+
+[*If the prosecution relies on deemed possession from the firearm being on land, add the following shaded section.*]
+
+One way the prosecution can prove the accused had possession of the firearm is to show that the firearm was found on land or premises occupied by, in the care of, or under the control or management of the accused. This is because the law says that a person is responsible for firearms that are on their land or in their premises.
+
+The prosecution says that you can find the accused had possession of the firearm on this basis because the firearm was found at [*identify location*] and the accused [*identify accused’s relationship with the relevant premises*]. You must consider whether the accused had practical control over [*identify location*]. This requires you to consider whether the accused could control who had access to the premises.
+
+[*If there is evidence that the accused was the occupier of multiple premises, add the following darker shaded section.*]
+
+When you are considering this issue, you should know that a person can be the occupier of more than one location at the same time. For example, if you own a holiday house and a primary residence, you could be the occupier of both houses, even if you only went to the holiday house a few times a year. Whether you are the occupier of the holiday house while living at your primary residence depends on what you do with the holiday house while you are not there.
+
+Here, you have heard evidence that NOA [*identify relevant evidence, **e.g.** “*moved between two different houses”]. For this element, the question is whether the prosecution has proved that NOA occupied, or had the care, control or management of [*identify relevant location*]. Deciding that NOA occupied [*identify* *location 1*] does not answer whether NOA occupied [*identify* *location 2*].
+
+[*Identify relevant evidence and arguments*.]
+
+[*If the prosecution relies on deemed possession from the firearm being in a vehicle, add the following shaded section*.]
+
+
+---
+
+
+## 7.9.1 Possession
+
+One way the prosecution can prove the accused had possession of the firearm is to show that the firearm was found in a vehicle in which the accused was in charge. This is because the law says that a person is responsible for firearms that are in their car, or in other vehicles which they are in charge of. The law treats the driver as a person who is in charge of a vehicle. Someone other than the driver may also be in charge of the vehicle, if they have practical control of the vehicle and that control suggests they know or are connected to what is in the vehicle. It is a matter of fact and degree for you to decide whether a person is in charge of a vehicle.
+
+[*Identify relevant evidence and arguments.*]
+
+[*If the prosecution relies on deemed possession and there is evidence that someone else lawfully possessed the firearm, add the following shaded section*.]
+
+Even if you are satisfied that the firearm was found [on the accused’s land or premises/in their vehicle], the prosecution must also prove that the firearm was not in the possession of someone else who was lawfully authorised to possess it.
+
+In this case, there is some evidence that [*identify third person*] lawfully possessed the firearm. The prosecution must therefore prove one of three matters to establish that the accused possessed the firearm and not [*identify third person*]. First, the prosecution can prove that [*identify third person*] was not lawfully authorised to possess firearms. Second, the prosecution can prove that [*identify third person*] did not have the firearm on his/her/their person, or in a place where he/she/they had exclusive right to take it. Third, the prosecution can prove that [*identify third person*] did not know of the firearm or intend to possess it.
+
+If the prosecution proves any of these three matters beyond reasonable doubt, and proves that the firearm was [on the accused’s land or premises/in their vehicle], then the prosecution has proved the second element.
+
+[*Identify relevant evidence and arguments.*]
+
+[*If the prosecution relies on deemed possession and there is evidence that the accused reasonably believed that someone else lawfully possessed the firearm, add the following shaded section.*]
+
+Even if you are satisfied that the firearm was found [on the accused’s land or premises/in their vehicle], the prosecution must also prove that the accused did not believe on reasonable grounds that the firearm was in the possession of someone else who was lawfully authorised to possess it.
+
+
+---
+
+
+## 7.9.1 Possession
+
+In this case, there is some evidence that NOA believed on reasonable grounds that [*identify third person*] lawfully possessed the firearm. The prosecution must therefore prove one of three matters to establish that the accused possessed the firearm and not [*identify third person*]. First, the prosecution can prove that NOA did not believe on reasonable grounds that [*identify third person*] was lawfully authorised to possess firearms. Second, the prosecution can prove that NOA did not believe on reasonable grounds that [*identify third person*] had the firearm on his/her/their person, or in a place where he/she/they had exclusive right to take it. Third, the prosecution can prove that NOA did not believe on reasonable grounds that [*identify third person*] knew of the firearm and intended to possess it. For each of these three matters, must prove either that the accused did not personally believe the matter, or the accused did not have reasonable grounds to believe that matter. A person has reasonable grounds to believe something if they have information which could lead a reasonable person to also hold that belief.
+
+If the prosecution proves any of these three matters beyond reasonable doubt, and proves that the firearm was [on the accused’s land or premises/in their vehicle], then the prosecution has proved the second element.
+
+[*Identify relevant evidence and arguments.*]
+
+[*If the prosecution relies on deemed possession and there is evidence that the accused did not know and could not reasonably be expected to know that the firearm was there, add the following shaded section*.]
+
+Even if you are satisfied that the firearm was found [on the accused’s land or premises/in their vehicle], the prosecution must also prove that the accused either knew or could reasonably be expected to know that the firearm was [on the premises/in the vehicle]. When deciding whether the prosecution has proved that the accused knew the firearm was there, you must look at NOA’s state of mind and state of knowledge. When deciding whether the accused could reasonably be expected to know the firearm was there, you must look at whether a reasonable person could have known of the firearm. You should consider what steps the accused took to be familiar with the [house/car]. Was there anything which should have raised the accused’s suspicions? Was the firearm concealed from the accused? You must look at this evidence and make a value judgment about whether you are satisfied that the accused could reasonably be expected to know that the firearm was [on the premises/in the car].
+
+
+---
+
+
+## 7.9.1 Possession
+
+If the prosecution proves that the accused either knew or could reasonably be expected to know that the firearm was [on the premises/in the vehicle], then the prosecution has proved the second element.
+
+[*Identify relevant evidence and arguments.*]
+
+
+---
+
+
+## 7.9.1 Prohibited Person[^4]
+
+## Prohibited Person[^4]
+
+The third element is that the accused is prohibited from possessing firearms. I mention this only as a formality. I told you at the start of the trial that it is an agreed fact that the accused is prohibited from possessing firearms. There are many reasons why a person might be prohibited from possessing firearms, and you must not speculate why the accused is prohibited from possessing firearms.
+
+You must not treat this agreed fact as relevant to your assessment of the evidence in this case, or your assessment of the accused.
+
+While I must tell you this is an element of the offence, there is no dispute about it. As you have heard, the real issue is whether [*identify element(s) in dispute*].
+
+
+[^4]: This direction is written on the assumption that the judge will have instructed the jury, at an early point in the trial, that the accused’s status as a prohibited person is not in issue.
+
+
+---
+
+
+## 7.9.1 Summary
+
+## Summary
+
+To summarise, before you can find the accused guilty of being a prohibited person in possession of a firearm, the prosecution must prove to you beyond reasonable doubt:
+
+**One** – that there was a firearm;
+
+**Two** – that NOA possessed that firearm;
+
+**Three** – that NOA was prohibited from possessing that firearm.
+
+If you find that any of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of this offence.
+
+Last updated: 4 March 2024
+
+
+---

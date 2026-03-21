@@ -1,0 +1,934 @@
+# Chapter 8.12
+
+
+## 8.12 Provocation
+
+# **8.12 Provocation**
+
+
+
+## Introduction
+
+
+
+1. Prior to 23 November 2005, provocation was a partial defence to murder in Victoria. According to the common law, if the prosecution could prove that the accused had committed all the other elements of murder, but could not disprove the reasonable possibility that s/he had acted while "provoked", s/he should be convicted of manslaughter rather than murder (see, e.g. *Masciantonio** v R* (1994) 183 CLR 58).
+
+1. On 23 November 2005, provocation was abolished as a partial defence to murder for offences alleged to have been committed on or after that date. However, it remains available as a partial defence to offences alleged to have been committed prior to that date (*Crimes Act 1958 *s 3B, s 603).
+
+2. Where an offence is alleged to have been committed between two dates, one before and one on or after 23 November 2005, the offence is to be treated as if it was alleged to have been committed prior to that date. Provocation will therefore be available as a partial defence in such cases (*Crimes Act 1958* s 603(2)).
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+## Elements of Provocation
+
+
+
+1. There are three ways the prosecution can disprove provocation. They can prove that:
+
+1. The deceased did not act provocatively;
+
+2. The accused did not kill the deceased while deprived of self-control by his/her provocative conduct (the "subjective test"); or
+
+3. The deceased’s conduct was not capable of causing an ordinary person to lose self-control and to act in the way in which the accused did (the "objective test").
+
+
+
+Provocative Conduct of the Deceased
+
+
+
+2. The first way for the prosecution to disprove provocation is to prove that the deceased did not act in a way that was capable of provoking the accused’s response.
+
+3. The jury does not have to be satisfied of what the deceased actually said or did, and so there is no requirement for "proof" of that conduct. If it is reasonably possible that conduct capable of constituting provocation might have occurred, then the prosecution will have failed to disprove this aspect of provocation (see* R v Thorpe* (No 2) [1999] 2 VR 719).
+
+
+
+Conduct Capable of Constituting Provocation
+
+
+
+4. Conduct that may be "provocative" at law is defined by reference to its possible impact on the accused. Conduct is only provocative if it is capable of causing the accused to lose control, and as a result form and act upon an intention to kill or really seriously injure the deceased (*Masciantonio** v R* (1994) 183 CLR 58).
+
+5. Issues have arisen in relation to the following types of conduct:
+
+
+
+- Third party conduct;
+
+- Conduct mistakenly attributed to the deceased;
+
+- Conduct committed in the absence of the accused;
+
+- "Mere words";
+
+- Self-induced provocation;
+
+- Historic conduct.
+
+
+
+Third-party conduct
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+6. Ordinarily, the accused’s loss of self-control must have resulted from the provocative conduct of the deceased (*Masciantonio** v R* (1994) 183 CLR 58).
+
+7. The defence will fail if the provocative conduct emanated from a third-party rather than the deceased – unless the deceased in some way adopted, assented to, participated in, or otherwise associated himself or herself with that conduct (*R v Abebe* (2000) 1 VR 429).
+
+8. Where the jury needs to determine if the deceased somehow associated him or herself with the conduct of a third-party, they should generally *not* be directed by reference to the principles of concert or aiding and abetting. The introduction of those concepts in this context will add unnecessarily to the complexity of the direction (*R v Abebe* (2000) 1 VR 429).
+
+
+
+Conduct mistakenly attributed to the deceased
+
+
+
+9. There is one situation in which provocation can be raised even though the provocative conduct did not emanate from the deceased – where the accused mistakenly believed the deceased to have committed that conduct (*R v Abebe* (2000) 1 VR 429; *R v Kenny* [1983] 2 VR 470; *R v **Voukelatos* [1990] VR 1).
+
+10. It remains unsettled whether that belief needs to have been reasonable. In the absence of appellate consideration, it has been held that such a qualification should not be added (*R v Abebe* (2000) 1 VR 429).
+
+
+
+Conduct in the absence of the accused
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+11. Historically, the partial defence of provocation was not available if the provocative conduct was not committed in the presence of the accused (*R v Arden* [1975] VR 449; *R v **Quartly* (1986) 11 NSWLR 332).
+
+12. The correctness of this requirement was doubted by Hayne and McHugh JJ in the special leave application *Davis v R* (1998) 73 ALJR 139. However, as the matter has not since been reconsidered, it is unclear whether conduct committed in the accused’s absence is now capable of sustaining the partial defence of provocation.
+
+13. While it may be necessary for the provocative conduct to have been committed in the accused’s presence, there is no requirement that the conduct be primarily directed at the accused (*R v Terry* [1964] VR 248).
+
+
+
+Mere words
+
+
+
+14. While originally it was thought that provocation would not be available if the provocative conduct consisted of "mere words", it has been held that there is no absolute rule against words alone founding a case of provocation. The existence of such an absolute rule would draw an arbitrary distinction between words and conduct which is insupportable in logic (*Moffa** v R* (1977) 138 CLR 601).
+
+15. Whether or not a judge should leave provocation to the jury when the provocative conduct consisted of words alone will depend upon the nature of the words. For example, it has been held that provocation need not be left to the jury where the words are "merely insulting, hurtful and offensive", as the objective test could never be established in such a case (*R v Kumar* (2002) 5 VR 193; *R v **Leonboyer* [2001] VSCA 149).
+
+16. By contrast, where the words can be characterised as "violently provocative", they will be capable in law of establishing provocation, and the defence may be left to the jury (*Holmes v DPP* [1946] AC 588; *Moffa** v R* (1977) 138 CLR 601).
+
+17. The reference in this phrase to "violently" is an indicator of degree rather than content. There is no requirement that the provocative words threaten violence (*R v Kumar* (2002) 5 VR 193 [Eames at 59]).
+
+
+
+Self-induced provocation
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+18. Provocation will not be available as a partial defence if:
+
+
+
+- The deceased’s provocative conduct was provoked by the accused’s words or conduct; and
+
+- The deceased’s provocative conduct did not go beyond the reasonably predictable response of a person in his or her position (*R v Hartwick & **Ors* (2005) 14 VR 125; *R v Allwood* (1975) 18 A Crim R 120; *R v Borthwick* CCA Vic 18/3/1991).[^2]
+
+
+
+19. Where the accused deliberately incites the provocation, acting with premeditation or actual foresight, the accused cannot be said to act as a result of a loss of self-control. In such circumstances the accused had the necessary pre-existing mental state for murder, at a time before the victim’s allegedly provocative actions occurred (*R v **Yasso** (No.2) *(2004) 10 VR 466).
+
+
+
+Historic conduct
+
+
+
+20. The partial defence of provocation cannot be raised solely on the basis of the victim’s historic conduct. If the provocation is not alleged to be found in conduct that is to some degree proximate to the response, then there must be some "triggering event" that is proximate to the loss of self-control (*Masciantonio** v R* (1994) 183 CLR 58; *R v **Osland** *[1998] 2 VR 636; *Osland** v R* (1998) 197 CLR 316).
+
+21. The law does not identify any specific period within which the response must occur (*Parker v R* (1962) 111 CLR 610. See also *Pollock v R *(2010) 242 CLR 233).
+
+22. While purely historic conduct cannot be relied upon as the ultimate provocative event, it remains relevant to the assessment of the "triggering event", and to both the subjective and objective elements of the defence.
+
+
+
+Subjective Test
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+23. The second way for the prosecution to disprove provocation is to prove that the accused did not kill the deceased while deprived of self-control by the deceased’s provocative conduct. There are two parts to this "subjective test":
+
+1. The accused must have killed the deceased while deprived of self-control; and
+
+4. The accused’s loss of self-control must have been caused by the deceased’s provocative conduct.
+
+
+
+Killing While Deprived of Self-Control
+
+Loss of self control
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 Elements of Provocation
+
+24. The "central idea" of the law of provocation is that of a sudden and temporary loss of self-control, resulting from the provocative conduct of the deceased (*Masciantonio** v R* (1994) 183 CLR 58. See also *Pollock v R *(2010) 242 CLR 233).
+
+25. The loss of self-control should not have been so extreme that the accused acted involuntary, or was incapable of forming an intention to kill or really seriously injure the victim. In such cases the accused should be acquitted, rather than being convicted of manslaughter (*Parker v R* (1962) 111 CLR 610; *Masciantonio** v R* (1994) 183 CLR 58. See also 8.8 Automatism).
+
+26. Instead, the loss of self-control must have been a loss of control over the accused’s desire for retribution against the deceased (*Masciantonio** v R* (1994) 183 CLR 58). The accused’s "reason" should have been negated or suspended (*Parker v R* (1962) 111 CLR 610).
+
+27. While this will usually occur due to the effects of anger or resentment, the defence may equally be raised where the loss of self-control is the consequence of fear or panic (*Van Den Hoek v R* (1986) 161 CLR 158; *R v Ivanovic* [2005] VSCA 238; *R v **Osland** *[1998] 2 VR 636).
+
+28. The requirement that the provocative conduct cause the accused to lose self-control excludes from the scope of the defence an accused who seizes upon such conduct as a convenient excuse for carrying out a previously existing purpose, or who acts upon an old grudge (*Parker v R* (1964) 111 CLR 665. See also *Pollock v R *(2010) 242 CLR 233).
+
+29. A person who kills in order to give effect to a prior understanding or arrangement with respect to the victim's death therefore cannot rely upon provocation (*Osland** v R* (1998) 197 CLR 316).
+
+
+[^2]: Note, however, in R v Thorpe [1999] 1 VR 326 and R v Yasso (No.2)(2004) 10 VR 466, Charles JA considered that it was not settled that provocation is excluded where the provocative conduct is "self–induced," in the sense considered above.
+
+
+---
+
+
+## 8.12 "Heat of passion"
+
+## "Heat of passion"
+
+
+
+1. The defence of provocation is only available where the "loss of control" is associated with an altered (generally heightened) emotional state, which has historically been referred to as the "heat of passion" (*Johnson v R* (1976) 136 CLR 619).
+
+
+
+Acting while deprived of self control
+
+
+
+2. The accused must have killed the deceased while deprived of self control by the provocative conduct. The defence will fail if the accused had regained control by the time s/he killed the deceased (*Masciantonio** v R* (1994) 183 CLR 58. See also *Pollock v R *(2010) 242 CLR 233).
+
+3. If the accused was intoxicated at the time of the killing, this may be relevant to the question of whether s/he acted without self-control in response to the provocative conduct (*R v McCullagh (No 3) *[2007] VSCA 293).
+
+
+---
+
+
+## 8.12 Delayed response
+
+## Delayed response
+
+
+
+1. There is no independent requirement that there be no "cooling-off period". The existence of an opportunity to "cool-off" between the provocative conduct and the accused’s response does not mean that the defence will fail (*Moffa** v R* (1977) 138 CLR 601, *R v Kumar* (2002) 5 VR 193; *Pollock v R *(2010) 242 CLR 233).
+
+2. However, a delay between provocation and response can be an important consideration in determining whether the act was:
+
+
+
+- Caused by the provocative conduct, rather than caused by motives of revenge or punishment; and
+
+- Done at a time when the accused was in a state of temporary loss of self-control (*Pollock v R *(2010) 242 CLR 233. See also *Johnson v R* (1976) 136 CLR 619).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+3. This issue will generally not turn on a precise counting of the time over which the relevant episode extended. The jury should consider the entire incident, including any events which took place during the interval between the provocative conduct and the response (*Parker v R* (1962) 111 CLR 610. See also *Pollock v R *(2010) 242 CLR 233).
+
+4. A person who kills his or her violent partner in response to long-term abuse is not prevented from raising the partial defence of provocation simply because his or her reaction may be considered to be "delayed" or "slow-burning" (*R v **Osland** *[1998] 2 VR 636; *R v Thornton (No.2) *[1996] 1 WLR 1174).
+
+5. However, for the defence to be successful there must be a "triggering event" that caused a sudden and temporary loss of self-control at the time of the killing. The mere fact of long-term abuse is not sufficient (*R v **Osland** *[1998] 2 VR 636, *Osland** v R* (1998) 197 CLR 316).
+
+6. The "triggering" incident may be a relatively minor act of abuse, but it cannot be a trivial incident. A history of abuse does not create a blank cheque to plan and execute homicide, protected by the law of provocation (*Osland** v R* (1998) 197 CLR 316).
+
+7. In cases of long-term abuse, evidence of the abuse, and of "battered-woman syndrome", may be relevant to the jury’s consideration of the effect that otherwise apparently minor incidents may have had on the accused (*R v **Osland** *[1998] 2 VR 636; *R v Thornton (No.2) *[1996] 1 WLR 1174).
+
+8. Such evidence may also be relevant when determining the gravity of the provocative conduct (see below) (*R v **Osland** *[1998] 2 VR 636; *Osland** v R* (1998) 197 CLR 316).
+
+
+
+Objective test
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+9. The third way for the prosecution to disprove provocation is to prove that the deceased’s conduct was not capable of causing an ordinary person to lose self-control and to act in the way in which the accused did.
+
+10. In considering this "objective test", there are two questions the jury must determine:
+
+1. What was the gravity of the provocation?
+
+1. Was the provocation of such gravity that it could cause an ordinary person to lose self-control and act like the accused?
+
+
+
+What was the gravity of the provocation?
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+11. The first part of the objective test requires the jury to assess the gravity of the provocative conduct. In making this assessment, the jury must take into account any relevant personal characteristics of the accused, as well as his or her circumstances (*Stingel** v R* (1990) 171 CLR 312; *Masciantonio** v R* (1994) 183 CLR 58; *R v **Kuster* (2008) 21 VR 407).
+
+12. Depending on the case, the relevant circumstances and characteristics of the accused may include his or her age, sex, race, ethnicity, physical features, personal attributes, personal relationships or past history (*Masciantonio** v R* (1994) 183 CLR 58; *R v Abebe* (2000) 1 VR 429; *R v Curzon* (2000) 1 VR 416; *R v Thorpe (No 2)* [1999] 2 VR 719; *R v **Leonboyer* [2001] VSCA 149; *R v Kumar* (2002) 5 VR 193; *R v McCullagh (No 3) *[2007] VSCA 293).
+
+13. The jury may also take into account any mental instability or weakness of the accused (*Stingel** v R* (1990) 171 CLR 312), but should not take into account his or her "exceptional excitability or pugnacity or ill-temper" (*DPP v **Camplin** *[1978] AC 705).
+
+14. The relevant circumstances may include the history between the accused and the deceased (*R v Kumar* (2002) 5 VR 193; *Osland** v R* (1998) 197 CLR 316), or between the accused and third-parties (*Green v R* (1997) 191 CLR 334).
+
+15. The characteristics or attributes of an accused that may be taken into account when assessing the gravity of the provocation reflect features which are of a permanent, rather than a temporary or transient, nature (*R v McCullagh (No 3) *[2007] VSCA 293).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+16. However, such permanent characteristics or attributes will not always be relevant to an assessment of the gravity of the provocative conduct. To be relevant, those characteristics or attributes must bear upon an *objective* assessment of the gravity of the particular provocative conduct. For example, the accused’s mental instability would be relevant if the provocative conduct consisted of insults that the accused was mad, but would probably not be relevant if the provocation was completely unrelated to his or her mental condition (*Stingel** v R* (1990) 171 CLR 312; *R v McCullagh (No 3) *[2007] VSCA 293).
+
+17. Where the accused is temporarily intoxicated, and the provocative conduct does not relate to that intoxication, his/her intoxication will not be relevant to an assessment of the gravity of the provocation (*R v McCullagh (No 3) *[2007] VSCA 293).
+
+18. The judge should identify all of the accused’s characteristics and circumstances relevant to the jury’s assessment of the gravity of the provocation, and describe any relevant background evidence, such as evidence of the relationship and history between the accused and the deceased, relationships with third parties and cultural matters (*R v **Kuster* (2008) 21 VR 407).
+
+19. In assessing the gravity of provocative conduct, the judge (and jury) should take care not to unduly narrow the circumstances that should be taken into account (See *R v Conway* (2004) 149 A Crim R 206; *R v Kumar* (2002) 5 VR 193).
+
+20. As the jury are *required* to take the accused’s personal circumstances into account in assessing the gravity of the provocative conduct, it will be a misdirection to suggest that the jury is "entitled" to consider those circumstances (*R v Curzon* (2000) 1 VR 416).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+Could the ordinary person have lost control?
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+21. Having assessed the gravity of the provocation, the jury must then determine whether provocation of that level of gravity could have caused an "ordinary person" to lose self-control and act in the way the accused did (*Masciantonio** v R* (1994) 183 CLR 58).
+
+22. The "ordinary person" is not the "reasonable man" of the law of negligence (and of earlier provocation cases). He or she is a person capable of losing his or her self-control to the extent of intentionally wounding or killing another, when there is no need to do so for his or her own protection (*Stingel** v R* (1990) 171 CLR 312. See also *Johnson v R* (1976) 136 CLR 619; *Masciantonio** v R* (1994) 183 CLR 58; *R v Abebe* (2000) 1 VR 429).
+
+23. While all of the accused’s relevant characteristics and circumstances must be taken into account in assessing the gravity of the provocation (see above), the only factor that may be relevant when determining how the ordinary person could have reacted to provocation of that gravity is the accused’s age (in the sense of immaturity) (*Masciantonio** v R* (1994) 183 CLR 58; *Stingel** v R* (1990) 171 CLR 312).
+
+24. Thus, for an adult accused, the standard the jury must apply is simply the "power of self-control of the ordinary person". When the accused is a youth, the standard will be "the power of self control of an ordinary person of the accused’s age" (*Masciantonio** v R* (1994) 183 CLR 58; *Stingel** v R* (1990) 171 CLR 312; *R v Thorpe (No 2)* [1999] 2 VR 719).
+
+25. The law does not fix a point at which youth ceases to be relevant to the determination of the objective standard. The age of the accused should be incorporated into the test wherever it is open to the jury to consider that the accused is immature by reason of youthfulness (*Stingel** v R* (1990) 171 CLR 312).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+26. Gender, senility, intoxication, medical condition and ethnic background have all been expressly identified as factors that should *not* be brought into consideration in the determination of this standard. This reflects the principle of equality before the law (*Stingel** v R* (1990) 171 CLR 312; *R v Curzon* (2000) 1 VR 416; *R v O’Neill* [1982] VR 150; *R v **Gojanovic** (No 2) *[2007] VSCA 153; *R v McCullagh (No 3) *[2007] VSCA 293).
+
+27. Equally, the reduction of an offender’s capacity for self control by mental illness, or by any other considerations, will not be relevant to this aspect of the test (*R v Conway* (2004) 149 A Crim R 206).
+
+28. It should be made clear to the jury that the critical feature or attribute of the ordinary person against which the accused’s conduct is to be compared is his or her normal or ordinary powers of self-control (*Masciantonio** v R* (1994) 183 CLR 58; *R v **Margach* [2007] VSCA 110; *R v McCullagh (No 3) *[2007] VSCA 293).
+
+29. Jurors should not be directed to place themselves in "the accused's shoes as the embodiment of the ordinary person" to determine the possible effect of the provocation upon the ordinary person’s power of self-control. Such an instruction risks jurors substituting their own subjective standards for the objective standard of the test (*Stingel** v R* (1990) 171 CLR 312).
+
+30. The judge should also not refer to whether an "ordinary person of the accused’s characteristics" could have lost control, as most of the accused’s characteristics are only relevant to determining the gravity of the provocation (*R v **Kuster* (2008) 21 VR 407).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+The Ordinary Person "Could" Have Lost Control
+
+
+
+31. The objective test is whether the provocative conduct *could* have caused an ordinary person to lose self-control to the extent that the accused did. The jury need not be satisfied that this result would necessarily, or even probably, have followed (*Stingel** v R* (1990) 171 CLR 312;* **Masciantonio** v R* (1994) 183 CLR 58).
+
+32. In this context "could" and "might" are synonymous. In directing a jury, it is acceptable to use "might" rather than "could" (preferably saying that "might" in this context means the same thing as "could") (*Osland** v R* (1998) 197 CLR 316;* **Stingel** v R* (1990) 171 CLR 312; *R v Thorpe (No 2)* [1999] 2 VR 719).
+
+33. It may, in fact, be preferable to use "might" rather than "could", as there is less chance of a judge accidentally transposing the words "would" and "might" than there is in relation to the similar-sounding words "would" and "could". In addition, there is less chance that the jury will mishear what the judge says (see, e.g. *R v Thorpe (No 2)* [1999] 2 VR 719).
+
+34. The onus of proof is on the prosecution to disprove this element (see below). As the corollary of "could" is "would not" (rather than "could not"), this means that the prosecution must prove that an ordinary person *would not* have lost self-control and acted in the way the accused did (*Masciantonio** v R* (1994) 183 CLR 58*, R v Thorpe (No 2)* [1999] 2 VR 719)*.*
+
+35. Given the risk of confusion between the terms "could", "might" and "would", and the difficulties with the onus of proof in this area (see below), it can be helpful for a judge to explicitly direct the jury that for the prosecution to disprove that something "might" or "could" have happened, it must prove that it "would not" have happened (see, e.g. *R v Abebe* (2000) 1 VR 429).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+Could the Ordinary Person have "Done What the Accused Did"
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+36. The objective test requires the jury to determine whether the provocative conduct could have caused an ordinary person to lose self-control and "act in the way in which the accused did" (*Masciantonio** v R* (1994) 183 CLR 58; *R v McCullagh (No 3) *[2007] VSCA 293; *Pollock v R *(2010) 242 CLR 233).
+
+37. The phrase "act in the way in which the accused did" refers to the nature and extent – the kind and degree – of the reaction which the provocative conduct could have caused in an ordinary person.It does not refer to the precise physical form which that reaction might take, or the duration of the reaction (*Masciantonio** v R* (1994) 183 CLR 58; *R v Barrett* (2007) 16 VR 240; *R v McCullagh (No 3) *[2007] VSCA 293; *Pollock v R *(2010) 242 CLR 233).
+
+38. Where it is alleged that the accused intentionally murdered the deceased, the jury will therefore need to determine whether the ordinary person could have formed an intention to kill or really seriously injure the victim in response to provocation of that gravity, and whether he or she could have acted upon that intention (*Masciantonio** v R* (1994) 183 CLR 58).
+
+39. Where it is alleged that the accused recklessly murdered the deceased, the jury will need to determine whether the ordinary person could have acted with knowledge that someone would probably die or be really seriously injured.[^3]
+
+40. The jury does not need to focus on matters such as whether the ordinary person could have adopted the means used by the accused to carry out his or her intention, or whether the ordinary person would have regained composure earlier than the accused did, or would have inflicted a lesser number of wounds (*Masciantonio** v R* (1994) 183 CLR 58; *R v Barrett* (2007) 16 VR 240. See also *Pollock v R *(2010) 242 CLR 233).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+41. Care should be taken to avoid leading the jury to consider that the test involves assessing whether the ordinary person might have responded exactly as the accused did (*R v McKeown* [2006] VSCA 74; *R v **Gojanovic** (No 2) *[2007] VSCA 153).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Delayed response
+
+Proportionality
+
+
+
+42. There is no independent requirement that the retaliation should be proportionate to the provocation. Rather, that question is absorbed into the test directed to the effect of the provocation upon the ordinary person (*Johnson v R* (1976) 136 CLR 619; *Masciantonio** v R* (1994) 183 CLR 58; *R v McCullagh (No 3) *[2007] VSCA 293; *R v **Kuster* (2008) 21 VR 407).
+
+43. It is the function of the ordinary person test to determine the degree of provocation necessary to provide a defence to murder. It is accepted that there must be a high degree of provocation (*Masciantonio** v R* (1994) 183 CLR 58).
+
+44. Thus, while the jury can be instructed to take into account the mode and extent of retaliation in applying the ordinary person test, it will be wrong to identify proportionality as a specific matter for defence counsel to establish, or for the prosecution to negative (*Johnson v R* (1976) 136 CLR 619; *R v Ivanovic* [2005] VSCA 238; *R v McKeown* [2006] VSCA 74*; R v **Margach* [2007] VSCA 110*; R v Barrett* (2007) 16 VR 240; *R v **Gojanovic** (No 2)*[2007] VSCA 153; *R v Hill* [2007] VSCA 261; *R v McCullagh (No 3) *[2007] VSCA 293).
+
+45. Although it will not be a misdirection to refer to proportionality if it is made clear that it is not an essential or additional part of the test for provocation, it is generally undesirable to make a separate reference to proportionality when describing the elements of provocation (*R v McCullagh (No 3) *[2007] VSCA 293).
+
+
+[^3]: While provocation is generally discussed in the context of intentional killings, the defence may be raised where reckless murder is in issue (R v Cufley (1983) 10 A Crim R 39).
+
+
+---
+
+
+## 8.12 Onus of Proof
+
+## Onus of Proof
+
+
+
+1. Once provocation is put in issue, the onus is on the prosecution to disprove at least one of its elements beyond reasonable doubt. If they fail to do so, the accused will be entitled to be acquitted of murder but convicted of manslaughter (as long as all the elements of murder have been satisfied) (*Johnson v R* (1976) 136 CLR 619; *Moffa** v R* (1977) 138 CLR 601; *R v Thorpe (No 2)* [1999] 2 VR 719; *R v Anderson* (1997) 94 A Crim R 335).
+
+2. There are a number of ways in which a judge can express the onus of proof:
+
+
+
+- S/he can direct the jury that they may only convict the accused of murder if the prosecution can *disprove one of the elements* of provocation beyond reasonable doubt; or
+
+- S/he can direct the jury that they must acquit the accused of murder if they find that there is a *reasonable possibility* that the killing was provoked (i.e. that both of the elements of provocation have been established); or
+
+- S/he can direct the jury that they must acquit the accused of murder if they find that the conclusion that the killing was provoked (i.e. that both of the elements of provocation have been established) is *reasonably open on the evidence* (see, e.g. *Moffa** v R* (1977) 138 CLR 601; *R v Thorpe (No 2)* [1999] 2 VR 719; *R v Anderson* (1997) 94 A Crim R 335).
+
+
+
+3. The courts have acknowledged the notorious difficulty of explaining the law of provocation to the jury, and relating it to the facts, without inadvertently suggesting that an onus, however limited, lies on the accused (*Moffa** v R* (1977) 138 CLR 601; *R v Thorpe (No 2)* [1999] 2 VR 719).
+
+4. It has therefore been suggested that it may be wise to tell the jury that:
+
+
+
+- It is always difficult to give directions about provocation in a way which completely avoids any suggestion that the accused has to prove something;
+
+- Any such suggestion is completely wrong; and
+
+- Provocation is something which the prosecution must exclude beyond reasonable doubt (*R v Thorpe (No 2)* [1999] 2 VR 719).
+
+
+---
+
+
+## 8.12 Judge Must Relate the Law to the Facts
+
+## Judge Must Relate the Law to the Facts
+
+
+
+1. The judge must explain to the jury how the issue of provocation has arisen on the facts, and how it might be excluded (*Pollock v R *(2010) 242 CLR 233).
+
+2. Where different versions of the facts have been alleged, the judge must explain how provocation arises on each version, and how it might be excluded on each (*Pollock v R* (2010) 242 CLR 233).
+
+3. Care must be taken to identify the real issues in the case, and to relate the directions of law to those issues (*Pollock v R *(2010) 242 CLR 233).
+
+
+---
+
+
+## 8.12 When to Charge the Jury about Provocation
+
+## When to Charge the Jury about Provocation
+
+
+
+1. The judge must direct the jury about provocation if the defence identify that provocation is in issue or if there are substantial and compelling reasons for giving a direction on provocation in the absence of any request (*Jury Directions Act 2015* ss 11 – 16). See Directions under Jury Directions Act 2015.
+
+2. At common law, the judge was required to leave provocation to the jury if there was material in the evidence which was "capable of constituting provocation" (*Stingel** v R* (1990) 171 CLR 312; *Masciantonio** v R* (1994) 183 CLR 58).
+
+3. More precisely, the trial judge was required to leave provocation to the jury if:
+
+
+
+- On the version of events most favourable to the accused on the evidence
+
+- A jury acting reasonably might fail to be satisfied beyond reasonable doubt that the killing was unprovoked in the relevant sense (*Stingel** v R* (1990) 171 CLR 312; *Masciantonio** v R* (1994) 183 CLR 58).
+
+
+
+4. These requirements took into account the fact that:
+
+
+
+- The ultimate burden of disproving provocation lies on the prosecution; and
+
+- It is the jury, not the judge, who must be satisfied beyond reasonable doubt of the absence of provocation (*Stingel** v R* (1990) 171 CLR 312).
+
+
+[^4]: It has been stated that a judge who takes the issue away from the jury assumes a "grave responsibility" (Masciantonio v R (1994) 183 CLR 58 per McHugh J; R v Conway (2004) 149 A Crim R 206; R v Kumar (2002) 5 VR 193).
+
+
+---
+
+
+## 8.12 When to Charge the Jury about Provocation
+
+5. At common law, it was acknowledged that there were no clear objective criteria for the judge to apply when determining this issue (*R v Kumar* (2002) 5 VR 193).
+
+6. However, it is clear that in deciding whether provocation should be left to the jury, the trial judge was applying a legal test. S/he was not passing judgment on the morality of the conduct (*R v Conway* (2004) 149 A Crim R 206).
+
+7. The judge’s assessment was made by reference to the full legal test for provocation (see above). This is the meaning of the phrase “unprovoked in the relevant sense” (*R v Parsons* (2000) 1 VR 161).
+
+8. At common law, judges needed to be alive to the danger, in considering the objective test, that s/he would substitute his/her own assessment of the facts for the view of the facts most favourable to the accused (*R v Kumar* (2002) 5 VR 193).
+
+
+
+Obligation to leave provocation to jury
+
+
+
+9. The common law stated that trial judges should lean towards leaving provocation to the jury if s/he could. S/he should be reluctant to withdraw from the jury any issue that should properly be left to them (*Masciantonio** v R* (1994) 183 CLR 58; *R v **Tuncay* [1998] 2 VR 19; *R v **Kuster* (2008) 21 VR 407).
+
+10. This tendency to leave provocation to the jury also reflects:
+
+
+
+- An appreciation of the undesirable consequences of the erroneous exclusion of provocation (i.e. the necessity for a retrial); and
+
+- Respect for the capacity of juries to evaluate the issues raised by the partial defence (*R v Conway* (2004) 149 A Crim R 206; *R v Kumar* (2002) 5 VR 193).[^4]
+
+
+[^4]: It has been stated that a judge who takes the issue away from the jury assumes a "grave responsibility" (Masciantonio v R (1994) 183 CLR 58 per McHugh J; R v Conway (2004) 149 A Crim R 206; R v Kumar (2002) 5 VR 193).
+
+
+---
+
+
+## 8.12 When to Charge the Jury about Provocation
+
+11. A trial judge was encouraged to be particularly cautious about withdrawing provocation from the jury where there was evidence of provocative conduct and loss of self control, and the objective test was the only real issue (*Masciantonio** v R* (1994) 183 CLR 58; *R v Kumar* (2002) 5 VR 193. See also the application of the test in *R v **Yasso** (No 2) *(2004) 10 VR 466).
+
+12. These principles must be examined in light of *Jury Directions Act 2015* Part 3, and the increased focus on the importance of forensic decision making of counsel.
+
+
+
+The judge’s duty was independent of defence counsel’s attitude
+
+
+
+13. At common law, if provocation was open on the evidence, the trial judge was required to leave it to the jury, no matter what course is followed by defence counsel, and regardless of whether it was actually raised during the trial (*Pollock v R* (2010) 242 CLR 233; *R v Thorpe* [1999] 1 VR 326; *Masciantonio** v R* (1994) 183 CLR 58; *Pemble** v R* (1971) 124 CLR 107; *R v Hopper* [1915] 2 KB 431).
+
+14. It did not matter if the judge or defence counsel perceived that the accused would suffer a forensic disadvantage if provocation was left to the jury. If the partial defence is open on the evidence, the judge was required to charge the jury (*R v Thorpe* [1999] 1 VR 326).
+
+15. This principle is heavily qualified by Part 3 of the *Jury Directions Act 2015*. Under the Act, judges must not give a direction that has not been sought unless there are substantial and compelling reasons to do so. This test raised the bar compared to the common law position on when directions on defences not sought are required. See Directions under Jury Directions Act 2015.
+
+
+
+Last updated: 29 June 2015
+
+
+[^4]: It has been stated that a judge who takes the issue away from the jury assumes a "grave responsibility" (Masciantonio v R (1994) 183 CLR 58 per McHugh J; R v Conway (2004) 149 A Crim R 206; R v Kumar (2002) 5 VR 193).
+
+
+---
+
+---
+
+# Chapter 8.12.1
+
+
+## 8.12.1 Charge: Provocation
+
+# **8.12.1 Charge: Provocation**
+
+This charge should only be given if:
+
+i) It is alleged that the accused committed murder prior to *23 November 2005*; and
+
+ii) Provocation is open on the evidence (see 8.12 Provocation for guidance).
+
+The charge should be given immediately after directing the jury about the other elements of murder, or where self defence is in issue, after directing the jury on self defence.
+
+
+
+## Introduction
+
+In this case there is evidence that raises the issue of **provocation**. I must therefore give you some directions about this form of lawful excuse.
+
+The concept of provocation was introduced into the law a long time ago as a concession to human frailty. It is based on the recognition that in certain **provocative** situations, a person of ordinary self-control can lose control over their emotions and commit the extraordinary act of intentionally killing the person responsible for the provocation.
+
+You only need to consider provocation if you are satisfied that the prosecution has proven all of the other elements of murder beyond reasonable doubt [and you are satisfied that NOA was not acting in self defence].
+
+According to the law, even if the prosecution has proven all of these matters, the accused will be guilty of manslaughter, and not murder, **unless** the prosecution can prove, beyond reasonable doubt, that the accused was **not** acting under provocation.
+
+There are **three ways** in which the prosecution can do this. I will list them for you, and then explain each one in more detail.
+
+**First**, the prosecution can prove that the deceased did not act provocatively.[^2]
+
+**Secondly**, the prosecution can prove that the accused did **not** kill the deceased while deprived of self-control by the deceased’s provocative conduct.
+
+**Thirdly**, the prosecution can prove that the deceased’s conduct would **not** have caused an ordinary person to lose self-control and act in the way the accused did.
+
+The prosecution does **not** have to prove **all** of these matters. The prosecution will disprove provocation if it proves any one of them beyond reasonable doubt. In such a case, if you have **also** found that all the other elements of murder have been proven, you should convict the accused of murder.
+
+However, if the prosecution cannot prove at least one of these matters, then you must **not** convict the accused of murder. You should instead convict him/her of manslaughter.
+
+
+[^2]: If the provocative conduct did not emanate from the deceased, but it is alleged that the accused mistakenly believed that it did, this charge will need to be modified accordingly.
+
+
+---
+
+
+## 8.12.1 Onus of Proof
+
+## Onus of Proof
+
+I want to emphasise that it is **not** for the accused to prove that s/he was provoked, but for the prosecution to prove that s/he was not.
+
+Unfortunately, it is sometimes difficult to give directions about provocation in a way which completely avoids any suggestion that the accused has to prove something. If anything I say suggests to you that the accused must prove some aspect of this defence, disregard that suggestion. It is for the prosecution to prove that the accused was not provoked.
+
+I will now explain the ways in which the prosecution can prove this in more detail.
+
+
+---
+
+
+## 8.12.1 Provocative Conduct
+
+## Provocative Conduct
+
+The **first** way in which the prosecution can prove that the accused was not provoked in law is by proving that the deceased did not act provocatively.
+
+While this aspect of provocation relates to what the deceased did and said, you must determine whether his/her conduct was provocative by considering its possible impact on the accused. The deceased’s conduct will have been provocative if it was capable of causing the accused to lose self-control, and as a result to form an intention to kill or really seriously injure the deceased, and to act upon that intention.
+
+If the prosecution can prove that NOV did not say or do anything that could have caused NOA to lose self-control in this way, and to this extent, then they will have proven that NOA was not provoked in law.[^3]
+
+[*If the deceased may be implicated in the provocative conduct of a third-party, add the following shaded section*.]
+
+In determining whether NOV acted provocatively, you must of course focus on NOV’s own conduct. However, in this case you may also need to take into consideration the evidence you have heard of NO3P’s[^4] conduct.
+
+NO3P’s conduct will be relevant if you find that it is reasonably possible that NOV [adopted/assented to/participated in/associated himself/herself with] that conduct. In such circumstances, for the purpose of this issue you can treat NO3P’s conduct as if it was NOV’s own conduct.
+
+In determining whether NOV acted provocatively in the sense I have described, you must consider all the evidence of what NOV said and did [at the time of his/her final encounter with NOA].[^5]
+
+You must **also** take into account any evidence which shows what this conduct might have meant to NOA. Such evidence places the incident in the context necessary for you to determine the effect that conduct was capable of having on NOA.
+
+In this case there was evidence [*describe evidence of any words or conduct by NOV (or a relevant third party) which may be relied upon as provocation*].[^6]
+
+The evidence relevant to the possible impact of NOV’s conduct on NOA was [*describe relevant background evidence and/or arguments, including evidence of the relationship and history between the accused and the deceased, relationships with third-parties and cultural matters*].
+
+[*If "self-induced" provocation is in issue, add the following shaded section*.]
+
+
+[^3]: If it is possible that the deceased did not commit the provocative conduct, but the accused mistakenly believed that s/he did, this section will need to be modified. See 8.12 Provocation for further information.
+[^4]: Name of Third Party.
+[^5]: If relevant, refer also to third parties whose conduct was "adopted" etc. by the deceased.
+[^6]: Strictly, only evidence capable of constituting provocation should be summarised here. Evidence of "historic conduct", or conduct in the absence of the accused, should be summarised as background evidence. Where relevant, describe any evidence that NOV "adopted" etc. a third party’s conduct.
+
+
+---
+
+
+## 8.12.1 Provocative Conduct
+
+You have heard evidence of NOA’s conduct prior to NOV saying and doing the things that I have described. [*Identify evidence relating to the accused’s provocative conduct.*] This evidence is relevant because the law says that NOV will **not** have acted provocatively if his/her conduct was itself provoked by the accused’s conduct, and the deceased’s response did not go beyond the reasonably predictable response of a person in his/her position.
+
+Remember, it is for the prosecution to prove that NOA was not provoked. If you are satisfied beyond reasonable doubt that NOV did not say or do anything that could have provoked NOA to lose self control, and as a result to form and act upon an intention to kill or seriously injure NOV, then NOA will not have been provoked in law. If you are also satisfied that all the other elements of murder have been proven, you should convict NOA of murder.
+
+However, if you consider there is a reasonable possibility that NOV did act provocatively in the sense I have described, then provocation will remain an issue, and you will need to consider the next matter.
+
+
+[^3]: If it is possible that the deceased did not commit the provocative conduct, but the accused mistakenly believed that s/he did, this section will need to be modified. See 8.12 Provocation for further information.
+[^4]: Name of Third Party.
+[^5]: If relevant, refer also to third parties whose conduct was "adopted" etc. by the deceased.
+[^6]: Strictly, only evidence capable of constituting provocation should be summarised here. Evidence of "historic conduct", or conduct in the absence of the accused, should be summarised as background evidence. Where relevant, describe any evidence that NOV "adopted" etc. a third party’s conduct.
+
+
+---
+
+
+## 8.12.1 Killing While Deprived of Self Control
+
+## Killing While Deprived of Self Control
+
+The **second way** in which the prosecution can prove that the accused was not provoked is by proving that s/he did **not** kill the deceased while deprived of self-control by the deceased’s provocative conduct.[^7] This aspect of provocation relates to the accused’s state of mind.
+
+The prosecution can disprove this element of provocation by proving beyond reasonable doubt that the accused did not lose self control at all. That is, s/he retained full control over his/her emotions when s/he formed and acted upon the intention to kill or seriously injure the deceased.
+
+[*If there is evidence suggesting a "cooling off period", add the following shaded section*.]
+
+Even if you find that the deceased’s conduct might have caused the accused to lose self-control, the prosecution can disprove this element of provocation by proving that, at the time s/he killed the deceased, the accused had regained self-control.
+
+In this case, it is possible that this happened in the alleged period between NOV [*describe provocative conduct*] and his/her death. [*Describe evidence of delay between provocation and killing.*]
+
+However, the mere fact that there may have been a delay between the deceased’s provocative conduct and the accused’s response does not mean that provocation will have been disproved. The accused may still have been out of control despite such a delay.
+
+Such a delay will, however, clearly be relevant to your determination of whether NOA was out of control when s/he killed NOV. It is possible that you will find that s/he had "cooled off" during that period of time, and was no longer deprived of self-control. Alternatively, you may find that s/he remained out of control for the entire period. This is a question of fact for you to determine.
+
+In considering whether NOA might have killed NOV while deprived of self-control by NOV’s provocative conduct, you must take into account all of the evidence you considered when determining whether or not NOV had acted provocatively. This includes the evidence of NOV’s conduct, and the evidence concerning the possible impact of that conduct on NOA. The evidence of particular significance to NOA’s loss of self-control was [*identify evidence of particular relevance to this issue, including any direct evidence of loss of control at the time of the killing*].
+
+
+[^7]: If there is an issue about the accused’s mistaken belief about the victim’s conduct, this aspect of the charge will require further elaboration.
+
+
+---
+
+
+## 8.12.1 Killing While Deprived of Self Control
+
+If, upon consideration of all of the evidence, you are satisfied that NOA did **not** kill NOV while deprived of self-control by NOV’s provocative conduct, then the prosecution will have disproven provocation. If you are also satisfied that all the elements of murder have been proven, you should convict NOA of that offence.
+
+
+[^7]: If there is an issue about the accused’s mistaken belief about the victim’s conduct, this aspect of the charge will require further elaboration.
+
+
+---
+
+
+## 8.12.1 Objective Element
+
+## Objective Element
+
+The **third way** in which the prosecution can prove that the accused was not provoked is by proving that the deceased’s conduct would **not** have caused an ordinary person to lose self-control and act in the way the accused did. This reflects the minimum standard of self-control the law requires of us all.
+
+There are **two stages** to determining whether the ordinary person would not have lost self-control and acted in the way the accused did. **First**, you must assess the gravity or seriousness of the deceased’s conduct. **Then** you need to determine whether **provocation of that gravity would not** have caused an ordinary person to lose self-control and act like the accused.
+
+Gravity of the Provocation
+
+The law says that you must assess the **gravity** of the deceased’s conduct from the viewpoint of the accused. That is, you have to take into account NOA’s personal characteristics and circumstances, such as his/her age, sex and race, when determining how grave that conduct was. This is because conduct which might not be insulting or hurtful to one person might be extremely insulting or hurtful to another because of such matters.
+
+In this case, the characteristics and circumstances that you must take into account when assessing the gravity of NOV’s conduct include [*insert details of the accused’s relevant characteristics and circumstances, such as his/her age, sex, race, ethnicity, physical features, personal attributes, personal relationships or past history*].
+
+Ordinary Person
+
+Having assessed the gravity of the deceased’s conduct, you must **then** determine whether provocation of that gravity **might** have caused an ordinary person to lose self-control and act in the way the accused did.
+
+By "act in the way the accused did", I mean form an intention to kill or really seriously injure the deceased, and act on that intention.[^8] You do not need to be concerned with whether or not the ordinary person might have responded in precisely the way that you find the accused did.
+
+The prosecution will therefore disprove provocation if it proves that provocation of that gravity **would not** have caused an ordinary person to lose self-control and act in the way the accused did. It is important to note that what the prosecution must prove here is that the ordinary person "would not" have lost self-control and acted in that way. They will not have proven this if you find that the ordinary person "could" or "might" have acted like the accused.
+
+
+[^8]: This aspect of the charge will need to be amended if provocation is used in relation to reckless murder rather than intentional murder.
+
+
+---
+
+
+## 8.12.1 Objective Element
+
+Person with ordinary powers of self control
+
+In deciding whether this has been proven, you need to consider how the ordinary person, with ordinary powers of self-control, might have responded to NOV’s conduct. You must determine whether provocation of that gravity could have led such a person to form an intention to kill or really seriously injure NOV, and to act upon that intention.
+
+It is for you to determine how the ordinary person, with "ordinary powers of self control", might have acted in such circumstances. You must determine how a hypothetical ordinary, sober person, who represents a standard that applies to the whole community, might have reacted to provocation of that gravity.
+
+[*If the case involves an adult accused, add the following shaded section*.]
+
+Unlike your assessment of the gravity of the deceased’s conduct, in making this determination you must **not** take the accused’s personal characteristics or circumstances into account. You must simply determine how the ordinary person, with a normal adult’s powers of self-control, might have acted.
+
+[*If the case involves a youthful accused, add the following shaded section*.]
+
+Unlike your assessment of the gravity of the deceased’s conduct, in making this determination the **only one** of the accused’s characteristics or circumstances you may take into account is his/her age. You must determine how the ordinary [*insert the accused’s age at the time of the offence*] year-old, with the powers of self-control of a person with the maturity or immaturity that you consider goes with that age, might have acted.
+
+In this case [*insert relevant arguments and/or evidence*].
+
+If the prosecution can prove that the ordinary person would not have responded to provocation that was as grave as that committed by NOV, by losing self control and forming and acting upon the intention I have described, then the prosecution will have disproven provocation.
+
+
+[^8]: This aspect of the charge will need to be amended if provocation is used in relation to reckless murder rather than intentional murder.
+
+
+---
+
+
+## 8.12.1 Summary
+
+## Summary
+
+**To ****summarise**, if you decide that all the other elements of murder have been proven beyond reasonable doubt, you must find NOA not guilty of murder and guilty of manslaughter instead, **unless** the prosecution prove that s/he was **not **acting under provocation.
+
+There are **three ways** in which the prosecution can prove this:
+
+
+
+- **One** – by proving that NOV did **not **act provocatively;
+
+- **Two** – by proving that NOA did **not** kill NOV while deprived of self-control by NOV’s provocative conduct; **or**
+
+- **Three** – by proving that NOV’s conduct would **not** have caused an ordinary person to lose self-control and act in the way NOA did.
+
+
+
+If you find that the prosecution has proven **any** of these matters beyond reasonable doubt, and has also proven all the other elements of murder, then you must convict the accused of murder.
+
+However, if you find that all the other elements of murder have been proven, but you are **not** satisfied that the prosecution has proven at least one of these three matters beyond reasonable doubt, then you must convict the accused of manslaughter.
+
+Last updated: 12 December 2007
+
+
+---
+
+---
+
+# Chapter 8.12.2
+
+
+## 8.12.2 Checklist: Provocation
+
+# **8.12.2 Checklist: Provocation**
+
+This checklist can be used in a Murder trial if provocation has been left to the jury. See 8.12 Provocation* *for guidance on when provocation should be left to the jury.
+
+In addition to proving all of the other elements of murder, the prosecution must **also** prove that the accused did not act under provocation.
+
+This requires the prosecution to prove, beyond reasonable doubt, that when the accused killed the deceased, **either**:
+
+
+
+1. The deceased did **not **act provocatively; **or**
+
+2. The accused did **not** kill the deceased while deprived of self-control by the deceased’s provocative conduct; **or**
+
+3. The deceased’s conduct would **not** have caused an ordinary person to lose self-control and act in the way the accused did.
+
+
+---
+
+
+## 8.12.2 Checklist: Provocation
+
+**Provocative Conduct**
+
+**1.** Has the prosecution proven that the deceased did **not **say or do anything that *could* have caused the accused to lose self control, and as a result to form an intention to kill or really seriously injure the deceased, and to act upon that intention?
+
+***Consider – Taking into account all of the circumstances, is there no reasonable possibility that the deceased said or did anything capable of provoking the accused in the way and to the degree described?***
+
+If Yes, then the accused is guilty of Murder (as long as you are satisfied that the prosecution has also proven all of the other elements of Murder beyond reasonable doubt)
+
+If No, then go to Question 2
+
+**Killing While Deprived of Self Control**
+
+**2.** Has the prosecution proven that the accused did **not** kill the deceased while deprived of self-control by the deceased’s conduct?
+
+***Consider – What was the accused’s state of mind when s/he killed the deceased?***
+
+If Yes, then the accused is guilty of Murder (as long as you are satisfied that the prosecution has also proven all of the elements of that offence beyond reasonable doubt)
+
+If No, then go to Question 3
+
+**Conduct Would Have Caused an Ordinary Person to Lose Self-Control**
+
+**3.** Has the prosecution proven that the deceased’s conduct would **not** have caused an ordinary person to lose self-control and act in the way the accused did?
+
+***Consider – How grave was the provocation from the viewpoint of the accused? How might a person with ordinary powers of ******self control****** have reacted to provocation of this gravity?***
+
+If Yes, then the accused is guilty of Murder (as long as you are satisfied that the prosecution has also proven all of the elements of that offence beyond reasonable doubt)
+
+If No, then the accused acted under provocation and is not guilty of Murder, but is guilty of Manslaughter (as long as you are satisfied that the prosecution has proven all the other elements of Murder beyond reasonable doubt)
+
+Last updated: 12 December 2007
+
+
+---

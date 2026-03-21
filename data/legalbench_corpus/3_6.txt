@@ -1,0 +1,453 @@
+# Chapter 3.6
+
+
+## 3.6 Circumstantial Evidence and Inferences
+
+# 3.6 Circumstantial Evidence and Inferences
+
+
+
+## What is Circumstantial Evidence?
+
+
+
+1. A fact that is in issue can be proved in two ways:
+
+1. By providing evidence which *directly proves* that fact, without requiring the jury to draw any inferences (“direct evidence”[^2]); or
+
+1. By providing evidence of a related fact or facts, from which the jury can *infer the existence* of the fact in issue (“circumstantial evidence”) (*Shepherd v The Queen* (1990) 170 CLR 573. See also *Doney v R* (1990) 171 CLR 207; *Festa v R* (2001) 208 CLR 593; *Myers v DPP* [1965] AC 1001; *R v Spina *[2005] VSCA 319).
+
+2. The distinction between direct and circumstantial evidence does not relate to the *nature or content of the evidence given* (e.g. whether it is evidence of an event the witness personally saw, rather than evidence of an event they were told about), but to the *way in which the evidence is to be used*. If it is necessary for the jury to infer a particular fact from the evidence, it will be circumstantial evidence of that fact.[^3]
+
+3. The same piece of evidence can therefore be both direct and circumstantial, depending on what it is being used to prove. For example, evidence given by a witness that s/he saw the accused holding a gun could be:
+
+
+
+- Direct evidence that the accused possessed a firearm; and
+
+- Circumstantial evidence that the accused murdered someone with that firearm.
+
+
+[^2]: The term “direct evidence” is also used to refer to testimonial evidence given by a witness of a matter they have personal knowledge about (e.g. which they personally saw or heard). When used in this sense, direct evidence is contrasted with hearsay evidence rather than circumstantial evidence (see *Cross on Evidence* para 1110).
+[^3]: This is in contrast to the distinction between “direct evidence” and “hearsay evidence”, which relates to the nature of the evidence given (see above).
+
+
+---
+
+
+## 3.6 Use of Circumstantial Evidence
+
+## Use of Circumstantial Evidence
+
+
+
+1. In many cases no one will have directly witnessed the facts which the prosecution must prove, and so they will need to rely on circumstantial evidence. In such cases, the ultimate inference which the jury will often be asked to draw is that of the accused’s guilt (*Shepherd v The Queen* (1990) 170 CLR 573).
+
+2. As there is nothing in the law that makes proof by circumstantial evidence unacceptable or suspect of itself (*De **Gruchy** v R* (2002) 211 CLR 85), circumstantial evidence can be used to prove the accused’s guilt in this way (*Festa v R* (2001) 208 CLR 593; *Chamberlain v R (No 2)* (1984) 153 CLR 521).
+
+3. However, research using mock juries indicates that there is a risk that jurors will consider circumstantial evidence inherently weaker or less reliable than direct evidence. Judges may address this misconception, and may consider using the phrase ‘indirect evidence’ rather than ‘circumstantial evidence’ (Simplification of Jury Directions Project, 2012).
+
+4. If circumstantial evidence is relied upon by the prosecution, it may be necessary for the judge to direct the jury that before the accused’s guilt can be inferred, it must be the only rational inference that can be drawn from that evidence.
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+## Inferential Reasoning (‘*Hodge*’ direction)
+
+
+
+1. Where the prosecution case depends upon circumstantial evidence, it is usually necessary to give the following two directions:
+
+1. To find the accused guilty, his or her guilt must not only be a *reasonable inference*, it must be the *only* reasonable inference which can be drawn from the circumstances established by the evidence; and
+
+1. If the jury considers that there is *any reasonable explanation* of those circumstances which is consistent with the innocence of the accused, they must find him or her not guilty (*R v **Hodge* (1838) 2 Lewin 227; *Mannella v R* [2010] VSCA 357; *Knight v R* (1992) 175 CLR 495; *Shepherd v The Queen* (1990) 170 CLR 573; *Chamberlain v R* *(No 2)* (1984) 153 CLR 521; *Barca v R* (1975) 133 CLR 82; *Plomp** v R* (1963) 110 CLR 234; *Thomas v R* (1960) 102 CLR 584).
+
+2. These directions stem from the general requirement that guilt must be proved beyond reasonable doubt. They simply convey the meaning of “beyond reasonable doubt” in cases involving circumstantial evidence. They do not reflect a separate rule that operates in such cases (*R v **Kotzmann* [1999] 2 VR 123; *R v Lancefield* [1999] VSCA 176; *Knight v R* (1992) 175 CLR 495; *Shepherd v The Queen* (1990) 170 CLR 573; *R v Sorby* [1986] VR 753; *Grant v R* (1976) 11 ALR 503).
+
+
+
+## Reasonable Inference
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+3. Given the high standard of proof required in criminal trials, it is important that the jury only draws inferences which can be properly deduced from the direct evidence (“reasonable inferences”), rather than making guesses or engaging in speculation (*R v McIntyre* (2000) 111 A Crim R 211).
+
+4. In determining whether an inference is reasonable, the jury should consider the evidence as a whole. A reasonable inference can be drawn from a combination of facts, none of which viewed alone would support that inference (*Chamberlain v R (No 2)* (1984) 153 CLR 521; *R v Sorby* [1986] VR 753; *Shepherd v The Queen* (1990) 170 CLR 573; *R v Hillier* (2007) 228 CLR 618; *R v Allen* [2007] VSCA 97).
+
+5. The jury should therefore not reject one circumstance because, considered alone, no reasonable inference of guilt can be drawn from it. The jury must consider the weight which is to be given to the united force of all the circumstances put together. One piece of evidence may resolve the jury's doubts about another (*R v Hillier* (2007) 228 CLR 618; *R v Allen* [2007] VSCA 97; *Chamberlain v R* *(No 2)* (1984) 153 CLR 521; *Van Beelen; Thomas v R* [1972] NZLR 34; *Shepherd v The Queen* (1990) 170 CLR 573).
+
+
+
+## “Only” Reasonable Inference
+
+
+
+6. The inference drawn by the jury must be the only reasonable inference which can be drawn from the facts (*Shepherd v The Queen* (1990) 170 CLR 573; *Chamberlain v R (No 2)* (1984) 153 CLR 521).
+
+7. The existence of a particular fact-in-issue will be the only rational inference to be drawn from circumstantial evidence if:
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+- The jury find those circumstances to have been established; and
+
+- According to the common course of human affairs, there is such a high probability that the occurrence of those circumstances would be accompanied by the existence of that fact-in-issue that the contrary cannot reasonably be supposed (*Martin v Osborne* (1936) 55 CLR 367; *Plomp** v R* (1963) 110 CLR 234; *R v **Taouk* [2005] NSWCCA 155).
+
+
+
+## No Other Reasonable Hypothesis
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+8. When the case against an accused person rests substantially upon circumstantial evidence, the jury cannot return a verdict of guilty unless the circumstances exclude any reasonable hypothesis other than the guilt of the accused (*Peacock v R* (1911) 13 CLR 619; *Barca v R* (1975) 133 CLR 82; *Chamberlain v R (No 2)* (1984) 153 CLR 521; *Doney v R* (1990) 171 CLR 207; *R v Allen* [2007] VSCA 97).
+
+9. This is because a reasonable doubt will necessarily arise where any other inference consistent with innocence is reasonably open on the evidence (*Shepherd v The Queen* (1990) 170 CLR 573; *Doney v R* (1990) 171 CLR 207).
+
+10. So if the jury finds that an inference or hypothesis consistent with innocence is open on the evidence, they must give the accused the benefit of the doubt necessarily created by that circumstance and acquit him or her (*Knight v R* (1992) 175 CLR 495).
+
+11. The judge should not invite the jury to determine whether there are any other reasonable conclusions arising from the facts. Such a direction misstates the onus of proof, as it is for the prosecution to exclude all reasonable hypotheses consistent with innocence (*Gregg v The Queen* [2020] NSWCCA 245, [523]).
+
+12. An alternative hypothesis does not have to be “equally open” or “equally compelling” in order to give rise to a reasonable doubt as to guilt. Such a doubt will arise where any other inference consistent with innocence is reasonably open on the evidence (*Mannella v R* [2010] VSCA 357).
+
+13. The jury does not have to be able to infer that the event suggested by the innocent hypothesis actually occurred. It is sufficient if there is a reasonable possibility that such an event took place (*R v McIntyre* (2000) 111 A Crim R 211; *R v Gover* (2000) 118 A Crim R 8).
+
+14. Even if there is only one circumstance inconsistent with a conclusion of guilt, that may be sufficient to destroy the hypothesis of guilt (*Peacock v R* (1911) 13 CLR 619; *R v **Taouk* [2005] NSWCCA 155).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+15. Where competing inferences arise in a case, it is for the jury to determine whether the inference of guilt arises, and if so whether it completely overcomes all other inferences so as to leave no reasonable doubt in their minds (*R v **Plomp* (1963) 110 CLR 234; *Peacock v R* (1911) 13 CLR 619).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+### Must Be A “Reasonable” Hypothesis
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+16. The jury cannot act upon some fanciful supposition or possibility that cannot reasonably be inferred from the facts proved. The hypothesis must be “reasonable” (*R v Clarke* (1995) 78 A Crim R 226).
+
+17. A "reasonable hypothesis" must possess some degree of acceptability or credibility. A hypothesis will not be reasonable if it is fanciful, impossible, incredible, not tenable or too remote or tenuous (*Bushell v Repatriation Commission* (1992) 175 CLR 408; *R v Clarke* (1995) 78 A Crim R 226).
+
+18. For an inference to be reasonable, it must rely upon something more than mere conjecture. The bare possibility of innocence should not prevent a jury from finding the accused guilty, if the inference of guilt is the only inference reasonably open upon a consideration of all the facts (*Peacock v R* (1911) 13 CLR 619; *Barca v R* (1975) 133 CLR 82).
+
+19. The mere existence of a conclusion consistent with innocence therefore will not necessarily mean that the prosecution has failed to establish its case. The existence of that conclusion may be regarded by the jury as of little weight in the circumstances of the case (*Chan* (1992) 28 NSWLR 421).
+
+20. While a reasonable hypothesis must be based on something more than mere conjecture, there need not be positive evidence supporting that hypothesis. Even in the absence of such evidence, a hypothesis may be reasonable so long as it is consistent with the evidence accepted by the jury (*R v McIntyre *(2000) 111 A Crim R 211; *R v Gover* (2000) 118 A Crim R 8).
+
+21. However, it is wrong to tell the jury that they must decide whether they accept the evidence which establishes the hypothesis consistent with innocence. Such a direction reverses the burden of proof. Instead, the prosecution must exclude the hypothesis as a reasonable possibility (*Ankur v The Queen *[2021] VSCA 110, [30]–[39], [57]).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+22. While it is proper for a judge to tell a jury that they must not engage in speculation or make guesses, s/he needs to be careful that such a direction does not detract from the jury’s duty to acquit if they cannot exclude all reasonable hypotheses consistent with innocence. Although it will often be a matter of speculation as to whether one of these innocent explanations occurred, there is no speculation involved in considering whether the hypotheses are reasonable possibilities (*R v McIntyre *(2000) 111 A Crim R 211).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+### Warning of dangers in drawing inferences (‘*Hodge*’ warning)
+
+
+
+23. The need for expanded directions on the process of drawing inferences arises because the human mind is apt to jump to conclusions, attaching too much weight to a fact that is really only one part of the case, or being too quickly convinced by an accumulation of detail that is in truth explicable as coincidence or in some other way consistent with innocence (*R v **Kotzmann* [1999] 2 VR 123).
+
+24. In addition, a single circumstance inconsistent with guilt is of more importance than all other circumstances, as it may destroy a hypothesis of guilt (*R v Hodge* (1838) 2 Lewin 227).
+
+25. While there is little case-law on the need for these directions, the model direction in this Charge Book includes these warnings as part of the expanded direction on circumstantial evidence.
+
+
+
+## When to give the Charge
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+26. Whenever circumstantial evidence is relied upon by the prosecution, the judge must consider whether or not the case calls for directions about the need for guilt to be the only rational inference, and the requirement for reasonable hypotheses consistent with innocence to be excluded (*Grant v R* (1976) 11 ALR 503; *R v Sorby* [1986] VR 753).
+
+27. Such directions do not need to be given in every case in which the prosecution relies on circumstantial evidence. It is for the trial judge to determine whether they should be given, based on the circumstances of the case and the nature of the summing-up (*Shepherd v The Queen* (1990) 170 CLR 573; *R v Spina* [2005] VSCA 319; *R v Garth* (1990) 49 A Crim R 298; *R v Sorby* [1986] VR 753; *Grant v R* (1976) 11 ALR 503; *R v Rajakaruna (No 2)* (2006) 15 VR 592; *R v KDY* [2008] VSCA 104).
+
+28. In many, if not most, cases involving substantial circumstantial evidence, it will be helpful to give such directions (*R v **Kotzmann* [1999] 2 VR 123; *Shepherd v The Queen* (1990) 170 CLR 573; *R v **Plomp* (1963) 110 CLR 234; *R v Peacock* (1911) 13 CLR 619).
+
+29. These directions should be given if, in a particular case, the jury cannot be expected to understand and apply the rules concerning the onus and standard of proof (*R v Sorby* [1986] VR 753).
+
+30. If the directions are unnecessary, or are likely to confuse the jury rather than assist them, they should not be given (*Grant v R* (1976) 11 ALR 503; *R v Sorby* [1986] VR 753; *La Fontaine v R* (1976) 136 CLR 62; *Shepherd v The Queen* (1990) 170 CLR 573).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+31. The direction should generally not be given in cases which do not depend on circumstantial evidence, or where the amount of circumstantial evidence involved is slight. In such cases, these directions will put an unnecessary gloss on the explanation of the onus of proof (*La Fontaine v R* (1976) 136 CLR 62. See also *Shepherd v The Queen* (1990) 170 CLR 573).
+
+32. There is no obligation to give such directions where the only substantial inference which needs to be drawn is about the accused’s state of mind (*R v Rogerson* (1992) 65 A Crim R 530; *R v **Tillott* (1991) 53 A Crim R 46; *R v Shepherd (No 3)* (1988) 85 ALR 387; *McGreevy v DPP* (1973) 57 Cr App R 424. But see *R v Knight* (1992) 175 CLR 495).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+### Directing the Jury About Alternative Hypotheses
+
+
+
+33. If evidence raises a reasonable possibility that the circumstances pointed to someone other than the accused being guilty of the offence, then a direction about the need to exclude such a possibility beyond reasonable doubt should usually be given (*R v Clarke* (1995) 78 A Crim R 226).
+
+34. Such a direction should be given even if the evidence is very slight, if it could be interpreted as raising a reasonable possibility of innocence (*R v Clarke* (1995) 78 A Crim R 226).
+
+35. The failure of the defence to put forward an alternative hypothesis consistent with innocence does not relieve the prosecution of the burden of proving its case to the requisite standard (*R v Lancefield *[1999] VSCA 176). It is not incumbent on the defence either to establish that some inference other than guilt should reasonably be drawn from the evidence, or to prove particular facts that would tend to support such an inference. If the jury thinks that the evidence as a whole is susceptible of a reasonable alternative explanation, the accused is entitled to be acquitted (*Barca v R* (1975) 133 CLR 82).
+
+36. However, the judge is only required to direct the jury about the real issues in the case. The defence must indicate the elements or defences that are in issue and the directions required. Unless there are substantial and compelling reasons to do so, the trial judge must not give a direction which is not requested (*Jury Directions Act 2015* ss 12, 14, 15, 16).
+
+37. It will be a misdirection to direct the jury that a reasonable explanation consistent with innocence must be given by the accused before it can be considered (*R v Betancur-Galvis* [2003] NSWCCA 333; *Druett** v R* (1994) 123 FLR 249; *R v Baartman* [2000] NSWCCA 298; *Loader v R* [2003] NTCCA 10).
+
+
+
+## Content of the Charge
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+38. The content of the charge will vary according to the nature of the evidence that the prosecution offers as proof. Directions should be constructed around the central principle that the prosecution must establish guilt beyond reasonable doubt, and should be more or less elaborate according to the risks in the case (*R v Sorby* [1986] VR 753).
+
+39. In most cases, it will be sufficient simply to tell the jury that the accused’s guilt must be established beyond reasonable doubt, and that they must entertain such a doubt where any inference consistent with innocence is reasonably open on the evidence (*Shepherd v The Queen* (1990) 170 CLR 573).
+
+40. If some cases, however, a more detailed direction may be required. In such cases the judge should explain clearly to the jury that:
+
+
+
+- The prosecution case cannot succeed unless the prosecution has proved all of the elements beyond reasonable doubt;
+
+- The prosecution case against the accused (on a particular issue) is a circumstantial evidence case;
+
+- For a circumstantial evidence case to succeed, guilt must not only be a rational inference, but must be the *only* rational inference that can be drawn from the evidence;
+
+- A reasonable doubt arises where any inference consistent with innocence is reasonably open on the evidence;
+
+- In so far as any alternative hypotheses consistent with innocence are open, it is part of the prosecution’s burden of proof to refute each and every one of those alternative hypotheses; and
+
+- They may only draw an inference of guilt if it so overcomes any other possible inferences as to leave no doubt in their minds. Otherwise, they should give the accused the benefit of doubt created by the alternative hypothesis, and acquit (See, e.g., *R v **Taouk* [2005] NSWCCA 155; *R v Chen, Siregar & Isman* (2002) 130 A Crim R 300; *R v **Kotzmann** (No 2)* (2002) 128 A Crim R 479; *Wedd v R* (2000) 115 A Crim R 205; *Pitkin v R* (1995) 130 ALR 35; *Knight v R* (1992) 175 CLR 495).
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+41. It is proper for a judge to explain to the jury that a reasonable hypothesis consistent with innocence means a reasonable hypothesis having regard to the whole of the evidence, not to each individual item of circumstantial evidence regarded separately (*R v Perera* [1986] 1 Qd R 211; *R v **Beble* [1979] Qd R 278).
+
+42. Where "fanciful" or "unreal" possibilities have been put to the jury by defence counsel, it is appropriate for the trial judge to redress the balance (see 1.7 Onus and Standard of Proof). In doing so, the judge must be careful not to give a direction which is likely to distract the jury from the simple task of considering whether a hypothesis consistent with innocence is reasonably open on the evidence (*R v Lancefield* [1999] VSCA 176).
+
+43. A judge must also avoid giving a direction about when a possibility is fanciful or unreal that implies or suggests that the defence case is fanciful or unreal. An example which shows the difference between reasonable hypotheses and guesswork will adequately explain the concept without needing to specifically give an example which involves a fanciful explanation (see *Ankur v The Queen* [2021] VSCA 110, [59]–[78]).
+
+
+
+### Base Decision on Established Evidence
+
+
+
+44. It is not the evidence presented, but what is accepted of it by the jury which is to be considered in relation to any hypotheses. To justify conviction, the jury must be satisfied beyond reasonable doubt that the evidence they accept is inconsistent with a hypothesis of innocence (*Barca v R* (1975) 133 CLR 82).
+
+45. The jury should therefore be told that they are not obliged to accept as proved all the circumstances to which the witnesses have testified. It is for them to determine which of the circumstances to accept, and whether those circumstances establish the accused’s guilt. As with direct evidence, any circumstantial evidence unacceptable to them may be discarded (*R v Van Beelen *(1973) 4 SASR 353).
+
+
+
+### Misdirections
+
+
+---
+
+
+## 3.6 Inferential Reasoning (‘Hodge’ direction)
+
+46. The jury should not be told that they must consider the explanation or inference contended for by the prosecution and consider whether it was a reasonable one. This may lead the jury to mistakenly think that they are also required to consider any other possibilities they regard as reasonable, and to weigh them against the prosecution’s explanation to see which is preferable. It may also lead the jury to wrongly think that it is their function to see whether the accused has offered an alternative reasonable explanation, and if no alternative reasonable explanation has been offered to convict (*R v Lancefield* [1999] VSCA 176).
+
+47. The jury should not be led to think they should only take into account a possibility if it exceeds the level of a “mere” possibility. If they have *any* possibility in mind which gives them cause for retaining doubt about the accused’s guilt, they must acquit (*R v Lancefield* [1999] VSCA 176).
+
+48. The jury should not be told that they must choose between two (or more) inferences which are "equally open". To convict, the jury must be able to reject as rational any inferences which are consistent with innocence (*Knight v R* (1992) 175 CLR 495; *Mannella v R* [2010] VSCA 357).
+
+49. The jury should not be told that for an inference to be reasonable it has to be “based on evidence”, or based on the evidence they accept. This may lead them to think they cannot consider as reasonable any possibilities suggested by defence counsel, or any other possibilities which occurred to them, unless evidence had been given to support that inference by or on behalf of the accused. This is likely to reverse the onus of proof, or at least to dilute the standard of proof (*R v Lancefield *[1999] VSCA 176. See also *Ankur v The Queen* [2021] VSCA 110, [30]–[39], [57]).
+
+
+---
+
+
+## 3.6 Proof of Facts on Which Inferences are Based
+
+## Proof of Facts on Which Inferences are Based
+
+
+---
+
+
+## 3.6 Proof of Facts on Which Inferences are Based
+
+1. At common law, prior to 1984, it was widely understood that the prosecution only needed to establish the elements of a crime beyond reasonable doubt. They were not required to prove any other facts to that standard (see, e.g., *R v Dickson* [1983] 1 VR 227).
+
+2. However, this understanding changed in 1984, when the High Court held that if proof of an element of a crime is to be inferred, the facts relied upon to found the inference must also be proved beyond reasonable doubt (*Chamberlain v R (No 2)* (1984) 153 CLR 521).
+
+3. *Chamberlain* was initially interpreted as requiring the jury to be satisfied, beyond reasonable doubt, of *all* of the facts upon which they based their inferences (see, e.g., *R v Sorby* [1986] VR 753; *R v **Maleckas* [1991] 1 VR 363).
+
+4. However, in *Shepherd v The Queen* (1990) 170 CLR 573 the High Court rejected this interpretation. The Court held that when the majority in *Chamberlain* had said that facts relied upon as a basis for an inference of guilt must be proved beyond reasonable doubt, they were only referring to *intermediate facts* which are an *indispensable step* upon the way to an inference of guilt. Other facts upon which inferences are based need not be proved to that high standard.
+
+5. In reaching this conclusion, the High Court drew a distinction between two different types of circumstantial cases:
+
+1. Cases in which the accused’s guilt is proved by an accumulation of detail (“strands in a cable”); and
+
+1. Cases in which the accused’s guilt is proved by sequential reasoning (“links in a chain”).
+
+6. Under the *Jury Directions Act 2015*, this approach has been abolished. Unless an Act otherwise provides, the only matters which a judge can direct the jury must be proved beyond reasonable doubt are the elements of the offence charged or an alternative offence and the absence of any relevant defence (*Jury Directions Act 2015* s 61. See also *DPP v **Roder* [2024] HCA 15, [15]).
+
+7. This applies to all trials commencing on or after 29 June 2015 (*Jury Directions Act 2015* s.2).
+
+
+---
+
+
+## 3.6 Proof of Facts on Which Inferences are Based
+
+8. All common law rules which require judges to direct that a matter other than the elements and the absence of any defences must be proved beyond reasonable doubt are abolished (*Jury Directions Act 2015* s 62; *Beqiri v R* [2017] VSCA 112 at [121], [130]; *DPP v **Roder* [2024] HCA 15, [17]). A note to the section states that it abolishes the rule attributed to *Shepherd v The Queen* (1990) 170 CLR 573 regarding the standard of proof for circumstantial evidence and the rule attributed to *R v Sadler* (2008) 20 VR 69 regarding the standard of proof for uncharged acts.
+
+9. As a consequence of *Jury Directions Act 2015* s 61, counsel should not tell the jury that, as a matter of law, the jury needs to be satisfied of certain, non-elemental, facts beyond reasonable doubt in order to convict. Counsel may, however, make evidentiary arguments that certain factual matters are critical to a conclusion of guilt (*Beqiri v R* [2017] VSCA 112 at [112]–[120]).
+
+10. In general, the prosecution does not need to prove any fact, or any piece of evidence relied upon to prove an element by inference, beyond reasonable doubt. The jury may properly draw the necessary inference having regard to the whole of the evidence, whether or not each individual piece of evidence relied upon is proved beyond reasonable doubt, as long as they reach their *conclusion* upon the criminal standard of proof (see *Shepherd v The Queen* (1990) 170 CLR 573; *R v Spina* [2005] VSCA 319; *Beqiri v R* [2017] VSCA 112 at [121], [130]; *DPP v **Roder* [2024] HCA 15, [27]–[31]).
+
+11. It is the function of the jury to determine the weight which should be given to the circumstances relied upon by the prosecution and whether, at the end of the day, the combination of circumstances which they accept are of sufficient strength to prove the guilt of the accused beyond reasonable doubt (see *R v **Kotzmann** (No 2)* (2002) 128 A Crim R 479).
+
+
+---
+
+
+## 3.6 Proof of Facts on Which Inferences are Based
+
+12. Unless an Act otherwise provides, the judge must not direct the jury that they cannot use a fact as a basis for inferring guilt unless that fact is proved beyond reasonable doubt. This applies even if the evidence would, at common law, be treated as a ‘link in a chain’ or is potentially so significant that, as a matter of prudence, the jury should not act on it unless satisfied beyond reasonable doubt (see *Beqiri v R* [2017] VSCA 112 at [121], [130] and compare *Kotvas** v R* [2010] VSCA 309; *R v LRG* (2006) 16 VR 288).
+
+13. Section 61 does not relieve the judge of the obligation to identify the evidence that establishes the elements (see *Jury Directions Act 2015* ss 65, 66).
+
+14. In some cases, there will be critical evidence that would allow a jury to decide the case on that evidence alone. Types of evidence that might have this character include confessions, identification evidence and DNA evidence. In such cases, it may be appropriate for the judge to identify clearly for the jury the importance of that evidence to prove the element. Judges should discuss the issue with counsel and hear submissions on what additional directions or comments are appropriate. One option is to refer to the evidence and direct the jury that it must be satisfied that that evidence proves the element beyond reasonable doubt (*Jury Directions Act 2015* s 61, Example).
+
+15. Where the judge instructs on the elements in the form of a factual question under *Jury Directions Act 2015* s 67, the judge must direct the jury that it must be satisfied of those matters beyond reasonable doubt (*Jury Directions Act 2015* s 61, notes).
+
+
+---
+
+
+## 3.6 Timing of the Charge
+
+## Timing of the Charge
+
+
+
+1. If a direction about circumstantial evidence is given, it does not need to be kept separate and distinct from the direction that the prosecution must prove its case beyond reasonable doubt (see 1.7.1 Charge: Onus and Standard of Proof). The judge may simply elaborate on the general directions (*Plomp** v R* (1963) 110 CLR 234).
+
+2. It may also be desirable to introduce the concept of circumstantial evidence at the beginning of the trial, or when the jury is first asked to draw an inference, to help the jury to understand that:
+
+
+
+- That there need not be direct evidence of every essential element of the offence charged;
+
+- That the essential elements of the offence may be proved by circumstantial evidence;
+
+- That circumstantial evidence involves drawing an inference; and
+
+- That circumstantial evidence is perfectly good evidence, not an inferior form of proof (Canadian Judicial Council, *Model Jury Instructions in Criminal Matters*. See also *R v PZG* [2007] VSCA 54).
+
+
+
+Last updated: 14 May 2024
+
+
+---
+
+---
+
+# Chapter 3.6.1
+
+
+## 3.6.1 Charge: Circumstantial Evidence and Inferences
+
+# 3.6.1 Charge: Circumstantial Evidence and Inferences
+
+Evidence comes in many forms. It can be evidence about what someone saw or heard. It can be an exhibit admitted into evidence. It can be someone's opinion.
+
+Some evidence can prove a fact directly. For example, if a witness said that s/he saw or heard it raining outside, that would be direct evidence of the fact that it was raining.
+
+Other evidence can prove a fact indirectly. For example, if a witness said that s/he saw someone enter the courthouse wearing a raincoat and carrying an umbrella, both dripping wet, that would be indirect or ‘circumstantial’ evidence of the fact that it was raining outside. You can conclude from the witness’s evidence that it was raining, even though s/he didn’t actually see or hear the rain.
+
+As far as the law is concerned, it makes no difference whether evidence is direct or indirect. Although people often believe that indirect or circumstantial evidence is weaker than direct evidence, that is not true. It can be just as strong or even stronger. What matters is how strong or weak the particular evidence is, not whether it is direct or indirect.
+
+However, you must take care when drawing conclusions from indirect evidence. You should consider all of the evidence in the case, and only draw reasonable conclusions based on the evidence that you accept. Do not guess. While we might be willing to act on the basis of guesses in our daily lives, it is not safe to do that in a criminal trial.
+
+[*In cases involving a* *significant amount of circumstantial evidence, add the following shaded section*.]
+
+In determining whether a conclusion is reasonable, you should look at all of the evidence together. It may help you to consider the pieces of evidence to be like the pieces of a jigsaw puzzle. While one piece may not be very helpful by itself, when all the pieces are put together the picture may become clear.
+
+
+---
+
+
+## 3.6.1 Charge: Circumstantial Evidence and Inferences
+
+However, when putting all the pieces together, you must take care not to jump to conclusions. It is sometimes easy for people to be too readily persuaded of a fact, on the basis of insufficient evidence or evidence that turns out to be truly coincidental. Once convinced of that fact, they may then seek support for it in the other evidence, perhaps distorting that evidence to fit their theory or disregarding ‘inconvenient’ facts. You must make sure that you do not do this. You must keep an open mind, and be prepared to change your views.
+
+You may only convict the accused if you are satisfied that his/her guilt is the only reasonable conclusion to be drawn from the whole of the evidence, both direct and indirect. If there is another reasonable view of the facts which is consistent with the accused’s innocence, then the prosecution will not have proved his/her guilt beyond reasonable doubt, and you must acquit him/her.
+
+Last updated: 17 May 2019
+
+
+---
+
+---
+
+# Chapter 3.6.2
+
+
+## 3.6.2 Charge: Sole Evidence Direction
+
+# 3.6.2 Charge: Sole Evidence Direction
+
+This charge may be used where there is a single piece of evidence relied on to prove one or more elements. This charge may be suitable where the prosecution case is entirely dependent on a confession or an identification.
+
+You will remember my direction the prosecution must prove its case beyond reasonable doubt. In this case, the only evidence that [*identify relevant elements or facts in issue*] is the evidence that [*describe relevant single piece of evidence, e.g*. “NOA confessed to NOW”]. You therefore cannot be satisfied that the prosecution has proved its case beyond reasonable doubt unless you are satisfied this evidence proves [*identify relevant element*] beyond reasonable doubt.
+
+Last updated: 14 May 2024
+
+
+---

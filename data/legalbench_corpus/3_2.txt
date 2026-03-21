@@ -1,0 +1,79 @@
+# Chapter 3.2
+
+
+## 3.2 Overview of Final Directions
+
+# 3.2 Overview of Final Directions
+
+
+---
+
+
+## 3.2 Overview of Final Directions
+
+1. The fundamental task of a judge is to ensure a fair trial of the accused (*RPS v R *(2000) 199 CLR 620; *Crofts v R *(1996) 186 CLR 427).
+
+2. The requirement for a fair trial requires the judge to instruct the jury about so much of the law as they need to know in order to dispose of the issues in the case. In most cases, this will require the judge to:
+
+1. Give instructions about the burden and standard of proof, the respective roles of the judge and jury, and the elements of the relevant offences and defences;
+
+1. Succinctly and accurately identify the issues in the case and relate the law to those issues;
+
+2. Refer to how the prosecution and defence have put their cases, without needing to summarise the closing addresses;
+
+3. Identify so much of the evidence as is required to help the jury determine the issues in the trial; and
+
+4. Give the jury any warnings about how it may reason, or about particular kinds of evidence, as is required in the case (*Jury Directions Act 2015* s 65; *RPS v R *(2000) 199 CLR 620; *R v Coombes *16/4/1999 CA Vic. See also *R v **Zorad** *(1990) 19 NSWLR 91; *R v Lawrence *[1982] AC 510).
+
+3. Regardless of the way in which judges approach their role, they must ensure that they tailor their charge to the case before them. The charge should be custom built to make the jury understand their task in the case. It must not merely formulaically adopt the principles of law set out in the charge book, which are intended as a guide only (*R v **Zilm** *(2006) 14 VR 11; *R v Coombes *16/4/1999 CA Vic;* R v Anderson *[1996] 2 VR 663; *R v Lawrence *[1982] AC 510).
+
+
+---
+
+
+## 3.2 Overview of Final Directions
+
+4. The summing-up should not address issues of law which are not raised by the particular case, nor should it be a complete statement of the law in relation to the crime charged. It should also not address every piece of evidence given in the trial. The judge should only address *as much* of the law and evidence as is necessary to guide them to a decision on the real issues that arise in the case (*R v VN* (2006) 15 VR 113; *R v **Zilm** *(2006) 14 VR 11; *Fingleton** v R* (2005) 227 CLR 166; *R v Chai* (2002) 187 ALR 436; *RPS v R* (2000) 199 CLR 620; *Alford v Magee *(1952) 85 CLR 437).
+
+5. The identification of issues and any necessary evidentiary directions is informed by the statutory conversation required under *Jury Directions Act 2015* ss 11–12.
+
+6. As a matter of practice, the judge should consider the jury’s attention span in structuring the charge. It is undesirable to give directions on important issues when the jury may be losing concentration. Similarly, if the final directions are interrupted by a weekend or longer adjournment, it may be necessary to remind the jury of key matters when the directions resume.
+
+7. When a party raises an issue with the directions, the judge will need to decide whether any redirection is needed to clarify the issue for the jury. If the redirection is responding to earlier, erroneous, directions, the judge should explicitly tell the jury that the earlier directions were wrong. It is not sufficient to give the jury corrected directions without also telling the jury to disregard the earlier directions, as that produces a situation where the jury has conflicting and confusing directions (*Ritchie v The Queen* [2019] VSCA 202, [130]).
+
+8. See 3.9 Judge’s Summing Up on Evidence and Issues for further information concerning the judge’s summing-up.
+
+
+---
+
+
+## 3.2 Overview of Final Directions
+
+Last updated: 17 February 2020
+
+
+---
+
+---
+
+# Chapter 3.2.1
+
+
+## 3.2.1 Charge: Overview of Final Directions
+
+# 3.2.1 Charge: Overview of Final Directions
+
+Members of the jury, before you leave the court to consider your verdict, I must give you instructions on the law and the evidence. There are three parts to these instructions.
+
+First, I will remind you of several important principles of law which apply to this case. While I have already told you some of these principles at different times during the trial, it is important that I tell them to you again – not only to remind you of what I said earlier, but also to place those principles in the context of the trial which has now taken place. You must apply these instructions carefully.
+
+Secondly, I will tell you the issues that you need to decide, and will refer you to the evidence that relates to those issues and the arguments from prosecution and defence counsel. In doing this, I will have to be selective. The mere fact that I don’t mention certain evidence does not mean that that evidence is not important. Similarly, the fact that I include certain evidence does not make that evidence more important than other evidence. You must consider all of the evidence, not just the parts of it that I mention. Which parts of that evidence are important or not important is a matter for you to determine.
+
+Thirdly, I will explain what verdict[s] you may return in this case, and how you may wish to approach your discussion of the case in the jury room.
+
+Remember, if at any time you have a question about anything I say, you are free to ask me by passing a note to my tipstaff.
+
+Last updated: 30 November 2015
+
+
+---

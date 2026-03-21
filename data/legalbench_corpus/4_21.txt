@@ -1,0 +1,1041 @@
+# Chapter 4.21
+
+
+## 4.21 Unreliable Evidence Warning
+
+# 4.21 Unreliable Evidence Warning
+
+
+
+## Overview
+
+
+
+1. A party may request that the trial judge give a direction to the jury on evidence that may be unreliable, pursuant to* Jury Directions Act 2015* s 12 (*Jury Directions Act 2015* s 32(1)). This direction is referred to in this Charge Book as a ‘section 32 direction’.
+
+2. Such a request must specify:
+
+
+
+- The significant matters which may make the evidence unreliable; or,
+
+- If the request relates to a child, the significant matters (other than solely the age of the child) which may make the evidence of the child unreliable (*Jury Directions Act 2015* s 32(2)).
+
+
+
+3. If a party makes such a request, the trial judge must:
+
+
+
+- Warn the jury that the evidence may be unreliable
+
+- Inform the jury of the significant matters identified by the party (or the significant matters other than solely the age of the child, as the case requires) that the judge considers may cause the evidence to be unreliable
+
+- Warn the jury of the need for caution in determining whether to accept the evidence and the weight to be given to it (*Jury Directions Act 2015 *s 32(3)).
+
+
+
+4. The judge need not give this direction if he or she considers that there are good reasons for not giving the direction (*Jury Directions Act 2015* s 15)
+
+5. The parties and the trial judge must not warn or suggest to the jury that:
+
+
+
+- Children as a class are unreliable witnesses, or that children’s evidence is inherently less reliable or credible than that of adults;
+
+- A particular child’s evidence may be unreliable solely because of the age of the child; or
+
+- It may be dangerous to convict on the uncorroborated evidence of a witness because that witness is a child (*Jury Directions Act 2015* s 33).
+
+
+
+6. This topic addresses the general unreliability direction. For information on directions in relation to children, see 4.2 Child Witnesses.
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+## When must a s 32 unreliability warning be given?
+
+
+
+1. A s 32 unreliability warning usually must be given if:
+
+
+
+- A party in a jury trial requests such a warning; and
+
+- The evidence in question is "of a kind that may be unreliable".
+
+
+
+2. However, a judge need not give such a warning if there are "good reasons" for not doing so (*Jury Directions Act 2015* s 15).
+
+3. These issues are discussed in turn below.
+
+
+
+## There must be a request for a warning
+
+
+
+4. Generally, a judge is only required to give an unreliability warning pursuant to s 32 of the *Jury Directions Act 2015* if a party requests the warning (*Jury Directions Act 2015* s 32(1); *Singh v DPP (NSW)* (2006) 164 A Crim R 284, [38]).
+
+5. Such a request must specify:
+
+
+
+- The significant matters which may make the evidence unreliable; or,
+
+- If the request relates to a child, the significant matters (other than solely the age of the child) which may make the evidence of the child unreliable (*Jury Directions Act 2015* s 32(2)).
+
+
+
+6. A judge is also required to give this direction in the absence of a request where there are substantial and compelling reasons for giving a direction despite the absence of a request (*Jury Directions Act 2015* ss 12, 14, 15, 16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+7. Judges should not adopt a narrow interpretation of the scope of any request. Where the accused requests a warning, and identifies the relevance of s 32, that may be enough to require the judge to consider whether there is any basis for finding that the evidence is of a kind that may be unreliable, rather than only considering the bases identified by the accused. This is especially so where the dangers are obvious to a legally trained mind and concern critical evidence (*Kovachev v The King *[2024] VSCA 325, [15]-[32]).
+
+
+
+## The evidence must be "of a kind that may be unreliable"
+
+
+
+8. Section 32 applies to "evidence of a kind that may be unreliable". This is defined in s 31 to include the following kinds of evidence:
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+- Hearsay evidence (s 31(a));[^2]
+
+- Admissions (s 31(a));[^3]
+
+- Evidence the reliability of which may be affected by age, ill health (whether physical or mental), injury or the like (s 31(b);[^4]
+
+- Evidence given by a witness who might reasonably be supposed to have been criminally concerned in the events giving rise to the trial (s 31(c));[^5]
+
+- Evidence given by a witness who is a prison informer (s 31(d));[^6]
+
+- Oral evidence of questioning by an investigating official (within the meaning of the Evidence Act 2008) of an accused where the questioning has not been acknowledged by the accused (s 31(e)).[^7]
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+9. The types of evidence described in ss 31(a), (c)–(e) all correspond to types of evidence where a warning was required at common law. In addition, such evidence can be readily identified without any evaluative judgment by the trial judge. Therefore, where a request concerns one of those four categories, the judge should accept that the evidence “is of a kind that may be unreliable” (*Hudson v R* [2017] VSCA 122, [46]).
+
+10. In contrast, evidence under s 31(b) requires the court to assess whether the reliability of the evidence “may be affected” by the considerations described (*Hudson v R* [2017] VSCA 122, [47]).
+
+11. Where a request is made in relation to s 31(b), the requesting party must demonstrate that there is a reasonable possibility that the evidence is of a kind that a jury acting rationally may consider the evidence to be unreliable (*Hudson v R* [2017] VSCA 122, [47]; *Allen v R* (2013) 39 VR 629, [37]).
+
+12. In New South Wales, the courts have adopted two different elaborations on the test for deciding whether the equivalent to s 31(b) applies. Under one approach, the judge must examine the evidence to decide whether the witness’ reliability “may be affected” by one of the listed features. This is a test of possibility and does not require the judge to find that the evidence is unreliable (*R v Flood* [1999] NSWCCA 198).
+
+13. Under the other approach, the judge should give a requested direction if the court has special knowledge about the deficiencies in the evidence which could not be expected of the general experience and understanding of the jury (*R v Stewart* (2001) 52 NSWLR 301).
+
+14. Victorian courts have not needed to resolve this issue, and have instead adopted the test of whether is a reasonable possibility that the evidence is of a kind that a jury acting rationally may consider to be unreliable (*Hudson v R* [2017] VSCA 122, [47]; *Allen v R* (2013) 39 VR 629, [37]).
+
+15. Whether evidence is of a kind that may be unreliable will generally be known before the evidence is given (*Movel** v The King *(2024) 75 VR 62, [165]).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+16. Evidence is not ‘of a kind’ that may be unreliable merely because the judge has doubts about the reliability of the evidence, or to endorse a successful cross-examination regarding credit. The test is whether there are relevant characteristics or circumstances which make the evidence of a kind that may be unreliable, rather than whether the evidence appears to be false (*Movel** v The King *(2024) 75 VR 62, [165]).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+## Non-Listed Categories
+
+
+
+17. The listed categories of evidence are not exhaustive. Section 32 of the* Jury Directions Act 2015* also applies to any other evidence which is "of a kind that may be unreliable" (*R v Stewart* (2001) 52 NSWLR 301; *R v Covill* (2000) 114 A Crim R 111; *Hudson v R* [2017] VSCA 122, [40]; *Movel** v The King *(2024) 75 VR 62, [164]).[^8]
+
+18. This phrase is likely to cover any of the kinds of evidence that were accepted as potentially unreliable by the common law, such as:
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+- Evidence of a witness with an accomplice–like motive to lie (*R v Ali* [2002] VSCA 194);
+
+- Evidence from a prosecution witness who has received an indemnity from prosecution, or a sentencing benefit conditioned on his or her co-operation (*R v Stewart* (2001) 52 NSWLR 301; *R v Calabro* 12/11/1984 CCA Vic;* R v **Checconi** *(1988) 34 A Crim R 160; *R v **Powercor* (Australia) Ltd [2005] VSCA 163; *R v Smith & Turner *(1995) 80 A Crim R 491; *R v Heaney* [1999] VSCA 169; *R v Sharp* [2005] VSCA 44; *R v Strawhorn* (2008) 19 VR 101);
+
+- Evidence of identification or description that would attract a common law warning but does not fall within the definition of "identification evidence" under the *Evidence Act 2008 *or the *Jury Directions Act 2015* (*R v Rose* (2002) 55 NSWLR 701; *Kanaan v R* [2006] NSWCCA 109);
+
+- Evidence from a police informer (*R v Reardon & Ors* [2002] NSWCCA 203; *R v **Dellapatrona** and Duffield* (1993) 31 NSWLR 123);
+
+- Evidence of an alternative suspect (*R v Faure* [1993] 2 VR 497; *R v Mitchell *[2006] VSCA 289;* R v Campbell* 14/11/1994 CCA Vic);
+
+- Evidence based on memories asserted to have been recovered during hypnotherapy (*R v WB* (2009) 23 VR 319; [2009] VSCA 173;* R v **McFelin** *[1985] 2 NZLR 570; *R v Horsfall *(1989) 51 SASR 489; *R v Jenkyns* (1993) 32 NSWLR 712; *R v **Tillott* (1995) 38 NSWLR 1);
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+- Evidence based on the recollection of events alleged to have occurred many years earlier, where those memories may have been distorted by the passage of time (*Longman v R* (1989) 168 CLR 79; *Robinson v R *(1999) 197 CLR 162;* Crampton v R *(2000) 206 CLR 161);
+
+- Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (*R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554);
+
+- Evidence of a witness who was alcohol or drug-affected at time of the events, whether voluntarily or by the alleged actions of the accused (*R v Maple *[1999] VSCA 52; *Hudson v R* [2017] VSCA 122);
+
+- Evidence of a witness who is hostile towards the accused (*R v Faure* [1993] 2 VR 497; *R v **Kotzmann* [1999] 2 VR 123;* R v Hickey* (1995) 89 A Crim R 554);
+
+- Evidence of a witness with a proven history of dishonesty (*R v Holt & Merriman* (1996) 87 A Crim R 82; *R v Hickey* (1995) 89 A Crim R 554).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+19. Evidence may also be “of a kind that may be unreliable” because of a combination of circumstances (*Hudson v R* [2017] VSCA 122, [40]).
+
+20. The phrase "evidence of a kind that may be unreliable" is not limited to the kinds of evidence that were accepted as potentially unreliable by the common law. It may also cover other types of evidence (*R v Stewart *(2001) 52 NSWLR 301; *R v Baartman* [2000] NSWCCA 298).
+
+21. Where evidence does not fall within one of the categories accepted at common law or defined in s 31(a)–(e), it will be a question of judgment for the trial judge whether a warning is required. A warning will be necessary where the danger of the jury acting upon the evidence is real and substantial, and the potential unreliability of the evidence might not be fully perceived by the jury in the absence of a warning (*Hudson v R* [2017] VSCA 122, [52]; *R v Baartman* [2000] NSWCCA 298, [69]; *Young v R* [2015] VSCA 265; *Wade v The Queen* [2019] VSCA 168).
+
+22. In assessing the risk that the jury will not appreciate the potential unreliability without a judicial warning, the court must consider both whether the jury can understand the individual bases of unreliability and the cumulative impact of the bases of unreliability (*Hudson v R* [2017] VSCA 122, [56]).
+
+23. Assessing the risk that the jury will not appreciate the potential unreliability also requires the court to consider the context and significance of the evidence in question. For example, in *Hudson v R*, the Court pointed to the fact that the warning concerned the central Crown witness, the case depends on an assessment of the credibility and reliability of that witness and the witness had made prior inconsistent statements in his reporting to police, as factors that contributed to its conclusion that the unreliable evidence warning was required (see *Hudson v R* [2017] VSCA 122, [57]–[61]).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+24. A s 32 warning is likely to significantly influence the jury’s assessment of the witness in question. For this reason careful reflection is necessary before applying s 32 to evidence that falls outside the categories described in s 31(a)–(e) (*RELC v R* (2006) 167 A Crim R 484, [80]). However, it is erroneous to elevate this need for reflection to a test of requiring good reasons before giving a warning in relation to a non-listed category. Imposing such a test will mean the judge will fail to consider properly whether the evidence is of a kind that may be unreliable before moving to consider under Jury Directions Act 2015 s 14 whether there are good reasons for not giving a warning (*Hudson v R* [2017] VSCA 122, [43]).
+
+25. The need for caution before applying s 32 to types of evidence which is not listed in s 31 may be overcome where the circumstances in question are closely analogous to an accepted category of unreliable evidence (*R v Baartman* [2000] NSWCCA 298, [70]).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+## Categories of evidence that are not of an "unreliable kind"
+
+
+
+26. Courts have identified a number of categories of evidence that should not generally attract a s 32 unreliability warning:
+
+
+
+- Evidence of a witness asserted to be biased (*DPP v DT (Ruling No 5) *[2024] VSC 348, [7]);
+
+- Evidence of a witness asserted to have an interest in the result of proceedings;
+
+- Evidence of a witness alleged to have a motive to lie (other than an accomplice–like motive to lie) (*R v Stewart *(2001) 52 NSWLR 301, [37], [99]);[^9]
+
+- Evidence of a conversation that occurred a substantial period before it was reported (*R v Fowler* (2003) 151 A Crim R 166);
+
+- Evidence that the witness was affected by drugs at the time of the events in question (*Young & Ors v R* [2015] VSCA 265, [72]).
+
+
+
+27. While these matters should generally not attract a s 32 unreliability warning, they should usually be addressed by way of comments in the judge’s summing up (*R v Stewart* (2001) 52 NSWLR 301, [37], [99]).[^10]
+
+28. At least in the case of children, the fact that evidence is unsworn is not a basis for finding that the evidence may be unreliable. The *Evidence Act **2008* and the *Jury Directions Act 2015* do not treat unsworn evidence as a kind that may be unreliable. There was also no requirement or rule of practice under the common law that judges warn the jury to take into account the differences between sworn and unsworn evidence when assessing reliability (*R v GW* (2016) 258 CLR 108, [55]–[57]).
+
+29. An attack on a witness’s honesty does not by itself bring the witness’s evidence within s 32 (*R v Fowler* (2003) 151 A Crim R 166).
+
+
+
+## Good reasons for not warning the jury
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+30. The judge need not give a requested direction "if there are good reasons for not doing so" (*Jury Directions Act 2015 *s 14). For information on the matters a judge must consider when determining whether there are good reasons for not giving a requested direction, see 3.1 Directions Under Jury Directions Act 2015.
+
+31. Section 14 sets up an exception to the general rule that the judge must give requested directions. It is erroneous to invert the rule and require good reasons before giving a s 32 direction (*Hudson v R* [2017] VSCA 122, [43]).
+
+32. The interaction between ss 14 and 32 creates a two-stage process. If the judge determines that the evidence is not “of a kind that may be unreliable”, then the judge does not go to the second stage of deciding whether there are good reasons for not giving the warning (*Wade v The Queen *[2019] VSCA 168, [28]; *Bednar v The King *[2024] VSCA 180, [144]).
+
+33. Some circumstances[^11] in which it has been held that there may be good reasons for not giving an unreliability warning include:
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+- Where, in the context of the trial and counsel's addresses, the effect of the relevant circumstance on the witness’s reliability would have been obvious to the jury (*R v Stewart *(2001) 52 NSWLR 301 (Howie J in dissent, [151]); *Bromley v R* (1986) 161 CLR 315; *R v Reardon & Ors* [2002] NSWCCA 203; *Elmaghraby** v R* [2016] VSCA 326, [23]–[25]; *Farshchi** v The King *[2024] VSCA 235, [62]; *DPP v DT (Ruling No 5) *[2024] VSC 348, [10]–[12]; *Movel** v The King *(2024) 75 VR 62, [166]–[167], [175]);
+
+- Where the issues of reliability are well ventilated and the jury are adequately able to assess the risk for themselves, as a warning would “represent an unnecessary and unwarranted intrusion … into the deliberations of the jury” (*Movel** v The King *(2024) 75 VR 62, [167]).
+
+- The factors which lead to the suggested unreliability are inherent to the witness being a child, and so an unreliable evidence warning would be inconsistent with *Jury Directions Act 2015 *ss 33 (prohibited statements and suggestions in relation to reliability of children’s evidence) and 44N (direction about language and cognitive skills of child witnesses) (*Movel** v The King *(2024) 75 VR 62, [173]–[174]);
+
+- Where it was objectively unlikely that the sources of unreliability, if they existed, could have logically had any impact on the reliability of the evidence the witness gave (*Elmaghraby** v R *[2016] VSCA 326, [26]);
+
+- Where the giving of the warning would cause unfair prejudice a co-accused’s case, such as where a co-accused’s evidence suffers from the same alleged deficiencies as the impugned witness (*Young & Ors v R* [2015] VSCA 265);
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+- Where the judge instead gives tailored directions that were capable of alerting the jury to the reasons for the witness’s potential unreliability (*R v Covill* (2000) 114 A Crim R 111, [29];* R v Flood* [1999] NSWCCA 198, [16]);
+
+- The potentially unreliable evidence was undisputed or unimportant (*R v Reardon & Ors* [2002] NSWCCA 203, [136]; *R v Fowler* (2003) 151 A Crim R 166);
+
+- The "request" for a warning was made without enthusiasm and was not subsequently pressed (*R v Reardon & Ors *[2002] NSWCCA 203);
+
+- The evidence fell within an accepted category of evidence of "a kind that may be unreliable", but in circumstances where no real issue of unreliability was raised (*R v Flood *[1999] NSWCCA 198;* R v Stewart* (2001) 52 NSWLR 301; *R v Fowler* (2003) 151 A Crim R 166).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 When must a s 32 unreliability warning be given?
+
+34. The structure of s 32 is designed to encourage judges to give unreliability directions where there is a reasonable possibility of unreliable evidence. Applying the good reasons exception depends on the circumstances of the case and requires judges to remember that the default position is that a direction should be given (*Wade v The Queen* [2019] VSCA 168, [39]).
+
+35. A risk of confabulation is a matter that may not be fully appreciated by a jury in the absence of a judicial direction. This risk may persist even if the suggested causes of confabulation, or the evidence of confabulation, is thoroughly ventilated in cross-examination (*Wade v The Queen* [2019] VSCA 168, [37]–[38]).
+
+36. Under equivalent provisions in the *Evidence Act*, courts have held that the fact that potentially unreliable evidence supports the defence may provide good reasons for not giving a warning (*R v Salama* [1999] NSWCCA 105; *R v Rose* (2002) 55 NSWLR 701. See also *Anile v The Queen* [2018] VSCA 235R, [206]–[207]).
+
+37. The jury must not be warned about the interest of the accused in the outcome of the case (*Jury Directions Act 2015* s 44H; *R v Haggag* (1998) 101 A Crim R 593;* R v Brown *[1995] 1 Qd R 287).
+
+38. Even if there are arguably good reasons for not complying with s 32, it will rarely be appropriate for a judge to decide not to comply with that provision if a warning is to be given in respect of other evidence with similar characteristics (*RELC v R* (2006) 167 A Crim R 484).
+
+39. Where the judge determines that there are good reasons for not giving a warning, or for doing so in the terms other than those required by legislation or authority, he or she should generally state those reasons (*R v Stewart* (2001) 52 NSWLR 301, [46], [124]).
+
+
+[^2]: While evidence of a person’s previous representations is generally not admissible to prove a fact asserted by the representation (*Evidence Act 2008* s 59), there are a number of exceptions to this rule (*Evidence Act 2008* ss 65–74). See 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements) for further information.
+[^3]: An "admission" is a previous representation made by a party to a proceeding (including the defendant in a criminal proceeding) that is adverse to the person’s interest in the outcome of the proceeding (*Evidence Act 2008*, Dictionary "admission"). While admissions will often be inadmissible due to the hearsay and opinion rules, there are a number of exceptions listed in *Evidence Act 2008* ss 81–83. See 4.5 Confessions and Admissions for further information.
+[^4]: This category includes people of old age, people with psychiatric or similar conditions, and people who were affected by alcohol or drugs at the time of the relevant incident. It does not, however, include people of bad character (*R v Chan *[2002] NSWCCA 217).
+[^5]: This class of witnesses includes most witnesses previously covered by the rule of practice that required corroboration warnings in respect of "accomplices", as well as including witnesses with accomplice–like interests. While unclear, it may extend further (e.g. to include accessories after the fact) (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109). See 4.22 Criminally Concerned Witness Warnings for further information.
+[^6]: A "prison informer" is a prisoner who gives evidence of an oral confession made to him or her by another prisoner. "Prison informers" differ from "prisoner witnesses" who are witnesses to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA), *R v Ali (No.2)* (2005) 13 VR 257). See 4.23 Prison Informer Warnings for further information.
+[^7]: While evidence of a confession or admission made by a criminal suspect to an investigating official is inadmissible unless mandatory audio recording requirements are met (*Crimes Act 1958* s 464H(1)), in exceptional circumstances a court may admit evidence of a confession or admission to an investigating official that does not meet these recording requirements (*Crimes Act 1958* s 464H(2)). *Jury Directions Act 2015 *s 31(e) applies to evidence adduced in these exceptional circumstances, which is "oral evidence of questioning by an investigating official (within the meaning of the *Evidence Act 2008*) of an accused where the questioning has not been acknowledged by the accused".
+[^8]: Subject to limitations on the application of the section to the evidence of children (*Jury Directions Act 2015* s 33).
+[^9]: *R v Stewart* also identified the making of a prior inconsistent statement, or internal inconsistencies as factors that do not generally attract an unreliability warning. In *Hudson v R* [2017] VSCA 122, [58], the complainant’s prior inconsistent statement was treated as a significant matter that contributed to requiring an unreliability warning.
+[^10]: In each of these examples, a judicial warning may be unnecessary because the factor tending to show unreliability and the consequences of accepting that factor would commonly be within the understanding of the jury. It may be these are example of the "good reason for not warning" exception.
+[^11]: For other potentially "good reasons" for not giving an unreliable evidence warning, see S Odgers, *Uniform Evidence Law* (12th Ed, 2016) [EA.165.240].
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+## Content of the Warning
+
+
+
+1. A s 32 unreliability warning must:
+
+
+
+(a) Warn the jury that the evidence may be unreliable;
+
+(b) Inform the jury:
+
+(i) of the significant matters that may cause the evidence to be unreliable; or
+
+(ii) if the direction concerns evidence given by a child, of the significant matters (other than just the age of the child) that the trial judge considers may make that child’s evidence unreliable; and
+
+(c) Warn the jury of the need for caution in determining whether to accept the evidence and the weight to be given to it (*Jury Directions Act 2015 *s 32(3)).
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+2. These requirements are mandatory, subject to the qualification that the judge may decide not to give the warning if there are good reasons for not doing so (*Jury Directions Act 2015 *s 15).
+
+3. The judge is not required to adopt a particular form of words in giving a s 32 unreliable evidence warning (*Jury Directions Act 2015* s 6).
+
+4. However, it has been suggested that the three matters which the judge is required to warn about should be addressed in the same part of the charge, although splitting these directions would not necessarily constitute error (*R v Stewart *(2001) 52 NSWLR 301, [44], [154]).
+
+5. It is common practice for all of these matters to be addressed when the evidence is admitted in the trial, as well as in the judge’s summing up (S Odgers,* Uniform Evidence Law* (12th Ed, 2016), [EA.165.210]).
+
+6. While no particular form of words is required for a s 32 unreliability warning, it must be properly expressed as a warning (*Brown v R *[2006] NSWCCA 69, [40]).
+
+7. It is not sufficient for the judge to merely refer to a submission about the matter made by counsel when addressing the jury. The warning must come from the judge, with the authority of the judge being used to impress the significance of the matter on the jury (*R v TJF* [2001] NSWCCA 127; *R v Yates* [2002] NSWCCA 520; *R v Sullivan* [2003] NSWCCA 100).
+
+8. In fairness to the party adducing the evidence, the judge should make it clear that the warning is given because of the nature of the evidence, and that he or she is not expressing a personal opinion about it (*R v Stewart* (2001) 52 NSWLR 301).
+
+9. While a judge may emphasise that the law requires the direction to be given (*KNP v R* (2006) 67 NSWLR 227), he or she should not repeatedly indicate to the jury that the warning is always given where evidence of that nature is before the court. Such an approach runs the risk that the warning will not be effective in bringing home to the jury the caution with which they must treat the evidence (*R v **Roddom* [2001] NSWCCA 168; *R v Stewart* (2001) 52 NSWLR 301).
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+10. The precise content of the warning will depend upon the facts before the jury and counsel's addresses (*R v Johnston* (1998) 45 NSWLR 362 at 369; *R v Stewart* (2001) 52 NSWLR 301, [87], [130]; *Kanaan v R* [2006] NSWCCA 109, [183]).
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+## Warning the jury about potential unreliability
+
+
+
+11. The judge must warn the jury that the evidence in question may be unreliable (*Jury Directions Act 2015* s 32(3)(a)).
+
+12. A simple repetition of the language of s 32(3), incorporating the significant matters which may make the evidence unreliable, is likely to be sufficient to comply with this requirement (see, e.g. the direction approved in this respect in *R v Stewart* (2001) 52 NSWLR 301, [135]).
+
+13. It is not necessary to use any particular form of words in giving this warning. In some circumstances there may be good reason instead to give a direction that focuses on the issues of "deliberate falsehood", or "honestly mistaken evidence" (*Jury Directions Act 2015* s 6; *R v Fowler* (2003) 151 A Crim R 166).
+
+
+
+## Informing the jury about significant sources of unreliability
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+14. The judge must inform the jury of significant matters that may cause the evidence to be unreliable (*Jury Directions Act 2015 *s 32(3)).
+
+15. This obligation differs from that which applied under *Evidence** Act 2008 *s 165. Under that section, trial judges were required to "inform the jury of matters that may cause it to be unreliable". The provisions in the *Jury Directions Act 2015* now include the qualifier significant.
+
+16. The effect of this change in terminology means that, under the* Jury Directions Act 2015 *s 32(3), it is explicit that the trial judge is not required to inform the jury of all matters that may cause particular evidence to be unreliable. He or she is only obliged to inform the jury of significant matters which may cause the evidence to be unreliable.
+
+17. The party requesting the direction must also specify the significant matters that may make the evidence unreliable. The role of the judge is to determine which of those matters are significant, and then direct the jury accordingly.
+
+18. As part of this process, the judge should discuss with the party any other matters which the judge considers are significant and invite submissions on whether those matters should be identified in the warning (see* Jury Directions Act 2015 *ss 15, 16).
+
+19. The* Jury Directions Act 2015* offers no guidance as to when a matter will be "significant". The Oxford English Dictionary notes that the term means "sufficiently great or important to be worthy of attention; noteworthy".
+
+20. While the requirement in s 32 of the *Jury Directions Act 2015 *is expressed as a duty to "inform the jury", this does not mean that the information can be treated as a mere comment. The judge must communicate this information with the full weight of judicial authority (*R v Stewart* (2001) 52 NSWLR 301, [117]).
+
+21. The purpose of this direction is to inform the jury of matters which may be outside their general experience and understanding. Those matters need be stated only with such detail as is required to achieve that purpose (*Kanaan v R* [2006] NSWCCA 109, [182]).
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+22. While courts must exercise caution in construing s 32 by reference to the common law, the experience of the common law may guide the content of the information provided to the jury about potential sources of unreliability. That experience can reveal the significant matters that may cause the evidence to be unreliable (*Robinson v R* (2006) 162 A Crim R 88, [7]).
+
+23. See the following topics for a discussion about the particular sources of unreliability posed by the respective kinds of evidence:
+
+
+---
+
+
+## 4.21 Content of the Warning
+
+- 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements);
+
+- 4.5 Confessions and Admissions;
+
+- 4.22 Criminally Concerned Witness Warnings;
+
+- 4.23 Prison Informer Warnings.
+
+
+
+## Warning the jury about the need for caution
+
+
+
+24. A s 32 warning must alert the jury to the need for caution in determining whether to accept potentially unreliable evidence, and the weight to be given to it (*Jury Directions Act** **2015* s 32(3)(c)).
+
+25. Repeating the words of s 32(3)(c) may be adequate to convey this need.
+
+26. The warning must alert the jury to the need to exercise caution, but it need not tell them how to exercise that caution (*R v Stewart* (2001) 52 NSWLR 301, [166]).
+
+
+---
+
+
+## 4.21 Common law rules regarding unreliable evidence abolished
+
+## Common law rules regarding unreliable evidence abolished
+
+
+
+1. Previously, *Evidence** **Act** 2008* s 165 did not affect any other power of the judge "to give a warning to, or to inform, the jury" (*Evidence Act 2008* s 165(5)).
+
+2. Under that provision, the common law requirement to give a warning where the inherent unreliability of a witness created a perceptible risk of a miscarriage of justice survived, subject to some limitations (*Singh v DPP (NSW)* (2006) 164 A Crim R 284;* R v Stewart* (2001) 52 NSWLR 301).
+
+3. The* Jury Directions Act 2015* has abolished this common law obligation. The Act is now the only source of obligations on a judge to direct a jury about evidence of a kind that may be unreliable (*Jury Directions Act 2015* s 34).
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+## Residual Duty to Warn
+
+
+
+1. Under* **Jury** Directions Act 2015*, a judge must give a warning in the absence of a request if there are ‘substantial and compelling’ reasons to do so.
+
+2. At common law, a warning in relation to unreliability was considered necessary where:
+
+
+
+- Evidence was given by a witness who is "inherently unreliable"; and
+
+- Such a warning was necessary and practical, in the circumstances of the case, to avoid a perceptible risk of miscarriage of justice (*Bromley v R* (1986) 161 CLR 315; *R v Miletic *[1997] 1 VR 593).
+
+
+
+3. These principles may continue to provide guidance on the operation of the residual obligation to warn.
+
+
+
+## Witness Must be Inherently Unreliable
+
+
+
+4. An unreliable witness warning was not required because of the mere possibility of a witness’s error. Such a warning was only required where a witness was considered to be "inherently unreliable" (*R v Brooks* (1999) 103 A Crim R 234).
+
+5. For a witness to be "inherently unreliable", there must a pre-existing proneness to (or likelihood of) unreliability, which is inherent in the general nature of the witness, or in his or her relationship to the accused, the victim or the events (*R v Brooks* (1999) 103 A Crim R 234; *R v **Kotzmann* [1999] 2 VR 123).
+
+6. A warning was therefore not required simply because:
+
+
+
+- There had been an attack on the credibility of a witness or a group of witnesses (*R v Campbell* 14/11/1994 CCA Vic);
+
+- There were inconsistencies or discrepancies in the evidence of a witness (*R v **Minaoui* [2004] VSCA 126); or
+
+- The impugned witnesses had convictions or bear some characteristics which may, on one view of the evidence, render them unreliable (*R v Campbell* 14/11/1994 CCA Vic).
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+7. It was generally not possible to determine the necessity for an unreliable witness warning by reference to collections of categories of witnesses (*R v Lowe* 13/11/95 CA Vic).
+
+8. Instead, the necessity for an unreliable witness warning was determined on a witness by witness basis (*R v **Minaoui* [2004] VSCA 126).
+
+9. The need for a warning was more likely to arise in a case where the factors which make the witness’s evidence unreliable exist independently of what view the jury takes of the witness's evidence (*R v Campbell* 14/11/1994 CCA Vic).
+
+
+
+### Circumstances Relevant to Determining Witness Unreliability
+
+
+
+10. Evidence of any of the following matters may be relevant to the assessment of whether a witness is "inherently unreliable":
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+- The witness is a prison informer (giving evidence of an oral confession) (*Pollitt v R* (1991) 174 CLR 558);
+
+- The witness has an accomplice–like motive to lie (*R v Ali* [2002] VSCA 194);
+
+- The witness has received an indemnity from the prosecution, or a sentencing or other benefit for co-operation (*R v Calabro* 12/11/1984 CCA Vic;* R v **Checconi* (1988) 34 A Crim R 160;* R v **Powercor** (Australia) Ltd* [2005] VSCA 163; *R v Smith & Turner* (1995) 80 A Crim R 491; *R v Heaney* [1999] VSCA 169;* R v Sharp* [2005] VSCA 44; *R v Strawhorn* (2008) 19 VR 101);
+
+- The witness is an alternative suspect (*R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+
+- The witness has poor criminal record or is otherwise part of the criminal milieu (*R v Latina* 2/4/1996 Vic CCA;* R v Hickey* (1995) 89 A Crim R 554);
+
+- The witness was drug-affected at time of the events (*R v Maple* [1999] VSCA 52);
+
+- The witness is hostile towards the accused (*R v Faure* [1993] 2 VR 497; *R v **Kotzmann* [1999] 2 VR 123;* R v Hickey* (1995) 89 A Crim R 554);
+
+- The witness has a proven history of dishonesty (*R v Holt & Merriman* (1996) 87 A Crim R 82;* R v Hickey* (1995) 89 A Crim R 554);
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+- The witness has a cognitive impairment (including impaired memory) which may have affected his or her capacity to give reliable evidence (*Bromley v R* (1986) 161 CLR 315;* R v Sharp* [2005] VSCA 44; *R v Challoner* (2000) 110 A Crim R 102; *R v Hickey *(1995) 89 A Crim R 554; *R v Maple* [1999] VSCA 52).
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+11. At common law, the presence of any one or combination of these factors was not enough to indicate a warning was necessary. That assessment needed to be informed by all the circumstances of the case (See for example *R v Morgan* 13/8/1996 CCA Vic; *R v Brooks* (1999) 103 A Crim R 234;* R v Sotiropoulos* [1999] VSCA 115; *R v **Kotzmann* [1999] 2 VR 123;* R v Heaney* [1999] VSCA 169; *R v Campbell* 14/11/1994 CCA Vic; *R v Strawhorn* (2008) 19 VR 101).
+
+12. The first three circumstances outlined above are addressed in more detail below.
+
+
+
+### Examples of Potentially Unreliable Witnesses
+
+Prison Informers Giving Evidence of Oral Confessions
+
+
+
+13. While each case must be assessed on an individual basis, where a prison informer gives evidence of an oral confession made to him or her, there will usually be substantial and compelling reasons for giving an unreliable witness warning (see *Pollitt v R* (1991) 174 CLR 558).
+
+14. There was no rule of law or practice requiring a warning to be given in such cases. However, at common law, it was only be in an exceptional case that a full unreliable witness warning was not necessary (*Pollitt v R* (1991) 174 CLR 558).
+
+15. A prison informer’s evidence of an oral confession was generally regarded as inherently unreliable for the following reasons:
+
+
+
+- This evidence is easily concocted;
+
+- Where this evidence is concocted, an accused’s denial will ordinarily have no possibility of corroboration;
+
+- Prison informers (if convicted criminals) are of bad character;
+
+- The law acknowledges that the prison informer’s position creates motives to fabricate such evidence, including:
+
+- the perception that they will derive some benefit in terms of sentence, treatment or release on parole; and
+
+- by reason of a variety of common prison environment pressures which may not be apparent to a jury (*Pollitt v R *(1991) 174 CLR 558).
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+16. There is a difference between a "prison informer" who gives evidence of an oral confession made to him or her, and a "prisoner witness" who is a witness to events that occur in prison. A "prisoner witness" should not be treated as a "prison informer" (*R v Ton* (2002) 132 A Crim R 340 (NSWCCA); *R v Ali (No.2)* (2005) 13 VR 257).
+
+17. An accomplice who, in order to receive favourable treatment, gives evidence of an oral confession made to him or her by the accused (becoming an "informer"), should commonly be treated in the same way as a prison informer (*R v Tamme* [2004] VSCA 44;* Grey v R* (2001) 184 ALR 593).
+
+
+
+Witnesses with Similar Motives to Accomplices
+
+
+
+18. An unreliable witness warning may be required for witnesses who are not accomplices, but nonetheless have an accomplice–like motivation to give false testimony exculpating themselves and inculpating the accused (*R v Parsons* (2004) 145 A Crim R 519; *R v Mitchell* [2006] VSCA 289; *R v Ali (No.2) *(2005) 13 VR 257).
+
+19. While accessories after the fact may fall within this category (*R v Parsons* (2004) 145 A Crim R 519), it cannot be assumed that they have such a motivation. Historically, the law has declined to treat accessories after the fact as accomplices because their assumed interest lies in exculpating rather than implicating the accused. However, every case must be considered on its own facts (*R v Ready and Manning* [1942] VLR 85; *R v Weiss* (2004) 8 VR 388).
+
+20. Witnesses with an accomplice–like motivation do not form a special category, and the need for a warning should be determined by reference to all of the circumstances of the case (*R v Ali (No.2)* (2005) 13 VR 257).
+
+21. If it is suggested that a non-accomplice, who has not been charged with an offence, has an accomplice–like motive to lie (so as to shift blame from themselves), the fact that they have not been charged will militate against the giving of a warning (*R v Parsons* (2004) 145 A Crim R 519).
+
+
+
+Indemnified and Co-operating Witnesses
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+22. Warnings are often requested in respect of indemnified witness and witnesses who have received a benefit for co-operation (*R v Calabro* 12/11/1984 CCA Vic;* R v **Checconi* (1988) 34 A Crim R 160; *R v **Powercor** (Australia) Ltd *[2005] VSCA 163;* R v Smith & Turner* (1995) 80 A Crim R 491).
+
+23. Many indemnified or co-operating witnesses will be accomplices who attract the need for an accomplice warning.
+
+24. At common law, there was no rule that an unreliable witness warning must be given for every non-accomplice who is indemnified or co-operating. These cases must be assessed on their individual circumstances (*R v **Powercor** (Australia) Ltd* [2005] VSCA 163; *R v Smith & Turner* (1995) 80 A Crim R 491).
+
+25. In some circumstances an indemnity will create no risk of unreliability. In other cases, any risks that are created will be sufficiently obvious to the jury that there will be no need for a warning (*R v **Powercor** (Australia) Ltd* [2005] VSCA 163; *R v Smith & Turner* (1995) 80 A Crim R 491).
+
+26. Where there is evidence that a critical witness was indemnified or benefited from co-operation, the circumstances in which the evidence was given, and their consequences may need to be fully explained to the jury. This explanation may be required even if no unreliable witness warning is required (*R v **Checconi** *(1988) 34 A Crim R 160).
+
+27. This explanation may describe:
+
+
+
+- The terms of the indemnity or undertaking to co-operate; and
+
+- The statutory consequences for the witness if he or she does not fulfil the terms of an undertaking to co-operate
+
+
+
+### Children and Cognitively Impaired Witnesses are not Presumptively Unreliable
+
+
+---
+
+
+## 4.21 Residual Duty to Warn
+
+28. Historically the law regarded child witnesses as an inherently unreliable class of witness and a corroboration warning was required for their evidence as a rule of practice (*DPP v Hester* [1973] AC 296).
+
+29. By contrast, the law never regarded cognitively impaired witnesses as inherently unreliable, and there was never any rule of practice that a corroboration warning should be given in every case involving such a witness. Instead, the law required simply that such a warning should be given where necessary in the particular circumstances of the case (*Bromley v R* (1986) 161 CLR 315).
+
+30. Judges are now prohibited by statute from warning, or suggesting to the jury in any way, that the law regards children as an unreliable class of witness (*Jury Directions Act 2015* s 33).
+
+31. Judges may give a warning if it is directed to particular features of the evidence, rather than stereotypical assumptions about the class of witness in issue (*R v WEB* (2003) 7 VR 200;* R v NRC* [1999] 3 VR 537).
+
+32. See 4.2 Child Witnesses for further discussion of directions about evidence from children.
+
+
+---
+
+
+## 4.21 Warning Must be Necessary to Avoid a Risk of Miscarriage of Justice
+
+## Warning Must be Necessary to Avoid a Risk of Miscarriage of Justice
+
+
+
+1. An unreliable witness warning should only be given where it is necessary and practical, in the circumstances of the case, to avoid a perceptible risk of miscarriage of justice (*Bromley v R* (1986) 161 CLR 315; *R v Miletic* [1997] 1 VR 593).
+
+2. A perceptible risk is one that is real or of substance, as opposed to a risk that is insignificant or theoretical (*R v Miletic* [1997] 1 VR 593).
+
+3. A warning may be given when:
+
+
+
+- The danger in acting upon the evidence is real and substantial; and
+
+- The conduct of the trial and evidence are such that the jury may not have fully perceived the danger, or the jury's attention may have been diverted from the danger (*Bromley v R* (1986) 161 CLR 315).
+
+
+
+## The Warning Must Address Concealed Dangers
+
+
+
+4. A warning will only be necessary where there is a possibility that either the unreliability of the evidence, or the full significance of that unreliability, will not be apparent to the jury (*R v Sharp* [2005] VSCA 44; *R v Miletic* [1997] 1 VR 593; *R v Maple* [1999] VSCA 52; *R v Brooks* (1999) 103 A Crim R 234; *R v Williams* [2007] VSCA 208; *R v Strawhorn* (2008) 19 VR 101).
+
+5. In other words, the warning is only necessary if it presents a concealed trap that has been identified by judicial experience, but which will not be within the experience and understanding of jurors (*R v Miletic* [1997] 1 VR 593; *R v Maple* [1999] VSCA 52;* R v Strawhorn* (2008) 19 VR 101).
+
+6. Even if the relevant dangers are likely to be "outside the experience" of most jurors, if those dangers have been clearly placed before the jury and explained in detail by counsel, a warning may not be necessary (*R v Strawhorn* (2008) 19 VR 101).
+
+
+
+## Reasons for Not Giving a Warning
+
+
+---
+
+
+## 4.21 Warning Must be Necessary to Avoid a Risk of Miscarriage of Justice
+
+7. An unreliable witness warning should not be given where, because of short-comings in the evidence, it would be an invitation to speculate about matters not in evidence (*R v **Minaoui* [2004] VSCA 126).
+
+8. Where there is substantial supporting evidence, it will be a legitimate forensic decision to seek no warning, and there are less likely to be substantial and compelling reasons to give the direction (*R v Sotiropoulos* [1999] VSCA 115).
+
+9. The need for a warning may be vitiated where the relevant evidence is not vital to the prosecution case, but rather is directed more to context and detail (*R v Sotiropoulos *[1999] VSCA 115).
+
+
+
+## A Warning Should be Given Only When Truly Necessary
+
+
+
+10. At common law, it was considered that the unreliable witness warning was reserved for special cases (*R v Latina* 2/4/1996 Vic CCA; *R v Weiss *(2004) 8 VR 388).
+
+11. Such a warning was only be given where truly necessary because:
+
+
+
+- It tends to blur the division of responsibility between the judge as the arbiter of the law and the jury as the tribunal of fact (*R v Weiss* (2004) 8 VR 388); and
+
+- A person compelled to give evidence in a court of law should not be publicly branded as an unreliable witness unless that is truly necessary for the attainment of justice (*R v Holt & Merriman* (1996) 87 A Crim R 82).
+
+
+
+12. The Court of Appeal has therefore shown a strong reluctance to find that it was necessary for a trial judge to give an unreliable witness warning where:
+
+
+
+- The circumstances suggesting unreliability were fully exposed in the evidence and addresses; or
+
+
+---
+
+
+## 4.21 Warning Must be Necessary to Avoid a Risk of Miscarriage of Justice
+
+13. Those circumstances were otherwise fully understandable on a common-sense basis (*R v Morgan* 13/8/1996 CCA Vic; *R v Brooks* (1999) 103 A Crim R 234; *R v Sotiropoulos* [1999] VSCA 115; *R v **Kotzmann** *[1999] 2 VR 123; R v Latina 2/4/1996 Vic CCA;* R v Challoner* (2000) 110 A Crim R 102; R v Sharp [2005] VSCA 44; *R v Strawhorn* (2008) 19 VR 101).
+
+14. The need to give warnings in respect of some witnesses in a trial is not a basis for giving a warning for a witness in the same trial who would not otherwise require a warning. The warnings that are given do not elevate the value of the evidence given by witnesses who are not the subject of warnings (*R v Strawhorn* (2008) 19 VR 101).
+
+
+---
+
+
+## 4.21 Interpretation of s 32 by reference to the common law and Evidence Act 2008 s 165
+
+## Interpretation of s 32 by reference to the common law and Evidence Act 2008 s 165
+
+
+
+1. When construing *Jury Directions Act 2015* s 32, care should be taken in referring to its common law predecessors. However, cases which consider the statutory predecessor to s 32, s 165 of the* Evidence Act 2008*, will continue to be of assistance, due to the similarities between the provisions.
+
+2. Despite the need for caution in respect of common law authorities, the experience of the common law may provide guidance as to the risks of unreliability posed by different forms of evidence, and the directions necessary to respond to those risks (*Papakosmas** v R* (1999) 196 CLR 297;* R v Stewart* (2001) 52 NSWLR 301, [2]–[9], [70];* Robinson v R* [2006] NSWCCA 192).
+
+
+---
+
+
+## 4.21 Supporting evidence
+
+## Supporting evidence
+
+
+
+1. With the exception of perjury offences, any previously persisting requirement that evidence be corroborated is now abolished (*Evidence Act 2008* s 164).
+
+2. The rules of law or practice that previously required directions concerning the absence of corroboration, including directions about the dangers of acting on uncorroborated evidence, have also been abolished (*Evidence Act 2008* s 164(3)).
+
+3. Further,* Evidence Act 2008* s 164(4) prohibits a trial judge from warning the jury that it is dangerous to act on uncorroborated evidence in a criminal proceeding. It also prohibits trial judges from directing a jury about the absence of corroboration.
+
+4. As part of the obligation to identify relevant evidence, judges commonly invite the jury to consider whether there is evidence that can independently support the impugned evidence, and to identify potentially supporting evidence, as was done as part of corroboration directions at common law.
+
+5. However, it is not appropriate to invite the jury to look for supporting evidence when the warning concerns exculpatory evidence, especially when the warning concerns exculpatory evidence from an accomplice (*Anile v The Queen* [2018] VSCA 235R, [206]–[207]).
+
+6. In a criminal proceeding for perjury or related offences, the judge must direct the jury that it may find the accused guilty only if it is satisfied that the evidence which proves guilt is corroborated (*Evidence Act 2008* s 164(5)).
+
+
+
+Last updated: 4 April 2025
+
+
+---
+
+---
+
+# Chapter 4.21.1
+
+
+## 4.21.1 Charge: Unreliable Evidence Warning
+
+# 4.21.1 Charge: Unreliable Evidence Warning
+
+This is a generic charge that can be adapted for use in cases where:
+
+i) A party has requested a *Jury Directions Act 2015* s 32 unreliability warning; and
+
+ii) The evidence in question is "of a kind that may be unreliable"; and
+
+iii) No specific warning addressing the dangers presented by that type of evidence has been included in the Charge Book (see below).
+
+This charge may be adapted where the witness is a child. See Child Witnesses for guidance.
+
+
+
+## Introduction
+
+I have already told you the general rules for assessing witnesses’ evidence. I must now warn you about the need for caution when considering the evidence of NOW. I must give you this warning because [*identify bases of unreliability, **e.g**.* "NOW’s evidence may have been affected by her history of drug use"].
+
+
+
+## Significant matters that may cause unreliability
+
+My warning to you is as follows. It is the experience of the law that the evidence of a witness [*identify basis of unreliability, **e.g**.* "who was drug affected at the time of the events"] may be unreliable. This unreliability can arise due to [*list significant reasons for potential unreliability, **e.g**.* "the effects drug use can have on the user’s perceptions and recollections"].
+
+[*If necessary, explain the grounds of potential unreliability in further detail, and relate to the facts and arguments in the case.*]
+
+
+
+## Warning
+
+The law says that every jury must take this potential unreliability into account when considering the [type of evidence given by NOW/evidence of a witness such as NOW]. You must take it into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+
+---
+
+
+## 4.21.1 Charge: Unreliable Evidence Warning
+
+## Supporting evidence
+
+[*If there is evidence capable of "supporting" the witness’s evidence, add the following shaded section.*]
+
+In considering whether it is safe to rely upon NOW’s evidence, you should have regard to any supporting evidence led in this trial that you accept. By "supporting evidence" I mean evidence from a source that is independent of NOW, and that tends to show the truth of NOW’s evidence of the accused’s guilt.
+
+In this case the prosecution relied upon [*insert number*] items of evidence as supporting NOW’s evidence. These were [*identify evidence capable of supporting the unreliable witness’s evidence*].
+
+[*If there is a danger that the jury might mistakenly believe certain evidence to be supportive, add the following darker shaded section.*]
+
+There was other evidence given in this case that you might have thought at first glance could support NOW’s evidence. This includes the evidence [*broadly identify non-supporting evidence*].
+
+I direct you that this other evidence is not capable of supporting NOW’s account, because [*explain why the evidence is not capable of supporting, **e.g**.* "it does not come from an independent source".]
+
+[*If the issue of mutual support has arisen, and there is a possibility of joint fabrication, add the following darker shaded section.*]
+
+You will see that the prosecution relies upon the evidence of [two/a number of] [allegedly] unreliable witnesses to support each other. The law accepts that unreliable witnesses can support each other in this way.
+
+However, you may only accept their evidence as mutually supporting if you accept that their accounts are truly independent of each other. That is, you must accept that they did not put their heads together and fabricate their evidence.
+
+Last updated: 9 March 2017
+
+
+---

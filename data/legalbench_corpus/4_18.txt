@@ -1,0 +1,540 @@
+# Chapter 4.18
+
+
+## 4.18 Coincidence Evidence
+
+# 4.18 Coincidence Evidence
+
+
+
+## Overview
+
+
+
+1. Part 4, Division 2 of the* Jury Directions Act 2015* regulates jury directions on ‘other misconduct evidence’. This is defined as:
+
+1. Coincidence evidence, as defined in the Evidence Act 2008;
+
+1. Tendency evidence, as defined in the Evidence Act 2008;
+
+2. Evidence of other discreditable acts and omissions of an accused that are not directly relevant to a fact in issue;
+
+3. Evidence that is adduced to assist the jury to understand the context in which the offence charged or any alternative offence is alleged to have been committed (Jury Directions Act 2015 s 26).
+
+2. This topic examines coincidence evidence as a form of ‘other misconduct evidence’.
+
+
+---
+
+
+## 4.18 What is "Coincidence Evidence"?
+
+## What is "Coincidence Evidence"?
+
+
+
+1. "Coincidence evidence" is evidence which uses the improbability of two or more events occurring coincidentally to prove that:
+
+
+
+- A person performed a particular act; or
+
+- A person had a particular state of mind (*Evidence Act 2008 *s 98).
+
+
+
+2. The use of "coincidence evidence" relies on a process of inferential reasoning, in which the jury:
+
+
+
+- Infers from evidence of similarities between two or more events, and the circumstances in which the events occurred, that is improbable that the events occurred coincidentally; and
+
+- Infers from the improbability of such a coincidence the existence of a relevant fact in issue (*Evidence Act 2008 *s 98. See also *R v DCC *(2004) 11 VR 129).[^2]
+
+
+
+3. One of the events relied upon may be an event the occurrence of which is a fact in issue in the proceeding (*Evidence Act 2008 *s 98).
+
+
+
+## How do "coincidence evidence" and "tendency evidence" differ?
+
+
+
+4. Care must be taken to distinguish "coincidence evidence" from "tendency evidence" (*R v Nassif* [2004] NSWCCA 433; *Gardiner v R *[2006] NSWCCA 190; *KJR v R* [2007] NSWCCA 165).
+
+5. "Tendency evidence" is evidence of a tendency that a person has or had, which the jury can use to infer a fact in issue (*Evidence Act 2008* s 97).
+
+6. While the evidence that constitutes "tendency evidence" and "coincidence evidence" may seem similar, the type of inferential reasoning used by the jury differs for each type of evidence:
+
+
+
+- In relation to coincidence evidence, the jury relies on the *improbability of events occurring other than in the way suggested* to infer the fact in issue ("coincidence reasoning");
+
+- In relation to tendency evidence, the jury relies on the fact that a person *has a tendency to** act in a certain way* to infer the fact in issue ("tendency reasoning") (*R v Nassif *[2004] NSWCCA 433).[^3]
+
+
+[^2]: See "Use of Coincidence Evidence" below for a discussion of some of the facts in issue that coincidence evidence can be used to prove.
+[^3]: Thus, while tendency evidence and coincidence evidence are often referred to together (as though tendency evidence is invariably also coincidence evidence and vice versa), this is not correct. Sections 97 and 98 describe two different paths of reasoning (*R v Nassif* [2004] NSWCCA 433; *Gardiner v R* [2006] NSWCCA 190; *KJR v R* [2007] NSWCCA 165).
+
+
+---
+
+
+## 4.18 What is "Coincidence Evidence"?
+
+7. Judges must therefore separately determine whether to admit evidence as coincidence evidence and whether to admit evidence as tendency evidence. In doing so, they must consider how the parties seek to use the evidence, as that will determine which admissibility test applies and what directions the jury must be given (*R v Nassif* [2004] NSWCCA 433; *Gardiner v R *[2006] NSWCCA 190; *KJR v R* [2007] NSWCCA 165).
+
+8. See 4.17 Tendency Evidence for further information concerning tendency evidence.
+
+
+
+## How do "coincidence", "relationship" and "context" evidence differ?
+
+
+
+9. "Coincidence evidence" must also be distinguished from:
+
+
+
+- "Relationship Evidence": Evidence that demonstrates the nature of a relevant relationship, which may be used as circumstantial evidence of the accused’s guilt (see, e.g. *R v BJC* (2005) 13 VR 407; *Gipp v R *(1998) 194 CLR 106; *R v Vonarx* [1999] 3 VR 618); and
+
+- "Context Evidence": Evidence that provides essential background information, which may help the jury to assess and evaluate the other evidence in the case in a true and realistic context (see, e.g. *R v AH* (1997) 42 NSWLR 702; *R v Camilleri* [1999] VSC 159; *R v Sadler* (2008) 20 VR 69).
+
+
+
+10. See 4.19 Other Forms of Other Misconduct Evidence for further information concerning relationship and context evidence.
+
+
+
+## Determining whether evidence is "coincidence evidence"
+
+
+[^2]: See "Use of Coincidence Evidence" below for a discussion of some of the facts in issue that coincidence evidence can be used to prove.
+[^3]: Thus, while tendency evidence and coincidence evidence are often referred to together (as though tendency evidence is invariably also coincidence evidence and vice versa), this is not correct. Sections 97 and 98 describe two different paths of reasoning (*R v Nassif* [2004] NSWCCA 433; *Gardiner v R* [2006] NSWCCA 190; *KJR v R* [2007] NSWCCA 165).
+
+
+---
+
+
+## 4.18 What is "Coincidence Evidence"?
+
+11. It is important for judges to determine whether evidence is sought to be admitted and used as coincidence evidence, tendency evidence, relationship evidence and/or context evidence. That determination will affect the admissibility test to apply and the directions to be given.
+
+12. As this can be a difficult task, at the start of the trial the judge should ask the prosecution to characterise the evidence in question and explain how it is alleged the evidence is relevant (see *HML & **Ors** v R *(2008) 235 CLR 334 (Hayne J)).
+
+13. The prosecution should clearly articulate how it says the jury should use the relevant evidence. This will involve identifying the fact in issue and how the evidence is relevant to that fact in issue. If that use would involve coincidence reasoning (see above), then the evidence must be treated as coincidence evidence (see, e.g. *Qualtieri** v R *[2006] NSWCCA 95;* R v Li* [2003] NSWCCA 407;* R v AH* (1997) 42 NSWLR 702;* R v **Ngatikaura* [2006] NSWCCA 161;* R v **Cakovski* (2004) 149 A Crim R 21; *Jacobs v R* [2017] VSCA 309, [15]).
+
+
+[^2]: See "Use of Coincidence Evidence" below for a discussion of some of the facts in issue that coincidence evidence can be used to prove.
+[^3]: Thus, while tendency evidence and coincidence evidence are often referred to together (as though tendency evidence is invariably also coincidence evidence and vice versa), this is not correct. Sections 97 and 98 describe two different paths of reasoning (*R v Nassif* [2004] NSWCCA 433; *Gardiner v R* [2006] NSWCCA 190; *KJR v R* [2007] NSWCCA 165).
+
+
+---
+
+
+## 4.18 Admissibility of Evidence of Similar Events
+
+## Admissibility of Evidence of Similar Events
+
+
+
+1. Evidence that two or more similar events occurred may be admitted:
+
+
+
+- In order to prove a fact in issue, due to the improbability that the events occurred coincidentally; or
+
+- For another purpose.
+
+
+
+## Admitting evidence to prove the improbability of coincidence
+
+
+
+2. The "coincidence rule" states that evidence is generally[^4] not admissible *as *coincidence evidence (i.e., for the purposes of proving a fact in issue due to the improbability of events occurring coincidentally) unless:
+
+
+
+- The party seeking to adduce the evidence gave reasonable notice of its intention to do so; and
+
+- The court thinks that the evidence will have significant probative value (*Evidence Act 2008* s 98).
+
+
+
+3. Where it is the *prosecution *who seeks to lead coincidence evidence about the *accused*, the evidence will only be admissible if its probative value substantially outweighs any prejudicial effect that it may have on the accused (*Evidence Act 2008* s 101).
+
+4. There does not need to be an exact parallel of circumstances (a "striking similarity") before two or more events may be admitted as coincidence evidence. Instead, the admissibility of coincidence evidence depends on the facts in issue, the nature and circumstances of the other acts, the degree of similarity between the events, the relationship between any relevant parties and all the circumstances of the case (*PG v R *[2010] VSCA 289; *CW v R *[2010] VSCA 288. See also *S v R *[2008] NSWCCA 330; *AE v R *[2008] NSWCCA 52; *R v Ellis* (2003) 58 NSWLR 700).
+
+5. The provisions concerning the admissibility of coincidence evidence replace the common law rules regarding similar fact evidence (*R v Ellis* (2003) 58 NSWLR 700; *CW v R *[2010] VSCA 288).
+
+6. Care should be taken when examining older cases on the scope of the coincidence rule. Before 2007, the coincidence rule in *Uniform Evidence* jurisdictions only applied to "related events", which were defined as events that were substantially and relevantly similar and where the circumstances were substantially similar. The new coincidence rule has broader application.[^5]
+
+
+
+## Admitting evidence for another purpose
+
+
+[^4]: The coincidence rule is subject to a number of exceptions and exclusions. See, e.g. *Evidence Act 2008* ss 94, 98(2).
+[^5]: See *Uniform Evidence Law: Report*, ALRC Report 102, 11.19–11.25 for a discussion of the change and the reasons behind it.
+
+
+---
+
+
+## 4.18 Admissibility of Evidence of Similar Events
+
+7. The "coincidence rule" only governs the admission of evidence that is sought to be adduced *as *coincidence evidence. It does not prevent evidence of similar events being admitted for another purpose (e.g. to provide context for the offence) (see, e.g. *R v Quach* [2002] NSWCCA 519; *Conway v R* (2000) 98 FCR 204; *FDP v R* (2008) 74 NSWLR 645; *R v Cornwell* (2003) 57 NSWLR 82; *R v Lock* (1997) 91 A Crim R 356).
+
+8. Such evidence does not need to comply with the coincidence rule in order to be admitted. Instead, its admissibility is governed by the general test of relevance in Part 3.1 of the *Evidence Act 2008*,and the discretions contained in Part 3.11 of that Act (*R v Quach* [2002] NSWCCA 519; *Conway v R* (2000) 98 FCR 204; *FDP v R* (2008) 74 NSWLR 645; *R v Cornwell* (2003) 57 NSWLR 82; *R v Lock* (1997) 91 A Crim R 356).
+
+9. While evidence of prior similar events may be admitted for a non-coincidence purpose, if that evidence is not admissible under the coincidence rule, it cannot be used to prove a fact in issue due to the improbability that the events occurred coincidentally (*Evidence Act 2008 *s 95).
+
+10. This means that where evidence is admitted for another purpose, the jury may only use it as coincidence evidence if it also satisfies the requirements of ss 98–101 (*Evidence Act 2008 *s 95; *R v OGD (No 2) *(2000) 50 NSWLR 433; *KJR v R *[2007] NSWCCA 165).
+
+
+[^4]: The coincidence rule is subject to a number of exceptions and exclusions. See, e.g. *Evidence Act 2008* ss 94, 98(2).
+[^5]: See *Uniform Evidence Law: Report*, ALRC Report 102, 11.19–11.25 for a discussion of the change and the reasons behind it.
+
+
+---
+
+
+## 4.18 Admissibility of Evidence of Similar Events
+
+11. This issue can be important in trials involving multiple charges. In such trials, questions may arise as to whether evidence admitted to prove one charge can be used as coincidence evidence to prove a matter relevant to one of the other charges. In answering this question, the court must determine whether that evidence would be admissible under the coincidence rule if the charges were heard separately (*R v Nassif* [2004] NSWCCA 433; *R v Ellis* [2004] HCA Trans 488).
+
+
+[^4]: The coincidence rule is subject to a number of exceptions and exclusions. See, e.g. *Evidence Act 2008* ss 94, 98(2).
+[^5]: See *Uniform Evidence Law: Report*, ALRC Report 102, 11.19–11.25 for a discussion of the change and the reasons behind it.
+
+
+---
+
+
+## 4.18 Uses of Coincidence Evidence
+
+## Uses of Coincidence Evidence
+
+
+
+1. Where evidence is admissible under the coincidence rule, that evidence can be used to prove a number of matters, including:
+
+
+
+- That an offence was committed;
+
+- That it was the accused who committed the offence;
+
+- That the accused was acting voluntarily;
+
+- That the accused had a particular state of mind; or
+
+- That several independent witnesses or complainants have given truthful evidence;
+
+- That several witnesses have made the same errors because of collusion (see, e.g. *Makin v Attorney-General of New South Wales* [1894] AC 57; *Pfennig v R *(1995) 182 CLR 461; *DPP v Boardman* [1975] AC 421; *R v Anderson *(2000) 1 VR 1; *Wilson v R *(1970) 123 CLR 334; *R v Buckley* (2004) 10 VR 215).
+
+
+
+## Coincidence Reasoning and Identity
+
+
+---
+
+
+## 4.18 Uses of Coincidence Evidence
+
+2. Coincidence evidence may be used to establish the identity of the offender where the *modus operandi* used makes it likely that the same person is responsible for two or more particular offences (*Pfennig v R *(1995) 182 CLR 461; *R v **Straffen* [1952] 2 QB 911; *Thompson and Wran v R *(1968) 117 CLR 313; *R v Dupas (No 2)* (2005) 12 VR 601).
+
+3. In such cases, the evidence can only be used if the jury is satisfied that both offences were committed by the same person *and* that the accused committed one of the offences (*Pfennig v R *(1995) 182 CLR 461; *Sutton v R *(1984) 152 CLR 528).
+
+4. For evidence of *modus operandi* to be admitted to establish the identity of the offender (due to a connection between the *modus operandi* used on other occasions and the *modus operandi* of the charged offence), that evidence must demonstrate more than the "stock in trade" of that type of offending (*Sutton v R *(1984) 152 CLR 528; *R v Clune* [1995] 1 VR 489; *CW v R *[2010] VSCA 288. See also *R v Rajakaruna* (2004) 8 VR 340; *Thompson and Wran v R *(1968) 117 CLR 313; *CGL v DPP* (2010) 24 VR 486; *PNJ v DPP* (2010) 27 VR 146).
+
+
+
+## Coincidence Reasoning and Credit
+
+
+---
+
+
+## 4.18 Uses of Coincidence Evidence
+
+5. Coincidence evidence may be used to support the credibility of witnesses (see, e.g. *R v Buckley* (2004) 10 VR 215; *R v DCC* (2004) 11 VR 129; *R v **Papamitrou* (2004) 7 VR 375; *R v Rajakaruna* (2004) 8 VR 340; *R v Glennon (No 2)* (2001) 7 VR 631).
+
+6. This use of coincidence evidence relies on the improbability of independent witnesses making similar allegations against the accused. The jury may reason that the similarities are more than can be explained by coincidence, and so their evidence is mutually supporting (*R v Buckley* (2004) 10 VR 215; *R v DCC* (2004) 11 VR 129; *R v **Papamitrou* (2004) 7 VR 375; *R v Rajakaruna* (2004) 8 VR 340; *R v Glennon (No 2)* (2001) 7 VR 631; *Saoud v The Queen* (2014) 87 NSWLR 481, [43]; *Addo v The Queen* (2022) 108 NSWLR 522, [67]–[69]; *Page v The Queen *[2015] VSCA 357).
+
+7. In determining whether coincidence evidence has significant probative value, the possibility of collusion, collaboration or innocent infection is not relevant, unless those possibilities rise to a level where it would not be open to the jury rationally to accept the evidence (*R v Bauer* [2018] HCA 40, [69]). Previous decisions holding that the possibility of collusion destroys the probative value of coincidence evidence have been overruled (compare *Velkoski v R* [2014] VSCA 121; *Murdoch v R* (2013) 40 VR 451; *PNJ v R* (2010) 27 VR 146;* BSJ v R* (2012) 35 VR 475).
+
+
+---
+
+
+## 4.18 Uses of Coincidence Evidence
+
+8. If judges decide to admit coincidence evidence in circumstances where there is a risk of collusion, collaboration or innocent infection, the judge must warn that jury that it must find that the evidence from each witness was not affected by other witnesses before acting on the coincidence evidence (*Murdoch v R* (2013) 40 VR 451, [134]; *PNJ v R* (2010) 27 VR 146; *BSJ v R* (2012) 35 VR 475).
+
+9. Whether coincidence evidence can be used to support credit will depend in part on what facts are in issue in the trial. Where the fact in issue is the state of mind of an alleged victim or third party (such as whether a complainant consented to sexual penetration), it is not permissible to use the evidence of other complainants to draw an inference about a particular complainant’s state of mind (see *Jacobs v R* [2017] VSCA 309; *Phillips v R* (2006) 225 CLR 303).
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+## Directions About Coincidence Evidence and Reasoning
+
+
+
+1. The need for a direction about coincidence evidence and reasoning will depend on whether a direction is sought and whether, despite the absence of any request, there are substantial and compelling reasons for giving the direction (*Jury Directions Act 2015* ss 12, 14, 15, 16, 17). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+2. Coincidence evidence is a form of ‘other misconduct evidence’. The content of the direction is specified in *Jury Directions Act 2015 *Part 4, Division 2.
+
+
+
+## Directions where coincidence evidence adduced by prosecution
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+3. Where coincidence evidence is adduced by the prosecution and a direction is necessary, the trial judge must:
+
+1. Identify how the evidence is relevant to the existence of a fact in issue; and
+
+1. Direct the jury not to use the evidence for any other purpose; and
+
+2. Direct the jury that it must not decide the case based on prejudice arising from what it has heard about the accused; and
+
+3. If the evidence only forms part of the case against the accused, inform the jury of this fact (Jury Directions Act 2015 s 27(2)).
+
+4. In giving the direction, the judge does not need to:
+
+1. Explain what the jury should consider in deciding whether to use the evidence as coincidence evidence
+
+4. Identify impermissible uses of the evidence
+
+5. Refer to any other matter (Jury Directions Act 2015 s 27(3)).
+
+5. The *Jury Directions Act 2015* abolishes the common law obligations in relation to directions on coincidence evidence. This includes the obligation to warn the jury against substitution reasoning (compare* R v Grech* [1997] 2 VR 609).
+
+6. The judge will need to explain the concept of "coincidence reasoning" to the jury. For examples on how this can be done, see* R v **Straffen* [1952] 2 QB 911; *Pfennig v R* (1995) 182 CLR 461.
+
+7. See "Uses of Coincidence Evidence" above for an outline of how coincidence evidence may be relevant to the existence of a fact in issue.
+
+8. As part of directing the jury about coincidence reasoning, the judge must identify the similarities that are relied upon to support coincidence reasoning. This requires more than giving a short and generic summary of each of the occasions relied upon, and expecting the jury to pick out the relevant similarities from those summaries (*Feng v The King* [2023] VSCA 196, [63]).
+
+9. Where evidence is admitted allowing different uses of coincidence reasoning, the judge must carefully direct the jury about how to keep those different types of reasoning separate (see *Feng v The King* [2023] VSCA 196, [64]).
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+10. The directions must also give effect to any restrictions on the admissibility and use of the evidence, directing the jury not to use the evidence for identified impermissible purposes (see *Feng v The King* [2023] VSCA 196, [65]–[67]).
+
+11. The judge must not direct the jury to use coincidence evidence in a manner which is not relevant in the circumstances of the case. For example, judges must not invite the jury to use coincidence reasoning to determine whether the acts were voluntary and intentional when the only issue was whether the acts were committed at all (*Murdoch v R* (2013) 40 VR 451).
+
+12. Similarly, where the probative value lies in the improbability of similar false accounts (see the fifth bullet at paragraph [27] above), it is not appropriate to direct the jury that the coincidence evidence can prove the identity of the offender, or that it was unlikely the accused's acts occurred by chance, where those matters are not in issue. It may also risk inviting the jury to reason that the accused has a tendency to commit acts in a particular manner, even if the evidence has not been admitted for a tendency purpose (*Addo v The Queen* (2022) 108 NSWLR 522, [84]–[88]).
+
+13. Reasoning by reference to identity, or the accused’s actions is, in that context, likely to involve tendency reasoning (*Addo v The Queen* (2022) 108 NSWLR 522, [84]–[88]).
+
+14. To assist with this task, it will usually be helpful to have the prosecutor describe each step along the path (or paths) of reasoning which the jury may follow to infer the accused’s guilt from the evidence (see, e.g. *HML & **Ors** v R* (2008) 235 CLR 334 (Hayne J)).
+
+15. Judges should avoid using the term "uncharged acts" when describing coincidence evidence, as it may invite speculation about why no charges were laid (*HML & **Ors** v R *(2008) 235 CLR 334; *R v McKenzie–McHarg* [2008] VSCA 206).
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+16. As coincidence reasoning is a particular species of inferential reasoning, the judge should give a direction on inferences and relate the topic of inferences to the coincidence reasoning direction (*R v Buckley *(2004) 10 VR 215. See also 3.6 Circumstantial Evidence and Inferences).
+
+17. The judge should not direct the jury that they must be satisfied that the evidence reveals a "striking similarity" or other such feature before they can use the evidence. The direction must focus on the purposes for which the evidence may be used and not the reasons for its admissibility (*R v **Papamitrou* (2004) 7 VR 375).
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+### Standard of proof
+
+
+
+18. As coincidence evidence is circumstantial evidence, it generally does not need to be proved beyond reasonable doubt (*Jury Directions Act 2015* ss 61, 62).
+
+19. While it has been held that an exception exists in the case of sequential coincidence reasoning from other charged offences (see *Dempsey v The Queen* [2019] VSCA 224, [76]), it unclear whether this exception continues to exist following the High Court’s decision in *DPP v **Roder** *[2024] HCA 15, which held that a jury should not be directed to apply a standard of proof (either at common law or under the *Jury Directions Act 2015*) to other charged acts relied on as tendency evidence.
+
+
+
+## Directions where coincidence evidence adduced by the accused about a co-accused
+
+
+
+20. Where coincidence evidence is adduced by an accused about a co-accused, the prosecution or the co-accused may request a direction about that evidence.
+
+21. In giving a direction about that evidence, the trial judge must
+
+1. Identify how the evidence is relevant to the existence of a fact in issue; and
+
+6. Direct the jury not to use the evidence for any other purpose; and
+
+7. Direct the jury that it must not decide the case based on prejudice arising from what it has heard about the co-accused (Jury Directions Act 2015 s 28(2)).
+
+22. In giving the direction, the judge does not need to:
+
+1. Explain what the jury should consider in deciding whether to use the evidence as coincidence evidence;
+
+8. Identify impermissible uses of the evidence;
+
+9. Refer to any other matter (Jury Directions Act 2015 s 28(3)).
+
+
+
+## Directions where evidence is *not* admissible as coincidence evidence
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+23. Where evidence is *not* admissible as coincidence evidence, but there is a risk that the jury will use the evidence to engage in coincidence reasoning, the judge may need to warn the jury not to do so (see* R v OGD (No 2) *(2000) 50 NSWLR 433; *Martin v State of Tasmania* [2008] TASSC 66; *Qualtieri** v R *[2006] NSWCCA 95; *R v Chan* [2002] NSWCCA 217; *R v Conway *(2000) 98 FCR 204; *Gipp v R *(1998) 194 CLR 106; *R v ATM* [2000] NSWCCA 475).
+
+24. If uncharged acts are led as part of a multiple charge indictment, the judge should make it clear that the warning against coincidence reasoning applies to both the charged and uncharged acts (see *R v CF* [2004] VSCA 212; *R v DD* (2007) 19 VR 143; [2007] VSCA 317).
+
+25. There may not be any need to warn the jury against coincidence reasoning when there is little or no risk that the jury will use the evidence to engage in such reasoning. In some cases, a warning against coincidence reasoning can increase the risk of the jury engaging in impermissible coincidence reasoning (*FDP v R* (2008) 74 NSWLR 645; *R v DH* [2000] NSWCCA 360; *R v **Bastan* [2009] VSCA 157).
+
+26. The need for a direction against coincidence reasoning depends on whether the direction is sought and whether, despite the absence of any request, there are substantial and compelling reasons for giving the direction (*Jury Directions Act 2015* ss 12, 14, 16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+
+
+### Relationship with separate consideration warning
+
+
+---
+
+
+## 4.18 Directions About Coincidence Evidence and Reasoning
+
+27. The warning against coincidence reasoning does not need to use different language to that used in the separate consideration warning, and does not need to be clearly distinct from that warning. The basic requirement is that the warning sufficiently protect against the risk of the jury using impermissible reasoning (see *R v DCC* (2004) 11 VR 129; *R v LRG* (2006) 16 VR 89).
+
+28. A discrete warning against coincidence reasoning will not normally be required when a separate consideration warning is given, as the separate consideration warning will usually protect against such reasoning (*KRM v R *(2001) 206 CLR 221; *R v **Loguancio* (2000) 1 VR 235; *R v Ellul* [2008] VSCA 106. See also 1.8.1 Charge: Separate Consideration – Multiple Accused and/or 1.8.2 Charge: Separate Consideration – Multiple Counts).
+
+29. When both a warning against coincidence reasoning and a separate consideration warning are given, it will generally not be necessary to expressly relate the warnings. The separate consideration warning will usually adequately protect against the dangers of impermissible reasoning in relation to other *charged* acts. However, in some cases, it may be necessary to explicitly explain to the jury that the prohibition on coincidence reasoning applies to both charged and uncharged acts (*R v PLK* [1999] 3 VR 567; *R v DCC* (2004) 11 VR 129).
+
+
+---
+
+
+## 4.18 Warning Against Tendency Reasoning
+
+## Warning Against Tendency Reasoning
+
+
+
+1. When evidence is led as "coincidence evidence" and not as "tendency evidence", defence counsel may request a warning that the jury not use the evidence as tendency evidence (Jury Directions Act 2015 s 29).
+
+2. See 4.17 Tendency Evidence for information concerning the content of such a warning.
+
+
+---
+
+
+## 4.18 Timing of the Charge
+
+## Timing of the Charge
+
+
+
+1. Short directions on the use of coincidence evidence which are consistent with the *Jury Directions Act 2015* Part 4 Division 2 should be given at the time the evidence is led. Detailed directions may also be given in the final charge (see *Jury Directions Act 2015* s 10(2); *R v Grech* [1997] 2 VR 609; *R v **Beserick* (1993) 30 NSWLR 510; *Qualtieri** v R *[2006] NSWCCA 95).
+
+
+
+Last updated: 25 June 2024
+
+
+---
+
+---
+
+# Chapter 4.18.1
+
+
+## 4.18.1 Charge: Coincidence Evidence
+
+# 4.18.1 Charge: Coincidence Evidence
+
+This charge may be given where a direction has been requested regarding coincidence evidence called by the prosecution.
+
+A short direction based on this charge should be given at the time the evidence is led**.**
+
+Members of the jury, the prosecution has led evidence that [*identify relevant coincidence evidence*].
+
+
+
+## Using Coincidence Evidence to bolster credit
+
+[*If the evidence is used to bolster the credit of witnesses or complainants, add the following shaded section.*]
+
+The prosecution says that this evidence is relevant because it is most unlikely that several [witnesses/complainants], each of whom seems to be independent of the other, would give such similar accounts unless those accounts were both truthful and accurate. In other words, the prosecution says that it is most unlikely that several such [witnesses/complainants] would independently have told the same lie.
+
+I direct you that it is open to you to reason in this way. However, before you can do so, you must first accept that such similarities as you find in the witness’ evidence are not the product of any collusion on their part, or of innocent contamination.[^2]
+
+
+[^2]: If evidence emerges of an opportunity for contamination between the witnesses, the judge may add that following sample direction:
+You will recall that NOW1 said, during examination in chief, that he spoke to NOW2 about the allegations for 10 minutes on the day he went to the police station. In cross-examination, NOW1 admitted that the conversation may have taken half an hour. There is no suggestion that NOW1 and NOW2 have jointly fabricated their accounts. However, before you can use the existence of similarities in their accounts, you must exclude a reasonable possibility that NOW1 or NOW2 subconsciously changed his account, and introduced those similarities, because of that conversation.
+
+
+---
+
+
+## 4.18.1 Using Coincidence Evidence to Prove a Voluntary Act
+
+## Using Coincidence Evidence to Prove a Voluntary Act
+
+[*If the evidence is used to prove that the accused acted voluntarily, add the following shaded section.*]
+
+The prosecution say that this evidence is relevant to prove that the accused acted voluntarily when s/he [*describe relevant act*]. The prosecution argues that there is such a similarity between [*describe relevant coincidence evidence*] and the evidence of [*identify relevant act*] that it is most unlikely that the accused was not acting voluntarily when [*describe relevant acts*].
+
+
+---
+
+
+## 4.18.1 Using Coincidence Evidence to Rebut a Defence Argument
+
+## Using Coincidence Evidence to Rebut a Defence Argument
+
+[*If the evidence is used to rebut a **defence** argument, add the following shaded section*.]
+
+The prosecution say that this evidence is relevant because it allows you to conclude that [*describe relevant **defence** argument in the negative, **e.g**.* “the deceased did not die of natural causes”]. The prosecution argues that there is such a similarity between this evidence and the evidence of [*identify relevant evidence*] that it is most unlikely that [*describe relevant **defence** argument in the positive*, e.g. that the deceased died of natural causes]. Remember that, while the accused raised this matter as a defence, the onus of proof rests on the prosecution.
+
+
+---
+
+
+## 4.18.1 Using Coincidence Evidence to Prove the Identity of the Offender
+
+## Using Coincidence Evidence to Prove the Identity of the Offender
+
+[*If evidence of several separate offences is used to prove the identity of the offender, add the following shaded section*.]
+
+The prosecution say the similarities between [*identify similarly committed offence*] and the [*describe charged offence*] are so great that you should find that the same person is responsible for each offence. The prosecution then say that if you find NOA committed [*identify similarly committed offence*], then you can use that to conclude that s/he also committed [*identify charged offence*].
+
+[*Identify relevant prosecution and **defence** evidence and arguments on whether the jury should use the coincidence evidence.*]
+
+You must keep this evidence in perspective. It is only one part of the prosecution’s case.[^3] As I have told you, you must not decide the case on the basis of feelings of sympathy or prejudice because of what you learn about the accused. The evidence has been led for the limited purpose of showing that [*describe relevant purpose*]. You must not use the evidence for any other purpose.
+
+Last updated: 9 March 2017
+
+
+[^3]: If the other misconduct evidence is the whole of the prosecution case, then this sentence should be omitted.
+
+
+---

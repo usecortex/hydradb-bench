@@ -1,0 +1,508 @@
+# Chapter 4.22
+
+
+## 4.22 Criminally Concerned Witness Warnings
+
+# 4.22 Criminally Concerned Witness Warnings
+
+
+
+## Overview
+
+
+
+1. Under s 32 of the *Jury Directions Act 2015*, a judge may be required to warn the jury about the potential unreliability of evidence if that evidence has been given by a witness who might reasonably be supposed to have been "criminally concerned" in the events giving rise to that proceeding.
+
+2. A "criminally concerned witness" warning is a particular form of an unreliable evidence warning. This topic should therefore be read in conjunction with *Unreliable Evidence Warning.*
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+## Jury Directions Act 2015 s 32 Unreliability Warning
+
+
+
+## When must a s 32 unreliability warning be given?
+
+
+
+1. A judge must give a s 32 unreliability warning if:
+
+
+
+- A party in a jury trial requests such a warning;
+
+- The evidence in question is "of a kind that may be unreliable"; and
+
+- There are no good reasons for not doing so (*Jury Directions Act 2015* s 32).
+
+
+
+2. See *Unreliable Evidence Warning* for information concerning the first and third requirements.
+
+3. In relation to the second requirement,* Jury Directions Act 2015* s 31(c) states that evidence given by a witness in a criminal proceeding who "might reasonably be supposed to have been criminally concerned in the events giving rise to the trial" is evidence "of a kind that may be unreliable".
+
+
+
+### Who is a "criminally concerned" witness?
+
+
+
+4. To fall within the scope of s 31(c), a witness may have been criminally concerned in the relevant events in any way. He or she does not need to be facing the same charges as the accused, or to have been charged with any criminal offence (*Jury Directions Act 2015 s 31(c)*).
+
+5. However, the witness must have been "criminally concerned" in the relevant events. Section 31(c) does not apply to witnesses who had some innocent involvement in the events giving rise to the proceeding.
+
+6. It is therefore doubtful that s 31(c) would apply to witnesses who were legitimately involved in the events giving rise to the proceeding, but who engaged in collateral crime (e.g. police officers who investigate an offence, but who steal property from the crime scene) (*R v Lonie & Groom* [1999] NSWCCA 319, [63]).
+
+7. The category of witnesses covered by s 31(c) includes most[^2] of the witnesses who were previously covered by the rule of practice that required corroboration warnings in respect of "accomplices" (*R v Lonie & Groom* [1999] NSWCCA 319).
+
+
+
+Accessories after the fact
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+8. It is not clear whether accessories after the fact (e.g. people who conceal an offence) fall within the scope of s 31(c) (*Kanaan v R* [2006] NSWCCA 109, [203]; *R v Clark* (2001) 123 A Crim R 506, [53]).
+
+9. This may depend on the interpretation given to the phrase "the events giving rise to the trial". If it is held that this phrase only covers events that occurred prior to the completion of the offences alleged against the accused, then accessories after the fact will not fall within the scope of s 31(c) (*R v Clark* (2001) 123 A Crim R 506 [70] (Heydon JA)).
+
+10. Even if it is decided that accessories after the fact are not covered by s 31(c), this does not mean that a s 32 unreliability warning need not be given. Such a warning may still be required if the evidence is "of a kind that may be unreliable". See the discussion of "Non-Listed Categories" in *Unreliable Evidence Warning.*
+
+11. When a judge is considering whether or not a warning is necessary, special attention should be paid to the accessory witness’s possible interest in the outcome of the proceedings:
+
+
+
+- In many cases, accessories after the fact will have no special interest in falsely blaming the accused. Where this is the case, their evidence may not be "of an unreliable kind" (see* R v Clark* (2001) 123 A Crim R 506, [66]–[69];* GAR v R *(No 2) [2010] NSWCCA 164, [101]. For the common law position see *R v Ready & Manning* [1942] VLR 85;* R v Carranceja & Asikin* (1989) 42 A Crim R 402; *R v Parsons* (2004) 145 A Crim R 519; *R v Heaney* [1999] VSCA 169;* R v Sharp *[2005] VSCA 44).
+
+- However, in some cases accessories after the fact may have the same motivations for blaming the accused as an accomplice, and their evidence may be regarded as potentially unreliable (see, e.g. the common law case of *R v Parsons* (2004) 145 A Crim R 519).
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+### Determining whether the accused is "criminally concerned"
+
+
+
+12. Where a s 32 unreliability warning is requested, and the question of whether or not a witness "might reasonably be supposed to have been criminally concerned" in the relevant events (and thus falls within the scope of s 31(c)) is in issue, that matter must initially be determined by the trial judge as a question of fact (*R v Stewart* (2001) 52 NSWLR 301, [125]; *R v Taranto* [1999] NSWCCA 396).
+
+13. For a witness to fall within the scope of s 31(c), the judge does not need to find that he or she actually was criminally concerned in the relevant events, either on the balance of probabilities or beyond reasonable doubt. The judge only needs to find that there is evidence capable of raising a "reasonable supposition" that the witness was tainted in this way (*Jury Directions Act 2015 *s 31(c)).
+
+14. The fact that the accused’s defence is that the witness was the true offender is not enough. The judge is required to assess the evidence as a whole to decide whether the witness “might reasonably be supposed to have been criminally concerned”. Where the evidence that the witness is the true offender is exceptionally weak and there is strong evidence that the witness was not the offender, it may be open for the judge to find that the warning is not necessary (see *Soars v The King *[2024] NSWCCA 218, [24]-[29]).
+
+15. A judge who finds that the factual conditions for the warning are not met, and thus refuses a request for a warning under s 31(c), should give reasons for that refusal (unless it is obvious that the witness does not fall within the suggested category) (*R v Taranto*[1999] NSWCCA 396).
+
+16. Even if the judge decides that the witness was not criminally concerned in the relevant events, this does not mean that a s 32 unreliability warning need not be given. Such a warning may still be required if the evidence is "of a kind that may be unreliable."[^3] See the discussion of "Non-Listed Categories" in *Unreliable Evidence Warning.*
+
+
+
+### Being a criminally concerned witness is not conclusive
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+17. In rare and exceptional cases, a judge may have good reasons for not giving a warning despite the fact that the witness is a ‘criminally concerned witness’ (see *R v Clark* (2001) 123 A Crim R 506 (Heydon JA)).
+
+18. Where a criminally concerned witness gives evidence for the defence exculpating the accused, it is unlikely to be evidence "of a kind that may be unreliable" in the sense addressed by s 32. If the witness does not implicate the accused, the danger that the witness is shifting his or her own blame to the accused in order to diminish his or her own culpability does not arise (*R v Ayoub *[2004] NSWCCA 209 at 216. See also *Anile v The Queen* [2018] VSCA 235R, [206]).
+
+
+
+## Content of the s 32 unreliability warning
+
+
+
+19. A s 32 unreliability warning must:
+
+
+
+- Warn the jury that the evidence may be unreliable;
+
+- Inform the jury of the significant matters that may cause it to be unreliable;
+
+- If the direction concerns evidence giving by a child, inform the jury of the significant matters (other than the solely the child’s age) that may make the evidence unreliable; and
+
+- Warn the jury of the need for caution in determining whether to accept the evidence and the weight to be given to it (*Jury Directions Act 2015* s 32(3)).
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+20. See *Unreliable Evidence Warning *for information concerning the first and last requirements.
+
+21. In informing the jury about the significant matters that may cause s 31(c) evidence to be unreliable (the second (and third, in the case of child witnesses) requirement), the judge should refer to the matters identified by the party requesting the direction which are significant (*Jury Directions Act 2015* s 32(3)).
+
+22. The risk factors identified in the common law accomplice warning can provide guidance for judges and practitioners on risks which may be significant (*Kanaan v R* [2006] NSWCCA 109, [164]–[166], [217]).[^4]
+
+23. The principal danger addressed by the common law accomplice warning was the natural tendency of an accomplice to minimise his or her role in a criminal episode, and to exaggerate the role of others, including the accused (*Jenkins v R* (2004) 211 ALR 116).
+
+24. Prior to the introduction of the UEA, judges in New South Wales also used to warn juries that it was the court’s experience that accomplices who give a false version of events to police may feel locked into that version, and for that reason feel bound to relate the same version when giving evidence. This warning remains part of the model *Evidence Act 1995* s 165(1)(d) warning in New South Wales, on which s 31(c) is based. Whether a judge needs to direct the jury on this matter will depend on whether it is identified in the request as a significant matter (see the directions endorsed in *R v Stewart* (2001) 52 NSWLR 301, [135]).
+
+25. The fact that the witness was involved in criminal activity may be relevant to his or her credit, and it may be appropriate to direct juries about this. However, if the jury is otherwise aware of the impact of this factor on the witness’s credibility, there will be no need to refer to it in the s 32 warning (*Kanaan v R* [2006] NSWCCA 109, [164]).
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+26. Judges are not required to inform the jury that people who are involved in the commission of an offence may make false claims about the involvement of others out of motives of revenge or antipathy. The existence of this possibility will be obvious to any jury (*R v Stewart* (2001) 52 NSWLR 301, [128]; *R v Wood* [2001] NSWCCA 228).
+
+27. *Jury Directions Act 2015 *s 31(c) does not use the term "accomplice", and it should not be used in jury directions. The use of that word may convey to the jury that the judge believes that the witness is an accomplice of the accused and, therefore, that the judge has formed the view that the accused is guilty (*R v Stewart* (2001) 52 NSWLR 301, [21] & [126]).
+
+28. While the judge may invite the jury to look for other evidence to support the evidence of a criminally concerned witness, the judge must not tell the jury that, if they find the witness’s evidence to be supported, they are entitled to treat it like the evidence of any other witness. A criminally concerned witness remains a person with a potential motive to lie, and his or her evidence remains potentially unreliable (*Sonnet v R* (2010) 30 VR 519; *R v Parsons* (2004) 145 A Crim R 519).
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+### Indemnities and sentencing benefits
+
+
+
+29. It will often be the case that a witness who was criminally concerned in the relevant events will give evidence in return for receiving a sentencing benefit or an indemnity from prosecution (either in general or in relation to specific charges). This fact may affect the reliability of his or her evidence.
+
+30. In Victoria, the common law recognised that it would sometimes be appropriate for these additional matters to be raised in the accomplice warning. However, as the risks these considerations created would often be sufficiently apparent from the evidence and counsel’s addresses, this was not seen to be mandatory in every case (*R v Weiss* (2004) 8 VR 388).
+
+31. In New South Wales, the current tendency is to require judges to incorporate an explanation of the detail and consequences of any benefit given to a co-operating witness within the *Evidence Act 1995 *(NSW) s 165 warning. One rationale for this is the requirement that the s 165 warning inform the jury of all the matters that may cause evidence to be unreliable (*R v Stewart* (2001) 52 NSWLR 301; *Kanaan v R* [2006] NSWCCA 109; *R v Sullivan* [2003] NSWCCA 100).
+
+32. However, it has been recognised that not every indemnity will be a "matter that may cause evidence to be unreliable". For example, there may be no need to make reference to an indemnity that protects the witness from prosecution for unimportant crimes (see* R v Clark* (2001) 123 A Crim R 506, [37]; *R v Powercor (Australia) Ltd *[2005] VSCA 163; *R v Smith & Turner* (1995) 80 A Crim R 491).
+
+33. Under the* Jury Directions Act 2015*, it is likely that courts will adopt a flexible approach based on the views of the parties. Where a party does not identify the indemnity or sentencing benefit as a significant matter, the judge may ask whether this direction is required.
+
+
+
+### The jury’s role in determining the need for caution
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+34. In many cases it will be accepted without issue that the witness in question falls within the scope of* Jury Directions Act 2015* s 31(c). In such cases the judge should simply warn the jury that his or her evidence may be unreliable, inform them of the significant matters that may cause it to be unreliable, and warn them of the need for caution in determining whether to accept the evidence and the weight to be given to it (*Jury Directions Act 2015* s 32).
+
+35. However, in some cases it will not be clear whether or not the witness actually does fall within the s 31(c) category. In such cases, the judge must determine if it "might reasonably be supposed" that the witness was criminally concerned in the events giving rise to the proceeding. If so, and if the prosecution or defence counsel requests a direction, a s 32 unreliability warning should generally be given.[^5]
+
+36. At common law, a direction made in this circumstance would have been conditional upon the jury being satisfied that the witness was an accomplice. It is possible that a warning under s 31(c) should be subject to a similar condition. That is, it is possible that the jury should be warned that they need only have regard to the warning if they are satisfied that the witness was (or alternately, "might be", or "might reasonably be supposed to be") criminally concerned in the events giving rise to the proceeding.
+
+37. There is no authoritative guidance on this issue.[^6] However, it is doubtful that this approach would be consistent with the policy of s 32 of the* Jury Directions Act 2015* and its statutory predecessor, s 165 of the* Evidence Act 2008*. Following this approach would reintroduce a requirement similar to the common law requirement to direct on the identification of accomplices. It would also reintroduce complexities about onuses and standards of proof, and the distraction of a collateral issue.
+
+38. The preferable approach is to permit the need for the direction to turn solely on the judge’s assessment under s 31(c). Thus even in cases where the witness’s status is in issue, the jury should be warned in the simple terms described above.
+
+
+
+## Residual Duty to Warn
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+39. Under* Jury Directions Act 2015*, a judge must give a warning in the absence of a request if there are ‘substantial and compelling’ reasons to do so.
+
+40. Prior to the introduction of the* Jury Directions Act 2015* there were two common law bases upon which a warning might have been required in such circumstances:
+
+
+
+- There was a rule of practice requiring an accomplice warning to be given in certain circumstances; and
+
+- There was general duty to give any warning necessary to avoid a perceptible risk of miscarriage of justice.
+
+
+
+41. It seems likely that the rule of practice concerning accomplices (which required judges to warn the jury about the dangers of convicting on the uncorroborated evidence of an accomplice) has been abrogated by *Evidence Act 2008 *s 164(4) (which prohibits judges from warning the jury that it is dangerous to act on uncorroborated evidence or give a warning to the same or similar effect).
+
+42. Under the second basis, the common law recognised that a warning may be necessary and practical to avoid a perceptible risk of a miscarriage of justice (*Bromley v R* (1986) 161 CLR 315; *R v Miletic* [1997] 1 VR 593; *Robinson v R* (2006) 162 A Crim R 88, [10]).
+
+43. The need for this warning was not determined by reference to categories of witness. It was only required when:
+
+
+
+- The witness was inherently unreliable (*R v Brooks* [1999] VSCA 5; *R v Kotzmann* [1999] 2 VR 123);
+
+- There was a possibility that the unreliability of the evidence, or the full significance of that unreliability, may not be apparent to the jury (*R v Sharp *[2005] VSCA 44; *R v Miletic* [1997] 1 VR 593; *R v Strawhorn* (2008) 19 VR 101; [2008] VSCA 101); and
+
+- The factors calling for the warning were sufficient to overcome the court’s reluctance to give a warning that tends to trespass upon the jury’s function as the tribunal of fact (*R v Latina *2/4/1996 Vic CCA; *R v Weiss* (2004) 8 VR 388).
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+
+## 4.22 Jury Directions Act 2015 s 32 Unreliability Warning
+
+44. The circumstances in which a common law warning was required closely resemble the circumstances in which a s 32 unreliability warning is required (see above). This was noted by the court in *Robinson*, which observed that the equivalent section under the* Evidence Act 2008* gave effect to the principles stated in* Bromley v R* (1986) 161 CLR 315 (*Robinson v R* (2006) 162 A Crim R 88, [10]–[13]).
+
+45. Judges must therefore consider the need to warn the jury about the potential unreliability of evidence, even if the parties have not requested such a warning.
+
+
+
+Last updated: 4 April 2025
+
+
+[^2]: While it is clear that "true accomplices" (those who were participants in the accused’s alleged offence) fit within s 31(c), some secondary categories of "accomplice" may not. For example, it seems likely that accomplices in respect of uncharged offences that have been led in evidence against the accused, or receivers of stolen goods (if they give evidence against the alleged thief of those goods), do not fall within the scope of s 31(c), despite being classified as "accomplices" at common law by *Davies v DPP* [1954] AC 378.
+[^3]: Examples of similar kinds of evidence which may require a *Jury Directions Act 2015* s 32 unreliability warning due to being "of a kind that may be unreliable" include:
+Evidence of a witness with an accomplice–like motive to lie (see, e.g. *R v Ali* [2002] VSCA 194);
+Evidence from a police informer (see, e.g. *R v Reardon & Ors* [2002] NSWCCA 203; *R v Dellapatrona and Duffield* (1993) 31 NSWLR 123);
+Evidence of an alternative suspect (see, e.g. *R v Faure* [1993] 2 VR 497; *R v Mitchell* [2006] VSCA 289; *R v Campbell* 14/11/1994 CCA Vic);
+Evidence of a witness who has a poor criminal record or who is otherwise part of the criminal milieu (see, e.g. *R v Latina* 2/4/1996 Vic CCA; *R v Hickey* (1995) 89 A Crim R 554).
+[^4]: It may be "inappropriate" to refer to a risk factor recognised at common law where that factor clearly does not arise in the circumstances of the case.
+[^5]: See "Determining whether the accused is ‘criminally concerned’" above.
+[^6]: In *R v Taranto* [1999] NSWCCA 396 Hidden J stated in passing at [38] "Whether the witness was in fact criminally concerned in the relevant events, of course, would be a matter for the jury to determine."
+
+
+---
+
+---
+
+# Chapter 4.22.1
+
+
+## 4.22.1 Charge: Criminally Concerned Witnesses
+
+# 4.22.1 Charge: Criminally Concerned Witnesses
+
+This charge may be used where:
+
+i) A party has requested a s 32 unreliability warning; and
+
+ii) The witness in question might reasonably be supposed to be criminally concerned in the events giving rise to the trial; and
+
+iii) The evidence in question is "of a kind that may be unreliable".
+
+
+
+## Introduction
+
+I have already told you the general rules for assessing witnesses’ evidence. I must now warn you about the need for caution when considering the evidence of NOW.
+
+I must give you this warning because of the evidence [suggesting] that NOW [was/may have been] criminally concerned in the events giving rise to these proceedings.[^2]
+
+[*Briefly describe the basis upon which the witness was asserted to be criminally concerned in the relevant events.*]
+
+
+[^2]: If the accused disputes that an offence was committed at all, care should be taken to avoid any appearance of prejudgment of that issue.
+
+
+---
+
+
+## 4.22.1 Matters that may cause unreliability
+
+## Matters that may cause unreliability
+
+My warning to you is as follows. It is the experience of the law that the evidence of witnesses who were criminally concerned in the events before the court may be unreliable. This is because [*inform jury of the significant matters which make the evidence potentially unreliable, such as:*
+
+
+
+- There is a risk that such witnesses will seek to shift the blame for the offending, in whole or in part, from themselves onto others. In the process, the witnesses may construct untruthful stories, which tend to excuse the guilty and incriminate the innocent.
+
+- The evidence of such witnesses may seem plausible because of the witness’s detailed knowledge of the circumstances in which the crime was committed. This plausibility may add undeserved weight to what the witness says about the part played by the accused.
+
+- Such witnesses may initially give a false version of events to the police, and may then feel locked in to that account. The risk of the witness feeling locked in may be increased where [as here] the witness committed to the initial version in a document that could attract criminal penalties if admitted to be false.
+
+- Such witnesses may make false claims about the involvement of others out of motives of revenge or feelings of dislike or hostility.
+
+- People who are involved in criminal activities may be of bad character, and may therefore be considered to be less trustworthy than other people.]
+
+
+
+## Associated cautions
+
+
+---
+
+
+## 4.22.1 Matters that may cause unreliability
+
+### Sentencing benefit
+
+[*If the witness has received a sentencing benefit, and, in the circumstances of the case, this is a significant matter which may cause the evidence to be unreliable, add the following shaded section*.]
+
+The reliability of NOW’s evidence may also be affected by the fact that, in return for assisting the prosecution in these proceedings, s/he received a less severe sentence than s/he otherwise would have.
+
+[*Summarise evidence relevant to the witness’s undertaking to the prosecution and the sentencing benefit received.*]
+
+I must inform you that, while it is common and proper for judges to give sentencing benefits to co-operating witnesses, the receipt of a benefit is a circumstance that you must take into account in assessing the reliability of a benefiting witness.
+
+This is because the desire to receive a sentencing benefit may motivate a witness to give false evidence in order to qualify for a reduction in his or her own sentence.
+
+In addition, once a sentencing benefit has been received, it may provide a strong incentive for a witness to stand by a false, mistaken or misleading account. This is because the Director of Public Prosecutions can go to the Court of Appeal and seek to take back that benefit if s/he considers that the witness has failed wholly or partly to fulfil his or her undertaking to assist the prosecution.
+
+
+---
+
+
+## 4.22.1 Matters that may cause unreliability
+
+### Indemnity from prosecution
+
+[*If the witness has received an indemnity from prosecution, and, in the circumstances of the case, this is a significant matter which may cause the evidence to be unreliable, add the following shaded section*.]
+
+The reliability of NOW’s evidence may also be affected by the fact that, in return for assisting the prosecution in these proceedings, s/he was granted an indemnity from prosecution.
+
+This means, according to the indemnity document you have received as exhibit [*identify exhibit*] that the Director of Public Prosecutions has undertaken that s/he will not prosecute NOW for his/her participation in the offences that are the subject matter of this trial. The only condition placed on that indemnity is that NOW must give evidence truthfully and frankly, withholding nothing of relevance.
+
+[*Summarise evidence relevant to the indemnity*.]
+
+I must inform you that, while there are often good reasons for prosecutorial authorities to indemnify co-operating witnesses, the witness’s interest in the receipt of an indemnity is a circumstance that you must take into account in assessing the reliability of an indemnified witness.
+
+This is because the desire to avoid prosecution may motivate a witness to give false evidence in order to qualify for the indemnity.
+
+[*Inform the jury of any other risks that arise from the indemnity in the circumstances of the case, having regard to counsel’s arguments and the form of the indemnity. For example:*
+
+In addition, once an indemnity has been received, it may provide a strong incentive for a witness to stand by a false, mistaken or misleading account. This is because of the risk to the witness of losing the benefit of the indemnity if he or she does not maintain the original account.]
+
+
+
+## Warning
+
+The law says that every jury must take the potential unreliability of the evidence a witness who was criminally concerned in the events before the court [and who has received a sentencing benefit/indemnity from prosecution] into account when considering that evidence.
+
+You must take this potential unreliability into account in determining whether you accept NOW’s evidence at all, and if you do accept it, in whole or in part, in deciding what weight to give to that evidence.
+
+
+---
+
+
+## 4.22.1 Matters that may cause unreliability
+
+## Supporting evidence
+
+[*If there is evidence capable of "supporting" the witness’s evidence, add the following shaded section.*]
+
+In considering whether it is safe to rely upon NOW’s evidence, you should have regard to any supporting evidence led in this trial that you accept. By "supporting evidence" I mean evidence from a source that is independent of NOW, and that tends to show the truth of NOW’s evidence of the accused’s guilt.
+
+In this case the prosecution relied upon [*insert number*] items of evidence as supporting NOW’s evidence. These were [*identify evidence capable of supporting the unreliable witness’s evidence*].
+
+[*If there is a risk that the jury might mistakenly believe certain evidence to be supportive, add the following darker shaded section.*]
+
+There was other evidence given in this case that you might have thought at first glance could support NOW’s evidence. This includes the evidence [*broadly identify non-supporting evidence*].
+
+I direct you that this other evidence is not capable of supporting NOW’s account, because [*explain why the evidence is not capable of supporting, e.g**.** *"it does not come from an independent source".]
+
+[*If the issue of mutual support has arisen, and there is a possibility of joint fabrication, add the following darker shaded section.*]
+
+You will see that the prosecution relies upon the evidence of [two/a number of] [allegedly] unreliable witnesses to support each other. The law accepts that unreliable witnesses can support each other in this way.
+
+However, you may only accept their evidence as mutually supporting if you accept that their accounts are truly independent of each other. That is, you must accept that they did not put their heads together and fabricate their evidence. Otherwise, you must not rely on their evidence as providing any support for each other’s accounts.
+
+Last updated: 9 March 2017
+
+
+---

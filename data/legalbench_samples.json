@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "question": "Bob and Ted are close friends. Ted is on trial for drug offences, and Bob has been selected as a juror in Ted’s case. Is the judge required to excuse Bob from serving on the jury?",
+    "reference_answer": "No. While the bench book instructs judges to inform members of the jury panel that they can excuse themselves if they know the accused, this is not mandatory. Instead, the court may excuse a potential juror if they are satisfied that the person will not be able to consider the case impartially.",
+    "reference_contexts": []
+  },
+  {
+    "id": "2",
+    "question": "Harry is serving as a juror in a burglary trial. He is also a professional locksmith. During the proceedings, Harry is shown a lock which, in his expert view, is too damaged to have been lockpicked in the manner described in court. Why might Harry's expert knowledge of lockpicking be irrelevant when assessing the physical evidence?",
+    "reference_answer": "Judges are advised to “warn the jury of the possible dangers of conducting even simple experiments in the jury room” as “the present condition of the object experimented with may not be the same as its condition at the relevant time.” Harry can draw his own conclusions, but his view about the lock’s damage is irrelevant without additional evidence about how and when the lock's condition changed.",
+    "reference_contexts": []
+  },
+  {
+    "id": "3",
+    "question": "Isaac is on trial for statutory murder of an emergency worker. You are his barrister. Should you notify the jury that, according to the Crimes Act 1958, the standard sentence for this offence is 30 years imprisonment?",
+    "reference_answer": "No. The bench book is clear that “counsel should not refer to the penalty prescribed by law for the offence charged or make any other reference to the consequences which will flow from the jury’s verdict.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "4",
+    "question": "Should jurors be excused if they have encountered news stories about the accused prior to the trial commencing?",
+    "reference_answer": "No. Although pre-trial publicity can prejudice jurors, the bench book notes that jurors should not be treated as unusually fragile and can be trusted to follow their oath, heed judicial directions, and decide the case only on the evidence. In most cases, any potential prejudice can be addressed through clear, careful directions from the judge rather than automatically excusing the juror.",
+    "reference_contexts": []
+  },
+  {
+    "id": "5",
+    "question": "Frank and Joe are jurors in an arson trial. Over the weekend, Joe finds photos of the accused holding a petrol canister and texts them to Frank. Having received this new information, what should Frank do?",
+    "reference_answer": "Frank should immediately notify the judge that Joe has made an independent inquiry about the accused or the background to the offence.",
+    "reference_contexts": []
+  },
+  {
+    "id": "6",
+    "question": "Does the standard of proof of “beyond reasonable doubt” imply that the jury must be fully convinced of every claim the prosecution has made?",
+    "reference_answer": "No. According to the bench book “the jury does not need to be satisfied beyond reasonable doubt of the existence of each and every fact relied upon to prove an element, or disprove a defence, as long as they are satisfied that the accused’s guilt has been proven beyond reasonable doubt.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "7",
+    "question": "Sally is accused of cultivating narcotic plants in her backyard. One of the elements of this charge is that “the accused intentionally cultivated or attempted to cultivate a particular substance.” To establish whether this is the case, the judge believes it would be valuable to visit Sally’s backyard and have the jury examine it for themselves. What is the name of the legal procedure whereby the court travels to a location relevant to the charge?",
+    "reference_answer": "The procedure where a court goes to inspect or conduct experiments at a location relevant to the case is called a view. Under section 53 of the Evidence Act 2008, the court may order a “demonstration, experiment or inspection” (collectively, a “view”), as noted in the bench book.",
+    "reference_contexts": []
+  },
+  {
+    "id": "8",
+    "question": "Josh is 21 years old. He witnessed a murder that was clearly perpetrated by the accused. The prosecution, however, needs to determine whether the accused committed the acts voluntarily, thus satisfying the elements of intentional or reckless murder. In court, the judge plays a recording of Josh giving his eyewitness testimony. What is this evidentiary process called?",
+    "reference_answer": "This process is known as the VARE procedure. It is used in trials related to sexual or violent offences and involves playing ‘an audio or audiovisual recording which consists of the witness answering questions put to him or her by a prescribed person’.",
+    "reference_contexts": []
+  },
+  {
+    "id": "9",
+    "question": "Olivia illegally bought cannabis from a tobacconist. As she left, she saw a man firebomb the store. She is now a witness in the arson trial. What legal privilege should she consider when giving her evidence?",
+    "reference_answer": "Olivia should consider exercising her privilege against self-incrimination, which is governed by section 128 of the Evidence Act 2008. As the bench book explains “a witness may object to giving evidence on the basis that the answer may tend to prove that the witness committed an offence or is liable to a civil penalty.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "10",
+    "question": "Emma is found in possession of someone else’s phone but has no documentation of how she obtained it. Emma’s counsel argues that possession of the phone is circumstantial evidence and thus completely inadmissible to establish guilt. Is Emma’s counsel correct?",
+    "reference_answer": "No. They are incorrect. The bench book notes that “nothing in the law that makes proof by circumstantial evidence unacceptable or suspect of itself.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "11",
+    "question": "John is on trial for an unnamed offence. John testifies that he could not have committed the offence because he was at an arcade 10 miles away when the offence took place. Earlier, the jury accepted arcade tickets as evidence of John's alibi. John’s counsel now argues that, given this plausible alibi, John could not have committed the crime. What type of reasoning is this an example of?",
+    "reference_answer": "John's reasoning is an example of drawing inferences from circumstantial evidence. As the bench book explains, a fact can be proved through inference “by providing evidence of a related fact or facts, from which the jury can infer the existence of the fact in issue”. In this case, counsel is providing evidence of the alibi to support the inference that John could not have committed the crime.",
+    "reference_contexts": []
+  },
+  {
+    "id": "12",
+    "question": "Does Victoria have a law/laws protecting against double jeopardy?",
+    "reference_answer": "Yes. The bench book states that “Unless expressly provided for by law, an accused must not be punished more than once for the same act or omission (Interpretation of Legislation Act 1984 (Vic) s 51; R v Sessions [1998] 2 VR 304).” This is often referred to as double jeopardy.",
+    "reference_contexts": []
+  },
+  {
+    "id": "13",
+    "question": "Sophie and Hazel are two of twelve jurors in a trial. Both are uncertain of their verdict, while the remaining ten jurors believe the accused is guilty. The jury is becoming frustrated with Sophie and Hazel's indecision, but the judge instructs the jury to continue deliberating. What is this instruction called?",
+    "reference_answer": "In Victoria, this instruction is known as a perseverance direction or a Black direction.",
+    "reference_contexts": []
+  },
+  {
+    "id": "14",
+    "question": "Tim is on trial for aggravated burglary. Before Tim gives evidence, his counsel calls another witness to testify first. Why might this be a bad idea for the defence?",
+    "reference_answer": "The bench book advises that by allowing other defence witnesses to give evidence first the jury may think that the accused tailored his or her evidence to fit with the other evidence in the case.",
+    "reference_contexts": []
+  },
+  {
+    "id": "15",
+    "question": "Paul is 12 years old. He is a witness in a trial related to a common law riot. You are counsel for the accused. Should you argue that Paul’s is fundamentally untrustworthy because of his age?",
+    "reference_answer": "No. It is a prohibited statement to suggest that a particular child’s evidence is unreliable solely because of their age. If counsel makes such a claim, the bench book directs the judge to correct that suggestion in their instructions to the jury.",
+    "reference_contexts": []
+  },
+  {
+    "id": "16",
+    "question": "Can the defence use good character evidence to argue the accused is innocent?",
+    "reference_answer": "Yes. Good character evidence can be used to establish the credibility of the accused's evidence as well as to argue it is less likely that the accused committed the offence.",
+    "reference_contexts": []
+  },
+  {
+    "id": "17",
+    "question": "Can the prosecution freely use bad character evidence to argue the accused is guilty?",
+    "reference_answer": "No. Bad character evidence is generally inadmissible because it is unfairly prejudicial. At common law, such evidence may only be used to rebut evidence of good character. Under the Evidence Act 2008, there are limited and technically complex exceptions that allow bad character evidence to be admitted.",
+    "reference_contexts": []
+  },
+  {
+    "id": "18",
+    "question": "Sam is on trial for murdering her neighbour. The prosecution presents a text from Sam to a friend saying, “I murdered my neighbour today.” What must be established for this text to be treated as an admission?",
+    "reference_answer": "The jury must be satisfied that Sam wrote the text and that the substance of the text is truthful.",
+    "reference_contexts": []
+  },
+  {
+    "id": "19",
+    "question": "Omar is charged with intentionally causing serious injury. In a recorded interview, he admits being at the scene and pushing the complainant but denies using a weapon or intending serious harm. At trial, the prosecution asks the jury to accept the incriminating parts of the interview but treat his denial of using a weapon as lies. Does this necessarily involve ‘consciousness of guilt’ reasoning?",
+    "reference_answer": "No. The bench book states that an “argument that an accused’s statement contained both admissions and false exculpatory statements, and that the jury should accept the admissions and reject the exculpatory statements as lies, does not involve consciousness of guilt reasoning.” This means that the prosecution can use mixed statements to argue that Omar is guilty due to his admissions without implying guilt through his alleged lies.",
+    "reference_contexts": []
+  },
+  {
+    "id": "20",
+    "question": "Liam is on trial for arson. His sister gives evidence that, at a family dinner, she said, “The police think you set fire to Dad’s shed. You didn’t do it, did you?” Liam, who had been speaking normally, then went silent and looked down. Can this be used as evidence probative of guilt?",
+    "reference_answer": "Yes. The bench book states that “remaining silent when speech could have been expected” is one example of post-offence behaviour that has been used as evidence probative of guilt.",
+    "reference_contexts": []
+  },
+  {
+    "id": "21",
+    "question": "At Zoe’s assault trial, the prosecution argues that her blank, expressionless stare at photos of the injured complainant indicates guilt. Is this argument sound?",
+    "reference_answer": "No. While demeanour can, in theory, be treated as an implied admission, such arguments are rarely relied upon because they are imprecise, unreliable, and easily misinterpreted.",
+    "reference_contexts": []
+  },
+  {
+    "id": "22",
+    "question": "The defence raises the issue of mental impairment and bears the onus of proving it. There is a psychiatrist who has examined the accused. Is the prosecution required to call this psychiatrist as a witness?",
+    "reference_answer": "No. In this example, the psychiatrist’s evidence relates to an issue raised by the defence, in respect of which the defence bears the onus of proof. As the bench book explains, in such a case the prosecution is not required to call that witness.",
+    "reference_contexts": []
+  },
+  {
+    "id": "23",
+    "question": "Sarah is tried for armed robbery. She does not give or call any evidence. In closing, the prosecution avoids mentioning her silence directly but repeatedly stresses that “only the prosecution’s account is supported by evidence.” Is this submission by the prosecution permissible?",
+    "reference_answer": "Yes. The bench book clarifies that the prosecution is allowed to “refer to the fact that the only version before the court is that provided by prosecution witnesses and there is no evidence to support the alternative scenario provided by defence counsel.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "24",
+    "question": "In a criminal trial, defence counsel fails to challenge an important part of a prosecution witness’s evidence and later runs a case theory inconsistent with that evidence. The prosecution complains that this has caused unfairness. As the trial judge, how should you decide what to do about it?",
+    "reference_answer": "As trial judge, the bench book instructs you to exercise your discretion ‘to best remedy the unfairness so that the trial does not miscarry,’ recognising that what is necessary ‘will depend on the circumstances.’ ‘In doing so, you should apply Browne v Dunn and consider whether it was the prosecution or the defence who breached the rule, and the obligations placed upon each party,’ avoiding any remedy for unfairness to the prosecution that would itself be unfair to the accused.",
+    "reference_contexts": []
+  },
+  {
+    "id": "25",
+    "question": "In an armed robbery trial, a shop assistant who has served the accused every week for years is shown still images from CCTV and says, “Based on how he looks, that’s the same customer who comes into my store.” What type of identification evidence is this an example of?",
+    "reference_answer": "It is an example of comparison evidence. As the bench book explains one example of comparison evidence is a “non-expert witness which compares two people or items which do not require particular expertise to compare (e.g. evidence comparing the voice of the accused with a voice on a tape).”",
+    "reference_contexts": []
+  },
+  {
+    "id": "26",
+    "question": "One of the elements of aggravated carjacking is the use of a weapon or causing injury to another person (Crimes Act 1958 s 79A). Smith witnesses an aggravated carjacking late at night. He sees the offender wield a weapon but does not get a good look at their face. A year later, he positively identifies the accused, saying he “recognised him immediately from the daytime photo the police showed me last year.” What cognitive bias, about which the jury is educated, may be relevant in this case?",
+    "reference_answer": "The displacement effect. The jury is explicitly warned about the “displacement effect” in the charge for photographic identification. The displacement effect occurs when a witness sees a photo of the accused before identifying the accused. According to the bench book/charge, “in any later face-to-face identification, there is a risk that the witness might unintentionally identify the accused because his/her appearance matches the remembered photograph, rather than matching the person originally seen.”",
+    "reference_contexts": []
+  },
+  {
+    "id": "27",
+    "question": "You are the trial judge in a child stealing case. During the trial, the prosecutor briefly mentions that the image used for recognising the accused was taken before the accused was detained but gives no further explanation. What are judges instructed to do in this situation?",
+    "reference_answer": "The bench book instructs judges to tell the jury that the fact police had images of the accused before detention does not justify any inference about a criminal record and must not prejudice them against the accused.",
+    "reference_contexts": []
+  },
+  {
+    "id": "28",
+    "question": "Harvey is on trial for dangerous driving causing serious injury. Priya, a mechanic with 15 years’ experience, inspects the damaged vehicles and wants to tell the jury that, in her opinion, the pattern of damage shows Harvey was travelling at “at least 110 km/h” before impact. Are Priya’s comments inadmissible because they are opinion evidence?",
+    "reference_answer": "Priya’s comments are opinion evidence, but they are still admissible because Priya is an expert witness. As the bench book explains, “Opinion evidence from an ‘expert’ witness is admissible if it is wholly or substantially based on specialised knowledge that the witness has obtained from training, study or experience” (Evidence Act 2008 s 79).",
+    "reference_contexts": []
+  },
+  {
+    "id": "29",
+    "question": "Chris is on trial for intentionally or recklessly causing a bushfire. His counsel says he was carrying out a “cool burn.” Talia, a First Nations woman, is called to explain First Nations practices. Is Talia’s evidence admissible?",
+    "reference_answer": "Yes. The bench book is clear that section 78A of the Evidence Act 2008 provides an exception to the opinion rule for witnesses providing “evidence about the existence or content of Aboriginal and Torres Strait Islander traditional laws and customs”.",
+    "reference_contexts": []
+  },
+  {
+    "id": "30",
+    "question": "Noah is on trial for killing his father, who had been violent towards Noah’s mother for decades. The defence calls an expert to describe how poverty, lack of access to services, and cultural stigma around separation can trap families in violent homes. Is this expert's evidence admissible?",
+    "reference_answer": "Yes, it can be admissible. The bench book states that expert evidence in homicide cases involving family violence may be led to show “the social, cultural or economic factors that may affect a person affected by family violence.”",
+    "reference_contexts": []
+  }
+]

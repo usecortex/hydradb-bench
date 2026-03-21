@@ -1,0 +1,984 @@
+# Chapter 5.5
+
+
+## 5.5 Aiding, Abetting, Counselling or Procuring (Pre-1/11/14)
+
+# 5.5 Aiding, Abetting, Counselling or Procuring (Pre-1/11/14)
+
+
+
+1. This topic examines the principle of aiding, abetting, counselling and procuring prior to 1 November 2014. On 1 November 2014, those principles were replaced by the *Crimes Amendment (Abolition of Defensive Homicide) Act 2014*. For offences committed on or after 1 November 2014, see 5.2 Statutory Complicity (From 1/11/14).
+
+
+
+## General Principles
+
+
+
+## Liability of a Person who Aids, Abets, Counsels or Procures
+
+
+
+2. A person may be tried as a principal offender if s/he aids, abets, counsels or procures the commission of an indictable offence (*Crimes Act 1958* s 323).[^2]
+
+3. A person who aids, abets, counsels or procures the commission of an offence commits that substantive offence. S/he does not commit a distinct offence of being an accessory (*R v Wong* [2005] VSC 96).
+
+
+
+## Meaning of "Aid, Abet, Counsel or Procure"
+
+
+[^2]: The situation in relation to summary offences is slightly different. Unlike *Crimes Act 1958* s 323, which provides that a person who aids, abets, counsels or procures the commission of an indictable offence may be tried, indicted or presented and punished as a principal offender, *Crimes Act 1958* s 324 provides that such a person will be liable to the same punishment as a principal offender. Despite this difference, many of the principles outlined in this commentary will be relevant to summary offences.
+[^3]: For example, a person under the age of 16 is not able to aid or abet the offence of sexual penetration of him/herself (see, e.g. *R v Whitehouse* [1977] QB 868). By contrast, in the absence of express provisions to the contrary, the beneficiary of a restraining order may be prosecuted for aiding and abetting the breach of that order (see, e.g. *Keane v Police* (1997) 69 SASR 481, but note Family Violence Protection Act 2008 s 125).
+
+
+---
+
+
+## 5.5 Aiding, Abetting, Counselling or Procuring (Pre-1/11/14)
+
+4. In Australia, the words "aid, abet, counsel or procure" may be read collectively, to describe a person who assists or encourages someone to commit an offence (*Giorgianni** v R *(1985) 156 CLR 473; *R v Wong* [2005] VSC 96; *Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344; *Arafan** v R *(2010) 31 VR 82; [2010] VSCA 356; *R v Russell* [1933] VLR 59; but c.f. *Attorney-General's Reference (No 1 of 1975)* [1975] QB 773).
+
+5. This requires the accused to be linked in purpose with the person who commits the offence (the "principal offender"), and to act to bring about or render more likely the commission of the offence (*Giorgianni** v R *(1985) 156 CLR 473; *R v Russell* [1933] VLR 59; *R v Wong* [2005] VSC 96; *R v Phan* (2001) 53 NSWLR 480).
+
+6. The prosecution does not need to prove that there was any agreement between the accused and the principal offender. The lack of an agreement is what distinguishes aiding, abetting, counselling or procuring from other forms of complicity (e.g. Acting in Concert, Joint Criminal Enterprise, Extended Common Purpose) (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448; *R v Lowery & King (No 2) *[1972] VR 560; *R v Nguyen *[2010] VSCA 23; *Arafan** v R* (2010) 31 VR 82; [2010] VSCA 356).
+
+
+
+## Not Available for All Offences
+
+
+[^2]: The situation in relation to summary offences is slightly different. Unlike *Crimes Act 1958* s 323, which provides that a person who aids, abets, counsels or procures the commission of an indictable offence may be tried, indicted or presented and punished as a principal offender, *Crimes Act 1958* s 324 provides that such a person will be liable to the same punishment as a principal offender. Despite this difference, many of the principles outlined in this commentary will be relevant to summary offences.
+[^3]: For example, a person under the age of 16 is not able to aid or abet the offence of sexual penetration of him/herself (see, e.g. *R v Whitehouse* [1977] QB 868). By contrast, in the absence of express provisions to the contrary, the beneficiary of a restraining order may be prosecuted for aiding and abetting the breach of that order (see, e.g. *Keane v Police* (1997) 69 SASR 481, but note Family Violence Protection Act 2008 s 125).
+
+
+---
+
+
+## 5.5 Aiding, Abetting, Counselling or Procuring (Pre-1/11/14)
+
+7. Liability for aiding, abetting, counselling or procuring will be available in relation to all offences, unless specifically excluded or excluded as a matter of necessary implication (*Mallan** v Lee* (1949) 80 CLR 198; *Giorgianni** v R *(1985) 156 CLR 473).
+
+8. This type of liability will not necessarily be excluded by the fact that a particular offence may only be committed by a prescribed class of offenders. A person may aid, abet, counsel or procure an offence even s/he is incapable of committing that offence as the principal offender (*Mallan** v Lee* (1949) 80 CLR 198; *R v Goldie; Ex **parte** **Picklum* (1937) 59 CLR 254).
+
+9. However, this type of liability may not be available where the accused is a member of a class the legislation is designed to protect (see, e.g. *R v Whitehouse* [1977] QB 868).[^3]
+
+10. This type of liability may also not be available where there is a separate and specific offence that deals with accessorial liability for a given offence (see, e.g. *Ellis v Guerin* [1925] SASR 282).
+
+
+[^2]: The situation in relation to summary offences is slightly different. Unlike *Crimes Act 1958* s 323, which provides that a person who aids, abets, counsels or procures the commission of an indictable offence may be tried, indicted or presented and punished as a principal offender, *Crimes Act 1958* s 324 provides that such a person will be liable to the same punishment as a principal offender. Despite this difference, many of the principles outlined in this commentary will be relevant to summary offences.
+[^3]: For example, a person under the age of 16 is not able to aid or abet the offence of sexual penetration of him/herself (see, e.g. *R v Whitehouse* [1977] QB 868). By contrast, in the absence of express provisions to the contrary, the beneficiary of a restraining order may be prosecuted for aiding and abetting the breach of that order (see, e.g. *Keane v Police* (1997) 69 SASR 481, but note Family Violence Protection Act 2008 s 125).
+
+
+---
+
+
+## 5.5 Elements
+
+## Elements
+
+
+
+1. To establish liability by way of aiding, abetting, counselling or procuring, the prosecution must establish:
+
+1. That the principal offence was committed;
+
+1. That the accused knew the essential circumstances that establish the principal offence; and
+
+2. That the accused intentionally assisted or encouraged the principal offender to commit that offence (Giorgianni v R (1985) 156 CLR 473).
+
+2. The second and third elements may overlap. A person generally cannot intentionally assist or encourage a person to commit an offence unless s/he is aware of the essential facts that constitute the offence (*Giorgianni** v R *(1985) 156 CLR 473).
+
+3. The judge must clearly explain all of the principles involved in proving this form of liability, and relate them to the evidence. It is not sufficient to simply direct the jury that the accused must have intentionally aided, abetted, counselled or procured the commission of the offence (*R v **Abbouchi** & **Allouche** *[2008] VSCA 171).
+
+
+
+## Commission of the Principal Offence
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+4. The first element requires the prosecution to prove, using evidence admissible against the accused, that the principal offence was committed (*Giorgianni** v R *(1985) 156 CLR 473; *R v Hewitt* [1997] 1 VR 301; *R v **Demirian* [1989] VR 97; *R v Jensen and Ward *[1980] VR 194; *R v **Tamme* [2004] VSCA 165).
+
+5. This requires the prosecution to prove that the principal offender committed the relevant criminal acts with the necessary criminal intention (*R v Jensen and Ward* [1980] VR 194).
+
+6. If the accused and the principal offender are tried together, and the evidence against them is the same, the accused generally cannot be found guilty unless the principal offender is also found guilty (*Osland** v R* (1998) 197 CLR 316).
+
+7. However, different verdicts between a principal offender and an accessory will not always be inconsistent. For example, there may be sufficient evidence to prove that the accessory assisted someone to commit the principal offence, but insufficient evidence to establish the identity of the principal offender (*Osland** v R* (1998) 197 CLR 316; *R v King* (1986) 161 CLR 423; *Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344).
+
+8. If the accused and the principal offender are not tried together:
+
+
+
+- The prosecution does not need to prove that someone has been convicted as the principal offender (*Giorgianni** v R *(1985) 156 CLR 473); and
+
+- Evidence that another person has been convicted is not admissible against the accused (*R v Kirkby* [2000] 2 Qd R 57; *Evidence Act 2008* s 91);
+
+- It is not an abuse of process for the prosecution to charge the accused with aiding, abetting, counselling or procuring an offence which is more serious than the one to which the principal offender pleaded guilty (or was convicted at trial) (*Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344; *Hui Chi-**ming** v R *[1992] 1 AC 34).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+9. In some cases, the prosecution may not be able to prove which of several co-accused performed the relevant criminal acts. In such a case, the jury may convict all of the co-accused of the offence if satisfied, by evidence admissible against each co-accused, that one (or more) of them committed the offence and the others were accessories. The jury does not need to decide which of them was the principal offender and which were accessories (*R v Lowery & King (No 2)* [1972] VR 560).
+
+
+
+## Knowledge
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+10. The second element requires the prosecution to prove that the accused knew of, or believed in, the essential circumstances that establish the principal offence (*Giorgianni** v R *(1985) 156 CLR 473).
+
+11. The "essential circumstances" of an offence are the facts that will go to satisfying the elements of the offence (*Giorgianni** v R *(1985) 156 CLR 473; *Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344).
+
+12. For *mens** rea *offences, this includes knowledge of, or belief in, the principal offender’s state of mind (*R v Stokes & **Difford* (1990) 51 A Crim R 25; *R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448; *Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344; *R v Phan* (2001) 53 NSWLR 480; c.f. *R v Le **Broc* (2000) 2 VR 43).[^4]
+
+13. Where the offence requires a particular result to have been caused (e.g. death or serious injury), the accused does not need to know that this result will be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, and that s/he knew the principal offender would have the requisite state of mind when committing those acts (*Giorgianni** v R *(1985) 156 CLR 473; *R v Stokes & **Difford* (1990) 51 A Crim R 25; *Likiardopoulos** v R* (2010) 30 VR 654; [2010] VSCA 344).
+
+14. The jury must consider what the accused knew at the time s/he assisted or encouraged the principal offender, rather than at the time the principal offender committed the offence (*R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+15. The accused must have actual knowledge or belief of the essential circumstances. It is not sufficient that s/he should have known of those circumstances, or failed to inquire about them (*Giorgianni** v R *(1985) 156 CLR 473).
+
+16. However, the failure of a person to make inquiries about the circumstances may be evidence that s/he was aware of the relevant facts (*Giorgianni** v R *(1985) 156 CLR 473).
+
+17. The accused does not need to know that the principal offence is a criminal offence. It is sufficient if s/he is aware of all the facts that constitute the offence (*Johnson v Youden* [1950] 1 KB 544; *Giorgianni** v R *(1985) 156 CLR 473).
+
+18. An employee’s knowledge cannot necessarily be imputed to an employer (*Ferguson v Weaving *[1951] 1 KB 814).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+## Assistance or Encouragement
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+19. The third element requires the accused to have intentionally assisted or encouraged the principal offender to commit the offence charged (*Giorgianni** v R *(1985) 156 CLR 473).
+
+20. For this to be the case, the accused must have been linked in purpose with the principal offender, and spoken words or performed acts designed to bring about the commission of the offence (*R v **Tamme* [2004] VSCA 165; *R v Wong* [2005] VSC 96).
+
+21. It is not necessary (or sufficient) to show that the accused exerted control over the principal offender. In cases of aiding, abetting, counselling or procuring, the principal offender will have acted voluntarily, breaking the causal link between the accused’s alleged control of the principal offender and the commission of the offence (*R v Franklin* (2001) 3 VR 9).
+
+22. The accused also does not need to have reached an agreement with the principal offender about the commission of the crime. S/he merely needs to have provided encouragement or assistance to the principal offender (*R v **Oberbilig* [1989] 1 Qd R 342; *R v Nguyen *[2010] VSCA 23).
+
+23. Where it is alleged that the accused "assisted" the principal offender, it is not necessary to prove that the principal offender was aware of the accused’s assistance (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+24. Where it is alleged that the accused "encouraged" the principal offender, it is also not necessary to prove that the principal offender was aware of the accused’s encouragement, nor is it necessary to prove that s/he was actually encouraged by the accused’s words or actions (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+25. However, in "encouragement" cases the prosecution must prove that the encouragement was communicated to the principal offender in circumstances such that s/he *could* have been aware of that encouragement (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+26. When considering this element, a distinction is sometimes drawn between assistance or encouragement which is offered before the offending ("counselling or procuring"), and assistance or encouragement offered at the time of the offending ("aiding or abetting").[^5] These are discussed in turn below.
+
+27. The jury are not, however, required to unanimously agree on the exact form of assistance. The jury only need to be collectively satisfied that the accused aided, abetted, counselled or procured the offence (*R v Wong* [2005] VSC 96).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+### Counselling or Procuring (Assistance Before the Offence)
+
+
+
+28. The accused may provide assistance or encouragement prior to the commission of the relevant offence by either:
+
+1. Urging, advising or soliciting the principal offender to commit the offence ("procuring"); or
+
+1. Encouraging or supporting the principal offender to commit the offence ("counselling") (Chai v R (2002) 187 ALR 436; Stuart v The Queen (1976) 134 CLR 426; R v Oberbilig [1989] 1 Qd R 342).
+
+29. A person will not have "counselled" the principal offender by merely suggesting that the offence be committed. S/he must have done more than simply instigate its commission (*Hutton v R *(1991) 56 A Crim R 211).
+
+30. An accessory may "counsel" the principal offender by supplying equipment used in the offending (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448; *National Coal Board v Gamble* [1959] 1 QB 11).
+
+31. It is not necessary to show that the assistance or encouragement caused the offending. The accused may counsel the principal offender to commit an offence that s/he intended to commit even without the accused’s assistance or encouragement (Howell v Doyle [1952] VLR 128).[^6]
+
+
+
+### Aiding or Abetting (Assisting at the Time of the Offence)
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+32. There are three ways in which a person may aid or abet the principal offender at the time of the offending:
+
+1. By intentionally *helping* the principal offender to commit the offence;
+
+2. By intentionally *encouraging* the principal offender to commit the offence; or
+
+3. By intentionally *conveying* to the principal offender that s/he assents to and concurs in the commission of the offence (*R v Lowery & King (No 2)* [1972] VR 560; *R v **Dardovski* Vic CCA 18/5/1995).
+
+33. As with counselling or procuring, the focus here is on whether the accused assisted or encouraged the principal offender in some way. To this end, conveying assent (the third method of aiding or abetting) is seen as an indirect form of encouragement (*R v Makin* (2004) 8 VR 262).
+
+34. For the accused to have aided or abetted the principal offender, s/he must have actually provided encouragement or assistance in some form. It is not sufficient that s/he secretly held an intention to assist, but did not actually provide any assistance or encouragement (*R v Allan *[1965] 1 QB 130).
+
+35. However, the accused’s conduct does not need to have caused the offending in any way. An aider or abettor generally does not physically participate in the offending (*Osland** v R* (1998) 197 CLR 316; *R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+36. In cases where the prosecution cannot prove which of several possible co-accused was the principal offender, it will be sufficient to prove that the co-accused all assisted or encouraged each other in some way (*R v Phan* (2001) 53 NSWLR 480; *R v Clough* (1992) 28 NSWLR 396; *R v Mohan* [1967] 2 AC 187).
+
+
+
+## Conveying Assent
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+37. As noted above, a person can aid or abet the principal offender by conveying assent to, and concurrence in, the commission of the offence (*R v Lowery & King (No 2)* [1972] VR 560; *R v **Dardovski* Vic CCA 18/5/1995).
+
+38. This test will not be satisfied by simply proving that the accused was present at the commission of the crime, and assented to and concurred in its commission. The prosecution must prove that the accused’s acquiescence or assent amounted to assistance or encouragement in some way (*R v Phan* (2001) 53 NSWLR 480; *R v Al Qassim *[2009] VSCA 192).
+
+39. This requires the prosecution to prove that the accused, directly or indirectly, expressed a willingness to assist the principal offender if required (*R v Makin* (2004) 8 VR 262).
+
+40. The accused does not need to have actually provided assistance for this test to be satisfied. The focus of this test is on the accused’s *willingness* to assist the principal offender if required (*R v Makin* (2004) 8 VR 262).
+
+41. The accused’s willingness to assist may be inferred from the way in which s/he conveyed his/her assent to commission of the crime (*R v Makin* (2004) 8 VR 262; *R v Phan* (2001) 53 NSWLR 480).
+
+42. It is not necessary to consider the principal offender’s response to the accused’s offer of assistance. The issue is simply whether the accused conveyed his or her support (*R v Makin* (2004) 8 VR 262).
+
+
+
+## Presence at the Commission of the Crime
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+43. While historically an aider or abettor had to be present at the commission of the crime, this is no longer the case. A person may aid and abet a crime even if s/he is not physically present at the time it is committed (*R v Morgan* [1994] 1 VR 567; *R v Wong* [2005] VSC 96. See also *Arafan** v R *(2010) 31 VR 82; [2010] VSCA 356).
+
+44. Conversely, a person may be present at the commission of the crime, and not be an aider and abettor. Mere presence at a crime is not sufficient by itself to found liability (*R v Al Qassim *[2009] VSCA 192; *R v Makin* (2004) 8 VR 262; *R v Lam* (2008) 185 A Crim R 453; *R v Nguyen *[2010] VSCA 23; *Arafan** v R* (2010) 31 VR 82; [2010] VSCA 356; *Al-Assadi v R *[2011] VSCA 111).
+
+45. This is because, to be liable, a person must have assisted or encouraged the principal offender in some way. A person who is simply present at the commission of a crime will usually not have offered such assistance or encouragement (*R v Makin* (2004) 8 VR 262).
+
+46. In some cases, however, the accused may assist or encourage the commission of a crime by being present. For example, by choosing to be present at the crime scene, the accused may provide moral support to the principal offender, or demonstrate a willingness to assist if required (*R v Lowery & King (No 2)* [1972] VR 560; *R v **Conci* [2005] VSCA 173; *R v **Panozzo* [2007] VSCA 245).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+47. For the accused’s presence to constitute assistance or encouragement, he or she must have done something more than simply be at the scene of the crime. The accused must, at some point, have said or done something which showed that he or she was linked in purpose with the principal offender, and thus contributed to the crime (*R v Al Qassim* [2009] VSCA 192; *R v Nguyen *[2010] VSCA 23).
+
+48. The accused must have done something of a kind that can reasonably be seen as intentionally adopting and contributing to what was taking place in his or her presence (*Al-Assadi v R *[2011] VSCA 111).
+
+49. Where it is alleged that the accused aided or abetted by being present at the scene of the crime, the judge should therefore tell the jury that mere presence is not sufficient. It should be made clear that something more is required (*R v Al Qassim* [2009] VSCA 192; *Al-Assadi v R *[2011] VSCA 111).
+
+50. The judge should clearly identify the additional matters said to constitute assistance or encouragement (*R v Al Qassim* [2009] VSCA 192).
+
+51. In determining whether the accused’s presence aided or abetted the principal offender, the accused’s conduct relating to the offence should be viewed as a whole. Things that the accused said or did prior to the commission of the principle offence may warrant the conclusion that the accused’s presence made him or her complicit in the offence, by helping or encouraging the principal offender to commit the crime, or conveying assent to and concurrence in the commission of that crime (*R v Al Qassim *[2009] VSCA 192).
+
+52. It may be possible for the jury to infer from the accused’s *intentional *presence at the crime that he or she aided or abetted the principal offender. For example, if the criminal offending was designed to be a public spectacle (such as an illegal prize fight), and drew support from the presence of observers, the accused’s presence may be seen as having provided encouragement to the principal offender (See *R v Coney* (1882) 8 QBD 534).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+### Intention to Assist
+
+
+
+53. The third element requires the prosecution to not only prove that the accused assisted or encouraged the commission of the crime in some way, but that s/he *intended* to do so (*R v Stokes & **Difford* (1990) 51 A Crim R 25; *R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+54. The accused’s state of mind must be assessed at the time s/he gave the relevant support or assistance, rather than at the time of the offence (*White v Ridley* (1978) 140 CLR 342).
+
+55. The state of mind the prosecution must prove in relation to an accessory differs from the state of mind required for the principal offender:
+
+
+
+- For the principal offender, the prosecution must prove that, at the time of the offence, s/he acted with the state of mind necessary for that offence;
+
+- For the accessory, the prosecution must prove that, at the time s/he offered assistance or encouragement to the principal offender, s/he intended to assist or encourage him/her (*R v Stokes & **Difford* (1990) 51 A Crim R 25; *R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+
+
+56. The accused must have intended to encourage or assist the principal offender to commit offence charged. It is therefore not sufficient for the prosecution to prove that:
+
+
+
+- The accused had a general intention to assist crime (*R v Clarkson* [1971] 3 All ER 344; *Giorgianni** v R* (1985) 156 CLR 473; *R v **Tamme* [2004] VSCA 165); or
+
+- That the accused intended to assist or encourage a significantly different offence (*Giorgianni** v R *(1985) 156 CLR 473; *Chai v R* (2002) 187 ALR 436; *R v **Conci* [2005] VSCA 173).[^7]
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+57. Where criminal liability attaches to conduct that produces a particular result (e.g. death or serious injury), it is not necessary that the accused intended to produce that result. It is only necessary that s/he intended to assist or encourage the conduct that ultimately produced that result (*Giorgianni** v R *(1985) 156 CLR 473).
+
+58. Even if the principal offence is one that does not require the principal offender to have had a particular state of mind when it was committed (i.e., a strict liability offence), the accused must still be shown to have intended to encourage or assist the principal offender to commit that offence (*Giorgianni** v R *(1985) 156 CLR 473; *R v **Tamme* [2004] VSCA 165; *R v **Dardovski* Vic CCA 18/5/1995).
+
+59. In cases where it is alleged that the accused provided assistance or encouragement by conveying approval of the offending (see above), the prosecution must prove that, by conveying that approval, the accused intended to assist or encourage the principal offender (*R v Makin* (2004) 8 VR 262; *R v Phan* (2001) 53 NSWLR 480).
+
+60. Where it is suggested that the accused’s presence at the crime assisted or encouraged its commission, it is for the jury to assess whether his/her presence was intended to have this effect (*R v Beck* (1989) 43 A Crim R 135; *R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+61. The accused’s conduct prior to the commission of the offence may be evidence of whether s/he intended to provide encouragement or assistance at the time of the offence (*R v Lam & **Ors** (Ruling No 20)* (2005) 159 A Crim R 448).
+
+62. In some cases, the accused’s conduct after the offending may also be evidence of his/her state of mind at an earlier time (*R v Ngo* [2002] VSCA 188; *R v **Kitchin* [2001] VSCA 66).
+
+
+
+### Failure to Act
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Elements
+
+63. Ordinarily, the fact that the accused failed to act in a particular way will not be sufficient to prove that s/he assisted or encouraged the principal offender to commit the crime (*R v Russell* [1933] VLR 59).
+
+64. However, where the accused is under a legal or ethical duty to act, a failure to do so may be evidence of encouragement or assent to the offending (see, e.g. *R v Russell* [1933] VLR 59; *Ex **parte** Parker: Re **Brotherson* (1957) SR (NSW) 326).
+
+65. A duty to act may arise where the accused is *in loco parentis* to the victim (*R v Russell* [1933] VLR 59; *R v Clarke and Wilton* [1959] VR 645).
+
+66. Where a person has a duty to act, s/he may be seen to have assisted or encouraged the principal offender if s/he fails to offer any protest to his/her conduct, or fails to offer any effective dissent (*R v Russell* [1933] VLR 59).
+
+
+[^4]: For strict liability offences, while the accused must know the essential circumstances of the offence, s/he does not need to have any awareness of the principal offender’s state of mind (*Giorgianni** v R* (1985) 156 CLR 473).
+[^5]: If assistance was provided after the offence was committed, see 5.6 Assist Offender.
+[^6]: In *Attorney-General's Reference (No 1 of 1975) *[1975] QB 773 there is a suggestion that the word “procure” requires a causal connection. Given that Australia treats the four words of “aid, abet, counsel or procure” as descriptive of a single idea, it is not likely that this causal connection is required in Victoria.
+[^7]: The accused may be liable if the offence committed only varied slightly from the offence the accused intended to assist or encourage (e.g. murder rather than manslaughter) (see e.g. *R v Stokes & **Difford* (1990) 51 A Crim R 25).
+
+
+---
+
+
+## 5.5 Withdrawing Assistance or Encouragement
+
+## Withdrawing Assistance or Encouragement
+
+
+
+1. A person who aids, abets, counsels or procures the commission of an offence may avoid liability if s/he expressly withdraws his/her assistance or encouragement before the offence is committed (*White v Ridley* (1978) 140 CLR 342; *R v Croft* [1944] KB 295).
+
+2. The withdrawal must be accompanied by all action the accused can reasonably take to undo the effect of his/her previous encouragement or assistance. This may include informing the police (*White v Ridley* (1978) 140 CLR 342; *R v **Tietie* (1988) 34 A Crim R 438; *R v Jensen and Ward* [1980] VR 196).
+
+3. It is usually more difficult for an accused to withdraw at the time of the offence, as this will usually require greater conduct on the accused’s behalf to undo the effect of his/her previous assistance or encouragement (see *R v Becerra* (1976) 62 Cr App R 212).
+
+4. For further information about withdrawal, see the section on Withdrawal of Agreement in 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+
+---
+
+
+## 5.5 Terminology
+
+## Terminology
+
+
+
+1. A judge should not refer to aiding and abetting as a "less formal" method of proving involvement in a crime than acting in concert. Such an expression may suggest that the inference of guilt might be more easily drawn (*R v **Abbouchi** & **Allouche** *[2008] VSCA 171).
+
+2. A judge should also not refer to the accused being "simply" an aider and abettor (rather than a principal acting in concert). The word "simply" in this context carries the connotation of a less significant involvement inherent in the role, and a diminished seriousness in the finding by the jury that the accused was implicated in this way (*R v **Abbouchi** & **Allouche** *[2008] VSCA 171).
+
+
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 5.5.1
+
+
+## 5.5.1 Charge: Counselling and Procuring
+
+# 5.5.1 Charge: Counselling and Procuring
+
+This charge only applies to offence committed before 1 November 2014.
+
+This charge should be used where the accused is alleged to have assisted or encouraged the principal offender prior to the offending.
+
+NOA has been charged with the offence of NOO.[^2] However, it has not been alleged that s/he personally committed the acts that make up that offence. Instead, the prosecution has alleged that s/he committed NOO by assisting or encouraging [*insert names of co-offenders*] to commit that offence. I must therefore direct you about when a person will be held responsible for assisting or encouraging someone else to commit an offence.
+
+The law says that if someone "counsels or procures" another person to commit an offence, then they will be equally guilty of that offence, regardless of the fact that they did not commit the crime themselves. This is one of the situations in which the law holds a person responsible for the actions of other people.
+
+In order to find NOA guilty of committing NOO by counselling or procuring, the prosecution must prove the following [three/four] elements:[^3]
+
+One – that someone committed the offence of NOO. Throughout these directions, I will call the person who committed that offence the "principal offender".
+
+Two – that the accused knew of, or believed in, the essential circumstances needed to establish NOO.
+
+Three – that the accused intentionally assisted or encouraged the principal offender to commit NOO.
+
+[*If withdrawal is relevant, add the following shaded section.*]
+
+Four – that the accused did not effectively withdraw his/her assistance or encouragement prior to the offence being committed.
+
+Before you can find NOA guilty of NOO by counselling or procuring, you must be satisfied that the prosecution has proven all of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+
+
+## Commission of Offence
+
+The first element that the prosecution must prove is that someone committed the offence of NOO.
+
+In this case, this requires you to be satisfied that all of the following matters have been proven beyond reasonable doubt:
+
+[*Describe **all of** the elements of the offence, explain those elements, and relate them to the facts.*]
+
+
+[^2]: Name of Offence.
+[^3]: If withdrawal is relevant, there are four elements. Otherwise, there are three elements.
+
+
+---
+
+
+## 5.5.1 Knowledge
+
+## Knowledge
+
+The second element that the prosecution must prove is that NOA knew all the essential circumstances needed to establish the offence of NOO, or believed that those essential circumstances existed.
+
+The "essential circumstances" that are needed to establish NOO are the [*insert number*] matters that I just explained to you in relation to the first element. So for this second element to be met, NOA must have known or believed that:
+
+[*Summarise** **all of** the elements*[^4]* of the principal offence.*]
+
+For this element to be satisfied, you must find that NOA him/herself actually knew of, or believed in, all of these circumstances at the time s/he [*describe the alleged conduct constituting the counselling or procuring*]. It is not sufficient for you to find that s/he should have known those circumstances.
+
+The prosecution alleged that NOA had the necessary knowledge or belief. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing [*insert **defence** evidence and/or arguments*].
+
+
+[^4]: If one of the elements of the relevant offence is a particular result (e.g. that the act cause death or serious injury), the judge should make it clear that the accused did not need to know that that result would be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, with the necessary state of mind.
+
+
+---
+
+
+## 5.5.1 Intentional Assistance or Encouragement
+
+## Intentional Assistance or Encouragement
+
+The third element that the prosecution must prove is that the accused intentionally assisted or encouraged the principal offender to commit NOO. In this case, it is alleged that NOA did this by what is called "counselling or procuring".
+
+A person counsels or procures the commission of an offence if s/he urges, advises or solicits the principal offender to commit that offence, or encourages or supports him or her to commit it. This can be done by words, action or both.
+
+For this element to be met, you do not need to be satisfied that NOA’s words or actions caused the principal offender to commit the crime. A person can counsel or procure someone to commit an offence even if that other person already intended to commit that offence.
+
+You also do not need to be satisfied that the principal offender was actually assisted or encouraged by NOA’s behaviour. As long as NOA endeavoured to assist or encourage him/her, in circumstances in which the principal offender could potentially have been assisted or encouraged, then this element will be met.
+
+However, you must be satisfied that NOA intentionally counselled or procured the commission of NOO. That is, you must be satisfied that, by saying or doing what s/he did, NOA intended to assist or encourage the principal offender to commit that offence.
+
+[*If the relevant offence requires a particular result to have been caused add the following shaded section.*]
+
+This does not mean that you have to find that NOA intended [*describe the relevant result, **e.g**.* “that NOV die”]. This element will be satisfied if you find that the accused intended to assist or encourage the principal offender to commit the conduct that ultimately caused that result.
+
+In this case, it was alleged that NOA counselled or procured the principal offender to commit NOO by [*insert prosecution evidence and/or arguments*]. The defence denied this, arguing [*insert **defence** evidence and/or arguments*].
+
+It is only if you are satisfied, beyond reasonable doubt, that NOA intentionally assisted or encouraged the principal offender to commit NOO, by counselling or procuring the commission of that offence, that this third element will be met.
+
+
+---
+
+
+## 5.5.1 Withdrawal
+
+## Withdrawal
+
+[*If withdrawal of the accused’s assistance or encouragement is in issue, add the following shaded section.*]
+
+The fourth element that the prosecution must prove is that the accused did not effectively withdraw his/her assistance or encouragement prior to the offence being committed.
+
+The law says that if a person is going to avoid liability by taking back his/her previous assistance or encouragement for a criminal act, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of his/her previous assistance or encouragement, in sufficient time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of his/her previous assistance or encouragement is a question for you. You must apply your common sense and experience. For example, in some cases it will be sufficient for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear that if the principal offender commits the offence, s/he does so without the accused’s approval or support. In other cases it may be necessary for the accused to inform the police of the planned offence.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw his/her previous assistance or encouragement. It is the prosecution who must prove that the accused did not withdraw in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw his/her previous assistance or encouragement. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [*Insert **defence** evidence and/or arguments.*]
+
+
+---
+
+
+## 5.5.1 Application of Law to Evidence
+
+## Application of Law to Evidence
+
+[*If not already done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+To summarise, before you can find NOA guilty of committing NOO by counselling or procuring, the prosecution must prove to you beyond reasonable doubt:
+
+One – that someone committed NOO; and
+
+Two – that NOA knew of, or believed in, the essential circumstances needed to establish NOO; and
+
+Three – that NOA intentionally assisted or encouraged the principal offender to commit NOO, by counselling or procuring the commission of that crime.
+
+[*If withdrawal is relevant, add the following shaded section.*]
+
+and Four – that NOA did not effectively withdraw his/her earlier assistance or encouragement.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of NOO by way of counselling or procuring.
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 5.5.2
+
+
+## 5.5.2 Checklist: Counselling and Procuring
+
+# 5.5.2 Checklist: Counselling and Procuring
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+
+
+1. Someone committed the offence charged; and
+
+2. The accused knew of, or believed in, the essential circumstances needed to establish that offence; and
+
+3. The accused intentionally assisted or encouraged the principal offender to commit that offence.
+
+1. Commission of the Offence
+
+1. 1. Did someone commit the offence charged?
+
+1. Consider – Has the prosecution proven all of the elements of that offence?
+
+1. If Yes, then go to Question 2
+
+2. If No, then the accused is not guilty of counselling or procuring the offence charged
+
+2. Knowledge of Essential Circumstances
+
+2. 2. Did the accused know of, or believe in, the essential circumstances needed to establish that offence?
+
+2. Consider – When s/he assisted or encouraged the principal offender to commit the offence charged, did the accused know of, or believe in, all of the matters considered in question 1?[^2]
+
+3. If Yes, then go to Question 3
+
+4. If No, then the accused is not guilty ofcounselling or procuring the offence charged
+
+3. Assistance or Encouragement
+
+3. 3. Did the accused intentionally assist or encourage the principal offender to commit that offence?
+
+3. Consider – Did the accused counsel or procure the commission of that offence by urging, advising, soliciting, encouraging or supporting the principal offender to commit it?
+
+4. Consider – By saying or doing what s/he did, did the accused intend to assist or encourage the principal offender to commit that offence?
+
+5. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1 and 2)
+
+6. If No, then the accused is not guilty of counselling or procuring the offence charged
+
+
+
+Last updated: 23 April 2008
+
+
+[^2]: If one of the elements of the relevant offence is a particular result (e.g. that the act cause death or serious injury), the judge should make it clear that the accused did not need to know that that result would be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, with the necessary state of mind.
+
+
+---
+
+---
+
+# Chapter 5.5.3
+
+
+## 5.5.3 Charge: Aiding and Abetting
+
+# 5.5.3 Charge: Aiding and Abetting
+
+This charge only applies to offences committed before 1 November 2014.
+
+This charge should be used where the accused is alleged to have assisted or encouraged the principal offender at the time of the offending.
+
+NOA has been charged with the offence of NOO.[^2] However, it has not been alleged that s/he personally committed the acts that make up that offence. Instead, the prosecution has alleged that s/he committed NOO by assisting or encouraging [*insert names of co-offenders*] to commit that offence. I must therefore direct you about when a person will be held responsible for assisting or encouraging someone else to commit an offence.
+
+The law says that if someone "aids or abets" another person to commit an offence, then they will be equally guilty of that offence, regardless of the fact that they did not commit the crime themselves. This is one of the situations in which the law holds a person responsible for the actions of other people.
+
+In order to find NOA guilty of committing NOO by aiding or abetting, the prosecution must prove the following [three/four] elements:[^3]
+
+One – that someone committed the offence of NOO. Throughout these directions, I will call the person who committed that offence the "principal offender".
+
+Two – that the accused knew of, or believed, in the essential circumstances needed to establish NOO.
+
+Three – that the accused intentionally assisted or encouraged the principal offender to commit NOO.
+
+[*If withdrawal is relevant, add the following shaded section.*]
+
+Four – that the accused did not effectively withdraw his/her assistance or encouragement prior to the offence being committed.
+
+Before you can find NOA guilty of NOO by aiding or abetting, you must be satisfied that the prosecution has proven all of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+
+
+## Commission of Offence
+
+The first element that the prosecution must prove is that someone committed the offence of NOO.
+
+In this case, this requires you to be satisfied that all of the following matters have been proven beyond reasonable doubt:
+
+[*Describe all of the elements of the offence, explain those elements, and relate them to the facts.*]
+
+
+[^2]: Name of Offence.
+[^3]: If withdrawal is relevant, there are four elements. Otherwise, there are three elements.
+
+
+---
+
+
+## 5.5.3 Knowledge
+
+## Knowledge
+
+The second element that the prosecution must prove is that NOA knew all the essential circumstances needed to establish the offence of NOO, or believed that those essential circumstances existed.
+
+The "essential circumstances" that are needed to establish NOO are the [*insert number*] matters that I just explained to you in relation to the first element. So for this second element to be met, NOA must have known or believed that:
+
+[*Summarise all of the elements*[^4] *of the principal offence.*]
+
+For this element to be satisfied, you must find that NOA him/herself actually knew of, or believed in, all of these circumstances at the time s/he [*describe the alleged conduct constituting the aiding or abetting*]. It is not sufficient for you to find that s/he should have known those circumstances.
+
+The prosecution alleged that NOA had the necessary knowledge or belief. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing [*insert defence evidence and/or arguments*].
+
+
+[^4]: If one of the elements of the relevant offence is a particular result (e.g. that the act cause death or serious injury), the judge should make it clear that the accused did not need to know that that result would be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, with the necessary state of mind.
+
+
+---
+
+
+## 5.5.3 Intentional Assistance or Encouragement
+
+## Intentional Assistance or Encouragement
+
+The third element that the prosecution must prove is that the accused intentionally assisted or encouraged the principal offender to commit NOO. In this case, it is alleged that NOA did this by what is called "aiding or abetting".
+
+A person "aids or abets" the principal offender if s/he either:
+
+
+
+- Intentionally helps him/her to commit the offence; or
+
+- Intentionally encourages him/her, by words or presence, to commit the offence; or
+
+- Intentionally conveys to him/her, by words or presence and behaviour, that s/he supports the commission of the offence.
+
+
+---
+
+
+## 5.5.3 Intentional Assistance or Encouragement
+
+A person can aid or abet an offence by words, action or both.
+
+[*If conveying assent is relevant, add the following shaded section.*]
+
+To have aided or abetted by conveying support for the commission of the offence, the accused must have done more than simply agreed with what the principal offender was doing. You must find that s/he attempted to communicate his/her support to the principal offender in a way that the principal offender could have been aware of, and that s/he indicated his/her willingness to assist the principal offender if required.
+
+However, you do not have to find that the principal offender was aware of NOA’s offer of assistance, or was actually encouraged by it. It is sufficient if NOA attempted to communicate his/her support and willingness to assist.
+
+You do not need to be satisfied that NOA’s words or actions caused the principal offender to commit the crime. A person can assist or encourage someone to commit an offence even if that other person already intended to commit that offence.
+
+You also do not need to be satisfied that the principal offender was actually assisted or encouraged by NOA’s behaviour. As long as NOA endeavoured to assist or encourage him/her, in circumstances in which the principal offender could potentially have been assisted or encouraged, then this element will be met.
+
+However, you must be satisfied that NOA intentionally aided or abetted the commission of NOO. That is, you must be satisfied that, by saying or doing what s/he did, NOA intended to help, encourage or convey support to the principal offender to commit that offence.
+
+[*If the relevant offence requires a particular result to have been caused, add the following shaded section.*]
+
+This does not mean that you have to find that NOA intended [*describe the relevant result,** e.g**.* “that NOV die”]. It will be sufficient if you find that s/he intended to assist or encourage the principal offender to commit the conduct that ultimately caused that result.
+
+In this case, it was alleged that NOA aided or abetted the principal offender to commit NOO by [*insert prosecution evidence and/or arguments*]. The defence denied this, arguing [*insert defence evidence and/or arguments*].
+
+[*If the prosecution argued that the accused assisted or encouraged the offender by his/her presence, add the following shaded section.*]
+
+
+---
+
+
+## 5.5.3 Intentional Assistance or Encouragement
+
+You will note that in this case the prosecution did not allege that NOA said or did anything at the time of the offence to indicate his/her encouragement or support of the principle offender. They alleged that s/he assisted or encouraged the principle offender simply by being present.
+
+This element can be satisfied by virtue of the accused having been present at the commission of the offence. However, for this to be the case, you must find that NOA intended his/her presence at the crime scene to have encouraged or assisted the principle offender to commit NOO. It is not sufficient for him/her simply to have been there at the relevant time.
+
+In determining whether NOA intended to provide assistance or encouragement by his/her presence at the commission of the offence, you should view his/her conduct as a whole. You should look at his/her conduct before and at the time of the alleged offence, and consider whether s/he was linked in purpose with the principle offender in some way, and so contributed to the offence.
+
+If you find that NOA was simply present when the offence was committed, then this element will not be met. However, if you are satisfied that NOA’s presence at the commission of the offence made him/her complicit in that offence – because by being present s/he intentionally helped or encouraged the primary offender to commit the crime, or conveyed support for the commission of the offence – then this element will be met.
+
+[*If not already done, identify the matters said to constitute assistance or encouragement*.]
+
+It is only if you are satisfied, beyond reasonable doubt, that NOA intentionally assisted or encouraged the principal offender to commit NOO that this third element will be met.
+
+
+---
+
+
+## 5.5.3 Withdrawal
+
+## Withdrawal
+
+[*If withdrawal of the accused’s assistance or encouragement is in issue, add the following shaded section.*]
+
+The fourth element that the prosecution must prove is that the accused did not effectively withdraw his/her assistance or encouragement prior to the offence being committed.
+
+The law says that if a person is going to avoid liability by taking back his/her previous assistance or encouragement for a criminal act, his/her withdrawal must be timely and effective. That is, s/he must do everything that s/he can reasonably do to undo the effect of his/her previous assistance or encouragement, in sufficient time for his/her actions to be effective.
+
+Whether the accused has taken all reasonable steps to undo the effect of his/her previous assistance or encouragement is a question for you. You must apply your common sense and experience. For example, in some cases it will be sufficient for the accused to take back any tools he or she has provided for the commission of the crime, and to make it clear that if the principal offender commits the offence, s/he does so without the accused’s approval or support. In other cases it may be necessary for the accused to inform the police of the planned offence.
+
+It is important to emphasise that it is not for the defence to prove that the accused did everything reasonably possible to withdraw his/her previous assistance or encouragement. It is the prosecution who must prove that the accused did not withdraw in a timely and effective manner.
+
+In this case, the prosecution argued that the accused had not done everything s/he reasonably could to withdraw his/her previous assistance or encouragement. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing that NOA’s withdrawal was timely and effective. [*Insert defence evidence and/or arguments.*]
+
+
+---
+
+
+## 5.5.3 Application of Law to Evidence
+
+## Application of Law to Evidence
+
+[*If not already done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+To summarise, before you can find NOA guilty of committing NOO by aiding or abetting, the prosecution must prove to you beyond reasonable doubt:
+
+One – that someone committed NOO; and
+
+Two – that NOA knew of, or believed in, the essential circumstances needed to establish NOO; and
+
+Three – that NOA intentionally assisted or encouraged the principal offender to commit NOO, by either helping him/her, encouraging him/her, or conveying his/her support.
+
+[*If withdrawal is relevant, add the following shaded section.*]
+
+and Four – that NOA did not effectively withdraw his/her earlier assistance or encouragement.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of NOO by way of aiding or abetting.
+
+Last updated: 1 November 2014
+
+
+---
+
+---
+
+# Chapter 5.5.4
+
+
+## 5.5.4 Checklist: Aiding and Abetting
+
+# 5.5.4 Checklist: Aiding and Abetting
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+
+
+1. Someone committed the offence charged; and
+
+1. The accused knew of, or believed in, the essential circumstances needed to establish that offence; and
+
+2. The accused intentionally assisted or encouraged the principal offender to commit that offence.
+
+1. Commission of the Offence
+
+1. 1. Did someone commit the offence charged?
+
+1. Consider – Has the prosecution proven all of the elements of that offence?
+
+1. If Yes, then go to Question 2
+
+2. If No, then the accused is not guilty of aiding or abetting the offence charged
+
+2. Knowledge of Essential Circumstances
+
+2. 2. Did the accused know of, or believe in, the essential circumstances needed to establish that offence?
+
+2. Consider – When s/he assisted or encouraged the principal offender to commit the offence charged, did the accused know of, or believe in, all of the matters considered in question 1?[^2]
+
+3. If Yes, then go to Question 3
+
+4. If No, then the accused is not guilty of aiding or abetting the offence charged
+
+3. Assistance or Encouragement
+
+3. 3. Did the accused intentionally assist or encourage the principal offender to commit that offence?
+
+1. 3.1 Did the accused intentionally help the principal offender to commit that offence?
+
+5. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1 and 2)
+
+6. If No, then go to Question 3.2
+
+2. 3.2 Did the accused intentionally encourage the principal offender to commit that offence?
+
+7. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1 and 2)
+
+8. If No, then go to Question 3.3
+
+3. 3.3 Did the accused intentionally convey to the principal offender by words or presence and behaviour that s/he supported the commission of that offence?
+
+3. Consider – Did the accused attempt to communicate his/her support to the principal offender, and indicate his/her willingness to assist if required?
+
+9. If Yes, then the accused is guilty of the offence charged (as long as you have also answered Yes to questions 1 and 2)
+
+10. If No, then the accused is not guilty of aiding or abetting the offence charged
+
+
+[^2]: If one of the elements of the relevant offence is a particular result (e.g. that the act cause death or serious injury), the judge should make it clear that the accused did not need to know that that result would be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, with the necessary state of mind.
+
+
+---
+
+
+## 5.5.4 Checklist: Aiding and Abetting
+
+Last updated: 23 April 2008
+
+
+[^2]: If one of the elements of the relevant offence is a particular result (e.g. that the act cause death or serious injury), the judge should make it clear that the accused did not need to know that that result would be achieved. It is sufficient if s/he knew that the principal offender was going to commit the acts which ultimately caused that result, with the necessary state of mind.
+
+
+---

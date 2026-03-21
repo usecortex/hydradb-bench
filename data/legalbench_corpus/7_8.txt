@@ -1,0 +1,1663 @@
+# Chapter 7.8.1
+
+
+## 7.8.1 Statutory Perjury
+
+# **7.8.1 Statutory Perjury**
+
+
+
+## Introduction
+
+
+
+1. Perjury is an offence under *Crimes Act 1958* s 314, as well as at common law (see *Crimes Act 1958* s 314(3)).
+
+1. This topic addresses the statutory offence of perjury. See 7.8.2 Common Law Perjury for information concerning the common law offence.
+
+
+---
+
+
+## 7.8.1 Charging an accused who has made multiple false statements
+
+## Charging an accused who has made multiple false statements
+
+
+
+1. As each false statement constitutes a separate crime, each false statement should usually be charged as a separate offence (*Traino** v R* (1987) 45 SASR 473).
+
+2. Consequently, where the accused has made multiple false statements, the prosecution should usually either:
+
+
+
+- Select one of the statements as the basis for a single charge of perjury; or
+
+- Charge the accused with multiple offences (one charge for each false statement) (*Stanton v Abernathy *(1990) 19 NSWLR 656).
+
+
+
+3. However, where the accused has made a series of false statements about the same matter, it may be appropriate to lay only one charge of perjury, which consists of the cumulative effect of all of the statements (*Traino** v R* (1987) 45 SASR 473; *Stanton v Abernathy* (1990) 19 NSWLR 656).
+
+4. Courts should adopt a common sense approach when deciding whether the prosecution can lay one charge for multiple statements (*Traino** v R* (1987) 45 SASR 473; *Stanton v Abernathy* (1990) 19 NSWLR 656).
+
+
+---
+
+
+## 7.8.1 Elements
+
+## Elements
+
+
+
+1. Statutory perjury has the following three elements:
+
+1. The accused made a false statement;
+
+2. That statement was made in prohibited circumstances; and
+
+3. The accused made the false statement knowingly.
+
+2. Unlike at common law, the prosecution does not need to prove that the statement was material to the proceeding. All evidence is deemed to be material (*Crimes Act 1958* s 315).
+
+
+---
+
+
+## 7.8.1 The accused made a false statement
+
+## The accused made a false statement
+
+
+
+1. The accused must have made a false statement about a fact, matter or thing (*Crimes Act 1958* s 314(3)).
+
+2. The word “false” is to be given its ordinary English meaning: a statement is “false” if it is untrue (*R v Davies* (1974) 7 SASR 375).
+
+3. Under s 314(3), there appear to be three ways in which an accused can make a “false” statement:
+
+1. By making an untrue assertion about a fact, matter or thing;
+
+1. By purporting to verify the truth of a statement which is untrue wholly or in part; or
+
+2. By omitting to mention information which the law requires him or her to mention.
+
+4. The prosecution must specify the statement that is alleged to be false. It will usually not be sufficient for the prosecution to rely upon an entire transcript of testimony and allege that the witness gave false evidence (*Stanton v Abernathy* (1990) 19 NSWLR 656).
+
+
+---
+
+
+## 7.8.1 Proving the accused made the statement
+
+## Proving the accused made the statement
+
+
+
+1. The prosecution must be able to prove, on the basis of admissible evidence, that the accused made the relevant statement.
+
+2. This may not be possible where:
+
+
+
+- There is a legislative provision limiting the subsequent admissibility of statements made in a certain kind of proceeding (see, e.g. *Royal Commissions Act 1902* (Cth) s 6DD); and
+
+- The statement was only made in that kind of proceeding (see, e.g. *Giannarelli v R* (1983) 154 CLR 212).
+
+
+---
+
+
+## 7.8.1 Proving the statement was false
+
+## Proving the statement was false
+
+
+
+1. Although *Evidence Act 2008* s 164 abolished the general requirement for corroboration, an exception is made with respect to the offence of perjury (s 164(2)).
+
+2. Consequently, where the prosecution is relying on oral evidence to prove that the accused’s statement was false, the prosecution’s evidence must either come from two witnesses, or one witness with corroboration. Failure to comply with this requirement will entitle the accused to an acquittal (*R v Linehan* [1921] VLR 582; *R v Hoser* [1998] 2 VR 535).
+
+3. The requirement for corroboration only applies to proving that the accused’s statement was false. Corroboration is not required to prove that the accused made the statement or knew the statement was false (*R v Linehan* [1921] VLR 582; *R v O’Connor* [1980] Crim LR 43; *R v **Mondon* [2003] 1 Qd R 200, [11]).
+
+4. The requirement for corroboration only applies where the prosecution is relying on oral evidence to prove that the accused’s statement was false. Corroboration is not required where the accused has clearly admitted that his or her statement was false (*R v Townley* (1986) 24 A Crim R 76; *R v Sumner* [1935] VLR 197. See also *R v **Mondon* [2003] 1 Qd R 200, [14]).
+
+5. However, corroboration is required where the accused has simply made contradictory statements (*R v Townley* (1986) 24 A Crim R 76; *R v Sumner* [1935] VLR 197).
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+## What is Corroboration Evidence?
+
+
+
+1. Corroboration can be found in both direct and circumstantial evidence (*R v Baskerville* (1916) 2 KB 658; *R v Rayner* [1998] 4 VR 818; *R v Holmes* [2008] VSCA 128).
+
+2. To be capable of amounting to corroboration, evidence must:
+
+1. Come from a source independent of the witness to be corroborated; and
+
+1. Be capable of confirming, in some material particular, that the accused made a statement that was false (R v Linehan [1921] VLR 582; R v Baskerville (1916) 2 KB 658; R v Rosemeyer [1985] VR 945).
+
+3. Each of these requirements is discussed in turn below.
+
+
+
+Independent Evidence
+
+
+
+4. In most cases there will be little difficulty in determining whether corroborative evidence comes from a source independent of the witness to be corroborated. However, particular care should be exercised where it is suggested that the following types of evidence amount to corroboration:
+
+
+
+- Evidence of oral admissions made to the witness to be corroborated;
+
+- Post-offence conduct evidencing a consciousness of guilt;
+
+- Circumstantial evidence generally;
+
+- Evidence where there is a possibility of joint concoction.
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+5. Evidence given by a witness of oral admissions that the accused allegedly made to him or her is not evidence from a source independent of that witness, and cannot provide corroboration. If such evidence is led, the judge should give directions that ensure the jury does not misuse it as corroborative evidence (*R v Robertson* [1998] 4 VR 30).
+
+6. If a “lie” evidencing a consciousness of guilt is to be used as corroboration, the falsity of the lie must be established by evidence that is independent of the witness to be corroborated (*Edwards v R* (1993) 178 CLR 193). See 4.6 Incriminating Conduct (Post Offence Lies and Conduct).
+
+7. The true source of direct evidence will generally be clear, but this is often not the case with circumstantial evidence. As a result, care should always be taken to ensure that circumstantial evidence comes from a source independent of the witness concerned (*R v Martin* (2003) 142 A Crim R 153. See also *R v Hoser* [1998] 2 VR 535).
+
+8. In relation to accomplices, it was accepted at common law that accomplices could not provide mutual corroboration, because there would be both an opportunity and a motive for joint fabrication (*Pollitt v R* (1991) 174 CLR 558).
+
+9. It is unclear whether this principle has any potential application in relation to corroboration requirements for perjury. The original formulation of the corroboration rule for perjury states that the prosecution requires two witnesses, or one witness with corroboration. The potential for joint fabrication has not been explicitly identified as an exception to that ‘two witness’ rule.
+
+10. However, in *R v Hoser* [1998] 2 VR 535, the accused was charged with perjury relating to a claim that he had been sent a letter from VicRoads. Two employees of VicRoads testified that the letter had not come from VicRoads. The trial judge treated those two witnesses as a single entity, as they came from different departments in VicRoads, rather than independent. On appeal, the Court described that position as favourable to the accused, but did not explore the matter further.
+
+
+
+Confirming Evidence
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+11. The requirement that the corroborative evidence be capable of confirming or supporting the evidence in question has been stated in a number of different ways. For example, in *R v Baskerville* (1916) 2 KB 658 it was held that evidence may be corroborative if it:
+
+
+
+- Connects or tends to connect the accused with the crime; or
+
+- Implicates the accused by confirming, in some material particular, not only the evidence that the crime has been committed, but also that the accused committed it; or
+
+- Shows, or tends to show, that the witness’s story that the accused committed the crime is true.
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+12. Most of the law about when evidence will provide corroboration was developed in the context of warnings about the dangers of acting on uncorroborated evidence. The following paragraphs, which describe when evidence provides corroboration, must be treated with some caution, as corroboration for perjury only required to prove that the statement was false and is not necessary for other elements of the offence (see *R v Linehan* [1921] VLR 582).
+
+13. To be corroborative, the evidence does not need to be capable of establishing any proposition beyond reasonable doubt (*Doney** v R* (1990) 171 CLR 207; *R v Pisano* [1997] 2 VR 342), nor does it need to be directly probative of guilt. It merely needs to be capable of “confirming”, “supporting” or “strengthening” the evidence in question. It is evidence which “helps to determine the truth of the matter”. In other words, it is evidence which renders the evidence in question more probable (*DPP v Kilbourne* [1973] AC 729; *R v Taylor* (2004) 8 VR 213; *R v Holmes* [2008] VSCA 128).
+
+14. The mere fact that an accused can advance an innocent explanation for a potentially corroborative fact does not deprive that fact of its capacity to corroborate. The jury may well regard the proffered explanation as implausible in the circumstances, or for some other reason properly reject it out of hand (*BRS v R* (1997) 191 CLR 275; *R v Challoner* (2000) 110 A Crim R 102; *R v Taylor* (2004) 8 VR 213; *R v **Strawhorn* [2008] VSCA 101; *R v Holmes* [2008] VSCA 128).
+
+15. In such cases, as long as the evidence is reasonably capable of corroborating matters which require corroboration, it may be left to the jury (*R v Holmes* [2008] VSCA 128).
+
+16. Corroborative evidence must bear upon the issue or issues joined at the trial. Evidence that merely confirms facts in the common ground between the parties will therefore not be corroborative (*R v Pisano* [1997] 2 VR 342; *R v Nanette* [1982] VR 81).
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+17. However, the law does not permit an accused to deprive facts of their corroborative quality by making a timely admission. An admitted fact may be corroborative if, when seen in the light of the prosecution case, that fact (or an inference drawn from it) is capable of implicating the accused (*R v Lindsay* (1977) 18 SASR 103; *R v **Arundell* [1999] 2 VR 228; *BRS v R* (1997) 191 CLR 275).
+
+
+---
+
+
+## 7.8.1 What is Corroboration Evidence?
+
+Evidence Consistent with Guilt and Innocence
+
+
+
+18. To be corroborative, evidence need not prove the offence, but it must be capable of confirming or tending to confirm the evidence of the witness requiring corroboration (*R v Baskerville* (1916) 2 KB 658; *Doney** v R* (1990) 171 CLR 207; *R v **Kerim* [1988] 1 Qd R 426; *R v Pisano* [1997] 2 VR 342).
+
+19. Evidence will not have this capacity (and will not be corroborative) if it is “intractably neutral” (*R v Pisano* [1997] 2 VR 342; *R v **Kerim* [1988] 1 Qd R 426).
+
+20. So long as the evidence is more consistent with guilt than innocence, it is no bar that corroborative evidence has a certain consistency with both guilt and innocence (*R v Pisano* [1997] 2 VR 342; *R v **Kerim* [1988] 1 Qd R 426).
+
+
+
+Directions on corroboration
+
+
+
+21. When identifying the relevant evidence, the judge should not explain that s/he has ruled that the identified evidence is capable of corroboration. Juries may mistake this for a direction that the evidence actually is corroborative (*R v **Zorad* (1990) 19 NSWLR 91; *R v Kendrick* [1997] 2 VR 699; *R v Jolly* [1998] 4 VR 495; *R v Williams* [2007] VSCA 208).
+
+22. It is preferable that the judge simply identify the relevant evidence as “evidence that the prosecution relies upon as amounting to corroboration”. Alternately, the judge may tell the jury that they may consider whether the specific evidence which s/he identifies amounts to corroboration (*R v **Zorad* (1990) 19 NSWLR 91, *R v Kendrick* [1997] 2 VR 699).
+
+23. Where a combination of circumstantial facts (rather than individual facts standing alone) is relied upon as corroboration, the jury should be directed to consider those facts in combination rather than in isolation (*R v Kendrick* [1997] 2 VR 699; *R v Tadic* CCA Vic 31/8/1993).
+
+
+---
+
+
+## 7.8.1 The false statement was made in prohibited circumstances
+
+## The false statement was made in prohibited circumstances
+
+
+
+1. The second element relates to the circumstances in which the false statement was made. It must have been made while on oath or affirmation, or in a declaration or affidavit (*Crimes Act 1958* s 314(3)).[^2]
+
+2. For this element to be met, the oath, affirmation, declaration or affidavit must have been lawfully made or administered (*R v Charles* (1866) 3 WW & A’B).
+
+3. For an oath or affirmation to have been lawfully administered, the body that administered it must have:
+
+
+
+- Had the power to administer oaths or affirmations (*R v Shuttleworth* [1909] VLR 431. See also *Evidence (Miscellaneous Provisions) Act 1958* s 111); and
+
+- Had the jurisdiction to hear the matter before it (*R v Kilkenny* (1890) 16 VLR 139; *R v Charles* (1866) 3 WW & A’B; *R v Ashby* (2010) 25 VR 107; *R v **Dobos* (1984) 58 ACTR 10. See also *Evidence (Miscellaneous Provisions) Act 1958* s 151).
+
+
+
+4. An oath will be lawfully effective even if:
+
+
+
+- A religious text is not used;
+
+- The accused did not have a religious belief, or a religious belief of a particular kind; or
+
+- The accused did not understand the nature and consequences of the oath (*Evidence Act 2008* s 24).
+
+
+
+5. An affidavit must be sworn before an authorised person. See *Evidence (Miscellaneous Provisions) Act 1958* s 123C for a list of authorised persons. See also *Evidence (Miscellaneous Provisions) Act 1958* ss 112, 124, 125, 126, 126A and 165 and *Evidence Act 2008* s 186.
+
+6. A statutory declaration must be signed in the presence of an authorised person (*Evidence (Miscellaneous Provisions) Act 1958* ss 107). See *Evidence (Miscellaneous Provisions) Act 1958* s 107A for a list of authorised persons.
+
+7. The accused must have been legally competent to take the oath or make the affirmation, declaration or affidavit (*R v Kilkenny* (1890) 16 VLR 139).
+
+
+[^2]: This differs from the common law offence of perjury, which only applies to false statements made under oath in a judicial proceeding: see 7.8.2 Common Law Perjury.
+
+
+---
+
+
+## 7.8.1 The false statement was made knowingly
+
+## The false statement was made knowingly
+
+
+
+1. Section 314 refers to the false statement having been made “knowingly wilfully and corruptly”. However, it is unclear what the words “wilfully and corruptly” add to the word “knowingly”.[^3] Consequently, for the sake of simplicity, this topic focuses solely on the requirement for knowledge. However, if in a case there appears to be a need to separately address the terms “wilful” or “corrupt”, a trial judge should do so.
+
+2. To have acted “knowingly”, the accused must have:
+
+
+
+- Actually known that the statement was false; or
+
+- Not believed that the statement made was true (*R v Aylett* (1785) 99 ER 973).
+
+
+
+3. This element will not be met where:
+
+
+
+- The accused has an honest but mistaken belief in the truth of the statement; or
+
+- The statement is made with inadvertence, carelessness or misunderstanding (*R v Mackenzie* (1996) 190 CLR 348; *R v **Liristis* [2004] NSWCCA 287, [121]).
+
+
+
+4. There is no requirement that the accused’s belief in the truth of the statement be reasonable (*R v Mackenzie* (1996) 190 CLR 348).
+
+5. A trial judge must direct the jury on the distinction between “knowingly” making a false statement and honestly or innocently making a false statement. A failure to do so could deprive the accused of the possibility of an acquittal (*R v Mackenzie* (1996) 190 CLR 348; *R v **Liristis* [2004] NSWCCA 287, [132]).
+
+6. Such a direction must be given even if the accused does not believe that he or she was mistaken. It is important to distinguish between honesty and accuracy. An inaccurate statement is not the same as a dishonest statement (*R v Mackenzie* (1996) 190 CLR 348).
+
+
+
+Last updated: 11 July 2018
+
+
+[^3]: In this context, the term wilfully has been defined to mean “intentionally” or “deliberately and not inadvertently or by mistake” (R v Ryan (1914) 10 Cr App R 4; R v Millward [1985] QB 519; R v Lowe [1917] VLR 155).
+
+
+---
+
+---
+
+# Chapter 7.8.1.1
+
+
+## 7.8.1.1 Charge: Statutory Perjury
+
+# ***7.8.1.1 Charge: Statutory Perjury***
+
+I must now direct you about the crime of perjury. To prove this crime, the prosecution must prove the following **three elements** beyond reasonable doubt.
+
+**One** – the accused made a false statement.
+
+**Two** – the accused made the false statement [under oath/on affirmation/in a declaration/in an affidavit].
+
+**Three** – the accused knew that the statement was false, or did not believe that it was true.
+
+I will now explain each of these elements in more detail.
+
+
+
+## The Accused Made a False Statement
+
+The **first element** that the prosecution must prove beyond reasonable doubt is that the accused made a statement which was false.
+
+In this case the prosecution alleged that NOA made the following false statement: [*identify alleged false statement*]*.*[^2]
+
+[*Summarise** relevant evidence and arguments about whether the statement was false*]*.*
+
+[*Where a corroboration direction is required, add the following shaded section.*]
+
+The law says that you must not find this element to have been proven on the basis of the evidence of one witness alone. You must be satisfied that there is additional evidence in the case that supports the witness’s allegation that the statement was false.
+
+In this case, the prosecution relies on the following evidence to support NOW’s allegation: [*Identify evidence capable of providing corroboration*]. This is the only evidence that can support NOW’s evidence for this purpose.
+
+It is for you to determine, based on all the evidence, whether NOA made a false statement. It is only if you are satisfied, beyond reasonable doubt, that s/he did, that this first element will be met.
+
+
+[^2]: This charge is designed for use in cases where the accused makes an untrue assertion, or purports to verify the truth of a statement which is untrue. It will need to be modified if it is alleged that the accused made a false statement by omitting to mention information which the law required him or her to mention.
+
+
+---
+
+
+## 7.8.1.1 The False Statement was made in Prohibited Circumstances
+
+## The False Statement was made in Prohibited Circumstances
+
+The **second element** that the prosecution must prove beyond reasonable doubt is that the accused made the false statement [under oath/on affirmation/in a declaration/in an affidavit].
+
+In this case it is not disputed that the relevant statement was made [under oath/on affirmation/in a declaration/in an affidavit]. You should therefore have no difficulty finding this element proven.[^3]
+
+
+[^3]: If there is a factual dispute over whether the accused was under a legal obligation to tell the truth, or whether the oath, affirmation, declaration or affidavit was lawfully made or administered, this section will need to be modified.
+
+
+---
+
+
+## 7.8.1.1 The False Statement was made Knowingly
+
+## The False Statement was made Knowingly
+
+The **third element** relates to the state of mind the accused had when s/he made the statement. The prosecution must prove that the accused **either **knew that the statement was false, **or **did not believe that it was true.
+
+This element will **not** be met if NOA honestly but mistakenly believed the statement was true. A person cannot be convicted of perjury simply because they made a mistake. For this element to be satisfied NOA must have actually known that it was untrue to state that [*identify statement*]*,* or at least not believed that was true.
+
+[*Summarise** evidence and/or arguments about the accused’s state of mind.*]
+
+
+---
+
+
+## 7.8.1.1 Relate Law to the Evidence
+
+## Relate Law to the Evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of perjury the prosecution must prove to you beyond reasonable doubt:
+
+**One** – that s/he made a false statement; **and**
+
+**Two** – that the false statement was made [under oath/on affirmation/in a declaration/in an affidavit]; **and**
+
+**Three** – that NOA knew that the statement was false,** or **did not believe that it was true.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of perjury.
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 7.8.1.2
+
+
+## 7.8.1.2 Checklist: Statutory Perjury
+
+# ***7.8.1.2 Checklist: Statutory Perjury***
+
+Three elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused made a false statement; **and**
+
+2. The accused made the false statement under oath or on affirmation; **and**
+
+3. The accused knew the statement was false or did not believe it was true.
+
+**False Statement**
+
+**1.** Did the accused make a **false statement**?
+
+***Consider – There must be evidence supporting the primary witness’ evidence that the statement is false.***
+
+If yes, then go to 2
+
+If no, then the accused is not guilty of perjury
+
+**Oath or affirmation**
+
+**2.** Did the accused make the false statement **on oath** or **under affirmation**?
+
+If yes, then go to 3.1
+
+If no, then the accused is not guilty of perjury
+
+**Knowledge that the statement was ****false**
+
+**3.1** Did the accused know the statement was false?
+
+If yes, then the accused is guilty of perjury (as long as you also answered yes to questions 1 and 2)
+
+If no, then go to 3.2
+
+**3.2** Did the accused believe the statement was true?
+
+***Consider – The accused is not guilty of perjury if he or she honestly but mistakenly believed that the statement was ******true***
+
+If no, then the accused is guilty of perjury (as long as you also answered yes to questions 1 and 2)
+
+If yes, then the accused is not guilty of perjury
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 7.8.2
+
+
+## 7.8.2 Common Law Perjury
+
+# **7.8.2 Common Law Perjury**
+
+
+
+## Introduction
+
+
+
+1. Perjury is an indictable common law offence (*R v Aylett* (1785) 99 ER 973), as well as statutory offence (see 7.8.1 Statutory Perjury).
+
+1. The operation of common law perjury has been specifically preserved by *Crimes Act 1958* s 314(3).
+
+
+---
+
+
+## 7.8.2 Charging an accused who has made multiple false statements
+
+## Charging an accused who has made multiple false statements
+
+
+
+1. As each false statement constitutes a separate crime, each false statement should usually be charged as a separate offence (*Traino** v R* (1987) 45 SASR 473).
+
+2. See 7.8.1 Statutory Perjury for further information concerning this issue.
+
+
+---
+
+
+## 7.8.2 Elements
+
+## Elements
+
+
+
+1. Common law perjury has the following five elements:
+
+1. The accused made a false statement;
+
+2. The false statement was made on oath or affirmation
+
+3. The false statement was made in a judicial proceeding;
+
+4. The false statement was material to the judicial proceeding; and
+
+5. The accused made the false statement knowingly.
+
+
+---
+
+
+## 7.8.2 The accused made a false statement
+
+## The accused made a false statement
+
+
+
+1. The first element that the prosecution must prove is that the accused made a false statement.
+
+2. The word “false” is to be given its ordinary English meaning: a statement is “false” if it is untrue (*R v Davies* (1974) 7 SASR 375).[^2]
+
+3. The prosecution must specify the statement that is alleged to be false. It will usually not be sufficient for the prosecution to rely upon an entire transcript of testimony and allege that the witness gave false evidence (*Stanton v Abernathy* (1990) 19 NSWLR 656).
+
+4. Where the prosecution relies on oral evidence to prove the statement was false, the prosecution must either call two witnesses, or one witness who is corroborated (*R v Linehan* [1921] VLR 582). See ‘Proving the statement was false’ in 7.8.1 Statutory perjury for information on the requirement of corroboration.
+
+
+[^2]: There is some early authority (Ockley and Whitley’s Case (1622); Allen v Westley (1629)) which suggests that an accused who has made a true statement believing it to be false (or being reckless as to whether it was true or false) could be convicted of perjury. However, modern authorities (e.g. R v Davies (1974) 7 SASR 375) seem to require that the statement actually be false.
+
+
+---
+
+
+## 7.8.2 The false statement was made on oath or affirmation
+
+## The false statement was made on oath or affirmation
+
+
+
+1. The second element relates to the circumstances in which the false statement was made. It must have been made on oath or affirmation.
+
+2. For this element to be met, the oath or affirmation must have been lawfully administered (*R v Charles* (1866) 3 WW & A’B).
+
+3. For an oath or affirmation to have been lawfully administered, the body that administered it must have:
+
+
+
+- Had the power to administer oaths or affirmations (*R v Shuttleworth* [1909] VLR 431. See also Evid*ence (Miscellaneous Provisions) Act 1958* s 111); and
+
+- Had the jurisdiction to hear the matter before it (*R v Kilkenny* (1890) 16 VLR 139; *R v Charles* (1866) 3 WW & A’B; *R v Ashby* (2010) 25 VR 107; *R v **Dobos* (1984) 58 ACTR 10.
+
+
+
+4. See also Evidence (Miscellaneous Provisions) Act 1958 s 151).
+
+5. An oath will be lawfully effective even if:
+
+
+
+- A religious text is not used;
+
+- The accused did not have a religious belief, or a religious belief of a particular kind; or
+
+- The accused did not understand the nature and consequences of the oath (*Evidence Act 2008* s 24).
+
+
+
+6. The accused must have been legally competent to take the oath or make the affirmation, declaration or affidavit (*R v Kilkenny* (1890) 16 VLR 139).
+
+
+---
+
+
+## 7.8.2 The false statement was made in a judicial proceeding
+
+## The false statement was made in a judicial proceeding
+
+
+
+1. The third element requires the oath or affirmation to have been sworn or made in a judicial proceeding (*R v Aylett *(1785) 99 ER 973).
+
+2. A judicial proceeding is a ‘proceeding which takes place in or under the authority of any court of justice, or which relates to the administration of justice, or which legally ascertains any right or liability’ (Stephan, A Digest of the Criminal Law (5th ed, 1894), 107).
+
+3. Judicial proceedings include the civil and criminal processes and judgments of the courts (*Lipohar** v R* (1999) 200 CLR 485).
+
+4. The internal arrangements of a court (e.g. its internal administrative procedures) are not a ‘judicial proceeding’ (*R v **Fingleton* (2005) 227 CLR 166).
+
+
+---
+
+
+## 7.8.2 The statement must be ‘material’ to the judicial proceeding
+
+## The statement must be ‘material’ to the judicial proceeding
+
+
+
+1. The fourth element requires the statement to have been material to the relevant judicial proceeding (*R v Davies* (1974) 7 SASR 375).
+
+2. A statement will have been material if it was significant enough to have been capable of affecting a decision concerning a fact in issue. This includes statements about the defendant’s credit or a witness’ credit. The effect may be direct or indirect (*R v Davies* (1974) 7 SASR 375; *R v Lewis* (1914) 10 TASLR 48).
+
+3. To be ‘material’, the statement must have been practically relevant to the proceeding. Statements which are too remote, or which are only theoretically relevant, are not ‘material’ (*R v Davies* (1974) 7 SASR 375).
+
+4. The standard by which materiality is measured is an objective one (*R v **Millward* [1985] 1 All ER 859).
+
+5. Materiality turns on the significance of the false statement actually made, and not on the significance a true statement would have had (*R v **Millward* [1985] 1 All ER 859).
+
+6. It is for the judge to determine, as a matter of law, whether a statement is capable of constituting a material statement. It is for the jury to determine, as a matter of fact, whether the statement actually was material (*R v Davies* (1974) 7 SASR 375).
+
+
+---
+
+
+## 7.8.2 The false statement was made knowingly
+
+## The false statement was made knowingly
+
+
+
+1. The fifth element requires the false statement to have been made ‘knowingly’.
+
+2. See 7.8.1 Statutory Perjury for further information concerning this element.
+
+
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 7.8.2.1
+
+
+## 7.8.2.1 Charge: Common Law Perjury
+
+# ***7.8.2.1 Charge: Common Law Perjury***
+
+I must now direct you about the crime of perjury. To prove this crime, the prosecution must prove the following **five elements** beyond reasonable doubt.
+
+**One** – the accused made a false statement.
+
+**Two** – the accused made the false statement [under oath/on affirmation].
+
+**Three** – the accused made the false statement in a judicial proceeding.
+
+**Four** – the statement was material to the judicial proceeding.
+
+**Five** – the accused knew that the statement was false, or did not believe that it was true.
+
+I will now explain each of these elements in more detail.
+
+
+
+## The Accused Made a False Statement
+
+The **first element** that the prosecution must prove beyond reasonable doubt is that the accused made a statement which was false.
+
+In this case the prosecution alleged that NOA made the following false statement: [*identify alleged false statement*].[^2]
+
+[*Summarise** relevant evidence and arguments about whether the statement was false.*]
+
+[*Where a *corroboration direction* is required, add the following shaded section.*]
+
+The law says that you must not find this element to have been proven on the basis of the evidence of one witness alone. You must be satisfied that there is additional evidence in the case that supports the witness’s allegation that the statement was false.
+
+In this case, the prosecution relies on the following evidence to support NOW’s allegation: [*Identify evidence capable of providing corroboration*]. This is the only evidence that can support NOW’s evidence for this purpose.
+
+It is for you to determine, based on all the evidence, whether NOA made a false statement. It is only if you are satisfied, beyond reasonable doubt, that s/he did, that this first element will be met.
+
+
+[^2]: This charge is designed for use in cases where the accused makes an untrue assertion, or purports to verify the truth of a statement which is untrue. It will need to be modified if it is alleged that the accused made a false statement by omitting to mention information which the law required him or her to mention.
+
+
+---
+
+
+## 7.8.2.1 The False Statement was made in Prohibited Circumstances
+
+## The False Statement was made in Prohibited Circumstances
+
+The **second element** that the prosecution must prove beyond reasonable doubt is that the accused made the false statement [under oath/on affirmation].
+
+In this case it is not disputed that the relevant statement was made [under oath/on affirmation]. You should therefore have no difficulty finding this element proven.[^3]
+
+
+[^3]: If there is a factual dispute over whether the accused was under a legal obligation to tell the truth, or whether the oath or affirmation was lawfully made or administered, this section will need to be modified.
+
+
+---
+
+
+## 7.8.2.1 The Statement was made in a Judicial Proceeding
+
+## The Statement was made in a Judicial Proceeding
+
+The **third element** that the prosecution must prove beyond reasonable doubt is that the accused made the statement in a judicial proceeding.
+
+In this case, it is not disputed that the statement was made [*identify relevant proceeding*], and that [*identify relevant proceeding*] is a “judicial proceeding”. You should therefore have no difficulty finding this element proven.[^4]
+
+
+[^4]: If there is a dispute over whether the relevant proceeding was a “judicial proceeding”, this section will need to be modified.
+
+
+---
+
+
+## 7.8.2.1 The Statement was Material to the Judicial Proceeding
+
+## The Statement was Material to the Judicial Proceeding
+
+The **fourth element** that the prosecution must prove beyond reasonable doubt is that the statement was material to the judicial proceeding. This will only be the case if the statement could have affected the court’s decision, or whether the accused or another witness was believable.
+
+To find that this element is proved, you do not need to be satisfied that the statement actually did affect the outcome in some way. It is sufficient if it was capable of having such an effect.
+
+In this case the prosecution alleged that the statement was capable of affecting [*identif*y* relevant determination of fact/credibility of accused/credibility of witness*].
+
+[*Summarise** evidence and/or arguments about materiality.*]
+
+
+---
+
+
+## 7.8.2.1 The False Statement was made Knowingly
+
+## The False Statement was made Knowingly
+
+The **fifth element** relates to the state of mind the accused had when s/he made the statement. The prosecution must prove that the accused** either **knew that the statement was false, or did not believe that it was true.
+
+This element will **not** be met if NOA honestly but mistakenly believed the statement was true. A person cannot be convicted of perjury simply because they made a mistake. For this element to be satisfied NOA must have actually known that it was untrue to state that [*identify statement*]*,* or at least not believed that was true.
+
+[*Summarise** evidence and/or arguments about the accused’s state of mind.*]
+
+
+---
+
+
+## 7.8.2.1 Relate Law to the Evidence
+
+## Relate Law to the Evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of perjury the prosecution must prove to you beyond reasonable doubt:
+
+**One** – that s/he made a false statement; **and**
+
+**Two** – that the false statement was made [under oath/on affirmation]; **and**
+
+**Three** – the statement was made in a judicial proceeding; **and**
+
+**Four** – the statement was material to the judicial proceeding; **and**
+
+**Five** – that NOA knew that the statement was false, **or **did not believe that it was true.
+
+If you find that any of these elements have not been proven beyond reasonable doubt, then you must find NOA not guilty of perjury.
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 7.8.2.2
+
+
+## 7.8.2.2 Checklist: Common Law Perjury
+
+# ***7.8.2.2 Checklist: Common Law ******P******erjury***
+
+Five elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused made a false statement; **and**
+
+2. The accused made the false statement on oath or under affirmation; **and**
+
+3. The accused made the false statement in a judicial proceeding; **and**
+
+4. The statement was material to the proceeding; **and**
+
+5. The accused knew the statement was false or did not believe it was true.
+
+**False Statement**
+
+**1.** Did the accused make a **false statement**?
+
+***Consider – There must be evidence supporting the primary witness’ evidence that the statement is false.***
+
+If yes, then go to 2
+
+If no, then the accused is not guilty of perjury
+
+**Oath or affirmation**
+
+**2.** Did the accused make the false statement **on oath** or **under affirmation**?
+
+If yes, then go to 3
+
+If no, then the accused is not guilty of perjury
+
+**Judicial Proceedings**
+
+**3.** Was the false statement made **in a judicial proceeding**?
+
+If yes, then go to 4
+
+If no, then the accused is not guilty of perjury
+
+**Statement was ****material**
+
+**4.** Was the false statement **material** to the proceeding?
+
+***Consider – A statement is material if it could have affected the court’s decision, or the credibility of a witness.***
+
+If yes, then go to 5.1
+
+If no, then the accused is not guilty of perjury
+
+**Knowledge that the statement was ****false**
+
+**5.1** Did the accused **know** the statement was **false**?
+
+If yes, then the accused is guilty of perjury (as long as you also answered yes to questions 1, 2, 3 and 4)
+
+If no, then go to 5.2
+
+**5.2** Has the prosecution proved that the accused did not **believe** the statement was **true**?
+
+***Consider – The accused is not guilty of perjury if he or she honestly but mistakenly believed that the statement was ******true***
+
+If yes, then the accused is guilty of perjury (as long as you also answered yes to questions 1, 2, 3 and 4)
+
+If no, then the accused is not guilty of perjury
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 7.8.3
+
+
+## 7.8.3 Perverting and Attempting to Pervert the Course of Justice
+
+# **7.8.3 Perverting and Attempting to Pervert the Course of Justice**
+
+
+
+1. The offences of attempting to pervert the course of justice and perverting the course of justice are common law offences in Victoria (*R v **Vreones* [1891] 1 QB 360; *R v Murphy* (1985) 158 CLR 596).
+
+1. The existence of these offences is recognised in s 320 *Crimes Act 1958*.
+
+2. At common law, both the offences of attempting to pervert the course of justice and perverting the course of justice are substantive and not inchoate (*R v Rogerson* (1992) 174 CLR 268 at 279; *R v Beckett* (2015) 256 CLR 305, [37]).
+
+
+
+## Elements of the offences
+
+
+
+3. The offence of attempting to pervert the course of justice has the following elements:
+
+1. The accused engaged in conduct that had the tendency to pervert the course of justice.
+
+2. The accused intended for that conduct to pervert the course of justice.
+
+4. The offence of perverting the course of justice has the following elements:
+
+1. The accused engaged in conduct that did pervert the course of justice.
+
+2. The accused intended for that conduct to pervert the course of justice.
+
+5. Due to the overlap between these two offences, this commentary will describe both offences.
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+## The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+What is a course of justice?
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+1. Police investigations of an actual or suspected offence are not part of the course of justice because the police do not administer justice (*R v Rogerson* (1992) 174 CLR 268, 276 (Mason CJ) and 283 (Brennan and Toohey JJ)).
+
+2. Historically, the offences of perverting and attempting to pervert the course of justice existed to protect the processes and procedures of the Sovereign’s courts and through this protect the administration of justice (*R v Rogerson* (1992) 174 CLR 268, 303).
+
+3. The course of justice begins when the jurisdiction of a court or competent judicial body has been invoked (*R v Rogerson* (1992) 174 CLR 268, 276 (Mason CJ), 283 (Brennan and Toohey JJ) and 303 (McHugh J)).
+
+4. In criminal proceedings, it was said “the course of justice [commences with]… the laying of information against or the arrest of an accused person” (*R v Rogerson* (1992) 174 CLR 268, 303).
+
+5. However, in light of the s 5 of the *Criminal Procedure Act 2009* (Vic) a criminal proceeding (or the invocation of the court’s jurisdiction) does not commence until the
+
+1. the filing of a charge sheet in accordance with s 6;
+
+2. direct indictment under s 159 or
+
+1. a direction under s 415 to be tried for perjury.
+
+6. This suggests that the notion that a course of justice begins when a person is arrested is not correct in Victoria.
+
+7. For conduct to amount to the actus reus of the offence of perverting the course of justice, the conduct must have been engaged in after the jurisdiction of a court or competent judicial body has been invoked. Conduct frustrating a police investigation, before the invocation of a court’s jurisdiction, therefore does not amount to the actus reus of the offence of perverting the course of justice.
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+8. In contrast, the offence of attempting to pervert the course of justice can be committed by engaging in the relevant conduct before the institution of judicial proceedings (*R v Rogerson* (1992) 174 CLR 268, 277 (Mason CJ), 283 (Brennan and Toohey JJ), 293–4 (Deane J) and 304–5 (McHugh J); *R v Beckett* (2015) 256 CLR 305, [34]).
+
+9. Therefore, it is possible for the frustration of a police investigation, before judicial proceedings have been instituted, to amount to the *actus reus* of *attempting to pervert the course of justice*. This is because frustrating a police investigation, in the circumstances of the case, could have the tendency to pervert the course of justice by hindering the ability of the police to invoke a court’s jurisdiction or ascertain the truth of facts presented to a court (*Alessawi** and Snowball v The King *[2025] VSCA 23, [38]).
+
+10. The course of justice ends when the rights and liabilities of the parties are finally determined and declared by the court or other competent judicial body (*R v Rogerson* (1992) 174 CLR 268, 304).
+
+11. The course of justice includes sentencing hearings (see, e.g. *Saleem v The Queen* [2014] VSCA 190) and appeals (see, e.g. *Zotos v The Queen* [2014] VSCA 324).
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+Defining perversion of the course of justice
+
+
+
+12. The course of justice involves the exercise by a court, or competent judicial authority, of its jurisdiction to enforce, adjust or declare the rights and liabilities of the parties to a proceeding (*R v Rogerson* (1992) 174 CLR 268 at 280 (Brennan and Toohey JJ)).
+
+13. The perversion of the course of justice therefore, occurs when the conduct of an accused impairs, obstructs, adversely interferes or prevents the court from administering justice (*R v Rogerson* (1992) 174 CLR 268, 280 (Brennan and Toohey JJ); *Meissner v R* (1995) 184 CLR 132, 148 (Deane J)).
+
+14. This definition captures all judicial proceedings, including civil and criminal proceedings.
+
+15. The following are recognised ways in which the proper administration of justice can be interfered with and thus the course of justice perverted:
+
+1. Erosion of the integrity of the court or competent judicial authority; or
+
+1. Hindering access to the court or competent judicial authority; or
+
+2. Deflecting applications that would be made to the court or competent judicial authority; or
+
+3. Denying the court or competent judicial authority knowledge of relevant law; or
+
+4. Denying the court or competent judicial authority knowledge of the true circumstances and facts of the case; or
+
+5. Impeding the free exercise of the jurisdiction and power of the court or competent judicial authority including the power to execute its decisions (R v Rogerson (1992) 174 CLR 268, 280 (Brennan and Toohey JJ)).
+
+16. This list is not exhaustive, but merely illustrative.
+
+17. For the offence of perverting the course of justice, the conduct of the accused must result in the perversion of the course of justice. Therefore, the prosecution must prove there has been an adverse interference with the course of justice, for example in one of the ways listed in paragraph 21. The tendency to pervert the course of justice (e.g. in one of the ways listed in paragraph 21) is sufficient for the attempt offence [see below on ‘Defining tendency’].
+
+
+
+Defining tendency
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+18. For the attempt offence, conduct must objectively tend to pervert the course of justice. This will be satisfied, for example, when conduct has the objective capacity to result in one of the things listed in paragraph 21 (*R v Rogerson* (1992) 174 CLR 268 at 280; *Meissner v R* (1995) 184 CLR 132 at 148 (Deane J)).
+
+19. The tendency of conduct to pervert the course of justice will be proved by showing that without further action by the accused, there is a real possibility or risk that what he or she said or did had the capacity to interfere with the proper administration of justice (*R v Murray* [1982] 1 WLR 475; *Healy v The Queen* (1995) 15 WAR 104 at 107 (Malcolm CJ)).
+
+20. “Without further action” does not mean the accused cannot be guilty of the attempt offence unless it is shown that the conduct of the accused “without more” risks perverting the course of justice (*R v Allan* [1995] 2 VR 468, 472). Whether the conduct creates a risk to the course of justice must be judged at a level of abstraction – the risk is of adverse interference to justice in the ordinary course (*Alessawi** and Snowball v The King *[2025] VSCA 23, [43]).
+
+21. The tendency of the conduct is not to be judged on the particular circumstances of the case but by the risk it poses to the course of justice in the ordinary course. This is so even if, in the particular circumstances of the case, there was no actual risk of perverting the course of justice (*R v Aydin* (2005) 11 VR 544 at 546; see also *Smith v R* (2013) 39 VR 336, [46]–[47]).
+
+22. Therefore, impossibility is no defence to attempting to pervert the course of justice (*R v Aydin* (2005) 11 VR 544 at 546).
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+23. For example, in *R v Aydin*, the alleged threats and bribes were made to a police officer who was part of a controlled operation. Therefore, there was no actual risk of the officer being induced to act on the threats or bribes. The defendant was still convicted of attempting to pervert the course of justice because in the ordinary course bribing or threatening a police officer does pose a real risk (or have the tendency to) interfere the course of justice (*R v Aydin* (2005) 11 VR 544, at 546).
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+Proof of a specific offence in relation to possible criminal proceedings
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+24. Where the conduct is engaged in before the commencement of judicial proceedings, the conduct must still tend to pervert “imminent, probable or even possible judicial proceedings” (*R v Rogerson* (1992) 174 CLR 268 at 277).
+
+25. The prosecution does not need to prove the commission of an identifiable or specific offence committed by the accused or third party, in order to satisfy the requirement that a future prosecution was “imminent, probable or possible”. It is sufficient if the conduct had the tendency to deflect the police from bringing a prosecution for some offence (see *R v Rogerson* (1992) 174 CLR 268, 278 (Mason CJ), 288 (Brennan and Toohey JJ) and 294 (Deane J), c.f. 307 (McHugh J in dissent)).
+
+26. If the prosecution case is that the accused’s conduct perverted a future prosecution for some offence, this will generally require proof that the conduct deflected an inevitable police inquiry and consequently deflected the police from instituting an “imminent, probable or possible” prosecution for the subject matter of the inquiry (*R v Rogerson* (1992) 174 CLR 268 at 285 (Brennan and Toohey JJ)).
+
+27. However, in the absence of proof of an identifiable offence, it is likely to be more difficult to prove that the conduct of the accused had the tendency to pervert an “imminent, probable or possible” course of justice (and that it was intended to bring about that result) (*R v Rogerson* (1992) 174 CLR 268 at 279 (Mason CJ), 286 (Brennan and Toohey JJ) and 294 (Deane J)).
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+28. The case of *R v Rogerson* provides an example of how this principle applies in a case where there is no proof of an identifiable offence. There was evidence that the accused had received bags of white powder in exchange for cash at an airport, raising the suspicion of criminal conduct. The prosecution did not seek to prove this was a drug related transaction, but did prove after the swap the accused then conspired with others to concoct a false story about the origins of the money. At the time the false story was formulated, no police investigation or prosecution had commenced. It was held to be open to the jury to find the accused had fabricated a story to deceive police about the true origins of the money, and this deception had the tendency to deflect a probable prosecution (i.e. the course of justice), even though the offence could not be identified with precision (*R v Rogerson* (1992) 174 CLR 268 at 279 (Mason CJ) and 288 (Brennan and Toohey JJ)).
+
+29. See also the section below titled 'Penalty notices and warning about prosecution' in respect the impact of warnings about future prosecution and how it relates to the possibility of future proceedings.
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+Inducing a person to alter evidence or plea
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+30. Conduct that involves threatening or bribing a person to alter their evidence (see *Librizzi v Western Australia* (2006) 33 WAR 104) or plead guilty when that person would not have otherwise done so (see *Meissner v R* (1995) 184 CLR 132) has the tendency to pervert the course of justice.
+
+31. If the conduct of the accused is merely lawful persuasion aimed at securing a legitimate end, namely an end consistent with the administration of justice, then the course of justice will not tend to or be perverted (*Meissner v R* (1995) 184 CLR 132 at 142 (Brennan, Toohey and McHugh JJ), see also 149 (Deane J) and 157 (Dawson J)).
+
+32. For example, it is lawful to give reasoned argument or advice, no matter how strongly that advice or argument is put, to persuade someone to plead guilty (*Meissner v R* (1995) 184 CLR 132 at 142 (Brennan, Toohey and McHugh JJ)). This is because deciding to plead guilty is an end compatible with the proper administration of justice. Furthermore, merely giving advice to a person recommending they plead guilty (e.g. by their lawyer) generally maintains their free choice in the matter.
+
+33. However, a plea resulting from intimidation is not made freely. This would amount to the actus reus of the attempt offence. This is because when the court acts on this plea it has been misled or denied the true circumstances of the case (*Meissner v R* (1995) 184 CLR 132, 142 (Brennan, Toohey and McHugh JJ)).
+
+34. It is recognised that the line between lawful persuasion and improper means is difficult to draw. This difficulty is resolved by assessing whether in all the circumstances of the case the inducement, argument or advice could reasonably be regarded as compatible with the maintenance of free choice by that person (*Meissner v R* (1995) 184 CLR 132, 143 (Brennan, Toohey and McHugh JJ)).
+
+35. Evidence of:
+
+1. The existence of an ulterior or improper motive;
+
+2. The nature of the relationship between the accused and other person;
+
+3. The nature of the persuasion (e.g. was the conduct aimed at advancing a legitimate interest of the person entering the plea?); and
+
+4. Harassment or intimidation;
+
+
+---
+
+
+## 7.8.3 The accused engaged in conduct that tends to pervert or did pervert the course of justice
+
+are all relevant to determining whether the conduct of the accused amounted to improper or unlawful pressure and therefore tended to pervert the course of justice (*Meissner v R *(1995) 184 CLR 132, 143 (Brennan, Toohey and McHugh JJ), 149 (Deane J)).
+
+
+
+36. Where the means employed by the accused extend beyond lawful persuasion into improper or unlawful pressure, the actus reus of the attempt offence will be satisfied, even if the purpose for engaging in the conduct was compatible with the administration of justice (i.e. preventing a person from committing perjury). In contrast, if the aim of the conduct is not compatible with the administration of justice then the actus reus will be met even if the conduct of the accused only amounts lawful persuasion (*Meissner v R* (1995) 184 CLR 132 at 142 (Brennan, Toohey and McHugh JJ), 149 (Deane J) and 159 (Dawson J); see also *R v Kellett* [1976] QB 372, 388).
+
+
+---
+
+
+## 7.8.3 Intention to pervert the course of justice
+
+## Intention to pervert the course of justice
+
+
+
+1. The second element of both offences is that the accused intended to pervert the course of justice (*R v Rogerson* (1992) 174 CLR 268 at 277 (Mason CJ) and 282 (Brennan and Toohey JJ)).
+
+2. However, a person can be guilty of either offence even if s/he does not have the concepts of ‘course of justice’ or ‘pervert’ in mind when they engage in the relevant conduct (*Meissner v R* (1995) 184 CLR 132 at 159 (Dawson J); see also *Librizzi v R* (2006) 33 WAR 104, [48]).
+
+3. It is sufficient to prove the person engaged in conduct for a purpose that would result in the perversion of the course of justice, if that purpose was carried out successfully (*Meissner v R* (1995) 184 CLR 132 at 144 (Brennan, Toohey and McHugh JJ) and 159 (Dawson J); see also *Librizzi v R *(2006) 33 WAR 104, [48]; cf *Hatty v Pilkinton (No 2)* (1992) 35 FCR 433 at 439).
+
+4. For example in *Meissner v R*, the relevant mens rea was the intention to induce the entry of a guilty plea when the person induced would not, or might not, have entered that plea when exercising free choice (*Meissner v R* (1995) 184 CLR 132 at 144–147).
+
+5. Another example is *Tognolini** v R*, where the accused attempted to prevent a prosecution for offences for which he believed he was innocent. The defence argued the accused did not have the requisite intention to pervert the course of justice because of the belief in his innocence. The court held the accused did intend to induce and threaten witnesses to alter their evidence and this conduct, if successful, result in the perversion of the course of justice (*Tognolini** v R* (2011) 32 VR 104, [44]).
+
+
+
+Proving intention before a course of justice has commenced
+
+
+---
+
+
+## 7.8.3 Intention to pervert the course of justice
+
+6. For the offence of attempting to pervert the course of justice, the prosecution must prove the accused’s intention related to a “course of justice”. Therefore, the conduct must be directed towards perverting “imminent, probable or even possible judicial proceedings” (*R v Rogerson* (1992) 174 CLR 268, 277 (Mason CJ)).
+
+7. It is not sufficient to prove a mere intention to deceive a police investigation without a connection to future judicial proceedings (*R v Rogerson* (1992) 174 CLR 268 at 284 (Brennan and Toohey JJ)).
+
+8. The evidence must be capable of showing that:
+
+
+
+- The accused believed, or contemplated, a court’s jurisdiction might be invoked in the future unless s/he deflected certain investigations (e.g. police investigations); and
+
+- The accused knew that the act would have the manifest tendency to pervert that course of justice or intended that the act would have that effect (*R v Rogerson* (1992) 174 CLR 268, 277, 282 (Mason CJ); 284 (Brennan and Toohey JJ); see also *Reg v Spezzano* (1977) 76 DLR (3d) 160 at 163).
+
+
+
+9. It is only necessary for the prosecution to prove the accused contemplated “imminent, probable or possible” judicial proceedings (*R v Rogerson* (1992) 174 CLR 268, 277 (Mason CJ) and 284 (Brennan and Toohey JJ)).
+
+10. Therefore, the prosecution does not need to prove the possibility of proceedings in fact and as such it is not necessary for any other party, agency or person (including the police) to have contemplated proceedings before the accused engaged in the alleged conduct (*R v Rogerson* (1992) 174 CLR 268, 277 (Mason CJ) and 284 (Brennan and Toohey JJ)).
+
+
+---
+
+
+## 7.8.3 Penalty notices and warning about prosecution
+
+## Penalty notices and warning about prosecution
+
+
+
+1. If the prospect of judicial proceedings are distant or hypothetical, and there is no indication that the accused contemplated such proceedings, this will not be sufficient to amount to an intention to pervert the course of justice (*R v **Einfeld* (2008) 71 NSWLR 31, [134]).
+
+2. For example, making false statements in respect of penalty notices issued under an administrative system, will not in the ordinary course amount to the attempt offence.
+
+3. Typically, under an administrative system, judicial proceedings are only instituted if the person who had received the notice wished to appeal it. Where there is no indication that the accused had contemplated such an appeal, there is no “imminent, probable or possible” judicial proceeding to be perverted (*Police v **Zammitt* [2007] SASC 37, [54]–[56]; *R v **Einfeld* (2008) 71 NSWLR 31).
+
+4. Conversely if at the time the accused engaged in the relevant conduct, the accused had previously been warned of a probable prosecution, or had otherwise contemplated one (i.e. considering an appeal of a penalty notice), then it is likely to be open to find the accused engaged in the alleged conduct intending to deflect the contemplated proceedings (see, e.g. *R v Beckett* (2015) 256 CLR 305).
+
+
+---
+
+
+## 7.8.3 Differences between the two offences
+
+## Differences between the two offences
+
+
+
+1. The two offences both involve conduct with an intention to pervert the course of justice, but are distinguished by result (*R v Beckett* (2015) 256 CLR 305, [37]).
+
+2. There are two key differences between the two offences:
+
+1. First, to prosecute the offence of perverting the course of justice, a judicial proceeding must be on foot at the time the relevant conduct was undertaken and thus a course of justice commenced [see the section above on the commencement of the course of justice].
+
+2. Second, for the offence of attempting to pervert the course of justice, the prosecution must only prove the conduct had the tendency to pervert the course of justice. In contrast, for the offence of perverting the course of justice it must be proved that the conduct actually did effect such a perversion.
+
+3. Under s 320 of the *Crimes Act 1958 *both offences have the same maximum sentence of 25 years imprisonment.
+
+
+
+Last Updated: 4 April 2025
+
+
+---
+
+---
+
+# Chapter 7.8.3.1
+
+
+## 7.8.3.1 Charge: Perverting the Course of Justice
+
+# ***7.8.3.1 Charge: Perverting the Course of Justice***
+
+*This charge should only be used for the offence of perverting the course of justice.*
+
+
+
+## The elements
+
+I must now direct you about the offence of perverting the course of justice. To convict the accused of this offence, the prosecution must prove the following 2 elements beyond reasonable doubt:
+
+**One** – the accused engaged in conduct that perverted the course of justice.
+
+**Two** – the accused intended for that conduct to pervert the course of justice.
+
+I will now explain each of these elements in more detail.
+
+
+---
+
+
+## 7.8.3.1 Perversion of the course of justice
+
+## Perversion of the course of justice
+
+The first element requires you to be satisfied the accused engaged in conduct that perverted the course of justice.
+
+The ‘course of justice’ is the administration of the law by a court. Perversion of the course of justice means NOA’s conduct interfered with the administration of justice by a court.
+
+The prosecution say [*describe NOA’s alleged conduct*] interfered with the administration of justice because [*describe how NOA’s conduct is alleged to have interfered with the administration of justice*].
+
+[*If the **defence** dispute that the accused engaged in the alleged conduct, add the following shaded section.*]
+
+The defence argue the prosecution has not proved, beyond reasonable doubt, that NOA [*describe alleged conduct*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+[*If the **defence** dispute that the conduct perverted the course of justice, add the following shaded section.*]
+
+The defence argues NOA’s conduct did not interfere with the administration of justice because [*refer to relevant **defence** and prosecution evidence and arguments*].
+
+If you are satisfied NOA [*describe conduct and how it is alleged to have interfered with the administration of justice*], the first element of this offence be met.
+
+
+---
+
+
+## 7.8.3.1 Intention to pervert the course of justice
+
+## Intention to pervert the course of justice
+
+The second element the prosecution must prove is at the time the accused engaged in the relevant conduct, s/he intended to pervert the course of justice.
+
+In this case, the prosecution argues when NOA [*describe alleged conduct*], s/he intended that [*describe basis for alleged perversion of the course of justice*].[^2]
+
+I direct you as a matter of law, this element does not require the prosecution to prove NOA realised or understood the conduct would result in a perversion of the course of justice.
+
+[*Summarise** relevant prosecution and **defence** evidence and arguments*]
+
+If you are satisfied, at the time the NOA [*describe alleged conduct*], s/he intended to pervert the course of justice in [*describe relevant proceeding*], then this element will be met.
+
+
+[^2]: For example, when NOA threatened NOW to alter NOW's evidence, NOA intended that NOW would give false evidence to the court in favour of NOA's innocence.
+
+
+---
+
+
+## 7.8.3.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of perverting the course of justice the prosecution must prove to you beyond reasonable doubt:
+
+**One** – NOA engaged in conduct that perverted the course of justice; **and**
+
+**Two** – NOA intended to pervert the course of justice.
+
+If you find that either of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of perverting the course of justice.
+
+Last Updated: 27 April 2016
+
+
+---
+
+---
+
+# Chapter 7.8.3.2
+
+
+## 7.8.3.2 Checklist: Perverting the Course of Justice
+
+# ***7.8.3.2 Checklist: Perverting the Course of Justice***
+
+Two elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused engaged in conduct that perverted the course of justice; and
+
+2. The accused intended for that conduct to pervert the course of justice.
+
+**Perversion of the course of justice**
+
+**1.** Did the accused’s conduct interfere with the administration of justice by a court?
+
+If Yes, then go to 2
+
+If No, then the accused is not guilty of perverting the course of justice
+
+**Intention to pervert the course of ****justice**
+
+**2.** Did the accused intend to pervert the course of justice?
+
+If Yes, then the accused is guilty of perverting the course of justice (as long as you have answered yes to question 1)
+
+If No, then the accused is not guilty of perverting the course of justice
+
+Last updated: 12 September 2019
+
+
+---
+
+---
+
+# Chapter 7.8.3.3
+
+
+## 7.8.3.3 Charge: Attempting to Pervert the Course of Justice (Course of Justice Commenced)
+
+# ***7.8.3.3 Charge: Attempting to Pervert the Course of Justice (Course of Justice Commenced)***
+
+*This charge should only be used for the offence of attempting to pervert the course of justice where it is not in dispute the accused engaged in the relevant conduct after a course of justice had commenced.*
+
+
+
+## The elements
+
+I must now direct you about the offence of attempting to pervert the course of justice. To convict the accused of this offence, the prosecution must prove the following 2 elements beyond reasonable doubt:
+
+**One** – the accused engaged in conduct that had the tendency to pervert the course of justice.
+
+**Two** – the accused intended for that conduct to pervert the course of justice.
+
+I will now explain each of these elements in more detail.
+
+
+---
+
+
+## 7.8.3.3 Tendency to pervert the course of justice
+
+## Tendency to pervert the course of justice
+
+The first element requires you to be satisfied the accused engaged in conduct that tended to pervert the course of justice.
+
+The ‘course of justice’ is the administration of the law and justice **in a court proceeding**. The phrase ‘tendency to pervert the course of justice’ means NOA’s conduct posed a **real risk or possibility** of interfering with the administration of justice by a court.
+
+The prosecution say [*describe NOA’s alleged conduct*] posed a real risk or possibility of interfering with the administration of justice because [*describe how this is alleged to have potentially interfered with the administration of justice*].[^2]
+
+[*If the **defence** dispute that the accused engaged in the alleged conduct, add the following shaded section.*]
+
+The defence argues that the prosecution has not proved, beyond reasonable doubt, that NOA [*describe alleged conduct*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments*.]
+
+[*If the **defence** dispute that the conduct had a tendency to pervert the course of justice, add the following shaded section.*]
+
+The defence argues that NOA’s conduct did not pose a real risk or possibility of interfering with the administration of justice because [*refer to relevant **defence** evidence and arguments*].
+
+[*If the issue of impossibility arises, add the following shaded section.*]
+
+In deciding whether NOA’s conduct had a tendency to pervert the course of justice, I direct you as a matter of law it is not relevant that [*describe basis of impossibility*]. Instead, you must look at NOA’s conduct objectively and decide whether [*describe alleged conduct without reference to basis of impossibility*, *e.g. *"offering a bribe to a police officer"] in general poses a real risk or possibility of interfering with the administration of justice by a court.
+
+If you are satisfied NOA engaged in conduct that tended to interfere with the administration of justice in the [*describe relevant court proceeding*], this first element will be met.
+
+
+[^2]: If required, see 7.8.3 Perverting and attempting to pervert the course of justice for guidance on when conduct may tend to pervert the course of justice.
+
+
+---
+
+
+## 7.8.3.3 Intention to pervert the course of justice
+
+## Intention to pervert the course of justice
+
+The second element the prosecution must prove is at the time the accused engaged in the relevant conduct, s/he intended to pervert the course of justice.
+
+In this case, the prosecution must prove, beyond reasonable doubt, that when NOA [*describe alleged conduct*], s/he intended that [*describe basis for alleged perversion of the course of justice*].[^3]
+
+I direct you as a matter of law, this element does not require the prosecution to prove NOA realised or understood the conduct would result in a perversion of the course of justice.
+
+[*Summarise** relevant prosecution and **defence** evidence and arguments*]
+
+If you are satisfied, at the time the NOA [*describe alleged conduct*], s/he intended to pervert the course of justice in [*describe relevant proceeding*], then this element will be met.
+
+
+[^3]: For example, when NOA threatened NOW, she intended that NOW would give false information to police which would prevent them from charging NOA with assaulting NO3P.
+
+
+---
+
+
+## 7.8.3.3 Summary
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of attempting to pervert the course of justice the prosecution must have proved to you beyond reasonable doubt:
+
+**One** – NOA engaged in conduct that tended to pervert the course of justice; **and**
+
+**Two** – NOA intended to pervert the course of justice.
+
+If you find that either of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of attempting to pervert the course of justice.
+
+Last Updated: 27 April 2016
+
+
+---
+
+---
+
+# Chapter 7.8.3.4
+
+
+## 7.8.3.4 Checklist: Attempting to Pervert the Course of Justice (Course of Justice Commenced)
+
+# ***7.8.3.4 Checklist: ******Attempting to Pervert the Course of Justice (Course of Justice Commenced)***
+
+Two elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused engaged in conduct that had the tendency to pervert the course of justice; and
+
+2. The accused intended for that conduct to pervert the course of justice.
+
+**Attempting to pervert the course of justice**
+
+**1.** Did the accused engage in conduct that posed a real risk or possibility of interfering with a court proceeding?
+
+If Yes, then go to 2
+
+If No, then the accused is not guilty of attempting to pervert the course of justice
+
+**Intention to pervert the course of justice**
+
+**2.** Did the accused intend to pervert the course of justice?
+
+If Yes, then the accused is guilty of attempting to pervert the course of justice (as long as you have answered yes to Question 1)
+
+If No, then the accused is not guilty of attempting to pervert the course of justice
+
+Last updated: 13 September 2019
+
+
+---
+
+---
+
+# Chapter 7.8.3.5
+
+
+## 7.8.3.5 Charge: Attempting to Pervert the Course of Justice (No Course of Justice Commenced)
+
+# ***7.8.3.5 Charge: ******Attempting to Pervert the Course of Justice (No Course of Justice Commenced)***
+
+This charge should only be used for the offence of attempting to pervert the course of justice where it is not in dispute the accused engaged in the relevant conduct before a course of justice had commenced.
+
+
+
+## The elements
+
+I must now direct you about the offence of attempting to pervert the course of justice. To convict the accused of this offence, the prosecution must prove the following 2 elements beyond reasonable doubt:
+
+**One** – the accused engaged in conduct that had the tendency to pervert the course of justice.
+
+**Two** – the accused intended for that conduct to pervert the course of justice.
+
+I will now explain each of these elements in more detail.
+
+
+---
+
+
+## 7.8.3.5 Tendency to pervert the course of justice
+
+## Tendency to pervert the course of justice
+
+The first element requires you to be satisfied the accused engaged in conduct that tended to pervert the course of justice. This involves two questions.
+
+One – Was there a course of justice?
+
+Two – Did the conduct create a real risk or possibility of interfering with that course of justice?
+
+Connection to a future proceeding
+
+For the purpose of this offence, a ‘course of justice’ is the administration of the law in a court proceeding.
+
+At the time NOA [*describe alleged conduct*] a court proceeding had not yet commenced. The prosecution must therefore prove that a court proceeding was “imminent, probable or possible” at the time NOA [*describe alleged conduct*].
+
+[*Where the prosecution identifies a specific offence/cause of action for which proceedings would have been instituted add the following.*]
+
+The prosecution says [*describe alleged conduct of NOA or any other person likely to lead to a future court proceeding*] was likely to lead to [*describe future prosecution/court proceeding*] because [*summarise** relevant prosecution arguments and evidence*].
+
+You must decide if the prosecution has proved beyond reasonable doubt the commencement of a court proceeding was likely. In other words, were future proceedings for [*describe conduct of NOA or any other person likely to lead to a future court proceeding*] “imminent, probable or possible”?
+
+[*Where the prosecution does not identify a specific offence/cause of action add the following.*]
+
+The prosecution **does not** need to identify a specific [offence/cause of action] to satisfy this requirement. However, the prosecution must prove future proceedings were not ‘distant or hypothetical’ but were likely to result from [*summarise** relevant inquiries, e.g. “*police investigations into the alleged criminal conduct of NOA”].
+
+[*If the **defence** dispute the likelihood of a future proceeding add the following shaded section.*]
+
+The defence argues that proceedings for [*describe future prosecution/court proceeding*] were not “imminent, probable or possible” because [*summarise** relevant **defence** arguments and evidence*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+Defining tendency
+
+The second question is whether NOA’s conduct created a **real risk or possibility** of interfering with that proceeding.
+
+
+[^2]: If required, see 7.8.3 Perverting and attempting to pervert the course of justice for guidance on when conduct may tend to pervert the course of justice.
+
+
+---
+
+
+## 7.8.3.5 Tendency to pervert the course of justice
+
+The prosecution say [*describe NOA’s alleged conduct*] posed a real risk or possibility of interfering with the administration of justice because [*describe how this is alleged to have potentially interfered with the administration of justice*].[^2]
+
+[*If the **defence** dispute that the accused engaged in the alleged conduct, add the following shaded section.*]
+
+The defence argues that the prosecution has not proved, beyond reasonable doubt, that NOA [*describe alleged conduct*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+[*If the **defence** dispute that the alleged conduct had a tendency to pervert the course of justice, add the following shaded section.*]
+
+The defence argues that NOA’s conduct did not pose a real risk or possibility of interfering with the administration of justice because [*refer to relevant **defence** and prosecution evidence and arguments*].
+
+[*Refer to competing prosecution and **defence** evidence and arguments.*]
+
+[*If the issue of impossibility arises, add the following shaded section.*]
+
+In deciding whether NOA’s conduct had a tendency to pervert the course of justice, I direct you as a matter of law it is not relevant that [*describe basis of impossibility*]. Instead, you must look at NOA’s conduct objectively and decide whether [*describe alleged conduct without reference to basis of impossibility**,** e.g. *"offering a bribe to a police officer"] in general poses a real risk or possibility of interfering with the administration of justice by a court.
+
+If you are satisfied the prosecution has proved beyond reasonable doubt there was an “imminent, probable or possible” court proceeding and NOA’s conduct posed a real risk or possibility of interfering with that proceeding, then this first element will be met.
+
+
+[^2]: If required, see 7.8.3 Perverting and attempting to pervert the course of justice for guidance on when conduct may tend to pervert the course of justice.
+
+
+---
+
+
+## 7.8.3.5 Intention to pervert the course of justice
+
+## Intention to pervert the course of justice
+
+The second element the prosecution must prove is that at the time the accused engaged in the relevant conduct, s/he intended to pervert the course of justice.
+
+In this case, the prosecution must prove, beyond reasonable doubt, that when NOA [*describe alleged conduct*], s/he intended that [*describe basis for alleged perversion of the course of justice*].[^3]
+
+I direct you as a matter of law, this element does not require the prosecution to prove NOA realised or understood the conduct would result in a perversion of the course of justice.
+
+[*Summarise** relevant prosecution and **defence** evidence and arguments.*]
+
+[*If the **defence** argues that the accused did not have any future proceedings in contemplation at the time of the alleged conduct, add the following shaded section.*]
+
+The defence argues NOA did not intend to interfere with the administration of justice because at the time s/he [*describe alleged conduct*] it cannot be proved NOA thought future proceedings were “imminent, probable or possible”.
+
+[*Identify relevant **defence** evidence and arguments.*]
+
+In response, the prosecution argues that [*identify relevant prosecution evidence and arguments*].
+
+If you are satisfied, at the time the NOA [*describe alleged conduct*], s/he intended to pervert the course of justice, then this element will be met.
+
+
+[^3]: For example, when NOA threatened NOW, she intended that NOW would give false information to police which would prevent them from charging NOA with assaulting NO3P.
+
+
+---
+
+
+## 7.8.3.5 Summary
+
+## Summary
+
+**To ****summarise**, before you can find NOA guilty of attempting to pervert the course of justice the prosecution must have proved to you beyond reasonable doubt:
+
+**One** – NOA engaged in conduct that tended to pervert the course of justice; and
+
+**Two** – NOA intended to pervert the course of justice.
+
+If you find that either of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of attempting to pervert the course of justice.
+
+Last updated: 27 April 2016
+
+
+---
+
+---
+
+# Chapter 7.8.3.6
+
+
+## 7.8.3.6 Checklist: Attempting to Pervert the Course of Justice (No Course of Justice Commenced)
+
+# ***7.8.3.6 Checklist: ******Attempting to Pervert the Course of Justice (No Course of Justice Commenced)***
+
+Two elements the prosecution must prove beyond reasonable doubt:
+
+1. The accused engaged in conduct that had the tendency to pervert the course of justice; and
+
+2. The accused intended for that conduct to pervert the course of justice.
+
+**Attempting to pervert the course of justice**
+
+**1.** Did the accused engage in conduct that had a tendency to pervert the course of justice?
+
+**1.1** Was there a court proceeding imminent, probable or possible?
+
+If Yes, then go to 1.2
+
+If No, then the accused is not guilty of attempting to pervert the course of justice
+
+**1.2** Did the accused’s conduct create a real risk or possibility of interfering with that court proceeding?
+
+If Yes, then go to 2
+
+If No, then the accused is not guilty of attempting to pervert the course of justice
+
+**Intention to pervert the course of justice**
+
+**2.** Did the accused intend to pervert the course of justice?
+
+If Yes, then the accused is guilty of attempting to pervert the course of justice (as long as you have answered yes to Question 1)
+
+If No, then the accused is not guilty of attempting to pervert the course of justice
+
+Last updated: 12 September 2019
+
+
+---

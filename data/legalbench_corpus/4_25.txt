@@ -1,0 +1,138 @@
+# Chapter 4.25
+
+
+## 4.25 Alibi
+
+# 4.25 Alibi
+
+
+
+## Introduction
+
+
+
+1. An alibi is evidence that the accused was at another place at the time of the alleged offending. Such evidence is more particular than a bare denial of being at the place of the alleged offending (*DPP v Debs* [2002] VSC 79, [15]).
+
+2. Victorian criminal practitioners have traditionally been cautious about running alibi defences (*Dun v The Queen* [2019] VSCA 43, [22]).
+
+3. The admissibility of alibi evidence is regulated, in part, by the Criminal Procedure Act 2009. An accused must obtain leave of the court in order to give evidence of an alibi personally, or to call evidence in support of an alibi, if the accused has not given notice of alibi within 14 days of being committed for trial or, if that does not apply, within 14 days of receiving a copy of the indictment (*Criminal Procedure Act 2009* ss 190(1), (2). See also *DPP v Debs* [2002] VSC 79, [11]–[12]).
+
+4. The court must grant leave if it appears that the accused was not informed of the requirement to give notice (*Criminal Procedure Act 2009* s 190(7)).
+
+5. Ordinarily, the prosecution cannot lead evidence of a notice of alibi (*DPP v Debs* [2002] VSC 79, [18]).
+
+6. Evidence rebutting an alibi is relevant and admissible as part of the prosecution case (*Killick v The Queen* (1981) 147 CR 565; *R v Rich (Ruling No 13)* [2008] VSC 520, [18]).
+
+7. Where the prosecution had been informed of the alibi, the prosecution must generally call evidence rebutting the alibi before it closes its case. It is generally not appropriate to wait until after the accused has called evidence and seek to lead the evidence in rebuttal (*Killick v The Queen* (1981) 147 CR 565). While this rule does not apply if the prosecution learns of the alibi for the first time after it closes its case, Criminal Procedure Act 2009 s 190 means that this situation will rarely arise.
+
+
+---
+
+
+## 4.25 Directions about alibi evidence
+
+## Directions about alibi evidence
+
+
+
+1. Directions about alibi evidence are designed to deal with the risk that the jury will mistakenly think that:
+
+
+
+- the accused has the onus of proving the alibi; and
+
+- if the jury rejects the alibi, they will immediately conclude that the accused raised a false alibi to conceal his or her guilt (*R v J (No 2)* [1998] 3 VR 602; *R v Juric* (2002) 4 VR 411, [39]).
+
+
+
+2. At common law, it was thought that these problems “will almost inevitably arise”. However, there was no general rule the jury must be directed about these dangers. Instead, a direction was only required if there is an appreciable danger of the jury misunderstanding how the burden of proof operates (*R v J (No 2)* [1998] 3 VR 602; *Dun v The Queen* [2019] VSCA 43, [23]; *R v Merrett* [2007] VSCA 1, [17], [27]). Under the *Jury Directions Act 2015*, the need for a direction depends on whether a direction is sought and whether, despite the absence of any request, there are substantial and compelling reasons for giving the direction (*Jury Directions Act 2015* ss 12, 14, 16; *Chaouk** v The Queen* [2022] VSCA 151). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+3. In *Dun v The Queen* [2019] VSCA 43, [22], the Court of Appeal outlined that an alibi direction may tell the jury that:
+
+
+---
+
+
+## 4.25 Directions about alibi evidence
+
+- The accused has adduced evidence which, if accepted, shows that at the time the relevant offence was committed, he or she was elsewhere.
+
+- When an accused person puts forward evidence of alibi, the burden of proving the accused’s guilt remains with the prosecution.
+
+- This means that the prosecution assume a burden of disproving the alibi. If the prosecution fails to satisfy you beyond reasonable doubt that the alibi evidence should be rejected, then you must acquit the accused.
+
+- If the prosecution satisfies you beyond reasonable doubt that the alibi evidence should be rejected, it does not follow that you necessarily must convict the accused. The burden remains with the prosecution to prove beyond reasonable doubt each element of the offence (see also R v Liewes, Unreported, 10 April 1997, Victorian Court of Appeal; King v The Queen (1986) 15 FCR 427; R v J (No 2) [1998] 3 VR 602).
+
+
+
+4. Another form of alibi direction was quoted with approval by Ferguson CJ and Maxwell P in *Pell v The Queen* [2019] VSCA 186:
+
+
+
+The Crown must establish beyond reasonable doubt that the accused was at X at the relevant time. The Crown cannot do so if there is any reasonable possibility that he was at Y at that time, as asserted by the alibi evidence. The Crown must therefore remove or eliminate any reasonable possibility that the accused was at Y at the relevant time, and also persuade you, on the evidence on which the Crown relies, that beyond reasonable doubt he was at X at that time (quoting *R v Kanaan* (2005) 64 NSWLR 527, 559 [135])
+
+
+---
+
+
+## 4.25 Directions about alibi evidence
+
+5. Following the guidance from the High Court in *DPP v **Roder** *[2024] HCA 15 on the operation of *Jury Directions Act 2015* s 61 (which provides that the only matters the judge may direct must be proved beyond reasonable doubt at the elements of the offences and the absence of any relevant defences), directions should not treat the alibi as something to be disproved beyond reasonable doubt. Instead, the directions should focus on proof of the elements, and direct the jury that it cannot find an element proved if it is reasonably possible that the alibi evidence is true.
+
+6. In some cases, it will be appropriate to direct the jury that rejection of an alibi cannot be used to support other evidence of guilt. Whether such a direction is necessary will depend on how the case is conducted and whether there is any risk of the jury misusing the alibi evidence (*Sindoni v The Queen* (2011) 211 A Crim R 187, [86]–[89]). In deciding whether there is such a risk, the court may take into account whether the alibi evidence was introduced by the defence, or by the prosecution in its obligation to call all relevant evidence, along with whether there was any risk of the jury thinking that the accused had induced the witnesses to give false evidence (see *Chaouk** v The Queen* [2022] VSCA 151).
+
+7. In other cases, evidence rebutting an alibi may also be relevant to show the accused deliberately created a false alibi. In that situation, the judge will need to consider whether the jury can use the creation of a false alibi as incriminating conduct evidence. This may depend on whether there is evidence to support a conclusion that the alibi was deliberately fabricated, rather than being a product of mistake by witnesses. The jury can only use fabrication of alibi against the accused where they are satisfied that the only reason for the fabrication is to deceive the jury (*Killick v The Queen* (1981) 147 CR 565; *R v Juric* (2002) 4 VR 411, [39]–[41]; *R v Chan*, Unreported, 12 March 1998, Victorian Court of Appeal; *King v The Queen* (1986) 15 FCR 427). See also 4.6 Incriminating Conduct (Post Offence Lies and Conduct).
+
+
+---
+
+
+## 4.25 Directions about alibi evidence
+
+8. The risk of the jury misusing their rejection of alibi evidence is enhanced where the jury is directed to look for evidence to support the complainant’s evidence, where there is a long delay between the alleged offending and the trial or where there is other evidence relied on as lies constituting incriminating conduct evidence (*R v J (No 2)* [1998] 3 VR 602).
+
+9. The need for an alibi direction will depend, in part, on whether the alibi covers the whole of the period of offending. Where the alibi does not cover the complete period of offending, there is a greater risk that the direction will be unnecessary and confusing (*Dun v The Queen* [2019] VSCA 43, [25]; *R v **Liewes*, Unreported, 10 April 1997, Victorian Court of Appeal).
+
+
+---
+
+
+## 4.25 Directions about alibi evidence
+
+Last updated: 25 June 2024
+
+
+---
+
+---
+
+# Chapter 4.25.1
+
+
+## 4.25.1 Charge: Alibi
+
+# 4.25.1 Charge: Alibi
+
+**Note**: This direction is designed for cases where the judge needs to direct the jury about both the risk of the jury reversing the onus of proof and the risk of treating the rejection of an alibi a basis for a conclusion of guilt. If the jury could use rejection of an alibi as evidence of incriminating conduct, this direction must be modified and further directions given in accordance with *Jury Directions Act 2015* Part 4, Division 1.
+
+I am now going to turn to the evidence on NOA’s movements.
+
+You heard evidence from [*identify alibi witnesses*] that, at the time of the alleged offending, NOA was [*identify alibi*]. Lawyers refer to this evidence as an alibi.
+
+There are two directions you must follow about this alibi evidence.
+
+First, you must remember that the prosecution bears the burden of proving NOA’s guilt and alibi evidence does not change this. The defence does not have to prove the accused was elsewhere at the time of the alleged offending. The prosecution must prove the accused committed the offence and that the alibi does not cause you to have a reasonable doubt. In other words, the prosecution must eliminate any reasonable possibility that the alibi is true.
+
+Second, if you reject the alibi evidence, that does not mean the accused is guilty. Rejecting an alibi does not add to the prosecution’s case. It merely removes one barrier to you being satisfied the prosecution has proved the accused’s guilt beyond reasonable doubt.
+
+The prosecution must still satisfy you beyond reasonable doubt of each and every element of the offence charged. Rejection of the alibi will not fill any gaps in the prosecution’s case. If you reject the alibi evidence, put it aside, then ask yourselves am I satisfied beyond reasonable doubt that the elements of the offence are proved. If the answer is no, you must acquit the accused.[^2]
+
+[*Refer to relevant evidence and arguments about the alibi evidence*.]
+
+Last updated: 25 June 2024
+
+
+[^2]: If the jury can use rejection of an alibi as incriminating post offence conduct, this paragraph should be modified or omitted.
+
+
+---

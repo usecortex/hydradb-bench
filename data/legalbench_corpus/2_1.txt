@@ -1,0 +1,200 @@
+# Chapter 2.1
+
+
+## 2.1 Views
+
+# 2.1 Views
+
+
+
+## What is a view?
+
+
+
+1. Under s 53 of the* Evidence Act 2008, *the court may order a "demonstration, experiment or inspection" (collectively, a "view").[^1]
+
+2. These terms are not defined in the *Evidence Act 2008*. Based on the common law and the conventional meaning of the terms:
+
+
+
+- An *inspection* involves the court travelling to view a location or an object that could not be brought into the courtroom;
+
+- A *demonstration* builds on an inspection by allowing a witness to explain the incident in question, demonstrate the operation of a machine or other object, or attempt to recreate an event;
+
+- An *experiment* involves the jury watching a person carry out a test or trial for the purpose of discovering something or testing a principle or hypothesis (*Evans v R *(2007) 235 CLR 521).
+
+
+
+3. Views take place outside the courtroom. Section 53 therefore does not apply to the examination of exhibits inside the courtroom, or courtroom demonstrations of the size or position of objects (*Evans v R* (2007) 235 CLR 521. See also *Evidence Act 2008 *s 53(5)).
+
+4. The "experiments" referred to in s 53 are limited to those conducted as part of the trial in front of the jury, and do not include those conducted before the trial and described by witnesses at the trial (*Evans v R *(2007) 235 CLR 521; *DPP v Farquharson (No.2) (Ruling No. 4)* [2010] VSC 210).
+
+
+[^1]: While the heading of s 53 is "views", that term is not used in the provision. It has been held that it was Parliament’s intention to use the word "view" as a general word to encompass demonstrations, experiments and inspections. This differs from the common law, where a view was an inspection and did not encompass a demonstration or experiment (*Hughes v Janrule* [2010] ACTSC 5).
+
+
+---
+
+
+## 2.1 When May a View Be Ordered
+
+## When May a View Be Ordered
+
+
+
+1. A judge may order a view on the application of a party (*Evidence Act 2008* s 53).
+
+2. Before ordering a view, the judge must be satisfied that:
+
+
+
+- The parties will be given a reasonable opportunity to be present; and
+
+- The judge and jury will be present (*Evidence Act 2008* s 53).
+
+
+
+3. While the presence of the judge and jury at a view is mandatory, a party may choose not to be present (*R v Milat* NSWSC 12/4/96).
+
+4. In some cases, counsel have sought to be excused from being present during a view. As a matter of principle, juries should not receive evidence in the absence of counsel for each party and there are significant limits on when a judge can communicate with a jury without the knowledge of counsel. Given that a view can be used as evidence and the jury can ask questions during a view, it will rarely be appropriate for a judge to excuse counsel for attending the view.
+
+5. It is at the trial judge’s discretion whether to hold a view in a particular case (*R v Delon *(1992) 29 NSWLR 29).
+
+6. In deciding how to exercise the discretion, a judge must consider:
+
+
+
+- Whether the parties will be present;
+
+- Whether the view will assist the court to resolve issues of fact or understand the evidence;
+
+- The danger that the view might be unfairly prejudicial, might be misleading or confusing, or might cause or result in undue waste of time;
+
+- In the case of a demonstration, the extent to which it will properly reproduce the conduct or event to be demonstrated;
+
+- In the case of an inspection, the extent to which the place or thing being inspected has been materially altered (*Evidence Act 2008* s 53).
+
+
+---
+
+
+## 2.1 When May a View Be Ordered
+
+7. Unlike at common law (see, e.g. *R v Alexander* [1979] VR 615), the circumstances to be demonstrated do not need to be identical to the circumstances that existed at the time of the event in question. Similarity of circumstances is merely one factor that a judge must consider (*Evidence Act 2008* s 53).
+
+8. A view may take place at any time during the trial. While this can even extend to conducting a view after the jury commences deliberations, the judge must have special regard for the prohibition on the prosecution splitting its case and the risk of prejudice to the accused when additional evidence is introduced after closing addresses (*R v Delon* (1992) 29 NSWLR 29).
+
+9. As the *Evidence Act 2008* substantially changed the law in this area, common law cases on the availability of a view must be read with considerable caution.
+
+
+---
+
+
+## 2.1 For What Purposes May a View be Used?
+
+## For What Purposes May a View be Used?
+
+
+
+1. The jury may use a view as a source of evidence in the case, and may draw any reasonable inferences from what it sees, hears or otherwise notices during a view (*Evidence Act 2008* s 54).
+
+2. A view may also allow the jury to better understand the evidence given in court and to assess the credibility or value of that evidence (see, e.g. *R v Alexander *[1979] VR 615; *Scott v Numurkah Corporation *(1954) 91 CLR 300).
+
+
+---
+
+
+## 2.1 Conduct of a View
+
+## Conduct of a View
+
+
+
+1. A view may be facilitated by a sworn ‘shower’ who points out what are said to be relevant features on the view. The ‘shower’ is usually a member of court staff, who has previously received a ‘dry run’ of the view with the assistance of the informant. It is only in an exceptional case that the informant should be sworn as the ‘shower’ (*Aston v The Queen* [2019] VSCA 225, [90]–[93]).
+
+2. Those responsible for transporting the jury to a view, including both jury keepers and any bus drivers, should be made aware that they must not discuss anything related to the case in the presence of the jury (*Aston v The Queen* [2019] VSCA 225, [82]).
+
+
+---
+
+
+## 2.1 Directions on Views
+
+## Directions on Views
+
+
+
+1. The judge should instruct the jury that inspections and experiments are only allowed under the strict control of the court. Jurors must not conduct their own inspections or experiments during deliberations. Such conduct is a criminal offence (*R v Skaf* (2004) 60 NSWLR 86; *Evidence Act 2008 *s 53(4); *Juries Act 2000* s 78A. See 1.5 Decide Solely on the Evidence for further information).
+
+2. Before conducting a view, the judge should explain its purpose and how the jury may use the view in the circumstances of the case.
+
+3. The judge should tell the jury not to talk to any accompanying witnesses, police officers or legal representatives during the view. (*Evans v R* (2007) 235 CLR 521; *R v Ashton *(1944) 61 WN (NSW) 134; *R v Neilan *[1992] 1 VR 57).[^2]
+
+
+[^2]: Witnesses should not accompany the jury unless conducting a demonstration or experiment.
+
+
+---
+
+
+## 2.1 Placing the View on the Record
+
+## Placing the View on the Record
+
+
+
+1. Historically, one argument against using views as evidence was that there was no way for the results of the view to be transmitted to an appellate court. To overcome this problem, upon returning to court, judges should sum up (in the presence of the jury) what transpired, so that there is an accurate record of what occurred on the transcript (*Ha v R* (2014) 44 VR 319; *R v FD* (2006) 160 A Crim R 392).
+
+2. This is an important tool to allow an appellate court to know what occurred on a view and so assess what inferences may have been open to a jury as a result of the view (*Ha v R* (2014) 44 VR 319).
+
+3. A summary may be compiled through:
+
+
+
+- Recording a video of the view (provided it does not disclose the identity of the jurors). If a view is recorded, the judge should ensure that any questions from the jury are also recorded by reading the question out himself or herself;
+
+- A shorthand writer keeping a summary of the view while it takes place;
+
+- The judge making a summary on the return to court. Some judges invite counsel to prepare an agreed summary, which the judge will then settle (see *Ha v R* (2014) 44 VR 319).
+
+
+
+4. The summary should identify where the jury were taken, what they observed and from what vantage points. It need not draw conclusions about what was observable from those vantage points (*Ha v R* (2014) 44 VR 319).
+
+5. The summary of the view should include a note of any questions the jury asked in the course of the view (*Ha v R* (2014) 44 VR 319).
+
+
+
+Last updated: 23 October 2019
+
+
+---
+
+---
+
+# Chapter 2.1.1
+
+
+## 2.1.1 Charge: Views
+
+# 2.1.1 Charge: Views
+
+This charge should be given before going on a view. Upon returning to court, it is advisable to sum-up, in the presence of the jury, what transpired and summarise these directions.
+
+You will shortly be taken to [an inspection/see a demonstration/see an experiment] at [*insert location*]. You will be accompanied by [*identify all those who will attend the view, such as the judge, counsel for the parties, the accused, and any jury keepers*].
+
+The purpose of this [inspection/demonstration/experiment] is to assist you to better understand the evidence of the witnesses. You may also use your observations as evidence in the case and as part of your discussions. You are entitled to draw any reasonable inferences from what you see, hear or otherwise notice during the [inspection/demonstration/experiment]. Later in the trial I will give you directions about the need for care when drawing inferences from evidence.[^1]
+
+During the [inspection/demonstration/experiment], you must not discuss the case in any circumstances where you can be overheard by anyone other than your fellow jurors. Remember that all jury discussions must take place in the privacy of the jury room.
+
+Do not speak to anyone other than a fellow juror or a court officer, and do not let anyone other than these people speak to you. If you have a question concerning the [inspection/demonstration/experiment], you should write it down and give it to my tipstaff, who will pass it to me.
+
+At the start of the trial, I told you that you must not make any private investigations or enquiries about this case, and that it is a criminal offence to do so. You are jurors and not investigators. That direction still applies, and means that you must not visit the [*describe view location*] a second time. All [inspections/demonstrations/experiments] must be conducted under court supervision.
+
+Last updated: 30 November 2015
+
+
+[^1]: If the judge has already directed the jury about drawing inferences, this paragraph must be modified accordingly.
+
+
+---

@@ -1,0 +1,409 @@
+# Chapter 4.9
+
+
+## 4.9 Prosecution Failure to Call or Question Witnesses
+
+# 4.9 Prosecution Failure to Call or Question Witnesses
+
+
+
+## Scope
+
+
+
+1. This topic addresses the directions which should be given where the prosecution fails to call a witness to give evidence at trial, or fails to ask a witness a material question during the trial.
+
+2. Similar issues are addressed in the following:
+
+
+
+- 4.10 Defence Failure to Call Witnesses;
+
+- 4.11 Failure to Challenge Evidence (Browne v Dunne).
+
+
+
+3. The need for directions on these issues depends on:
+
+
+
+- whether directions are sought; or
+
+- whether there are substantial and compelling reasons for giving a direction in the absence of any request (*Jury Directions Act 2015* ss 14–16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+## Failure to Call a Witness
+
+
+
+## Obligation to Call Material Witnesses
+
+
+
+1. The prosecution alone bears the responsibility of deciding whether to call a person as a witness for the prosecution (*Apostilides v R* (1984) 154 CLR 563).
+
+2. The prosecution must call all witnesses necessary to unfold the narrative of events unless there is a good reason not to do so (*Whitehorn v R* (1983) 152 CLR 657; *Dyers v R *(2002) 210 CLR 285; *Mahmood v Western Australia* (2008) 232 CLR 397).
+
+3. As the prosecution seeks the truth, it must call evidence favourable and unfavourable to its case (*R v Soma *(2003) 212 CLR 299; *R v Shaw* (1991) 57 A Crim R 425; *R v Glennon (No. 2)* (2001) 7 VR 631).
+
+4. However, the prosecution does not need to call a witness if his or her evidence:
+
+
+
+- Is likely to be unreliable, untrustworthy or otherwise incapable of belief (*Whitehorn v R* (1983) 152 CLR 657; *R v Newland* (1997) 98 A Crim R 455);
+
+- Is likely to be unnecessarily repetitious, in light of the number of witnesses available for the proof of the matter on which they would give evidence (*Whitehorn v R *(1983) 152 CLR 657); or
+
+- Relates to an issue which has been raised by the defence, and on which the defence bears the onus of proof (e.g. mental impairment) (*R v Fitchett* (2009) 23 VR 91; [2009] VSCA 150).
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+5. Previously, one of the factors the prosecution could consider when deciding whether to call a witness was whether the interests of justice required that it be able to cross-examine that witness (see, e.g. *Richardson v R* (1974) 131 CLR 116). This was due to the restrictions the common law placed on the prosecution’s ability to cross-examine its own witnesses. As *Evidence Act 2008 *s 38 now provides the prosecution with a greater opportunity to cross-examine its own witnesses, this is no longer a reasonable basis for refusing to call a witness (*Santo v R* [2009] NSWCCA 269;* Kanaan v R* [2006] NSWCCA 109; *Kneebone v R *(1999) 47 NSWLR 450 (Smart AJ)).[^2]
+
+
+
+## Section 43 direction
+
+
+
+6. Where the prosecution fails to call or question a witness without providing a reasonable explanation, the defence may seek a direction under *Jury Directions Act 2015 *s 43 (a ‘section 43 direction’).
+
+7. This direction informs the jury that it may conclude that the witness would not have assisted the prosecution’s case (*Jury Directions Act 2015 *s 43).
+
+8. This direction is a statutory replacement for the common law rule in *Jones v Dunkel* (see *Jones v Dunkel *(1959) 101 CLR 298; *Dyers v R* (2002) 210 CLR 285; *R v Le–Gallienne* [2004] VSCA 223).
+
+
+
+## When Should a Section 43 Direction be Given
+
+
+
+### Prerequisites
+
+
+
+9. A section 43 direction may be given if:
+
+1. A witness was available who could have given relevant evidence;
+
+1. The prosecution could reasonably have been expected to call or question that witness to give evidence;
+
+2. The prosecution failed to call or question the witness;
+
+3. The prosecution provided no satisfactory explanation for that failure; and
+
+4. Counsel for the accused requests a direction or there are substantial and compelling reasons for giving the direction despite the absence of a request (Jury Directions Act 2015 ss 12, 43; Police v Kyriacou (2009) 103 SASR 243).
+
+
+
+### Discuss Issue With Counsel
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+10. Where the defence seeks a section 43 direction, the judge should discuss the issue with the prosecution before charging the jury. This will allow the prosecution to make submissions on why it was not reasonably expected to call or question the witness, or why there is a satisfactory explanation for not calling or questioning the witness (see *Jury Directions Act 2015 *s 43; *R v OGD* (1997) 45 NSWLR 744).
+
+11. This discussion will provide the judge with the information needed to determine whether the statutory basis for the direction is established (see *Jury Directions Act 2015* s 43. See also* Dyers v R* (2002) 210 CLR 285; *R v Heinze* [2005] VSCA 124; *R v Kneebone *(1999) 47 NSWLR 450).
+
+12. If the judge finds that the prosecution does not have a good reason for failing to call a witness, he or she may ask the prosecution to reconsider its decision (*Apostilides v R* (1984) 154 CLR 563).[^3] If the prosecution complies with the judge’s request, a section 43 direction will not be necessary.
+
+
+
+### Reasonable explanations for failing to call a witness
+
+The Witness is Likely to be Unreliable
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+13. A direction should not be given where the prosecution has a strong basis for considering the witness unreliable, untrustworthy or otherwise incapable of belief (*R v Newland* (1997) 98 A Crim R 455; *Apostilides v R* (1984) 154 CLR 563; *Whitehorn v R* (1983) 152 CLR 657).
+
+14. It is not enough for the prosecution to merely suspect the witness is unreliable. There must be identifiable circumstances which clearly establish unreliability (*Apostilides v R* (1984) 154 CLR 563).
+
+15. The prosecution should put forward the evidence on which it formed the view that the witness should not be called (*R v Kneebone* (1999) 47 NSWLR 450; *R v Glennon (No 2)* (2001) 7 VR 631).
+
+16. The mere fact that a potential witness has made contradictory statements in the past is not a sufficient reason for failing to call him or her (*R v Shaw* (1991) 57 A Crim R 425; *R v Armstrong* [1998] 4 VR 533;* R v Palmer* [2000] VSCA 236).
+
+17. The fact that the prosecution expects the witness to be unfavourable, or to give evidence that does not accord with the prosecution’s case theory, is also not a sufficient reason for failing to call a witness (*Whitehorse v R* (1983) 152 CLR 657; *R v Newland *(1997) 98 A Crim R 455;* R v Heinze* [2005] VSCA 124; *Dyers v R* (2002) 210 CLR 285; *R v Kneebone *(1999) 47 NSWLR 450).
+
+
+
+The Evidence is Unnecessary or Irrelevant
+
+
+
+18. A direction should not be given if the witness’s evidence is likely to be unimportant, cumulative or inferior to what has already been adduced (*Police v Kyriacou* (2009) 103 SASR 243).
+
+19. The prosecution will also have a reasonable explanation for not calling a witness where the unled evidence would simply have supported the unchallenged evidence of another witness. The evidence in question must have been:
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+- Potentially relevant to a contested issue (*R v Dammous *[2004] VSCA 62); and
+
+- Able to affect the question of whether or not the prosecution has proven its case beyond reasonable doubt (*RPS v R* (2000) 199 CLR 620;* Mahmood v Western Australia* (2008) 232 CLR 397. See also* R v Louizos* [2009] NSWCCA 71;* HGA v R* [2010] VSCA 114).
+
+
+
+Other Reasons for Not Giving a Direction
+
+
+
+20. At common law, the prosecution has been held to have a good reason for not calling a witness in the following circumstances:
+
+
+
+- Where it did not know what evidence the witness would give (e.g. because the police did not take a witness statement) (*Gillan v Police (SA)* (2004) 149 A Crim R 354);
+
+- Where the witness could not have been compelled to give evidence (*R v Reardon (No 2)* (2004) 60 NSWLR 454);
+
+- Where the witness had been deported and could not be subpoenaed (*Fonseka v R* (2003) 140 A Crim R 395);
+
+- Where the witness had indicated that he or she would not give evidence due to a privilege under *Evidence Act 2008* (*R v Kessing* (2008) 73 NSWLR 22).
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+21. These reasons are also likely to provide satisfactory explanations for the purpose of the *Jury Directions Act 2015*.
+
+22. In some cases the complexity of the circumstances may provide good reasons for not giving a section 43 direction. For example, in* R v Taufua* [1999] NSWCCA 205 the court held that, in order for the jury to determine whether the prosecution should have called the relevant witness, the judge would have had to direct them about matters such as the prosecution’s obligations to call a witness under *Apostilides*, the potential unreliability of the witness and directions under s 32 of the* Jury Directions Act 2015*, and the need to seek leave to cross-examine the witness under s 38 of the *Evidence Act 2008*. In such circumstances, it was seen to be preferable to give an anti-speculation direction rather than a section 43 direction (see also* R v Smith* [2000] NSWCCA 202).
+
+23. A failure by police to question a relevant person is not a satisfactory reason for not calling the person. A prosecutor cannot remain passive, leaving a failure by police to dictate who should be called at the trial (*Solis v The Queen* [2018] VSCA 275, [104]–[108]).
+
+24. Similarly, reticence of the complainant to identify a witness or provide a witness’ contact details, or the fact that the witness is overseas, are not satisfactory explanations for a failure to call by themselves. It is not for a complainant to decide whether a witness is important, and the availability of audio-visual links means that living overseas does not stop a witness from giving evidence (*Jacobs v The Queen* [2019] VSCA 285, [160]).
+
+
+
+## Content of the Direction
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Call a Witness
+
+25. Where a section 43 direction is required, the judge may direct the jury that it is entitled to conclude that the witness in question would not have assisted the prosecution’s case and that this supports the defence case (*Jury Directions Act 2015* s 43; *Jones v Dunkel *(1959) 101 CLR 298). In some cases, it will also be appropriate to tell the jury that the prosecution failure to call the evidence strengthens the defence case.
+
+26. The direction must only describe a permissible path of reasoning to the jury. It must not require the jury to draw the inference described (*Nadarajamoorthy v Moreton* [2003] VSC 283).
+
+27. The judge must not direct the jury that the missing evidence would have contradicted the prosecution’s case or been unfavourable to the prosecution. He or she may only tell the jury that the evidence would not have assisted the prosecution (*Nadajaramoorthy v Moreton* [2003] VSC 283; *R v Allen & Anor* Vic CCA 20/12/1994; *R v Buckland* (1977) 2 NSWLR 452).
+
+28. The judge may explain any competing inferences that arise in the circumstances of the case, including any innocent explanations for the failure to call the witness (*R v Jenkins* (2002) 6 VR 81; *R v OGD* (1997) 45 NSWLR 744;* R v Glennon (No 2)* (2001) 7 VR 631. See also *Apostilides v R* (1984) 154 CLR 563).
+
+29. A judge may comment on the effect that the prosecution’s failure to call a particular witness would appear to have had on the course of the trial (*Apostilides v R *(1984) 154 CLR 563).
+
+30. If the prosecution fails to call a particular witness, but there are good reasons for not giving a section 43 direction, it may be appropriate to give an anti-speculation direction. See below for further information.
+
+
+[^2]: It will usually be unjust to refuse the prosecution leave to cross-examine a witness under *Evidence Act 2008* s 38 where it has called that witness because of its duty to put all material evidence (including unfavourable evidence) before the jury (*Santo v R* [2009] NSWCCA 269; *Kanaan v R* [2006] NSWCCA 109; *Kneebone v R* (1999) 47 NSWLR 450 per Smart AJ).
+[^3]: As the prosecution alone bears the responsibility of deciding whether a person will be called as a witness for the prosecution, the judge cannot force it to call a witness. Although the judge has the power to call a witness him or herself (and thus also avoid the need for a section 43 direction), this should only be done in the "most exceptional circumstances" (*Apostilides v R* (1984) 154 CLR 563).
+
+
+---
+
+
+## 4.9 Failure to Question Witnesses
+
+## Failure to Question Witnesses
+
+
+
+1. It is likely that section 43 also applies where the prosecution fails to question a witness about a particular matter, when it may be expected that the prosecution would ask about that matter (*R v GEC* (2001) 3 VR 334;* R v Martin* [2002] QCA 443; *Western Australia v Coates *[2007] WASC 307; *Mahmood v Western Australia *[2007] WASCA 101; *R v Priest* (2002) 137 A Crim R 133).[^4]
+
+2. This means that a section 43 direction may be given if:
+
+
+
+- A witness who was called could have given relevant evidence about a particular matter;
+
+- The prosecution could reasonably have been expected to question the witness about that matter, but failed to do so;
+
+- The prosecution provided no satisfactory explanation for that failure; and
+
+- Counsel for the accused requests a direction regarding that failure.
+
+
+
+3. The need for this direction raises the same issues which are discussed above regarding the prosecution failure to call the witness.
+
+4. At common law, one case where it was considered appropriate to direct the jury on the failure of the prosecution to question a witness about a topic was where:
+
+
+
+- The complainant’s credibility was the foundation of the prosecution’s case;
+
+- The matter that the prosecution did not ask the witness about was central to the complainant’s credibility; and
+
+- The prosecution had no reason for not asking the witness about that matter (*Western Australia v Coates *[2007] WASC 307; *R v GEC *(2001) 3 VR 334).
+
+
+
+5. The fact that defence counsel had the option to cross-examine the witness about the relevant matter does not remove the need for a direction. Defence counsel should not be expected to risk leading prejudicial evidence in cross-examination because the prosecution has failed to elicit all relevant evidence (*R v GEC* (2001) 3 VR 334).
+
+6. See "Content of the Direction" above for a discussion of matters relevant to the content of a section 43 direction. If a section 43 direction is given in this context, modifications should be made to reflect the fact that an inference is being drawn from the prosecution’s failure to question a witness, rather than its failure to call a witness.
+
+
+[^4]: In *Dyers v R* (2002) 210 CLR 285, the High Court referred to *R v GEC* (2001) 3 VR 334, but did not need to decide whether the rule in *Jones v Dunkel* extended to a prosecution failure to lead evidence from a witness who has been called.
+
+
+---
+
+
+## 4.9 Anti-speculation Direction
+
+## Anti-speculation Direction
+
+
+
+1. An anti-speculation direction may be given where:
+
+
+
+- It is possible that the jury might think that a witness could have been called by the prosecution to give evidence, or could have been questioned about a certain matter, but was not;
+
+- An adverse inference may not be drawn from the prosecution’s failure to call or question the witness;
+
+- Counsel for the prosecution has requested the direction, or there are substantial and compelling reasons to give the direction despite the absence of a request (*Jury Directions Act 2015* ss 12, 16; *Dyers v R *(2002) 210 CLR 285).
+
+
+
+2. In such cases, the judge may direct the jury not to speculate about what the witness might have said (*Dyers v R* (2002) 210 CLR 285).
+
+3. The judge may also direct the jury:
+
+
+
+- Not to speculate about why the witness was not called or questioned;
+
+- Not to place any weight on the failure to call or question the witness; and
+
+- To decide the case solely on the evidence presented at the trial (see, e.g. *R v Newland *(1997) 98 A Crim R 455; *Hugo v R* (2000) 113 A Crim R 484; *R v Holden* [2001] VSCA 63; *R v Caratti* (2000) 22 WAR 527;* HGA v R* [2010] VSCA 114).
+
+
+
+4. If defence counsel has suggested that an adverse inference should be drawn against the prosecution for failing to call or question a witness, the judge should explicitly direct the jury not to draw such an inference (see, e.g. *R v Heinze* [2005] VSCA 124).
+
+5. Where the prosecution does not call a witness because of doubts about his or her reliability, it will generally not be appropriate to tell that to the jury (see, e.g. *R v Chimirri* [2010] VSCA 57).
+
+6. As an anti-speculation direction and a section 43 direction are contradictory, the two directions should not be given together (*Dyers v R *(2002) 210 CLR 285).
+
+
+
+Last updated: 17 February 2020
+
+
+---
+
+---
+
+# Chapter 4.9.1
+
+
+## 4.9.1 Charge: Section 43 Direction
+
+# 4.9.1 Charge: Section 43 Direction
+
+This charge may be given where an adverse inference can be drawn from the prosecution’s failure to call a witness to give evidence.
+
+It may only be given where the trial judge is satisfied that the prosecution:
+
+i) was reasonably expected to call or question the witnesses; and
+
+ii) has not satisfactorily explained why it did not call or question the witness.
+
+The direction must also be requested by the defence, or there must be substantial and compelling reasons for giving the direction despite the absence of any request. See 3.1 Directions Under Jury Directions Act 2015.
+
+It may be modified for use in cases where an adverse inference can be drawn from the prosecution’s failure to question a witness.
+
+
+
+## Section 43 Direction
+
+In this case, you may have expected that the prosecution would have asked NOW to give evidence. However, they chose not to do so.[^2]
+
+[*Explain reasons why the prosecution should have called the witness, and possible reasons for their failure to do so*.]
+
+It is for you to determine whether the prosecution had a satisfactory reason for not asking NOW to give evidence. If you conclude that the prosecution did not have a satisfactory reason for failing to call NOW, then you may conclude that [his/her] evidence would not have helped the prosecution.
+
+Last updated: 29 June 2015
+
+
+[^2]: This charge was written for use in cases where the prosecution failed to call a witness. it must be adapted for cases where the prosecution fails to question a witness on a particular topic.
+
+
+---
+
+---
+
+# Chapter 4.9.2
+
+
+## 4.9.2 Charge: Anti-Speculation Direction
+
+# 4.9.2 Charge: Anti-Speculation Direction
+
+This charge should be given where:
+
+i) The jury might think that the prosecution should have called a particular witness to give evidence;
+
+ii) An adverse inference may not be drawn from the prosecution’s failure to call the witness;
+
+iii) Prosecution counsel have requested the direction, or there are substantial and compelling reasons for giving the direction in the absence of a request.
+
+It may be modified for use in cases where the jury might think that the prosecution should have questioned a witness about a particular matter.
+
+
+
+## Anti-speculation Direction
+
+You may have noticed that NOW did not give evidence in this case. You must not speculate about what s/he might have said if s/he had given evidence. As I have told you, you must decide this case solely on the evidence which has been given in court.
+
+Last updated: 29 June 2015
+
+
+---

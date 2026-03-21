@@ -1,0 +1,597 @@
+# Chapter 8.4
+
+
+## 8.4 Mental Impairment
+
+# **8.4 Mental Impairment**
+
+
+
+## Commencement Information
+
+
+
+1. The defence of mental impairment was created by s 20 of the *Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 *(the Act).
+
+1. Section 20 commenced operation on 18 April 1998, and applies to any offences that it is alleged were committed on or after that date.
+
+2. The common law defence of insanity was abrogated by s 25 of the Act, but continues to apply to any offences it is alleged were committed before 18 April 1998 (Schedule 3 clause 7(1)). However, a verdict of not guilty on account of insanity is to be taken for all purposes to be a finding of not guilty by reason of mental impairment under Part 4 of the Act (Schedule 3 clause 7(2)).
+
+
+---
+
+
+## 8.4 When can the Defence of Mental Impairment be Raised?
+
+## When can the Defence of Mental Impairment be Raised?
+
+
+
+1. The question of mental impairment may be raised at any time during the trial by the defence or the prosecution (s 22(1). See, e.g. *R v Hassan *[2004] VSC 85).
+
+2. If the prosecution wishes to raise the issue of mental impairment, they require the leave of the trial judge (s 22(1)). As long as there is admissible evidence on the issue, the trial judge has a very broad discretion to grant leave (*R v Alford* (No.2) [2005] VSC 405).
+
+
+---
+
+
+## 8.4 Pre-empanelment Consent Hearings
+
+## Pre-empanelment Consent Hearings
+
+
+
+1. Depending on the circumstances, it may be possible to deal with the issue of mental impairment without empanelling or charging a jury (s 21(4). See, e.g. *R v Whelan *[2006] VSC 319).
+
+2. According to s 21(4), if prior to the jury’s empanelment the prosecution and the defence agree that the proposed evidence demonstrates that the accused committed the conduct constituting the offence,[^2] and will also establish the defence of mental impairment, the trial judge may hear the evidence and:
+
+
+
+- If satisfied that the evidence establishes the defence of mental impairment, may direct that a verdict of not guilty because of mental impairment be recorded without empanelling a jury; or
+
+- If not satisfied that the evidence establishes the defence of mental impairment, direct that the matter be heard by a jury.
+
+
+
+3. The judge must be satisfied that the evidence establishes the defence of mental impairment on the balance of probabilities (*R v Whelan *[2006] VSC 319).
+
+
+[^2]: It is unclear whether the defence and prosecution simply need to agree that the accused committed the relevant acts, or whether they also need to agree that the accused had the requisite mental state: see "Mental Impairment and Proof of Elements" below.
+
+
+---
+
+
+## 8.4 Establishing Mental Impairment
+
+## Establishing Mental Impairment
+
+
+
+1. A person is presumed not to be suffering from a mental impairment until the contrary is proved (s 21(1)). This provision reflects the common law presumption of sanity (*Sodeman** v R* (1936) 55 CLR 192; *R v Porter* (1933) 55 CLR 182).
+
+2. The onus of rebutting the presumption of sanity rests on the party raising the question of mental impairment (s 21(3)). In most cases it will be the defence that raise the issue, and who will be required to prove that the accused was mentally impaired. However, the burden will rest on the prosecution if they raise the issue under s 22 (with the judge’s leave).
+
+3. The defence of mental impairment must be proved on the balance of probabilities (s 21(2)(b)). This reflects the standard of proof that existed under the common law (*Sodeman** v R* (1936) 55 CLR 192; *R v Porter* (1933) 55 CLR 182).
+
+4. Apart from some limited circumstances in which a judge may determine the issue (see "Consent Hearings" above), determining whether or not an accused suffered from a mental impairment is a question of fact for the jury (s 21(2)(a)).
+
+5. When mental impairment is in issue, if a jury finds the accused not guilty they must specify in their verdict whether they have done so on the basis of mental impairment (s 22(2)(b)).[^3]
+
+
+[^3]: It is unclear whether the jury must return this verdict in relation to the offence charged, or whether they may return a qualified acquittal to a lesser included offence. See "Lesser Included Offences" below for further information.
+
+
+---
+
+
+## 8.4 What is the Defence of Mental Impairment?
+
+## What is the Defence of Mental Impairment?
+
+
+
+1. People will have a defence to what would otherwise be a criminal act if, at the time they committed the act, they were suffering from a mental impairment that had the effect that they either:
+
+1. did not know the nature and quality of what they were doing; or
+
+2. did not know that their conduct was wrong (s 20(1)).
+
+2. If the defence of mental impairment is established, the appropriate verdict is "not guilty because of mental impairment" (s 20(2)). The effects of such a verdict are specified in s 23 of the Act.
+
+3. Unlike most other Australian jurisdictions (i.e. Queensland, Western Australia, Tasmania, South Australia and the Northern Territory), the Victorian defence does not include a mental impairment which has the effect of removing a person’s capacity to control his or her actions.
+
+4. The defence applies to people who were suffering from a mental impairment at the time they *committed the criminal act*. Part 2 of the Act establishes processes to be used if the accused suffers from a mental impairment *at the time of the trial*, and is unable to understand the charge, the trial or the evidence, or is unable to enter a plea or give instructions to his or her lawyer (see 10.1 Investigations into Unfitness to Stand Trial).
+
+
+
+"Mental Impairment"
+
+
+---
+
+
+## 8.4 What is the Defence of Mental Impairment?
+
+5. The Act does not define the term "mental impairment". It has been held to have the same meaning as "disease of the mind", which formed the basis of the common law insanity defence (*R v **Sebalj* [2003] 2003 VSC 181; *R v Gemmill* (2004) 8 VR 242; *DPP v **Taleski** *[2007] VSC 183; *R v Martin *[2005] VSC 518).
+
+6. "Disease of the mind" has been held to be synonymous with "mental illness". It connotes an unhealthy or "infirm" mind, as opposed to a healthy mind affected by a transient, non-recurrent mental malfunction caused by external forces (*R v Falconer* [1990] 171 CLR 30; *R v Radford* (1985) 42 SASR 266).
+
+7. See "What is a ‘disease of the mind’?" in 8.8 Automatism for further information concerning the meaning of this phrase, and examples of conditions which have been held to be "diseases of the mind".
+
+
+
+Nature and Quality of the Act
+
+
+
+8. People will have a defence to what would otherwise be a criminal act if, at the time they committed the act, they were suffering from a mental impairment that had the effect that that they did not know the nature and quality of their conduct (s 20(1)(a)).
+
+9. This provision restates one of the limbs of the common law defence of insanity. In that context, the phrase "nature and quality" has been held to refer to the physical character and significance of a person’s actions, and the consequences of those acts. It does not refer to the moral quality of his or her conduct (*Sodeman** v R* (1936) 55 CLR 192).
+
+10. To satisfy this limb of the defence, the accused must have been unable to appreciate the physical nature of what he or she was doing, and the consequences of his or her behaviour. In the case of murder, for example, the accused must have had so little capacity for understanding the nature of life and the destruction of life, that to him or her it was like breaking a twig or destroying an inanimate object (*R v Porter* (1933) 55 CLR 182).
+
+
+
+Knowledge of wrongfulness
+
+
+---
+
+
+## 8.4 What is the Defence of Mental Impairment?
+
+11. People will have a defence to what would otherwise be a criminal act if, at the time they committed the act, they were suffering from a mental impairment that had the effect that they did not know that their conduct was wrong (s 20(1)(b)).
+
+12. Section 20(1)(b) defines this to mean that the person "could not reason with a moderate degree of sense and composure about whether the conduct, as perceived by reasonable people, was wrong".
+
+13. This provision, including the definition of "wrong" as meaning contrary to the ordinary principles of reasonable people, rather than contrary to the law or morality, also restates one of the limbs of the common law defence of insanity (*R v White and Piggin* (2003) 7 VR 442; *R v Porter* (1933) 55 CLR 182; *Sodeman** v R* (1936) 55 CLR 192; *Stapleton v R* (1952) 86 CLR 358).
+
+
+---
+
+
+## 8.4 Mental Impairment and Proof of Elements
+
+## Mental Impairment and Proof of Elements
+
+
+
+1. The defence of mental impairment is not established simply by proving that the accused suffered from a mental impairment that had one of the requisite effects. The jury must also be satisfied that the accused engaged in the "conduct constituting the offence" (s 20(1)).
+
+2. Section 3(1) states that "*conduct* includes doing an act and making an omission". It is clear from this definition that the prosecution must at least prove, beyond reasonable doubt, that the accused committed the *act or omission* which constitutes the offence charged.
+
+3. It is unclear whether the prosecution must also prove any of the other elements of the charged offence, such as the requisite *mens** rea*. While the use of the term "conduct constituting the offence" may indicate that the prosecution is *not* required to prove that the accused had a specific mental state, this issue has not yet been addressed in Victoria.[^4]
+
+4. A number of different approaches have been taken to the issue of which elements the prosecution is required to prove, as outlined below. As the law in this area is unclear, judges who are required to charge a jury in a case that raises the defence of mental impairment will need to consider which of these approaches (if any) to apply.
+
+
+
+The Original High Court Approach
+
+
+
+5. Originally, it appears to have been assumed (without discussion) by the High Court that the prosecution was required to prove all of the elements of the offence charged (see, e.g. *R v Porter *(1933) 55 CLR 182; *R v **Sodeman** *(1936) 55 CLR 192; *R v Stapleton *(1952) 86 CLR 358).
+
+6. This approach does not address the difficulties that arise if the presence of a mental illness prevents the prosecution from proving that the accused had the requisite mental state. It is possible that the accused would be entitled to a complete acquittal in such circumstances.
+
+7. This approach appears to have been adopted in the trial of Donna Fitchett. In *R v Fitchett* (2009) 23 VR 91, Nettle JA is reported as having told the jury that they needed to find all of the elements of murder proven (at para 26). However, the issue did not form a ground of appeal, and appears not to have been directly addressed.
+
+
+
+The *Stiles* Approach
+
+
+[^4]: Where a similar phrase was interpreted in the United Kingdom, the courts originally held that the prosecution had to prove all of the elements of the charged offence (R v Egan [1998] 1 Cr App R 121). This approach was later overruled, with the courts holding that the prosecution only had to prove the actus reus of the charged offence (Attorney-General's Reference (No. 3 of 1998) [2000] QB 401; R v Antoine [2001] 1 AC 340).
+
+
+---
+
+
+## 8.4 Mental Impairment and Proof of Elements
+
+8. In the only Victorian case to directly address this issue, the Court of Appeal also held that the prosecution had to prove all of the elements. However, they stated that when deciding whether the prosecution has proved its case, the jury must assume that the accused was of sound mind (*R v Stiles *(1990) 50 A Crim R 13. See also *R v Perkins* [1983] WAR 184).
+
+9. Under this approach the jury should not consider any evidence of mental illness when determining whether the elements of the offence have been proven. Consequently, if evidence of mental illness provides the only reason for doubting that the accused had the requisite mental state, he or she should either be convicted or found not guilty because of mental impairment, depending on whether the requirements of the defence are established on the balance of probabilities.
+
+10. This approach has been used in a number of recent NSW single judge decisions (see, e.g. *R v Grant *[2009] NSWSC 833; *R v **Tarantello* [2011] NSWSC 383).
+
+
+
+The *Hawkins *Approach
+
+
+
+11. In *Hawkins v R *(1994) 179 CLR 500, the High Court held, in the context of the Tasmanian *Criminal Code*, that the prosecution only needs to prove that the accused voluntarily committed the ‘incriminated act’. They do *not *need to be satisfied that the accused acted with the requisite specific intention.
+
+12. Under this approach, where the accused is charged with an offence that requires proof of a specific intention:
+
+
+
+- The jury must first determine whether the prosecution has proven, beyond reasonable doubt, that the accused voluntarily committed the relevant act. Evidence of mental illness should not be taken into account when making this determination;
+
+- If the jury is satisfied that the accused committed the relevant act, they must next determine whether the requirements of the mental impairment defence have been proven on the balance of probabilities. If so, they should return a qualified acquittal.
+
+- If the jury is *not *satisfied that the mental impairment defence has been established, the jury must next determine whether the prosecution has proven, beyond reasonable doubt, that the accused had the necessary specific intention. Evidence of mental illness *may *be taken into account when making this determination (*Hawkins v R *(1994) 179 CLR 500).
+
+
+[^4]: Where a similar phrase was interpreted in the United Kingdom, the courts originally held that the prosecution had to prove all of the elements of the charged offence (R v Egan [1998] 1 Cr App R 121). This approach was later overruled, with the courts holding that the prosecution only had to prove the actus reus of the charged offence (Attorney-General's Reference (No. 3 of 1998) [2000] QB 401; R v Antoine [2001] 1 AC 340).
+
+
+---
+
+
+## 8.4 Mental Impairment and Proof of Elements
+
+13. This approach has been followed in a number of cases in other jurisdictions (see, e.g. *R v Toki *[2003] NSWCCA 125; *R v **Minani** *(2005) 63 NSWLR 490; *Garrett v R *[1999] WASCA 169; *Ward v R* (2000) 118 A Crim R 78 (Kennedy, Wallwork and Scott JJ)).
+
+14. However, other judgments have highlighted a number of difficulties with the *Hawkins *approach, and have sought to limit its application (see, e.g. *Ward v R* (2000) 118 A Crim R 78 (Wheeler J); *R v Nolan *WA CCA 22/5/97; *Stanton v R* (2001) 24 WAR 233; [2001] WASCA 189).
+
+
+
+Other Approaches
+
+
+
+15. A number of other approaches have been taken to this issue, both in Australia and in other common law jurisdictions. These include:
+
+
+
+- Requiring the prosecution to prove all of the elements of the charged offence, but directing the jury to return a qualified acquittal if the accused’s illness provided the reason for them failing to be satisfied about those elements (*R v **Pantelic* (1973) 1 ACTR 1; *Taylor v R *(1978) 22 ALR 599 (Smithers J));
+
+- Requiring the prosecution to only prove the *actus reus *of the charged offence (*Attorney-General's Reference (No. 3 of 1998)* [2000] QB 401; *R v Antoine *[2001] 1 AC 340);
+
+- Requiring the prosecution to prove the *actus reus* and, if there is objective evidence raising the issue, any specific knowledge or intention necessary to constitute the offence (*R v **Ardler* (2004) 144 A Crim R 552; *R v King* (2005) 155 ACTR 55; *R v Clements* [2006] ACTSC 44);
+
+
+
+Other Matters for Consideration
+
+
+
+16. When determining which approach to take to this issue, judges may wish to consider the following matters:
+
+
+[^4]: Where a similar phrase was interpreted in the United Kingdom, the courts originally held that the prosecution had to prove all of the elements of the charged offence (R v Egan [1998] 1 Cr App R 121). This approach was later overruled, with the courts holding that the prosecution only had to prove the actus reus of the charged offence (Attorney-General's Reference (No. 3 of 1998) [2000] QB 401; R v Antoine [2001] 1 AC 340).
+
+
+---
+
+
+## 8.4 Mental Impairment and Proof of Elements
+
+- At what point should other defences, such as self-defence or consent, be considered by the jury;
+
+- If the prosecution is not required to prove *mens** rea*, what verdict should the jury return where the same conduct forms the *actus reus *of a number of different offences (e.g. murder and manslaughter);
+
+- What is the prosecution required to prove in cases involving negligence, complicity or inchoate offence.
+
+
+[^4]: Where a similar phrase was interpreted in the United Kingdom, the courts originally held that the prosecution had to prove all of the elements of the charged offence (R v Egan [1998] 1 Cr App R 121). This approach was later overruled, with the courts holding that the prosecution only had to prove the actus reus of the charged offence (Attorney-General's Reference (No. 3 of 1998) [2000] QB 401; R v Antoine [2001] 1 AC 340).
+
+
+---
+
+
+## 8.4 When to Give a Charge on Mental Impairment
+
+## When to Give a Charge on Mental Impairment
+
+
+
+1. Once a jury has been empanelled, if there is admissible evidence that raises the question of mental impairment, the judge must direct the jury to consider the question (s 22(2)). This reflects the position at common law (*R v McMahon* (2004) 8 VR 101; *R v Shields* [1967] VR 706; *R v **Meddings* [1966] VR 306; *Bratty v Attorney-General for Northern Ireland* [1963] AC 386).
+
+2. A charge concerning mental impairment will therefore always need to be given if there is admissible evidence that raises the issue (unless the prosecution and the defence agree, prior to empanelment, that the proposed evidence will establish the defence, and the trial judge is satisfied that that is the case. See "Consent Hearings" above).
+
+3. It may therefore be necessary to charge the jury about mental impairment even if neither the prosecution nor the defence seek to raise the question, or actively oppose it being left to the jury, if there is admissible evidence on the issue (see, e.g. *Hawkins v R *(1994) 179 CLR 500).
+
+4. The time at which the charge should be given will depend on the resolution of the issues outlined in "Mental Impairment and Proof of Elements" above. For example:
+
+
+
+- If the *Stiles *approach is adopted, the charge should be given after directing the jury about all of the elements of the offence.
+
+- If the *Hawkins *approach is adopted, the judge may wish to give the charge before directing the jury about the prosecution’s need to prove specific intention.
+
+
+---
+
+
+## 8.4 Content of the Charge
+
+## Content of the Charge
+
+
+
+1. The term "mental impairment" is a legal term, not a medical term. It is therefore for the trial judge to determine what is meant by the term and to explain its meaning to the jury (*R v Falconer* [1990] 171 CLR 30; *R v Tonkin* [1975] Qd R 1; *R v Kemp* [1957] 1 QB 399).
+
+2. The judge should clearly explain what the prosecution must prove before the jury considers the defence of mental impairment. This will depend on the resolution of the issues outlined in "Mental Impairment and Proof of Elements" above.
+
+3. The judge must explain to the jury the *findings* which may be made in a case where mental impairment is in issue (i.e. guilty, not guilty or not guilty because of mental impairment (s 22(2)).
+
+4. The judge must also explain to the jury the *legal consequences* of those findings (s 22(2); *R v Fitchett* (2009) 23 VR 91).[^5]
+
+5. This requirement was introduced to address the concern that, in the absence of any information about the processes that would follow a finding of not guilty because of mental impairment, some jury members might be reluctant to hand down an exculpatory verdict, due to the perception that it could result in the immediate release of a disturbed and dangerous person. In most cases, that would almost certainly not be the case (*R v Fitchett* (2009) 23 VR 91. See also *R v Weise *[1969] VR 953).
+
+6. This part of the charge must therefore:
+
+
+
+- Inform the jury about the nature of the decisions that will have to be made following a finding of not guilty because of mental impairment; and
+
+- Explain to the jury that there is a process to be followed which will focus upon the question of the appropriate disposition of the person in the particular circumstances of the case (*R v Fitchett* (2009) 23 VR 91).
+
+
+[^5]: This differs from the law in most other areas, where it is generally considered undesirable to direct a jury about the consequences of their verdict (see, e.g. Lucas v R (1970) 120 CLR 171).
+
+
+---
+
+
+## 8.4 Content of the Charge
+
+7. The judge is not empowered to prognosticate upon or pre-empt the decisions to be made with respect to the accused’s disposition (*R v Fitchett* (2009) 23 VR 91).
+
+8. The judge must not convey any impression concerning the desirability, punitive features or public safety aspects of arriving at a particular verdict (*R v Fitchett* (2009) 23 VR 91).
+
+9. While there is no set formulation for what must be said, the Court of Appeal in *R v Fitchett* (2009) 23 VR 91 approved the following charge given by Osborn J in *R v Gemmill *(12/11/03 Vic SC):
+
+
+
+If you find the accused guilty, then there will be a further hearing before me and I will have to determine how he should be sentenced. If you find him not guilty, that is completely not guilty, he will be discharged and be free to walk away from the court. If you find him not guilty because of mental impairment, then there are two options open to me. The first is to declare that he is liable to a supervision order under the Crimes (Mental Impairment and Unfitness to be Tried) Act (1997) and the second is to order that he be released unconditionally. I would have to form a view on evidence as to what was the appropriate course to be followed.
+
+A Supervision order, which is the first option that would be open to me, may commit the person to custody, or release the person on conditions decided by the court and specified in the Order. So you can see that those are the different legal consequences that follow from the different verdicts available to you. And you can see, as I have told you, that a verdict of not guilty because of mental impairment, has quite different consequences from a verdict of not guilty, …
+
+Last updated: 23 November 2011
+
+
+[^5]: This differs from the law in most other areas, where it is generally considered undesirable to direct a jury about the consequences of their verdict (see, e.g. Lucas v R (1970) 120 CLR 171).
+
+
+---
+
+---
+
+# Chapter 8.4.1
+
+
+## 8.4.1 Charge: Mental Impairment
+
+# **8.4.1 Charge: Mental Impairment**
+
+**Warning*****! ***The law is currently unclear on when this direction should be given within a charge. See 8.4 Mental Impairment for guidance on that issue.
+
+
+
+## Introduction
+
+In this case, defence counsel[^2] has raised what is called the "defence of mental impairment", submitting that NOA should be found not guilty of [*insert name of offence*] because s/he was mentally impaired when s/he [*insert relevant acts*]. I therefore need to give you some directions about this defence.
+
+
+[^2]: This charge is based on the assumption that the defence has raised the issue of mental impairment. If it is the prosecution that has raised the issue, the charge will need to be modified accordingly.
+
+
+---
+
+
+## 8.4.1 Onus and Standard of Proof
+
+## Onus and Standard of Proof
+
+According to the law, people should not be held criminally responsible for acts they do while suffering particular effects of a mental impairment. So **even if** the prosecution can prove, beyond reasonable doubt, that NOA [*identify matters the prosecution must prove*],[^3] s/he will not be guilty of [*identify offence*] if s/he committed those acts while suffering certain mental conditions.
+
+However, in the absence of any evidence to the contrary, the law presumes that people are not mentally impaired. So if you are to find that NOA was not guilty because of a mental impairment, it is the defence who must prove that s/he was mentally impaired at the time s/he [did the acts/made the omissions] said to constitute the crime.
+
+You can see that this is one of those rare situations in which a matter must be proved by the defence. The prosecution must still prove [*identify matters the prosecution must prove*] before you need to consider the issue of mental impairment. However, if you are satisfied that those matters have all been proven, it is defence counsel who must prove the requirements of this defence if you are to find the accused not guilty because of mental impairment.
+
+Unlike the elements of the offence – which the prosecution must prove beyond reasonable doubt – the defence only needs to prove these requirements on what is called the "balance of probabilities". This is a much lower standard than that required of the prosecution when proving an offence. It only requires the defence to prove that it is more probable than not that NOA was mentally impaired to the necessary degree.
+
+
+[^3]: It is unclear precisely which matters the prosecution must prove (see "Mental Impairment and Proof of Elements" in 8.4 Mental Impairment). The content of this part of the charge, as well as similar sections below, will depend on how the judge resolves these issues.
+
+
+---
+
+
+## 8.4.1 Overview of Requirements
+
+## Overview of Requirements
+
+There are **two requirements** that the defence must prove, on the balance of probabilities, if you are to find the accused not guilty because of mental impairment. I will list them for you, and then explain each one in more detail.
+
+**First**, the defence must prove that the accused was suffering from a mental impairment at the time that s/he did the acts said to constitute the relevant crime.
+
+**Second**, the defence must prove that the mental impairment affected the accused in one of two ways. It must have affected the accused in such a way that s/he **either** did not know the nature and quality of what s/he was doing, **or** s/he did not know that what s/he was doing was wrong.
+
+If you find that the prosecution has proven, beyond reasonable doubt, that [*identify matters the prosecution must prove*], **and** you are also satisfied that both of these requirements have been proven by the defence on the balance of probabilities, then this defence will be successful and you must find NOA not guilty of that offence because of mental impairment.
+
+However, if the defence cannot prove, on the balance of probabilities, **both** that NOA had a mental impairment at the relevant time, **and** that the mental impairment affected him/her in one of the two ways I have just mentioned, then this defence will fail. If you are also satisfied that all of the elements of the offence have been proven by the prosecution, beyond reasonable doubt, you should find NOA guilty of [*insert offence*].
+
+I will now explain each of these requirements in more detail.
+
+
+---
+
+
+## 8.4.1 Mental Impairment
+
+## Mental Impairment
+
+The **first requirement** that the defence must prove is that the accused was suffering from a mental impairment at the time that s/he did the acts said to constitute the crime of [*insert offence*].
+
+The law does not define what "mental impairment" means. It is not a psychiatric term with a specific medical definition. It is a term which simply means a disease or illness of the mind. This includes [*insert relevant mental impairments*].
+
+[*If there is evidence that the accused may have been suffering from a temporary state of mind rather than a mental impairment, add the following shaded section.*]
+
+To satisfy this requirement, the accused must have been suffering from some kind of mental illness or disorder, and not just from a temporary state of mind such as impulsiveness or passion. This is not to suggest that the mental impairment needs to be permanent – but it must be something more than just a passing mental malfunction.
+
+[*If there is evidence that the accused's mental impairment was caused by an external factor, add the following shaded section.*]
+
+To satisfy this requirement, the mental impairment must have been caused by something "internal" to the accused, as distinct from being the result of an external physical factor, such as [*insert relevant example*].
+
+In this case, the defence alleged that NOA was suffering from a mental impairment when s/he [*insert relevant acts and summary of evidence and/or arguments*]. The prosecution denied this, submitting [*insert summary of relevant evidence and/or arguments*].
+
+It is for you to decide, based on all of the evidence, if NOA was suffering from a mental impairment at the relevant time. It is only if the defence has proved that this was more likely than not that this first requirement will be met.
+
+
+---
+
+
+## 8.4.1 Effect of the Mental Impairment
+
+## Effect of the Mental Impairment
+
+The **second requirement** that the defence must prove relates to the effect of the mental impairment on the accused. The defence must prove that the mental impairment affected him/her to such an extent that when s/he committed the acts said to constitute the crime s/he **either**:
+
+
+
+- Did not know the nature and quality of what s/he was doing; **or**
+
+- Did not know that what s/he was doing was wrong.
+
+
+---
+
+
+## 8.4.1 Effect of the Mental Impairment
+
+The defence only needs to prove one of these effects, although in some cases there may be evidence of both. I will look at each of them in turn.
+
+Nature and Quality of the Act
+
+The **first** way in which the defence can satisfy this requirement is by proving, on the balance of probabilities, that the accused’s mental impairment affected him/her to such an extent that s/he did not know the nature and quality of what s/he was doing.
+
+This means that because of his/her mental impairment, the accused was unable to appreciate the physical nature and significance of what s/he was doing when s/he committed the acts said to constitute the crime. The accused was affected by his/her mental impairment in a way which led him/her to believe s/he was doing one thing, when in reality s/he was doing something completely different.
+
+An example of this would be where a person thinks she is entering her own house, when she is in fact breaking into Parliament House. Another example would be a person who thinks that he is killing a rabbit, when in reality he is killing one of his friends.
+
+[*If this limb is in issue, add the following shaded section.*]
+
+In this case the defence argued that NOA did not know the nature and quality of what s/he was doing when [*insert relevant acts and summary of relevant evidence and/or arguments*]. The prosecution responded [*insert relevant evidence and/or arguments*].
+
+[*If this limb is not in issue, add the following shaded section.*]
+
+The defence has not sought to rely on this part of the second requirement, instead alleging that NOA did not know that his/her actions were wrong.
+
+Knowledge that NOA’s actions were wrong
+
+The **second** way in which the defence can satisfy this requirement is by proving, on the balance of probabilities, that when the accused committed the acts said to constitute the crime, the mental impairment affected him/her to such an extent that s/he did not know that what s/he was doing was wrong.
+
+The law defines this to mean that the accused could not reason with a moderate degree of sense and composure about whether his/her conduct, as perceived by reasonable people, was wrong.
+
+
+---
+
+
+## 8.4.1 Effect of the Mental Impairment
+
+You can see from this definition that the test is not whether the accused’s acts were in fact wrong, or that accused knew that his/her actions were wrong according to the law or morality. It is that the accused was not able to reason in such a way that s/he would have known that reasonable people would consider his/her conduct to be wrong. That is, there was something so wrong with the accused’s mind due to his/her mental impairment that s/he was incapable of realising that reasonable people would think his/her behaviour was wrong.
+
+[*If this limb is in issue, add the following shaded section.*]
+
+In this case the defence argued that NOA did not know that what s/he was doing was wrong when [*insert relevant acts and summary of relevant evidence and/or arguments*]. The prosecution responded [*insert relevant evidence and/or arguments*].
+
+[*If this limb is not in issue, add the following shaded section.*]
+
+The defence has not sought to rely on this part of the second requirement, instead alleging that NOA did not know the nature and quality of what s/he was doing.
+
+
+---
+
+
+## 8.4.1 Summary, Possible Verdicts and Consequences
+
+## Summary, Possible Verdicts and Consequences
+
+**To ****summarise**, you must first determine whether the prosecution has proven, beyond reasonable doubt, [*identify matters the prosecution must prove*]. If you are **not satisfied** that the prosecution has proven all of these matters, then you must find NOA not guilty of that offence, regardless of your views about his/her possible mental impairment. As s/he will not have been convicted of that offence, that will be the end of the legal process. S/he will be discharged and free to walk away from the court.
+
+If you decide that the prosecution has proven all of those matters beyond reasonable doubt, you must **then** look at the defence of mental impairment. You must determine whether the defence has proven, on the balance of probabilities, that:
+
+
+
+- **One** – NOA had a mental impairment at the time s/he did the acts said to constitute that offence; **and**
+
+- **Two** – that the mental impairment affected NOA in such a way that when s/he committed the acts said to constitute the offence, s/he did not know the nature and quality of what s/he was doing **or** s/he did not know that what s/he was doing was wrong.
+
+
+---
+
+
+## 8.4.1 Summary, Possible Verdicts and Consequences
+
+It is only if the accused has established both of these requirements on the balance of probabilities that you may return a verdict of "not guilty because of mental impairment".
+
+If that is your verdict, then there will be **two options** open to me. The **first** is to declare that the accused is liable to a Supervision Order, and the **second** is to order that s/he be released unconditionally. I would have to form a view, based on the evidence, as to what was the appropriate course to be followed.
+
+A Supervision Order, which is the first option that would be open to me, may commit the person to custody, or release the person on conditions decided by the court and specified in the Order.
+
+So you can see that there are different legal consequences that follow from the different verdicts available to you. And you can see, as I have told you, that a verdict of not guilty because of mental impairment has quite different consequences from a verdict of not guilty.
+
+Because of these different consequences, it is necessary for you to tell me, if you reach a verdict of not guilty, whether you have reached that verdict because of mental impairment or not.
+
+Although I have just explained to you the possible consequences of the different verdicts available in this case, it is important that you do not take these consequences into account in making your determination. As I told you earlier, you have an obligation to make your decision based on the evidence in the case, not on irrelevant factors such as the consequences of your decision.
+
+Last updated: 23 November 2011
+
+
+---
+
+---
+
+# Chapter 8.4.2
+
+
+## 8.4.2 Checklist: Mental Impairment
+
+# **8.4.2 Checklist: Mental Impairment**
+
+This checklist can be used where mental impairment has been raised by the defence. It is designed to be used along with a checklist outlining the elements of the offence in issue. Details of the specific offence will need to be inserted in the appropriate places.
+
+Where mental impairment has been raised following a finding that the accused is not fit to be tried, references to finding the accused "guilty of [*insert offence*]" must be changed to "committed the offence of [*insert offence*]"
+
+**Two matters** the defence must prove on the balance of probabilities:
+
+1. That the accused was suffering from a mental impairment at the time s/he did the acts said to constitute the offence; and
+
+2. That when the accused did those acts, the mental impairment affected him/her to such an extent that s/he **either**:
+
+
+
+1. Did not know the nature and quality of what s/he was doing; **or**
+
+2. Did not know that what s/he was doing was wrong.
+
+
+---
+
+
+## 8.4.2 Checklist: Mental Impairment
+
+**Mental Impairment**
+
+**1.** Has the defence proven, on the balance of probabilities, that the accused was suffering from a mental impairment at the time s/he did the acts said to constitute the offence of [*insert offence*]?
+
+If Yes, then go to 2.1
+
+If No, then the Accused is guilty of [*insert offence*] (as long as you are satisfied that the prosecution has proved all of the elements of that offence beyond reasonable doubt)
+
+**Effect of Mental Impairment**
+
+**2.1** When the accused did the acts said to constitute the offence, did the mental impairment affect him/her to such an extent that s/he did not know the nature and quality of what s/he was doing?
+
+If Yes, then the Accused is not guilty of [*insert offence*] because of mental impairment (as long as you also answered yes to question 1, and are satisfied that the prosecution has proved all of the elements of that offence beyond reasonable doubt)
+
+If No, then go to 2.2
+
+**2.2** When the accused did the acts said to constitute the offence, did the mental impairment affect him/her to such an extent that s/he did not know that what s/he was doing was wrong?
+
+***Consider: Could the accused not reason, with a moderate degree of sense and composure, about whether his/her conduct, as perceived by reasonable people, was wrong?***
+
+If Yes, then the Accused is not guilty of [*insert offence*] because of mental impairment (as long as you also answered yes to question 1, and are satisfied that the prosecution has proved all of the elements of that offence beyond reasonable doubt)
+
+If No, then the Accused is guilty of [*insert offence*] (as long as you also answered No to question 2.1, and are satisfied that the prosecution has proved all of the elements of that offence beyond reasonable doubt.)
+
+Last updated: 11 December 2012
+
+
+---

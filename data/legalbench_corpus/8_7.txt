@@ -1,0 +1,1023 @@
+# Chapter 8.7
+
+
+## 8.7 Common Law Intoxication
+
+# **8.7 Common Law Intoxication**
+
+
+
+## Scope
+
+
+
+1. Prior to 2005, in Victoria the issue of intoxication was governed solely by the common law. This situation has been altered by the passage of the *Crimes (Homicide) Act 2005* and the *Crimes Amendment (Abolition of Defensive Homicide) Act 2014*, which introduced s 9AJ (now repealed) and s 322T respectively into the *Crimes Act 1958*.
+
+1. Section 9AJ applies to cases in which:
+
+
+
+- The accused is charged with murder, manslaughter, defensive homicide, attempted murder or attempted defensive homicide (*Crimes Act 1958 *s 9AB; *R v Pepper* (2007) 16 VR 637*; DPP v McAllister* [2007] VSC 315); and
+
+- It is alleged that the offence was committed on or after 23 November 2005 (*Crimes Act 1958 *s 603) and before 1 November 2014.
+
+
+
+2. Section 322T applies to cases in which:
+
+
+
+- The accused is charged with any offence alleged to have been committed on or after 1 November 2014.
+
+
+
+3. Consequently, the common law concerning intoxication continues to apply when:
+
+
+
+- The accused is charged with an offence other than those homicide offences listed above and the offence was alleged to have been committed before 1 November 2014; or
+
+- The accused is charged with one of the listed homicide offences, and it is alleged that the offence was committed before 23 November 2005.
+
+
+
+4. Both sections 9AJ and 322T address the effect of intoxication on the question of "reasonableness".[^2] Thus, even where they apply, the common law concerning intoxication remains relevant to other issues (e.g. the effect of intoxication on the voluntariness of the accused’s behaviour, or on his or her mental state).
+
+5. This topic solely addresses the common law concerning intoxication. For information concerning the statutory provisions, see 8.5 Statutory Intoxication (From 1/11/14) (From 1/11/14) and 8.5 Statutory Intoxication (From 1/11/14) (23/11/05–31/10/14).
+
+
+[^2]: For example, whether a belief was reasonable, whether there were reasonable grounds for a belief, or whether a response to a situation was reasonable.
+
+
+---
+
+
+## 8.7 Overview: Relevance of Intoxication
+
+## Overview: Relevance of Intoxication
+
+
+
+1. The fact that a person acted under the influence of drugs or alcohol does not give rise to any specific defence or excuse (*Viro** v R *(1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64).
+
+2. This is the case even if the accused’s intoxication was involuntary (*R v O’Connor *(1979) 146 CLR 64; *R v Kingston* [1995] 2 AC 355).[^3]
+
+3. However, evidence that the accused was intoxicated at the time the offence was committed may be used for the following purposes:
+
+
+
+- To negate an element of the offence (e.g. voluntariness);
+
+- To prove an element of a defence (e.g. self-defence); or
+
+- To prove that the accused committed the offence (e.g. by providing an explanation for the accused’s behaviour).
+
+
+
+4. Other matters that may be affected by intoxication (but which are not addressed here) include:
+
+
+[^3]: The fact that the accused’s intoxication was involuntary may be relevant to whether or not he or she acted negligently: see "Negligence" below.
+
+
+---
+
+
+## 8.7 Overview: Relevance of Intoxication
+
+- The admissibility of a confession or admission made by a person who was intoxicated (see, e.g. *Sinclair v R* (1946) 73 CLR 316; *R v Buchanan* [1966] VR 9; *R v Garth* (1994) 73 A Crim R 215; *R v Green *[1999] VSC 419; *R v Nelson* [2004] NSWCCA 231);
+
+- The capacity of an intoxicated person to consent to a sexual act (see, e.g. *R v Francis *[1993] 2 Qd R 300; *R v **Bonora* (1994) 35 NSWLR 74; *R v Lambert* [1919] VLR 205);
+
+- The jury’s assessment of the reliability of evidence given by a witness who was intoxicated at the time of the event in question (see, e.g. *O’Leary v **Daire* (1984) 13 A Crim R 404; *Bedi v R *(1993) 61 SASR 269; *R v **Mathe* [2003] VSCA 165; *R v **Baltensberger* (2004) 90 SASR 129; *R v MC *[2009] VSCA 122). See Charge: Assessing Witnesses and Charge: Review of the Assessment of Witnesses;
+
+- The jury’s understanding of the way in which people other than the accused behaved before, during and after the event in question (see, e.g. *R v Egan* (1985) 15 A Crim R 20; *R v Wilson* (1986) 42 SASR 203; *Aidid** v R* (2010) 25 VR 593).
+
+
+[^3]: The fact that the accused’s intoxication was involuntary may be relevant to whether or not he or she acted negligently: see "Negligence" below.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+## Using Evidence of Intoxication to Negate an Element
+
+
+
+1. Evidence of intoxication is part of the totality of evidence which may raise a reasonable doubt about the existence of one or more of the elements of an offence (*R v O’Connor *(1979) 146 CLR 64).
+
+2. If the prosecution cannot eliminate that doubt, the accused should be acquitted – not because he or she was intoxicated, but because the charge has not been proved beyond reasonable doubt (*R v O’Connor *(1979) 146 CLR 64).
+
+3. No distinction is drawn between intoxication that is induced by alcohol, drugs or a combination of both (*R v Haywood* [1971] VR 755; *Viro** v R* (1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64).
+
+
+
+Voluntariness
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+4. The existence of a voluntary act is an essential element of every offence. The accused must not be convicted for an act which was independent of his or her will (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64*; R v **Marijancevic** *(2009) 22 VR 576).
+
+5. Consequently, if the accused did not commit the relevant act voluntarily due to intoxication, he or she must be acquitted (*R v O’Connor *(1979) 146 CLR 64; *R v Martin *(1983) 32 SASR 419; *R v Faure* [1999] 2 VR 537; *R v Kumar* [2006] VSCA 182).[^4]
+
+6. In Victoria, this applies to all offences, not just offences of specific intent (*R v O’Connor *(1979) 146 CLR 64; *R v Martin *(1984) 51 ALR 540. Cf *DPP v Majewski *[1977] AC 443).
+
+7. It is for the prosecution to prove that the accused acted voluntarily despite his or her level of intoxication (*R v O’Connor *(1979) 146 CLR 64; *R v Coleman* (1990) 19 NSWLR 467).
+
+8. The issue is whether the accused *in fact* acted voluntarily, not whether he or she was *capable* of acting voluntarily (*Viro** v R* (1978) 141 CLR 88; *R v O’Connor* (1979) 146 CLR 64; *R v Martin* (1983) 32 SASR 419; *R v Costa* Vic CCA 2/4/96).
+
+9. It will be rare that a person’s state of intoxication will have been so extreme that his or her acts were involuntary. Intoxication is more likely to be relevant to the issue of intention (*R v O’Connor *(1979) 146 CLR 64 (Barwick CJ)).
+
+10. See 7.1.1 Voluntariness for information concerning the meaning of "voluntariness", and guidance about which act the accused must have committed voluntarily.
+
+
+
+Intention
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+11. The accused must be acquitted if, due to intoxication, he or she:
+
+
+
+- Did not intend to do the physical act charged ("basic intent");[^5] or
+
+- Did not intend to attain the result required by the offence ("specific intent") (*R v O’Connor *(1979) 146 CLR 64; *R v Martin *(1983) 32 SASR 419; *R v Coleman* (1990) 19 NSWLR 467; *R v Faure* [1999] 2 VR 537; *R v Kumar* [2006] VSCA 182).
+
+
+
+12. It is for the prosecution to prove that the accused acted with the requisite intention, despite his or her level of intoxication (*R v O’Connor *(1979) 146 CLR 64; *R v Coleman* (1990) 19 NSWLR 467).
+
+13. The issue is whether the accused *in fact* formed the requisite intention, not whether he or she was *capable* of doing so (*Ryan v R* (1967) 121 CLR 205; *R v Haywood* [1971] VR 755; *Viro** v R* (1978) 141 CLR 88).
+
+14. The mere fact that the accused acted differently than he or she would have behaved when sober is irrelevant. A drunken intent is, nevertheless, an intent (*R v Sheehan* [1975] 2 All ER 960; *R v O’Connor *(1979) 146 CLR 64 (Barwick CJ, Aickin J)).
+
+15. The accused does not need to have appreciated the wrongfulness of his or her conduct to have acted with the requisite intention (*R v Morrison* (2007) 171 A Crim R 361).
+
+16. It does not matter that the accused was unable to reason with a sufficient degree of composure, as long as he or she acted voluntarily and with the requisite intent (*R v Collins *[2004] ACTSC 48).
+
+
+
+Knowledge or awareness of circumstances
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+17. Evidence of intoxication may be used to show that the accused had no knowledge or awareness of a particular circumstance (*R v Coleman* (1990) 19 NSWLR 467; *Bedi v R *(1993) 61 SASR 269; *R v Costa *Vic CCA 2/4/96; *R v MC *[2009] VSCA 122).
+
+18. For example, evidence of intoxication may be used:
+
+
+
+- In a sexual offence case, to cast doubt on the prosecution’s claim that the accused was aware that the complainant was not or might not be consenting (*R v Costa *Vic CCA 2/4/96;* R v Egan* (1985) 15 A Crim R 20; *R v Wilson* (1986) 42 SASR 203);[^6]
+
+- In an endangerment case, to cast doubt on the prosecution’s claim that the accused knew that his or her actions were likely to endanger a person’s life (*Bedi v R *(1993) 61 SASR 269).
+
+
+
+Foresight of consequences ("recklessness")
+
+
+
+19. Evidence of intoxication may be used to show that the accused did not foresee the consequences of his or her actions (*R v O’Connor *(1979) 146 CLR 64;* R v Coleman* (1990) 19 NSWLR 467; *Bedi v R *(1993) 61 SASR 269; *R v Grant* (2002) 55 NSWLR 80).
+
+20. Consequently, where the accused is charged with an offence of recklessness,[^7] the prosecution will be required to prove that the accused knew that a particular consequence would probably result from his or her conduct, despite his or her level of intoxication (*R v O’Connor *(1979) 146 CLR 64;* R v Coleman* (1990) 19 NSWLR 467; *Bedi v R *(1993) 61 SASR 269; *R v Grant* (2002) 55 NSWLR 80).
+
+
+
+Negligence
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+21. Offences of gross negligence (e.g. manslaughter) require proof:
+
+1. That the accused acted with criminal negligence; and
+
+2. That the relevant act was committed voluntarily.
+
+22. Evidence of intoxication will generally not be relevant to the first issue, as the test for criminal negligence is objective (see, e.g. *R v Richards & Gregory* [1998] 2 VR 1; *R v Lavender* (2005) 222 CLR 67; *R v Sam* [2009] NSWSC 803. See also *AG’s Reference (No 1 of 1996)* (1998) 7 Tas R 293).[^8]
+
+23. However, evidence of intoxication may cast doubt on the prosecution’s contention that the relevant act was committed voluntarily (*R v Martin* (1983) 9 A Crim R 376; *R v **Tajber* (1986) 13 FCR 524).
+
+
+
+Relevance of the level of intoxication
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+24. Different levels of intoxication affect the mind in different ways (*He Kaw **Teh** v R *(1985) 157 CLR 523 (Brennan J)).
+
+25. Intoxication to a particular degree may be relevant to the existence of one mental state but not the existence of another. For example, the level of intoxication required to negate voluntariness is far greater than the level of intoxication required to negate specific intention (*He Kaw **Teh** v R *(1985) 157 CLR 523 (Brennan J)).
+
+26. It does not matter that the accused was intoxicated to a substantial degree, or acted in a way he or she would not have acted had he or she not been intoxicated, so long as he or she acted voluntarily and with the requisite mental state (*R v O’Connor *(1979) 146 CLR 64; *South Tweed Heads Rugby Football Club Ltd v Cole* (2002) 55 NSWLR 113; *Russell v Edwards *(2006) 65 NSWLR 373).
+
+27. Thus, even if the intoxication led to a change in personality, a warping of will, an alteration in disposition and a weakening in self-control, the accused will be criminally responsible for his or her acts unless the intoxication was so great that he or she had no will to act or did not form the necessary intention (*R v O’Connor *(1979) 146 CLR 64; *South Tweed Heads Rugby Football Club Ltd v Cole* (2002) 55 NSWLR 113; *Russell v Edwards *(2006) 65 NSWLR 373).
+
+28. The accused may have acted voluntarily and intentionally despite the fact that the intoxication rendered him or her less aware of what he or she was doing, or of the quality, significance or consequence of his or her actions (*R v O’Connor *(1979) 146 CLR 64 (Barwick CJ)).
+
+29. However, the level of the accused’s awareness and understanding of his or her actions at the relevant time will be a factor to be taken into account in determining whether he or she acted voluntarily and with the requisite intent (*R v Morrison* (2007) 171 A Crim R 361).
+
+
+
+Prior criminal intent ("Dutch courage")
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+30. A difficulty can arise where the accused became intoxicated specifically for the purpose of gaining sufficient courage to commit the offence in question ("Dutch courage"), but at the time he or she committed the offence acted involuntarily or without the requisite mental state due to being intoxicated:
+
+
+
+- On the one hand, it would seem that the accused should not be convicted, as the basic requirements of criminal responsibility (voluntariness and *mens** rea*) were not present at the time the offence was committed;
+
+- On the other hand, it would seem that the accused should be convicted, as he or she set out to commit the offence in question and actually did so.
+
+
+
+31. Although this issue has not been directly addressed in Australia,[^9] the High Court has indicated that an accused may still be convicted for such offences, not because of any exception to the requirement of voluntariness and intention, but by virtue of those requirements *being met* (by the accused having *voluntarily* becoming intoxicated *in order* to commit the crime) (*R v O’Connor *(1979) 146 CLR 64).[^10]
+
+32. One problem with this approach is that the elements of voluntariness and intention (which existed at the time of becoming intoxicated) do not seem to be contemporaneous with the commission of the physical acts constituting the offence (which occurred at a later time) (see *R v O’Connor* (1979) 146 CLR 64 (Aickin J)).
+
+33. This problem may be overcome by viewing the accused’s conduct in becoming intoxicated and committing the physical act that constitutes the offence as part of the same transaction (see, e.g. *Meli v R *[1954] 1 WLR 228; *R v Church *[1966] 1 QB 59; *Royall v R *(1991) 172 CLR 378 (Mason CJ)).
+
+
+
+Intoxication may affect the inferences that can be drawn
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Negate an Element
+
+34. In most cases, the accused’s mental state at the time of the offence will need to be inferred from his or her actions (*R v Foster* [2001] SASC 20).
+
+35. The fact that the accused was intoxicated at that time may make it more difficult than it would otherwise be to infer from his or her actions that he or she had the requisite mental state (*R v Perks* (1986) 41 SASR 335; *R v Wingfield* [2001] SASC 20; *R v Foster* [2001] SASC 20; *Spencer v R* (2003) 137 A Crim R 444).[^11]
+
+36. For example, while a jury might readily infer from the serious nature of injuries caused by a sober person that he or she had an intention to cause serious injury, such an inference might not be as readily drawn if the person was drunk or drugged at the relevant time (*R v Wingfield* [2001] SASC 20; *R v Foster* [2001] SASC 20; *Spencer v R* (2003) 137 A Crim R 444).[^12]
+
+
+
+Loss of memory
+
+
+
+37. The fact that the accused cannot remember the relevant events due to his or her state of intoxication does not mean that he or she acted involuntarily or without the requisite intention (*R v O’Connor *(1979) 146 CLR 64 (Barwick CJ); *R v Stockdale* [2002] VSCA 202).
+
+38. See "Loss of Memory" in 8.8 Automatism for further information about this issue.
+
+
+[^4]: In many jurisdictions there are now statutory provisions specifying that self–induced intoxication cannot be taken into account in determining whether the accused’s acts were voluntary. That is not the case in Victoria.
+[^5]: Australian law differs from the law in the United Kingdom, which holds that self–induced intoxication is irrelevant to crimes of basic intent (DPP v Majewski [1977] AC 443).
+[^6]: Even if this argument is accepted by the jury, it may not be sufficient to secure an acquittal on a charge of rape, as that offence can now also be established by proving that the accused did not give any thought to whether the complainant was not or might not be consenting (see 7.3.2 Rape (From 1/1/92)).
+[^7]: See 7.1.3 Recklessness.
+[^8]: If the accused’s intoxication was involuntary, it is possible that it will be relevant to this issue: see, e.g. Flyger v Auckland City Council [1979] 1 NZLR 161; Rooke v Auckland City Council [1980] 1 NZLR 680; O'Neill v Ministry of Transport [1985] 2 NZLR 513.
+[^9]: The issue has been addressed in the United Kingdom, where it was held that an accused who chooses to become intoxicated in order to commit an offence is precluded from denying that he or she acted involuntarily or lacked the requisite mental state (AG for Northern Ireland v Gallagher [1963] AC 349). This appears to be an exception to the general principles of criminal responsibility, rather than an application of those principles.
+[^10]: Similarly, it is possible that a person who becomes intoxicated with an awareness that he or she will probably commit an offence (e.g. because he or she is prone to violence when intoxicated) may be held responsible for that offence on the grounds of recklessness (see R v O’Connor (1979) 146 CLR 64 per Stephen, Murphy and Aickin JJ, Barwick CJ dissenting).
+[^11]: In this regard, evidence of intoxication is no different from any other evidence that may affect the inferences that can be drawn from the proved facts (R v Foster [2001] SASC 20; R v Wingfield [2001] SASC 20).
+[^12]: See "Direct the jury about intoxication and inferences" below for further information about this issue.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove a Defence
+
+## Using Evidence of Intoxication to Prove a Defence
+
+
+
+1. Evidence of intoxication may be relevant to the defences raised by the evidence (*Bedi v R *(1993) 61 SASR 269; *R v **Baltensperger* (2004) 90 SASR 129).
+
+2. This section provides a brief overview of how evidence of intoxication may be relevant to self-defence, provocation and mental impairment. However, this list is not exhaustive. For example, evidence of intoxication may also be relevant to the following defences:
+
+
+
+- Claim of right (e.g. if the accused believed, due to intoxication, that he or she had a right to possession or ownership of the property in question: see *R v Williams *[1988] 1 Qd R 289);
+
+- Duress (e.g. if the accused feared, due to intoxication, that the threat would be carried out);
+
+- Mistaken belief (e.g. if the accused believed, due to intoxication, that he or she had consent to enter a property: see *Jaggard** v Dickinson* [1981] QB 527).
+
+
+
+Self-defence
+
+
+
+3. Self-defence contains a subjective and an objective element:
+
+
+
+- The subjective element requires the accused to have believed that what he or she was doing was necessary; and
+
+- The objective element requires that belief to have been based on reasonable grounds (see 8.3 Common Law Self-defence).[^13]
+
+
+
+4. It is clear that evidence of intoxication may be relevant to the subjective element. If the accused was intoxicated at the time he or she committed the relevant acts, the jury can take this into account when determining whether he or she believed:
+
+
+
+- That an occasion for the use of force had arisen; or
+
+- That the use of force was necessary (*R v Conlon* (1993) 69 A Crim R 92 (NSWSC); *Bedi v R *(1993) 61 SASR 269; *Ninness** v Walker* (1998) 143 FLR 239; *R v **Katarzynski** *[2002] NSWSC 613).
+
+
+[^13]: The onus is on the prosecution to disprove at least one of these elements beyond reasonable doubt.
+[^14]: Crimes Act 1958 s 9AJ modifies the common law position and, where it applies, requires the jury to ignore evidence of self–induced intoxication when determining whether the accused’s belief was based on reasonable grounds. See 8.5 Statutory Intoxication (From 1/11/14) and 8.6 Statutory Intoxication (23/11/05–31/10/14).
+[^15]: This degree of intoxication may, however, be relevant to whether the accused acted voluntarily and formed the necessary mental state. See Using Evidence of Intoxication to Negate an Element (above).
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove a Defence
+
+5. It is unclear whether evidence of intoxication is also relevant to the objective element (in the absence of any statutory modifications).[^14] Courts in other Australian jurisdictions have divided on the issue of whether the jury, in determining whether the accused’s belief was based on "reasonable grounds", must take into account any personal characteristics of the accused (including his or her state of intoxication) which might have affected:
+
+
+
+- His or her appreciation of the gravity of the threat faced; and
+
+- The reasonableness of his or her response to that threat (compare *R v Conlon *(1993) 69 A Crim R 92; *R v **Katarzynski** *[2002] NSWSC 613 with *Ninness** v Walker* (1998) 143 FLR 239; *R v McCullough *[1982] Tas R 43).
+
+
+
+Provocation
+
+
+
+6. The partial defence of provocation (repealed for offences committed on or after 23 November 2005) also contains a subjective and an objective element. See 8.12 Provocation for information on those elements.
+
+7. Evidence of intoxication may be relevant to the subjective element:
+
+
+
+- It may affect the jury’s determination of whether the accused acted without self-control (*R v McCullagh (No 3)* (2007) 179 A Crim R 334; *R v Perks* (1986) 41 SASR 335; *R v Copeland *(1997) 194 LSJS 1);
+
+- It may affect the jury’s determination of whether the accused’s loss of self-control was caused by the provocative conduct (rather than by the effects of alcohol or drugs) (*R v McCullagh (No 3)* (2007) 179 A Crim R 334; *R v Cooke* (1985) 16 A Crim R 304; *Censori** v R *[1983] WAR 89).
+
+
+
+8. In most cases, evidence of intoxication will not be relevant to the objective element:
+
+
+[^13]: The onus is on the prosecution to disprove at least one of these elements beyond reasonable doubt.
+[^14]: Crimes Act 1958 s 9AJ modifies the common law position and, where it applies, requires the jury to ignore evidence of self–induced intoxication when determining whether the accused’s belief was based on reasonable grounds. See 8.5 Statutory Intoxication (From 1/11/14) and 8.6 Statutory Intoxication (23/11/05–31/10/14).
+[^15]: This degree of intoxication may, however, be relevant to whether the accused acted voluntarily and formed the necessary mental state. See Using Evidence of Intoxication to Negate an Element (above).
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove a Defence
+
+- It must not be taken into account in determining whether the provocation could have caused an "ordinary person" to lose self-control and act in the way the accused did (*Stingel** v R* (1990) 171 CLR 312; *R v O’Neill* [1982] VR 150; *R v Curzon* (2000) 1 VR 416; *R v **Gojanovic** (No 2) *[2007] VSCA 153; *R v McCullagh (No 3)* (2007) 179 A Crim R 334); and
+
+- It only affects the jury’s assessment of the gravity of the provocation if the provocative conduct related to the accused’s intoxication (e.g. being called a "drunk") (*R v McCullagh (No 3)* (2007) 179 A Crim R 334; *R v Perks* (1986) 41 SASR 335; *R v **Georgatsoulis** *(1994) 62 SASR 351).
+
+
+
+Mental impairment
+
+
+
+9. The defence of mental impairment requires the accused to have been suffering from a mental impairment (or "disease of the mind") that had the effect that he or she either:
+
+
+
+- Did not know the nature and quality of what her or she was doing; or
+
+- Did not know that his or her conduct was wrong (*Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 *s 20(1)) (see Mental Impairment).
+
+
+
+10. A temporary state of intoxication does not constitute a "disease of the mind". Consequently, even if the effects of intoxication were so strong that the accused did not know the nature and quality of what he or she was doing, or did not know that his or her conduct was wrong, the requirements of this defence will not be met (*R v Davis* (1881) 14 Cox CC 563; *Dearnley v R* [1947] St R Qd 51; *R v O’Connor *(1979) 146 CLR 64; *Falconer* (1990) 171 CLR 30).[^15]
+
+11. However, the requirements of the defence may be met if:
+
+
+[^13]: The onus is on the prosecution to disprove at least one of these elements beyond reasonable doubt.
+[^14]: Crimes Act 1958 s 9AJ modifies the common law position and, where it applies, requires the jury to ignore evidence of self–induced intoxication when determining whether the accused’s belief was based on reasonable grounds. See 8.5 Statutory Intoxication (From 1/11/14) and 8.6 Statutory Intoxication (23/11/05–31/10/14).
+[^15]: This degree of intoxication may, however, be relevant to whether the accused acted voluntarily and formed the necessary mental state. See Using Evidence of Intoxication to Negate an Element (above).
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove a Defence
+
+- The consumption of drugs or alcohol caused the accused to suffer from a condition which is considered to be a "disease of the mind" (e.g. permanent brain damage) (see, e.g. *R v Stones* (1955) 56 SR (NSW) 25; *R v Shields* [1967] VR 706);
+
+- The consumption of drugs or alcohol triggered or exacerbated a pre-existing condition which is considered to be a "disease of the mind" (e.g. schizophrenia) (see, e.g. *R v Connolly* (1958) 76 WN (NSW) 184; *R v **Meddings* [1966] VR 306); or
+
+- The accused’s mental impairment caused him or her to become intoxicated (see, e.g. *R v Weeks *(1993) 66 A Crim R 466).
+
+
+
+12. If the accused intentionally became intoxicated in order to trigger a pre-existing mental illness, knowing that he or she was likely to commit an offence when ill, he or she may be guilty of that offence (*AG for Northern Ireland v Gallagher* [1963] AC 349). See "Prior Criminal Intent (‘Dutch Courage’)" above for further information.
+
+13. See 8.8 Automatism for further information concerning the meaning of "disease of the mind".
+
+
+[^13]: The onus is on the prosecution to disprove at least one of these elements beyond reasonable doubt.
+[^14]: Crimes Act 1958 s 9AJ modifies the common law position and, where it applies, requires the jury to ignore evidence of self–induced intoxication when determining whether the accused’s belief was based on reasonable grounds. See 8.5 Statutory Intoxication (From 1/11/14) and 8.6 Statutory Intoxication (23/11/05–31/10/14).
+[^15]: This degree of intoxication may, however, be relevant to whether the accused acted voluntarily and formed the necessary mental state. See Using Evidence of Intoxication to Negate an Element (above).
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove an Offence
+
+## Using Evidence of Intoxication to Prove an Offence
+
+Intoxication as an element of an offence
+
+
+
+1. In some cases, one of the elements of the offence in question will require proof that the accused was intoxicated to a certain extent (see, e.g. *Road Safety Act 1986 *(Vic) s 49).
+
+2. Care must be taken when directing the jury about intoxication in such cases, as there may be a statutory definition of "intoxication" that varies from the definition at common law (see, e.g. *Liquor Control Reform Act 1998 *(Vic) s 3AB).
+
+
+
+Negligence, recklessness and dangerousness
+
+
+
+3. Evidence of intoxication may be used to prove that the accused acted negligently, recklessly or dangerously. For example:
+
+
+
+- In relation to negligence, the prosecution may use evidence of intoxication to prove that the accused acted unreasonably (e.g. by driving whilst drunk) (*R v Guthrie* (1981) 40 ACTR 27);
+
+- On a charge of dangerous driving, the prosecution may use evidence of intoxication to prove that the accused’s driving was "dangerous" (*R v McBride* [1962] 2 QB 167; *R v Owens* (1987) 30 A Crim R 59).
+
+
+
+Using evidence of intoxication to explain behaviour
+
+
+[^16]: For example, in O’Leary v Daire (1984) 13 A Crim R 404 it was held that the accused’s intoxication may have provided a motive for refusing to take a breath test or give the police his address.
+
+
+---
+
+
+## 8.7 Using Evidence of Intoxication to Prove an Offence
+
+4. The prosecution may use evidence of intoxication to explain the accused’s behaviour (*R v O’Connor *(1979) 146 CLR 64; *R v Perks* (1986) 41 SASR 335; *R v Leaf-**Milham* (1987) 47 SASR 499; *R v Stokes *(1990) 51 A Crim R 25; *R v Costa *Vic CCA 2/4/96).
+
+5. For example, as alcohol tends to remove inhibitions and self-restraints, and may induce a sense of self-confidence and aggressiveness, the prosecution might use the fact that the accused was drunk to explain how he or she came to commit the offence in question, when ordinarily he or she is a person of good character (*R v O’Connor *(1979) 146 CLR 64 (Barwick CJ). See also *R v Leaf-**Milham* (1987) 47 SASR 499; *R v Stokes *(1990) 51 A Crim R 25; *R v Coleman *(1990) 19 NSWLR 467; *R v Le **Broc** *(2000) 2 VR 43).
+
+6. In relation to sexual offences, evidence of intoxication may be used to explain why the accused pressed on with the act, despite the absence of consent (*R v Egan* (1985) 15 A Crim R 20; *R v Costa *Vic CCA 2/4/96).
+
+7. In some cases the fact that the accused was intoxicated may provide a motive for committing the offence in question (see, e.g. *O’Leary v **Daire* (1984) 13 A Crim R 404; *R v Perks* (1986) 41 SASR 335).[^16]
+
+
+[^16]: For example, in O’Leary v Daire (1984) 13 A Crim R 404 it was held that the accused’s intoxication may have provided a motive for refusing to take a breath test or give the police his address.
+
+
+---
+
+
+## 8.7 When to Direct the Jury About Intoxication
+
+## When to Direct the Jury About Intoxication
+
+When to direct about intoxication negating an element
+
+
+[^17]: See "The Evidentiary Presumption of Voluntariness" in 7.1.1 Voluntariness for information concerning the nature of this evidentiary burden in the context of voluntariness.
+
+
+---
+
+
+## 8.7 When to Direct the Jury About Intoxication
+
+1. A direction about intoxication is not required simply because there is evidence showing that the accused was affected by alcohol or drugs at the relevant time. A direction only needs to be given if a direction is requested under Part 3 of the *Jury Directions Act 2015*, or if there are substantial and compelling reasons for giving a direction in the absence of a request. The judge must give a requested direction unless there are good reasons for not doing so (*Jury Directions Act 2015* ss 14–16). See Directions under Jury Directions Act 2015.
+
+2. At common law, judges only needed to give directions on intoxication if there was evidence is capable of raising a reasonable doubt that the accused acted voluntarily, with the requisite intention, or with any required knowledge or foresight (*Viro** v R *(1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64; *R v Le **Broc** *(2000) 2 VR 43).
+
+3. The accused bore an evidentiary burden to point to or to produce evidence which, taken at its highest, is capable of raising a reasonable doubt that the relevant elements have been met (*Braysich** v R* (2011) 243 CLR 434. See also *R v Youssef *(1990) 50 A Crim R 1; *R v Stokes *(1990) 51 A Crim R 25).[^17]
+
+4. At common law, it was for the judge to determine whether the evidence was capable of raising a doubt about any of the elements. If he or she was unsure whether there is sufficient evidence to raise a particular issue, the common law stated that the issue should be left to the jury (*Viro** v R *(1978) 141 CLR 88; *R v Stokes *(1990) 51 A Crim R 25; *R v Rose* (1996) 87 A Crim R 109).
+
+5. Each case turns on the actual evidence of intoxication and the identity of the element to which that evidence may relate (*R v Le **Broc** *(2000) 2 VR 43).
+
+
+[^17]: See "The Evidentiary Presumption of Voluntariness" in 7.1.1 Voluntariness for information concerning the nature of this evidentiary burden in the context of voluntariness.
+
+
+---
+
+
+## 8.7 When to Direct the Jury About Intoxication
+
+6. The mere fact that the accused has made a credible assertion of a lack of memory is not sufficient. Evidence of the accused’s state of intoxication is required (*R v O’Connor* (1980) 146 CLR 64 (Barwick CJ)).
+
+7. A direction may be required where witnesses have described the accused as being "affected by alcohol", and there is evidence that the accused was acting strangely (e.g. he or she was seen abusively yelling at a non-existent person) (*R v Rose* (1996) 87 A Crim R 109).
+
+8. Where there was sufficient evidence of intoxication, the judge was required at common law to direct the jury about its relevance to the case, even if such a direction was not sought by either party or defence counsel requested that no direction be given. The nature of obligation must now be read in light of *Jury Directions Act 2015* sections 14 and 16 (compare *Pemble** v R *(1971) 124 CLR 109; *R v Stokes* (1990) 51 A Crim R 25; *R v Rose* (1996) 87 A Crim R 107; *R v **Khouzame* (1999) 108 A Crim R 170; *R v Challoner* [2000] VSCA 32; *R v Costa* Vic CCA 2/4/96; *R v TC* (2008) 21 VR 596).
+
+9. At common law, the judge was required to give the direction even if it gave an air of unreality to the case sought to be made by the accused in relation to some other issue (*R v Stokes* (1990) 51 A Crim R 25). Under the *Jury Directions Act 2015*, this may be a factor that provides ‘good reasons’ for not giving a requested direction (see *Jury Directions Act 2015* s 14).
+
+
+[^17]: See "The Evidentiary Presumption of Voluntariness" in 7.1.1 Voluntariness for information concerning the nature of this evidentiary burden in the context of voluntariness.
+
+
+---
+
+
+## 8.7 When to Direct the Jury About Intoxication
+
+10. Where there is no evidence that the consumption of alcohol or drugs was capable of affecting the accused’s volition or powers of reasoning, a direction should *not *be given. Giving a direction in such a case would confuse and mislead the jury, and invite a verdict which is contrary to the evidence (*R v Sullivan* (1981) 6 A Crim R 259; *R v Wilson* (1986) 42 SASR 203; *R v Challoner* (1993) 115 ALR 654).
+
+11. If the evidence of intoxication is imprecise, vague and uncertain, the judge may decline to direct the jury about the matter, even if the defence requests a direction (*Jury Directions Act 2015 *s 14; *R v O’Connor *(1979) 146 CLR 64; *R v Le **Broc** *(2000) 2 VR 43).
+
+
+[^17]: See "The Evidentiary Presumption of Voluntariness" in 7.1.1 Voluntariness for information concerning the nature of this evidentiary burden in the context of voluntariness.
+
+
+---
+
+
+## 8.7 When to Direct the Jury About Intoxication
+
+When to direct about other issues (e.g. defences, reliability)
+
+
+
+12. If evidence of intoxication is capable of having a bearing on any other issues in the case, such as the accused’s defence or the reliability of a witness, the judge may need to identify the relevant evidence and relate it to the pertinent issue (*Bedi v R *(1993) 61 SASR 269; *R v **Baltensperger* (2004) 90 SASR 129).
+
+13. At common law, the fact that defence counsel did not wish to rely on the evidence of intoxication did not relieve the judge of the duty to give appropriate directions (*Bedi v R* (1993) 61 SASR 269; *R v **Baltensperger** *(2004) 90 SASR 129). Under the *Jury Directions Act 2015*, the position of defence counsel is a significant factor that the trial judge must consider (see *Jury Directions Act 2015 *s 16).
+
+
+[^17]: See "The Evidentiary Presumption of Voluntariness" in 7.1.1 Voluntariness for information concerning the nature of this evidentiary burden in the context of voluntariness.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+## Content of the Charge
+
+Charging about intoxication negating an element
+
+Give a specific legal direction about intoxication
+
+
+
+1. Where evidence of intoxication is capable of raising a doubt as to voluntariness, intention, recklessness or knowledge, the jury must be specifically directed about the relevant issue. It is not sufficient to simply tell the jury that they must be satisfied that the accused acted voluntarily, with the requisite mental state (*Viro** v R *(1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64 (Barwick CJ); *R v Rose* (1996) 87 A Crim R 109; *R v McCullagh* [2002] VSCA 163).
+
+2. The direction should be framed as a direction on the law, rather than a reminder of counsel’s arguments (*Williams v DPP* [1999] SASC 531).
+
+
+
+Direct about any issues that "truly arise" on the facts
+
+
+
+3. The judge must direct the jury about whichever issues "truly arise on the facts", and refrain from giving a direction which introduces an issue that does not arise (*R v TC* (2008) 21 VR 596).
+
+4. At common law, it was held that this could require a judge to direct the jury about the relevance of intoxication to both voluntariness and intention. A failure to direct the jury about voluntariness when it was in issue could, at common law, give rise to a miscarriage of justice (even if the jury has been directed about intoxication and intention) (see, e.g. *R v TC* (2008) 21 VR 596. C.f. *R v Tucker *(1984) 36 SASR 135; *R v Williamson *(1996) 67 SASR 428).[^18]
+
+5. Under the *Jury Directions Act 2015*, the judge will need to determine whether a direction is requested on each issue or whether there are substantial and compelling reasons for directing on each issue in the absence of a request (*Jury Directions Act 2015 *ss 14–16).
+
+
+
+### Explain relevant elements and the effects of intoxication
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+6. Where voluntariness is in issue, the jury must be directed about the meaning of that term (*R v O’Connor *(1979) 146 CLR 64). See 7.1.1 Voluntariness for assistance.
+
+7. Where both voluntariness and intention are in issue, judges must make sure to clearly differentiate them (*R v TC* (2008) 21 VR 596).
+
+8. Where recklessness is in issue, the jury may be directed that the intoxication may have affected the accused’s foresight of the probable consequences of his or her actions (*R v Williamson* (1996) 67 SASR 428).
+
+9. Where intoxication is relevant to the accused’s awareness of a certain fact (e.g. that he had a knife in his hand) as well as his or her intention to commit an act or cause a result (e.g. to kill or cause really serious injury), the jury must be separately directed about each matter (*R v Williamson* (1996) 67 SASR 428).
+
+10. In a sexual offence case, where intoxication may have affected the accused’s belief in consent, a specific direction about that issue must be given (*R v MC *[2009] VSCA 122; *R v **Tappe** *Vic CCA 18/11/86).
+
+
+
+Explain the onus of proof
+
+
+
+11. Judges should direct the jury that it is for the prosecution to remove any reasonable doubt raised by the evidence of intoxication. The jury may only convict the accused if they are satisfied, beyond reasonable doubt, that he or she:
+
+
+
+- Voluntarily did the act with which he or she is charged; and
+
+- Did so with the intent, knowledge or foresight required to prove the offence charged (*Viro** v R *(1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64; *R v Coleman *(1990) 19 NSWLR 467; *R v McCullagh* [2002] VSCA 163; *R v Kumar* [2006] VSCA 182).
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+12. The jury should be told that it therefore is *not* for the accused to prove that he or she was too intoxicated to act voluntarily or with the relevant mental state. The onus is on the prosecution to prove that, notwithstanding the ingestion of drugs or alcohol, the accused acted voluntarily and with the requisite mental state (*R v Coleman *(1990) 19 NSWLR 467).
+
+13. Judges may tell the jury that if the evidence of intoxication does not raise a doubt about the relevant elements, they may put it out of their minds when considering the accused's guilt or innocence (*R v O’Connor *(1979) 146 CLR 64 (Barwick CJ)).[^19]
+
+
+
+Direct the jury about intoxication and inferences
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+14. The jury may be directed to take into account the accused’s intoxication when determining what inferences to draw from all of the evidence in the case (*R v Sheehan and Moore* [1975] 2 All ER 960; *Cutter v R* (1997) 143 ALR 498; *R v Stockdale* [2002] VSCA 202).
+
+15. In some cases, the prosecution will have argued that the accused’s intention can be inferred from the nature of the injuries he or she caused to the victim. In such cases, the jury may need to be told that inferences about intention which might readily be drawn from the nature of injuries inflicted by a sober person might not be inferred as readily where the perpetrator is intoxicated (*R v Wingfield* [2001] SASC 20; *Williams v DPP* [1999] SASC 531; *Spencer v R* (2003) 137 A Crim R 444. See also *R v Hill *[2007] VSCA 261).
+
+16. For example, if a sober person stabs someone in the heart, the jury may infer that the person intended to kill or cause really serious injury. In such a case, a significant part of the jury’s reasoning process would depend upon acceptance of the inference that the accused intended to stab the victim in what is known to be a vital organ. By contrast, if the accused is intoxicated, there might be a doubt about whether or not the knife was aimed at the heart, or whether the accused intended to wound in a vital area of the body. In such circumstances, the jury should be told that it may not be as easy to infer that the accused intended to kill or cause really serious injury as it might have been had the accused been sober (*Spencer v R* (2003) 137 A Crim R 444).
+
+17. The critical issue for the jury’s consideration in such cases is whether, by reason of his or her intoxication, the accused might have inflicted the injuries without the requisite intention (*R v Wingfield* [2001] SASC 20; *Williams v DPP* [1999] SASC 531; *Spencer v R* (2003) 137 A Crim R 444. See also *R v Hill *[2007] VSCA 261).
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+18. It has been suggested that a judicial direction on this issue may not always be necessary, given that the effects of the consumption of alcohol are well appreciated and easily recognised by virtually every adult member of our society. It is thus reasonable to assume that, even without such a direction, the members of a jury would recognise that individuals, under the influence of alcohol, may:
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+- Form intentions and act in fashions that would be foreign to their ordinary conduct; or
+
+- Act thoughtlessly through an alcohol induced loss of inhibition, without intending to achieve a particular result (*R v Hill *[2007] VSCA 261).
+
+
+
+Identify relevant evidence
+
+
+
+19. Judges should highlight the evidence and factual circumstances which bear on the extent of the accused's intoxication (*Bedi v R *(1993) 61 SASR 269; *R v Williamson* (1996) 67 SASR 428; *Spencer v R* (2003) 137 A Crim R 444; *R v TC* (2008) 21 VR 596).
+
+20. For example, judges should highlight evidence about the amount of alcohol or drugs consumed, the general behaviour of the accused, the specific nature of the conduct constituting the offence, and any other evidence going to the degree of intoxication (*R v TC* (2008) 21 VR 596).
+
+
+
+Other directions
+
+
+
+21. Depending on the circumstances and the nature of any request from the parties, it may also be appropriate to:
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+- Direct the jury that intoxication does not amount to a defence (i.e., that the mere fact that a person is affected by an intoxicating substance at the time of committing a criminal act does not itself require an acquittal);
+
+- Explain the various effects the relevant substance may have on a person (e.g. that it may affect the voluntariness of a person’s acts or his or her intention, or it may simply remove a person’s inhibitions or restraints and induce a sense of self confidence or aggressiveness);
+
+- Tell the jury that intoxication may provide a motive or explanation for what happened;
+
+- Tell the jury that the issue is not whether the accused did something which he or she would not have done in a sober state, but whether he or she acted voluntarily and with the requisite mental state;
+
+- Tell the jury that merely because alcohol has caused a person to lose his or her inhibitions to an extreme extent does not usually mean that his or her actions have ceased to be voluntary;
+
+- Tell the jury that a person can form an intention to commit an act or cause a result notwithstanding the consumption of alcohol or drugs;
+
+- Direct the jury that the fact the accused cannot remember what happened does not necessarily mean that he or she acted involuntarily or without the requisite intent (see, e.g. *Viro** v R *(1978) 141 CLR 88; *R v O’Connor *(1979) 146 CLR 64; *R v Coleman *(1990) 19 NSWLR 467; *R v McLeod *(1991) 56 A Crim R 320; *R v Kumar* [2006] VSCA 182; *R v Stokes *(1990) 51 A Crim R 25).
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+22. The jury should be directed that it is for them to determine the extent to which the accused was intoxicated, and the effects the intoxication had on him or her, based on their own experience and judgment (*R v Gill* (2005) 159 A Crim R 243).
+
+23. Where it is alleged that the accused’s conduct was affected by both intoxication and another factor (e.g. concussion), the jury should be directed to consider all of the factors collectively. The intoxication should not be viewed in isolation (see, e.g. *R v Martin* (1983) 32 SASR 419).
+
+24. If the evidence of intoxication is insignificant, the judge may tell the jury to ignore it (*R v O’Connor *(1979) 146 CLR 64).
+
+
+
+Do not tell the jury the issue is one of capacity
+
+
+
+25. The judge must *not* tell the jury that the issue is whether the accused was *capable* of acting voluntarily or forming the required mental state. While the jury can consider the question of whether or not the accused had the relevant capacity, the ultimate question is whether he or she *in fact* acted voluntarily with the requisite mental state (*Viro** v R *(1978) 141 CLR 88; *Herbert v R* (1982) 42 ALR 631; *R v Coleman *(1990) 19 NSWLR 467; *R v McLeod *(1991) 56 A Crim R 320; *R v **Makisi* (2004) 151 A Crim R 245).
+
+26. Where the issue of capacity is raised, the jury must be directed that it is not sufficient for them to find that the accused was capable of acting voluntarily or forming the requisite mental state. They must also be satisfied that the accused did in fact act voluntarily with that mental state (*Viro** v R *(1978) 141 CLR 88; *Herbert v R* (1982) 42 ALR 631).
+
+
+
+Charging about other matters (e.g. defences, reliability)
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+
+## 8.7 Content of the Charge
+
+27. If evidence of intoxication is capable of having a bearing on any other issues in the case, such as the accused’s defence or the reliability of a witness, the judge must identify the relevant evidence and relate it to the pertinent issue (*Bedi v R *(1993) 61 SASR 269; *R v **Baltensperger* (2004) 90 SASR 129).
+
+
+
+Last updated: 29 June 2015
+
+
+[^18]: In South Australia, it has been held that as the existence of intent implies the existence of volition, it is only necessary to direct about both voluntariness and intention in the rare case where there can be criminal liability for an unintended act, and the evidence of intoxication could raise a doubt about whether the act was accompanied by the will (R v Tucker (1984) 36 SASR 135). This does not appear to be the law in Victoria.
+[^19]: Such a direction will only be appropriate if the evidence is not relevant to any other matters, such as the accused’s defence.
+
+
+---
+
+---
+
+# Chapter 8.7.1
+
+
+## 8.7.1 Charge: Intoxication and Voluntariness
+
+# **8.7.1 Charge: Intoxication and Voluntariness**
+
+When to use this charge
+
+This charge may be used where the evidence is capable of raising a reasonable doubt that the accused acted involuntarily due to intoxication.
+
+If the accused may have acted unintentionally or recklessly due to intoxication, use 8.7.2 Charge: Intoxication and Intention.
+
+If intoxication may have affected both the voluntariness of the accused’s actions and the issue of intention/recklessness, both charges should be given. In such circumstances, the charge on intention/recklessness will need be modified to avoid repetition.
+
+How to use this charge
+
+The charge has been designed to be given as part of the judge’s charge on voluntariness. If Charge: 7.1.1 Voluntariness is used, it should be inserted where indicated.
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---
+
+
+## 8.7.1 Charge: Intoxication and Voluntariness
+
+## Intoxication and Voluntariness
+
+In this case, the defence has argued that NOA was so intoxicated that his/her act of [*describe act, e.g. *"driving"] was not voluntary. I must therefore give you some directions about **intoxication**.
+
+The fact that a person acted under the influence of alcohol[^2] does not give rise to any specific defence or excuse. This means that a person cannot avoid responsibility for his/her acts simply by providing evidence that s/he was intoxicated at the time s/he committed those acts.
+
+However, as I have just mentioned, a person must not be convicted for acts which were committed involuntarily. You may take evidence of intoxication into account in determining whether the accused acted voluntarily.
+
+You will appreciate that alcohol can affect people to different extents. Sometimes it simply diminishes a person’s inhibitions, or creates a sense of self-confidence or aggressiveness. In more extreme cases it can affect the voluntariness of a person’s actions. However, the mere fact that, due to intoxication, a person does something which s/he would not have done when sober does not mean that act was done involuntarily. As I have explained, an act is only involuntary if it is not subject to the control or direction of the person’s will.
+
+It is important to note that it is **not** for the defence to prove that NOA was so intoxicated that s/he acted involuntarily. It is for the prosecution to prove that NOA acted voluntarily, despite his/her level of intoxication. If you are not satisfied that this was the case, then you must find him/her not guilty of [*identify offence*].
+
+If you are satisfied that the accused acted voluntarily, you may take the effects of alcohol into account when determining whether the accused committed the offence s/he is charged with. For example, you might find that his/her behaviour can be explained by the fact that his/her inhibitions were diminished by the influence of alcohol, or by the extra sense of self-confidence that alcohol sometimes gives people.
+
+[*Summarise** relevant evidence and arguments. Judges should highlight evidence about the amount of alcohol consumed, the general **behaviour** of the accused, the specific nature of the conduct constituting the offence, and any other evidence going to the degree of intoxication.*]
+
+[*If it is alleged that the accused has no memory of events due to intoxication, add the following shaded section.*]
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---
+
+
+## 8.7.1 Charge: Intoxication and Voluntariness
+
+In this case you have heard evidence that NOA has no memory of [*identify act*]. While you may take this evidence into account in determining the extent of his/her intoxication, you should keep in mind the fact that the issue is not whether NOA remembers the relevant events, but whether s/he acted voluntarily when s/he [*describe relevant act*].
+
+It is for you to determine, based on all the evidence in the case, the extent to which the accused was intoxicated, and the effects the intoxication had on him/her. If you are not satisfied that the prosecution has proven, beyond reasonable doubt, that NOA [*identify act*] voluntarily despite being intoxicated, then you must find him/her not guilty of [*identify offence*].
+
+Last updated: 26 September 2011
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---
+
+---
+
+# Chapter 8.7.2
+
+
+## 8.7.2 Charge: Intoxication and Intention
+
+# **8.7.2 Charge: Intoxication and Intention**
+
+This charge may be used where the evidence is capable of raising a reasonable doubt that the accused acted intentionally due to intoxication. It may be adapted for use in cases where evidence of intoxication may affect the issue of recklessness.
+
+If the accused may have acted involuntarily due to intoxication, use 8.7.1 Charge: Intoxication and 7.1.1 Voluntariness.
+
+If intoxication may have affected both the voluntariness of the accused’s actions and the issue of intention, both charges should be given. However, this charge should be modified to avoid repetition.
+
+How to use this charge
+
+The charge has been designed to be given as part of the judge’s charge on the element relating to intention. It should be given after the judge has explained the requirements of that element.
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---
+
+
+## 8.7.2 Charge: Intoxication and Intention
+
+## Intoxication and Intention
+
+In this case, you have heard evidence that NOA was intoxicated when s/he [*identify act, e.g. *"hit NOV"]. I must therefore give you some directions about **intoxication**.
+
+The fact that a person acted under the influence of alcohol[^2] does not give rise to any specific defence or excuse. This means that a person cannot avoid responsibility for his/her acts simply by providing evidence that s/he was intoxicated at the time s/he committed those acts.
+
+However, evidence of intoxication may be taken into account when considering what a person intended when s/he committed a particular act.
+
+**On the one hand**, the fact that a person was intoxicated when he or she committed an act may make it more likely that he or she acted with a certain intention, by providing an explanation or motive for his or her behaviour. This may be the case, for example, where the intoxication diminishes a person’s ordinary inhibitions, or creates a sense of self-confidence or aggressiveness.
+
+**On the other hand**, the fact that a person was intoxicated may make it less likely that he or she acted with a particular intent. This may be the case, for example, where because of the effects of alcohol, a person doesn’t realise that his or her actions will produce a certain result. Consequently, it may not be as easy to draw inferences from the actions of an intoxicated person as it is to draw inferences from the actions of a sober person. You will recall what I have told you about inferences.
+
+You can see from these examples that the relevance of intoxication may vary, depending on the extent of the intoxication and the circumstances. While in some cases it may affect a person’s intentions, in others it will simply reduce his or her inhibitions. The mere fact that, due to intoxication, a person does something which s/he would not have done when sober does not mean it was done unintentionally.
+
+It is important to note that it is **not** for the defence to prove that NOA was so intoxicated that s/he acted without the necessary intention. It is for the prosecution to prove that NOA acted intentionally, despite his/her level of intoxication.
+
+[*Summarise** relevant evidence and arguments. Judges should highlight evidence about the amount of alcohol consumed, the general **behaviour** of the accused, the specific nature of the conduct constituting the offence, and any other evidence going to the degree of intoxication.*]
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---
+
+
+## 8.7.2 Charge: Intoxication and Intention
+
+[*If it is alleged that the accused has no memory of events due to intoxication, add the following shaded section*.]
+
+In this case you have heard evidence that NOA has no memory of [*identify act*]. While you may take this evidence into account in determining the extent of his/her intoxication, you should keep in mind the fact that the issue is not whether NOA remembers the relevant events, but whether s/he acted with the necessary intention.
+
+It is for you to determine, based on all the evidence in the case, the extent to which the accused was intoxicated, and the effects the intoxication had on him/her. If you are not satisfied that the prosecution has proven, beyond reasonable doubt, that despite being intoxicated NOA [*identify act*] intentionally, then you must find him/her not guilty of [*identify offence*].
+
+Last updated: 26 September 2011
+
+
+[^2]: This charge has been designed for cases involving alcohol intoxication. It will need to be modified for cases involving drugs.
+
+
+---

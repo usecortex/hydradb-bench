@@ -1,0 +1,141 @@
+# Chapter 11.4
+
+
+## 11.4 Intentional Murder Sample Question Trail and Charge
+
+# **11.4 Intentional Murder Sample Question Trail and Charge**
+
+**1. Has the prosecution proved beyond reasonable doubt that NOA shot NOV on [date]?1. Has the prosecution proved beyond reasonable doubt that NOA shot NOV on [date]?****Charge # - Murder**
+
+NoNoNot guilty of charge #.Go to charge #.Not guilty of charge #.Go to charge #.
+
+YesYes
+
+NoNo2. Has the prosecution proved beyond reasonable doubt that NOA’s gunshot caused NOV’s death?2. Has the prosecution proved beyond reasonable doubt that NOA’s gunshot caused NOV’s death?
+
+YesYes
+
+3. Has the prosecution proved beyond reasonable doubt that NOA shooting the gun was conscious, voluntary and deliberate?3. Has the prosecution proved beyond reasonable doubt that NOA shooting the gun was conscious, voluntary and deliberate?
+
+NoNo
+
+YesYes
+
+4. Has the prosecution proved beyond reasonable doubt either:a. that NOA intended to kill NOV when he shot NOV? orb. that NOA intended to cause NOV really serious injury when he shot NOV?4. Has the prosecution proved beyond reasonable doubt either:a. that NOA intended to kill NOV when he shot NOV? orb. that NOA intended to cause NOV really serious injury when he shot NOV?
+
+NoNo
+
+YesYes
+
+NoNo5. Has the prosecution proved beyond reasonable doubt that NOA did not believe it was necessary to shoot NOV to defend himself from being shot by NOV?5. Has the prosecution proved beyond reasonable doubt that NOA did not believe it was necessary to shoot NOV to defend himself from being shot by NOV?
+
+YesYes
+
+Guilty of charge #.Go to charge #.Guilty of charge #.Go to charge #.
+
+**Question Trail Charge: Intentional Murder**
+
+The first/next question trail is for charge # on the indictment, which is a charge of murder. This charge relates to the allegation that NOA killed NOV by shooting him on [date].
+
+I’m now going to take you through the 5 steps on that question trail.
+
+
+
+## Actions of accused
+
+The first question is “Has the prosecution proved beyond reasonable doubt that NOA shot NOV on [*date*]?”
+
+This is a question of fact you must decide. You have heard all the evidence about NOV and NOA’s movements on [*date*], and we will soon hear what [*prosecution counsel*] and [*defence counsel*] say about that evidence.
+
+
+---
+
+
+## 11.4 Causation
+
+## Causation
+
+The second question is “Has the prosecution proved beyond reasonable doubt that NOA’s gunshot was a cause of NOV’s death?”
+
+The most relevant evidence on this question will be the medical evidence you heard from NOW.
+
+In this case you have heard evidence that there were several people who shot at NOV, and it is uncertain who fired which bullet.
+
+For this question, you do not need to determine who fired which bullet, or which bullet was fatal. The law says that a person does not need to be only cause of a death, or the direct or immediate cause. Instead, you may find that NOA’s gunshot caused NOV’s death if you are satisfied that the shot was a substantial or significant cause of NOV’s death.
+
+You must approach this question in a common sense manner, bearing in mind that your answer affects whether or not the accused is held criminally responsible for his/her actions.
+
+
+---
+
+
+## 11.4 Voluntariness
+
+## Voluntariness
+
+The third question is “Has the prosecution proved beyond reasonable doubt that NOA shooting the gun was conscious, voluntary and deliberate?” These words each have a special meaning in law, which I will briefly explain.
+
+The term “conscious” excludes the acts of an unconscious person, such as a sleepwalker, or a person rolling over in bed.
+
+The term “voluntary” directs you to the requirement that the shooting must have been a “willed” act, that is, one resulting from the control by the accused of his/her own actions. This excludes the acts of a person operating in one of a number of rare mental states where the mind loses control of the body’s actions.
+
+The term “deliberate” excludes accidental acts, such as the consequences of falling over or fumbling an item.
+
+I am not going to say anything more about this question until you’ve heard from [*prosecution counsel*] and [*defence counsel*].
+
+
+---
+
+
+## 11.4 State of Mind of the Accused
+
+## State of Mind of the Accused
+
+The fourth question is “Has the prosecution proved beyond reasonable doubt either:
+
+
+
+1. that NOA intended to kill NOV when he shot NOV? or
+
+2. that NOA intended to cause NOV really serious injury when he shot NOV?”
+
+
+
+When I say “really serious injury”, I am not using a technical legal phrase. These are ordinary English words, and it is for you to determine what this phrase means to you as jurors.
+
+Deciding whether NOA intended to kill or cause NOV really serious injury will require you to draw a conclusion from all the evidence. You will need to look at all of NOA’s proven actions before, at the time of, and after the alleged shooting. All of these things may help you to determine what NOA intended, if you find that NOA was one of the shooters.
+
+Remember, you can only convict the accused if you are satisfied that his/her guilt is the only reasonable conclusion to be drawn from the evidence. If there is another reasonable view of the facts which is consistent with the accused’s innocence, then the prosecution has not proved the accused’s guilt beyond reasonable doubt.
+
+
+---
+
+
+## 11.4 Self-defence
+
+## Self-defence
+
+The fifth question is “Has the prosecution proved beyond reasonable doubt that NOA did not believe it was necessary to shoot NOV to defend himself from being shot by NOV?”
+
+As I understand the defence case, one argument you will hear is that even if you are satisfied that NOD shot NOV, then NOD only did this in order to protect himself from NOV, who was otherwise going to shoot him first.
+
+The law recognises that a person faced with a threat of death or really serious injury can defend themselves, even to the point of killing their attacker.
+
+This question requires you to consider NOA’s state of mind at the time of the shooting and what motivated his/her actions. You must consider the issue from the accused’s perspective. If NOA personally believed that NOV was going to shoot him/her, then you answer this question on that basis. Even if you find that NOA was mistaken about that belief.
+
+In answering this question, you must look at all the circumstances. You must take into account the emergency of the situation and not judge NOA’s actions with the benefit of hindsight. You may also need to consider whether NOA was the original aggressor, and whether any threat posed by NOV was itself an act of self-defence against NOA’s aggression.
+
+I will have more to say about those circumstances after you have heard from the prosecution and defence. But one key principle to remember when answering this question is that the prosecution must prove NOD **did not** act in self-defence. The accused does not need to prove that s/he **did** act in self-defence.
+
+
+---
+
+
+## 11.4 Summary
+
+## Summary
+
+In summary, as you can see on the question trail, if you answer no to any question then you must find NOA not guilty of this charge. It is only if you answer yes to each question that you can find NOA guilty of this charge.
+
+
+---

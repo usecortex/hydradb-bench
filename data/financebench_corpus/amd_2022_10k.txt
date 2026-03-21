@@ -1,0 +1,148 @@
+# AMD_2022_10K
+
+Consolidated Balance Sheets
+
+December 31,: 2022
+December 25,: 2021
+(In millions, except par value amounts)
+ASSETS
+Current assets:
+Cash and cash equivalents: $4,835 | $2,535
+Short-term investments: 1,020 | 1,073
+Accounts receivable, net: 4,126 | 2,706
+Inventories: 3,771 | 1,955
+Receivables from related parties: 2 | 2
+Prepaid expenses and other current assets: 1,265 | 312
+Total current assets: 15,019 | 8,583
+Property and equipment, net: 1,513 | 702
+Operating lease right-of-use assets: 460 | 367
+Goodwill: 24,177 | 289
+Acquisition-related intangibles: 24,118
+Investment: equity method: 83 | 69
+Deferred tax assets: 58 | 931
+Other non-current assets: 2,152 | 1,478
+Total assets: $67,580 | $12,419
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable: $2,493 | $1,321
+Payables to related parties: 463 | 85
+Accrued liabilities: 3,077 | 2,424
+Current portion of long-term debt, net: 312
+Other current liabilities: 336 | 98
+Total current liabilities: 6,369 | 4,240
+Long-term debt, net of current portion: 2,467 | 1
+Long-term operating lease liabilities: 396 | 348
+Deferred tax liabilities: 1,934 | 12
+Other long-term liabilities: 1,664 | 321
+Commitments and Contingencies (see Notes 16 and 17)
+Stockholders equity:
+Capital stock:
+Common stock, par value $0.01; shares authorized: 2,250; shares issued: 1,645 and 1,232; shares
+outstanding: 1,612 and 1,207: 16 | 12
+Additional paid-in capital: 58,005 | 11,069
+Treasury stock, at cost (shares held: 33 and 25): (3,099) | (2,130)
+Accumulated deficit: (131) | (1,451)
+Accumulated other comprehensive loss: (41) | (3)
+Total stockholders equity: 54,750 | 7,497
+Total liabilities and stockholders equity: $67,580 | $12,419
+---
+
+Overview
+We area global semiconductor company primarily offering:
+
+server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and
+Adaptive System-on-Chip (SoC) products for data centers;
+
+CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers;
+
+discrete GPUs, and semi-custom SoC products and development services; and
+
+embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+From time to time, we may also sell or license portions of our intellectual property (IP) portfolio.
+
+---
+
+Net
+revenue for 2022 was $23.6 billion, an increase of 44% compared to 2021 net revenue of $16.4 billion. The increase in net revenue was driven bya 64%
+increase in Data Center segment revenue primarily due to higher sales of our EPYC server processors, a 21% increase in Gaming segment revenue
+primarily due to higher semi-custom product sales, anda significant increase in Embedded segment revenue from the prior year period driven by the inclusion
+of Xilinx embedded product sales.
+
+---
+
+Operating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by
+amortization of intangible assets associated with the Xilinx acquisition.
+
+---
+
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows
+Year Ended
+December 31,: 2022
+December 25,: 2021
+December 26,: 2020
+(In millions)
+Cash flows from operating activities:
+Net income: $1,320 | $3,162 | $2,490
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization: 4,174 | 407 | 312
+Stock-based compensation: 1,081 | 379 | 274
+Amortization of debt discount and issuance costs: 5 | 14
+Amortization of operating lease right-of-use assets: 88 | 56 | 42
+Amortization of inventory fair value adjustment: 189
+Loss on debt redemption, repurchase and conversion: 7 | 54
+Loss on sale or disposal of property and equipment: 16 | 34 | 33
+Deferred income taxes: (1,505) | 308 | (1,223)
+(Gains) losses on equity investments, net: 62 | (56) | (2)
+Other: (14) | (7) | 8
+Changes in operating assets and liabilities:
+Accounts receivable, net: (1,091) | (640) | (219)
+Inventories: (1,401) | (556) | (417)
+Receivables from related parties: (13) | 8 | 10
+Prepaid expenses and other assets: (1,197) | (920) | (231)
+Payables to related parties: 379 | 7 | (135)
+Accounts payable: 931 | 801 | (513)
+Accrued liabilities and other: 546 | 526 | 574
+Net cash provided by operating activities: 3,565 | 3,521 | 1,071
+Cash flows from investing activities:
+Purchases of property and equipment: (450) | (301) | (294)
+Purchases of short-term investments: (2,667) | (2,056) | (850)
+Proceeds from maturity of short-term investments: 4,310 | 1,678 | 192
+Cash received from acquisition of Xilinx: 2,366
+Acquisition of Pensando, net of cash acquired: (1,544)
+Other: (16) | (7)
+Net cash provided by (used in) investing activities: 1,999 | (686) | (952)
+Cash flows from financing activities:
+Proceeds from debt, net of issuance costs: 991 | 200
+Repayment of debt: (312) | (200)
+Proceeds from sales of common stock through employee equity plans: 167 | 104 | 85
+Repurchases of common stock: (3,702) | (1,762)
+Common stock repurchases for tax withholding on employee equity plans: (406) | (237) | (78)
+Other: (2) | (1)
+Net cash (used in) provided by financing activities: (3,264) | (1,895) | 6
+Net increase in cash and cash equivalents: 2,300 | 940 | 125
+Cash and cash equivalents at beginning of year: 2,535 | 1,595 | 1,470
+Cash and cash equivalents at end of year: $4,835 | $2,535 | $1,595
+---
+
+Year Ended
+December 31,: 2022
+December 25,: 2021
+(In millions)
+Net revenue:
+Data Center: $6,043 | $3,694
+Client: 6,201 | 6,887
+Gaming: 6,805 | 5,607
+Embedded: 4,552 | 246
+Total net revenue: $23,601 | $16,434
+Operating income (loss):
+Data Center: $1,848 | $991
+Client: 1,190 | 2,088
+Gaming: 953 | 934
+Embedded: 2,252 | 44
+All Other: (4,979) | (409)
+Total operating income (loss): $1,264 | $3,648
+---
+
+One customer accounted for 16% of our consolidated net revenue for the year ended December 31, 2022. Sales to this customer consisted of sales of products
+from our Gaming segment. A loss of this customer would havea material adverse effect on our business.

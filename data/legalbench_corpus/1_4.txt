@@ -1,0 +1,199 @@
+# Chapter 1.4
+
+
+## 1.4 The Role of Judge and Jury
+
+# 1.4 The Role of Judge and Jury
+
+
+
+## Role of the Jury
+
+
+
+1. The role of the jury is to determine the facts, apply relevant principles of law to those facts, and return a verdict (*R v Dao* (2005) 156 A Crim R 459; *R v Nguyen *[2006] VSCA 158; *Azzopardi v R* (2001) 205 CLR 50).
+
+2. This requires the jury to:
+
+
+
+- Determine whether, and to what extent, the evidence is to be believed;
+
+- Decide whether to draw inferences from the evidence; and
+
+- Apply the law, as they are directed upon it, to the facts as they find them to be (*Director of Public Prosecutions v Stonehouse* [1978] AC 55. See also *Metropolitan Railway Co v Jackson *(1877) 3 App Cas 193; *Cofield v Waterloo Case Co Ltd *(1924) 34 CLR 363; *Bratty v AG for Northern Ireland* [1963] AC 386).
+
+
+
+3. It is for the jury alone to decide the facts of a case. This must not be obscured by the performance of the judge’s duties (*RPS v R *(2000) 199 CLR 620; *R v Melbourne *(1999) 198 CLR 1).
+
+4. Similarly, it is the jury alone that determines the verdict. The judge must be careful to make this clear (*R v Johnson *(1986) 43 SASR 63).
+
+5. Although the jury are the sole judges of the facts, they must accept and apply the judge’s directions about the law (*Joshua v R* [1955] AC 121; *R v Beeby* (1911) 6 Cr App R 138; *R v Frampton* (1917) 12 Cr App R 202).
+
+6. Jurors should not be drawn into the process of questioning witnesses (*Tootle v R* (2017) 94 NSWLR 430, [59]). See also 1.10 Trial Procedure regarding jurors questioning witnesses.
+
+
+---
+
+
+## 1.4 Role of the Judge
+
+## Role of the Judge
+
+
+
+1. The judge must instruct the jury about so much of the law as they need to know in deciding the real issue or issues in the case (*Azzopardi v R* (2001) 205 CLR 50; *RPS v R *(2000) 199 CLR 620).
+
+2. This requires the judge to:
+
+1. Instruct the jury about the elements of the offences and the onus and standard of proof;
+
+2. Identify the issues in the case and to relate the law to those issues;
+
+3. Put the defence case fairly; and
+
+4. In some cases warn the jury about impermissible reasoning, or about particular care that must be shown before accepting certain kinds of evidence (*RPS v R *(2000) 199 CLR 620; *Azzopardi v R* (2001) 205 CLR 50).
+
+3. The judge also has an obligation to summarise the respective cases of both the prosecution and the defence, and should remind the jury of the arguments of counsel (*RPS v R* (2000) 199 CLR 620; *R v Mogg* (2000) 112 A Crim R 417; *R v Conway* [2005] QCA 194).
+
+4. The judge may remind the jury of the facts, and assist them to understand those facts (*Stingel v The Queen *(1990) 171 CLR 312; *Brownlee v R *(2001) 207 CLR 278).
+
+5. However, the jury always remain the sole judges of the facts. A judge must therefore not direct the jury about how they may (as opposed to may not) reason towards a conclusion of guilt (*Azzopardi v R* (2001) 205 CLR 50).
+
+6. The role of the judge also includes:
+
+
+---
+
+
+## 1.4 Role of the Judge
+
+- Determining the admissibility of evidence;
+
+- Determining whether there is evidence which, if it is believed, could establish the facts in issue (*Stingel v The Queen *(1990) 171 CLR 312);
+
+- Determining whether inferences can legitimately be drawn from the evidence (*Metropolitan Railway Co v Jackson *(1877) 3 App Cas 193; *Cofield v Waterloo Case Co Ltd *(1924) 34 CLR 363); and
+
+- Exercising proper control over the proceedings, in a way that does not infringe on the accused’s right to a fair trial (*R v Boykovski and Atanasovski *(1991) A Crim R 436).
+
+
+---
+
+
+## 1.4 Role of the Judge
+
+7. The judge has power to exclude the jury from the courtroom while hearing arguments on the admissibility of evidence or determining other applications. This power may be exercised whether or not the accused consents (*R v Hendry *(1989) 88 Cr App R 187; *Demirok v R* (1977) 137 CLR 20; *Peacock v R *(1911) 13 CLR 619).
+
+8. The judge should not explain to the jury the specific reason for asking them to leave the room, nor the outcome of the matter heard in the jury’s absence, as it is not relevant to any decisions the jury needs to make, and may wrongly influence them (*R v Williams *[1982] WAR 277; *R v Smith *(1986) 85 Cr App R 197; *Crosdale v R *[1995] 2 All ER 500. See also *Basto v R* (1954) 91 CLR 628; *R v Mitchell* [1998] AC 695; *Thompson v R* [1998] AC 811).
+
+9. However, because there is a danger that the jury will think that material prejudicial to the accused is going to be disclosed in their absence, the jury should be told that they are being asked to leave the room because there is a matter of law that needs to be resolved in their absence (*R v Williams *[1982] WAR 277; *Crosdale v R *[1995] 2 All ER 500; *R v Anderson* (1929) 21 Cr App R 178).
+
+10. The judge must perform all of their tasks in a fair and even-handed manner (*R v Dao* (2005) 156 A Crim R 459; *R v Nguyen *[2006] VSCA 158).
+
+11. See 3.2 Overview of Final Directions and 3.9 Judge’s Summing Up on Issues and Evidence for further information on the role of the judge.
+
+
+---
+
+
+## 1.4 Need for a Direction
+
+## Need for a Direction
+
+
+
+1. The judge must always direct the jury about the roles of the judge and jury (*RPS v R *(2000) 199 CLR 620; *R v Sinclair *(1989) 44 A Crim R 449).
+
+2. This direction should usually be given at the commencement of the trial, as well as after the completion of all the evidence and the presentation of argument by counsel (see, e.g. *R v Sinclair *(1989) 44 A Crim R 449).
+
+3. This is because it is good practice to provide some assistance to a jury at the outset of the trial. However, comments which are made at a preliminary stage may not have their significance fully appreciated by the jury, which is unfamiliar with the issues which may arise in the trial (*R v Sinclair *(1989) 44 A Crim R 449).
+
+
+
+Last updated: 2 October 2017
+
+
+---
+
+---
+
+# Chapter 1.4.1
+
+
+## 1.4.1 Charge: The Role of Judge and Jury
+
+# 1.4.1 Charge: The Role of Judge and Jury
+
+
+
+## Introduction
+
+Serving on a jury may be a completely new experience for some, if not all, of you. To help you perform that role properly, I will now describe your duties as jurors and the procedures that we will follow during the trial. I will also explain to you some of the principles of law that apply in this case.
+
+During and at the end of the trial, I will give you further instructions about the law that applies to this case. You must listen closely to all of these instructions and follow them carefully.
+
+If at any time you have a question about anything I say, please feel free to ask me. You should do this by writing it down, and passing it to my tipstaff, [*insert name*], who will hand it to me.
+
+
+---
+
+
+## 1.4.1 Roles of Judge, Jury and Counsel
+
+## Roles of Judge, Jury and Counsel
+
+Members of the jury, you represent one of the most important institutions in our community – the institution of trial by jury. Our legal system guarantees any individual charged with a criminal offence the right to have the case presented against him or her determined by twelve independent and open-minded members of the community, in accordance with the law.
+
+In this case, it is alleged by the prosecution that NOA has committed the offence[s] of [*insert offences*].[^1] S/he has pleaded "not guilty", and so it is for you, and you alone, to decide whether s/he is guilty or not guilty of [this/these] crime[s].
+
+I note that, when referring to the crime[s] that the accused has been charged with, I will sometimes use the words "offence" or "charge" – they all mean the same thing.
+
+In all criminal trials of this type, the court consists of a judge and jury. We are going to be assisted in this case by counsel for the prosecution, [*insert prosecutor’s name*], and defence counsel, [*insert defence counsel’s name*].[^2] Each of us has a different role to play.
+
+
+
+## Role of the Jury
+
+It is your role, as the jury, to decide what the facts are in this case. You are the only ones in this court who can make a decision about the facts. You make that decision from all of the evidence given during the trial.
+
+It is also your task to apply the law to the facts that you have found, and by doing that decide whether the accused is guilty or not guilty of the offence[s] charged.
+
+
+[^1]: This charge is drafted for use in cases involving one accused. If the case involves multiple accused, it will need to be modified accordingly.
+[^2]: This sentence will need to be modified if the accused is unrepresented.
+[^3]: This section will need to be modified if the accused is unrepresented.
+
+
+---
+
+
+## 1.4.1 Roles of Judge, Jury and Counsel
+
+## Role of the Judge
+
+It is my role, as the judge, to ensure that this trial is fair and conducted in accordance with the law. I will also explain to you the principles of law that you must apply to make your decision. You must accept and follow all of those directions.
+
+I want to emphasise that it is not my responsibility to decide this case. The verdict that you return has absolutely nothing to do with me. So while you must follow any directions I give you about the law, you are not bound by any comments I may make about the facts.
+
+It is unlikely that I will make any comments about the evidence. If you disagree with any comments I make, you must disregard them. Do not give them any extra weight because I, as the judge, have made them. It is your view of the facts which matters, not mine. You are the judges of facts – you alone.
+
+
+
+## Role of Counsel
+
+The role of counsel is to present the case for the side for which they appear. [*Insert name of prosecutor*] presents the charge[s] for the prosecution. [*Insert name of defence counsel*] appears for the accused, and will represent him/her throughout the trial.[^3]
+
+You do not need to accept any comments that counsel may make during their addresses. Of course, if you agree with an argument they present, you can adopt it – in effect, it becomes your own argument. But if you do not agree with their view, you must put it aside. As I have told you, you alone are the judges of the facts.
+
+Similarly, you are not bound by what counsel says about the law. I am the judge of the law, and it is what I tell you about the law that matters. If counsel says something different from what I say about the law, you must ignore it and follow my directions.
+
+Last updated: 17 May 2019
+
+
+[^1]: This charge is drafted for use in cases involving one accused. If the case involves multiple accused, it will need to be modified accordingly.
+[^2]: This sentence will need to be modified if the accused is unrepresented.
+[^3]: This section will need to be modified if the accused is unrepresented.
+
+
+---

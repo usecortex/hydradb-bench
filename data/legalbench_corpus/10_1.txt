@@ -1,0 +1,304 @@
+# Chapter 10.1
+
+
+## 10.1 Investigations into Unfitness to Stand Trial
+
+# 10.1 Investigations into Unfitness to Stand Trial
+
+
+
+## Overview
+
+
+
+1. People cannot be tried for criminal offences unless they are fit to stand trial (R v Dashwood [1943] KB 1; R v Benyon [1957] 2 QB 111; Eastman v The Queen (2000) 203 CLR 1).
+
+2. The issue of fitness to stand trial relates to the accused’s condition at the time of the trial. This is in contrast to the defence of mental impairment, which relates to the accused’s condition at the time of the offence (see 8.4 Mental Impairment) (R v Dennison NSWCCA 3/3/1988; Ngatayi v The Queen (1980) 147 CLR 1; R v Presser [1958] VR 45).
+
+3. The Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 (Vic) (the Act)[^2] sets out the procedure for determining a person’s fitness to stand trial. This procedure applies to all trials, regardless of when the alleged offences were committed (Schedule 3).
+
+4. According to the Act, when a real and substantial question is raised concerning a person’s fitness to stand trial, an investigation must be held to determine whether s/he is unfit (ss 8, 9). The outcome of that investigation must be determined by the judge (s 14C). These investigations are the focus of this Chapter.
+
+5. Prior to amendments introduced by the COVID–19 Omnibus (Emergency Measures) Act 2020 and the Justice Legislation Amendment (System Enhancements and Other Matters) Act 2021, fitness to stand trial was determined by a specially empanelled jury. The sections which provide for jury determination of fitness remain in force in the Act, but are temporarily suspended while the judge–alone determination provisions are in force (s 5C).
+
+6. If the judge finds the person unfit to stand trial, the judge must determine whether it is likely that s/he will become fit to stand trial within 12 months. If it is likely that s/he will recover within that time, the judge must adjourn the matter. If it is not likely, a special hearing must be held to determine whether that person committed the offence charged (ss 14F, 15). These special hearings are examined in 10.2 Special Hearings.
+
+
+[^2]: All references to legislative sections and schedules refer to the Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 (Vic).
+
+
+---
+
+
+## 10.1 When must an Investigation into the Accused’s Fitness be Held?
+
+## When must an Investigation into the Accused’s Fitness be Held?
+
+
+---
+
+
+## 10.1 When must an Investigation into the Accused’s Fitness be Held?
+
+1. A judge must order an investigation into the accused’s fitness to stand trial if it appears that there is a "real and substantial question" about that issue (s 9).
+
+2. A "real and substantial question" will exist whenever it would be open to a properly instructed jury to conclude that the accused was not fit to stand trial (Eastman v The Queen (2000) 203 CLR 1; R v Alford [2005] VSC 404; Kesavarajah v The Queen (1994) 181 CLR 230).
+
+3. To order an investigation, a judge does not need to have formed a prima facie view that the accused is unfit to be tried. When the question of fitness was to be determined by a jury, courts held that where there is a reason to doubt the accused’s fitness, it must be left to the jury unless no reasonable jury could conclude that the accused was unfit (s 7(3); Kesavarajah v The Queen (1994) 181 CLR 230; R v Khallouf [1981] VR 360).
+
+4. It is not necessary to call admissible evidence to raise a real and substantial question of the accused’s fitness to be tried. Assertions from the bar table setting out a reasonable basis for concerns about fitness can be sufficient to raise the question, or at least warrant an adjournment to gather further evidence. Similarly, abnormal or eccentric behaviour by the accused during a trial may raise the question of the accused’s fitness to be tried (SM v R (2011) 33 VR 393; [2011] VSCA 332; Eastman v R (2000) 203 CLR 1; [2000] HCA 29 (Callinan J); c.f. R v Coffee, Unreported, NSW SC, 20 November 1992).
+
+5. The obligation to order an investigation is part of the judge’s duty to ensure a fair trial. Where the accused is unrepresented, or has previously been found unfit to be tried, the judge must be particularly careful to ensure that the trial is not unfair (Heffernan v The Queen (2005) 194 FLR 370; Eastman v The Queen (2000) 203 CLR 1).
+
+
+---
+
+
+## 10.1 When must an Investigation into the Accused’s Fitness be Held?
+
+6. Failing to order an investigation where there is a real and substantial question about the accused’s fitness to stand trial will constitute a fundamental defect in the trial procedure, rendering the trial a nullity (Eastman v The Queen (2000) 203 CLR 1).
+
+7. It is not clear whether the change from the jury determining fitness to the judge determining fitness affects when it will be appropriate to refer fitness to an investigation.
+
+8. In R v Young, the trial judge was found to have erred by giving significant weight to the impact of planned adjustments to trial procedure in deciding whether there remained a real question about fitness after receiving expert evidence which contended that the accused was unfit. The Queensland Court of Appeal held that such reasoning engaged with the merits of the fitness question, rather than focusing on the threshold question of whether the jury needed to consider the accused’s fitness (R v Young (2021) 8 QR 68, [207]).
+
+
+---
+
+
+## 10.1 Procedure for Ordering an Investigation
+
+## Procedure for Ordering an Investigation
+
+
+
+1. The issue of the accused’s fitness to stand trial may be raised at any stage of the proceedings by the prosecution, the defence or the judge (s 9; Eastman v The Queen (2000) 203 CLR 1; R v Presser [1958] VR 45).
+
+2. The procedure for ordering an investigation differs, depending on when the issue of fitness arises. If it arises during a committal hearing:
+
+
+
+- The committal must proceed in accordance with the normal procedure;
+
+- If the accused is committed for trial, the magistrate must reserve the question of fitness for consideration by the trial judge;
+
+- The trial judge must then determine whether there is a real and substantial question about the accused’s fitness; and
+
+- If the judge decides that there is a real and substantial question about the accused’s fitness, an investigation into his/her fitness must commence within 3 months of the committal (with scope for extension) (s 8).
+
+
+
+3. If the question of fitness arises during a trial, the trial must be adjourned or discontinued to allow an investigation to be conducted (s 9).
+
+4. The potential obligation to order an investigation into the accused’s fitness continues until the jury’s verdict has been delivered. A judge may therefore be required to adjourn a trial and order an investigation after the close of the prosecution case, or even after final addresses to the jury – because the accused must be able to make a defence (see below), and so may be unfit if s/he is not able to respond to jury questions (especially if s/he is unrepresented) (Kesavarajah v The Queen (1994) 181 CLR 230).
+
+5. As the issue of the accused’s fitness to stand trial may be raised more than once in the same proceedings, the fact that an investigation has previously been held does not prevent a judge from ordering another investigation (s 9(3)).
+
+6. A judge may vacate an order for an investigation prior to empanelling a jury. This may be suitable where the order was made in error, or if the question about the accused’s fitness has been resolved (R v Demicoli [2006] VSCA 69).
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+## Nature of an Investigation
+
+
+
+## Role of the Judge
+
+
+
+1. The question of the accused’s fitness to stand trial is a question of fact (s 7(3)).
+
+2. It is presumed that every person is fit to stand trial. The judge's role in an investigation is to determine, on the balance of probabilities, whether that "presumption of fitness" has been rebutted (s 7).
+
+
+
+## Evidence
+
+
+
+3. The court must hear any relevant evidence and submissions put by the prosecution or the defence (s 14D(1)(a)).
+
+4. The trial judge may also call evidence on his/her own initiative, if s/he is of the opinion that it is in the interests of justice to do so (s 14D(1)(b)(i)).
+
+5. The trial judge may require the accused to undergo a medical examination, and require the results of that examination to be put before the court (s 14D(1)(b)(ii)–(iii)).
+
+
+
+## Onus of Proof
+
+
+
+6. The standard of proof in an unfitness investigation is the civil standard of the balance of probabilities (s 14C).
+
+7. Which party will bear the onus of proof depends on who raises the issue:
+
+
+
+- If it is raised by the prosecution, it will be for the prosecution to prove;
+
+- If it is raised by the defence, it will be for the defence to prove;
+
+- If it is raised by the judge, neither party bears the onus of proof (although the prosecution has carriage of the matter) (ss 7(4), 7(5)).[^3]
+
+
+
+## Test for Determining the Accused’s Fitness
+
+
+
+### Statutory Test
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+8. According to section 6(1) of the Act, to find a person unfit to stand trial the judge must be satisfied, on the balance of probabilities, that because his/her mental processes are disordered or impaired, s/he is (or will be at some time during the trial):
+
+1. Unable to understand the nature of the charge; or
+
+2. Unable to enter a plea; or
+
+3. Unable to exercise the right to challenge jurors or the jury pool; or
+
+4. Unable to understand the nature of a trial as an inquiry into whether the accused committed the offence; or
+
+5. Unable to follow the course of the trial; or
+
+6. Unable to understand the substantial effect of any evidence that may be given in support of the prosecution; or
+
+7. Unable to instruct counsel.
+
+9. There are two parts to this test. The judge must find that:
+
+1. The accused currently suffers from at least one of the abovementioned incapacities, or will at some time during the trial; and
+
+2. That incapacity is caused by the accused’s impaired or disordered mental processes.
+
+
+
+### Relevance of Common Law Authorities
+
+
+
+10. The statutory test is largely derived from the common law test for fitness to stand trial. Common law authorities will therefore be relevant when interpreting the statutory test.
+
+11. Under the common law, a person would be unfit to stand trial if s/he was:
+
+1. Unable to understand the nature of the charge; or
+
+2. Unable to plead to the charge or exercise the right of challenge; or
+
+3. Unable to understand the nature of the proceedings as an inquiry into whether s/he committed the offence charged; or
+
+4. Unable to follow the course of the proceedings so as to understand what is going on in court in a general sense, even though s/he need not understand the purpose of all the various court formalities; or
+
+5. Unable to understand the substantial effect of any evidence that may be given against him/her; or
+
+6. Unable to decide what defence s/he will rely upon or make his/her defence or version of facts known to the court or to counsel (R v Presser [1958] VR 45; Eastman v The Queen (2000) 203 CLR 1).
+
+
+
+### Determining the Accused’s Capacities
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+12. The judge should determine whether the accused is unfit to stand trial in a common sense fashion – because if the test is applied too literally, it may incorrectly set a threshold for fitness that can only be met by a person of very high intelligence (Sinclair v The King (1946) 73 CLR 316; R v Presser [1958] VR 45).
+
+13. The fact that the accused could perform better against some of the specified requirements if s/he had greater intelligence, or received additional treatment, is not determinative. The critical question is whether the accused meets the minimum requirements for fitness specified in the Act (R v Rivkin (2004) 59 NSWLR 284; Clarkson v The Queen [2007] NSWCCA 70).
+
+14. The ability of an accused to follow the course of the trial, and to understand the substantial effect of the evidence, may depend on the complexity of the trial. For example, a greater degree of understanding and capacity may be required for a complex fraud trial than for a trial in which the issues are narrow and well defined (R v Wahlstedt [2003] SADC 172; R v Gillard [2006] SASC 46).
+
+15. Where counsel will aid the accused during the trial, the jury should take this assistance into account in determining whether s/he is, or will be, able to understand and follow its processes (Ngatayi v The Queen (1980) 147 CLR 1; R v Miller [No 2] [2000] SASC 152).
+
+16. Poor forensic choices, or counter-productive behaviour, will not, of themselves, render a person unfit to be tried. While the accused must be able to make forensic choices, and instruct counsel on the nature of his/her defence, s/he is not required to make an able defence (Heffernan v The Queen (2005) 194 FLR 370; Eastman v The Queen (2000) 203 CLR 1; Kesavarajah v The Queen (1994) 181 CLR 230; R v Taylor (1992) 77 CCC (3d) 551; R v Presser [1958] VR 45).
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+17. A person will not be unfit to stand trial simply because s/he is suffering from memory loss (e.g. s/he cannot remember the facts surrounding the alleged offending) (s 6(2); R v Dennison NSWCCA 3/3/1988).
+
+18. Bizarre or disruptive behaviour does not, of itself, render a person unfit to be tried (Eastman v The Queen (2000) 203 CLR 1; R v Taylor (1992) 77 CCC (3d) 551).
+
+19. The mere fact that a person refuses to rely on the defence of mental impairment, which may be open on the evidence, does not mean that s/he is unfit to stand trial. A person may rationally reject such an option out of concern for the consequences of a finding of not guilty by reason of mental impairment (R v Bridge [2005] NSWCCA 122).
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+### Future Unfitness
+
+
+
+20. In assessing whether an accused is fit to be tried, the judge is required to consider both his/her present condition and his/her likely condition during the trial (s 6(1)).
+
+21. The expected length of the trial may affect the jury’s assessment of the accused’s likely future condition. They may take into account the possibility of deterioration over the course of the trial, as well as the risks associated with the disruption of a longer trial (Kesavarajah v The Queen (1994) 181 CLR 230; R v Miller [No 2] [2000] SASC 152).
+
+22. In cases where the accused’s condition is sensitive to stress, the jury may also take into account the fact that as a trial continues, his/her stress is likely to progressively accumulate. This may be of particular relevance in lengthy trials (R v Wilson [2000] NSWSC 1104).
+
+
+
+### Unfitness and Mental Impairment
+
+
+
+23. The fitness of the accused to be tried addresses different issues to the defence of mental impairment. An accused may be unfit to be tried even if s/he is not insane (in either the colloquial sense or the M’Naughten sense) (Ngatayi v The Queen (1980) 147 CLR 1; R v Presser [1958] VR 45).
+
+24. Similarly, the mere existence of a mental disorder will not mean that the accused is unfit to be tried. There must be some link between the mental disorder and the ability of the accused to understand and participate in the trial process (Heffernan v The Queen (2005) 194 FLR 370; Eastman v The Queen (2000) 203 CLR 1; R v Taylor (1992) 77 CCC (3d) 551).
+
+25. A mental disorder may produce delusions related to the subject matter of the case, or affect the accused’s ability to have a trusting relationship with his/her counsel, without affecting his/her fitness to be tried (Heffernan v The Queen (2005) 194 FLR 370; Eastman v The Queen (2000) 203 CLR 1; R v Taylor (1992) 77 CCC (3d) 551).
+
+
+
+### Impaired or Disordered Mental Processes
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---
+
+
+## 10.1 Nature of an Investigation
+
+26. While the accused does not need to be insane to be considered unfit to stand trial, his/her incapacity must be caused by impaired or disordered mental processes (Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 s 6(1)).
+
+27. This does not mean that the accused must suffer from a mental illness. A person’s mental processes may be impaired or disordered due to other factors, such as an intellectual impairment, a learning disability or acquired brain injury (R v Miller [No 2] [2000] SASC 152; R v Gillespie (1987) 30 A Crim R 14).
+
+28. A person’s "mental processes" may also be "impaired or disordered" where impairment impedes the reception rather than the processing of information (R v Abdulla (2005) 93 SASR 208). This means that in some circumstances, a physical impairment such as deafness or a language barrier may fall within s 6(1).
+
+
+
+Last updated: 22 March 2023
+
+
+[^3]: In such cases, the jury must still determine, on the balance of probabilities, whether the presumption of fitness has been rebutted.
+
+
+---

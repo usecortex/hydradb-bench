@@ -1,0 +1,85 @@
+# Chapter 1.6
+
+
+## 1.6 Assessing Witnesses
+
+# 1.6 Assessing Witnesses
+
+
+[^1]: See Common Law Intoxication for information about other directions that may be necessary in cases involving intoxication.
+
+
+---
+
+
+## 1.6 Assessing Witnesses
+
+1. It is for the jury, who have seen and heard the witnesses, to decide whether they accept their evidence. They are free to accept or reject the whole of a witness’s evidence, or to accept some of the evidence and reject the rest (*Cubillo v Commonwealth* (2000) 174 ALR 97; *Flint v Lowe* (1995) 22 MVR 1; *S v M* (1984) 36 SASR 316).
+
+2. It is therefore customary to direct a jury that they are not bound to believe the evidence of any witness, and that they are not bound to believe the whole of the evidence of any witness. They should be told that they may accept some parts of a witness’s evidence, but not other parts (*Cubillo v Commonwealth* 174 ALR 97; *Dublin, Wicklow & Wexford Railway Co v Slattery* (1878) 3 App Cas 1155).
+
+3. The jury should also be directed that it is their duty to keep an open mind about the truthfulness of any individual witness, and about the accuracy of that witness’s recollection, until all the evidence has been presented. It is only once they have heard all of the evidence that it will be possible for them to assess to what extent, if any, that witness's evidence has been confirmed, explained or contradicted by the evidence of other witnesses. Only then should they direct their minds to the question of whether the guilt of the accused has been proved beyond reasonable doubt (*Haw Tua Tau v Public Prosecutor* [1982] AC 136).
+
+4. Where a witness was intoxicated at the time of the event about which he or she is giving evidence, it may be appropriate to direct the jury that the reliability of his or her evidence may be affected (see, e.g. *O’Leary v Daire* (1984) 13 A Crim R 404; *Bedi v R* (1993) 61 SASR 269; *R v Mathe* [2003] VSCA 165; *R v Baltensberger* (2004) 90 SASR 129; *R v MC *[2009] VSCA 122).[^1]
+
+
+[^1]: See Common Law Intoxication for information about other directions that may be necessary in cases involving intoxication.
+
+
+---
+
+
+## 1.6 Assessing Witnesses
+
+5. The judge, prosecutor or defence counsel must not suggest in any way to the jury that an interest in the outcome of the trial is a factor to take into account in assessing the evidence of witnesses generally (*Jury Directions Act 2015* s 44H, as amended in 2017).
+
+6. This is because the jury will likely conclude that the accused has the greatest interest, and so the direction may have the effect of undermining the presumption of innocence (*Robinson v R* (No 2) (1991) 180 CLR 531; *R v McMahon* (2004) 8 VR 101; *Hargraves & Stoten v R* (2011) 245 CLR 257; Criminal Law Review, Department of Justice and Regulation (Vic), [Jury Directions: A Jury-Centric Approach Part 2](https://www.justice.vic.gov.au/jury-directions-a-jury-centric-approach-part-2) (Report, February 2017) 11–14).
+
+7. Suggestions that a witness has a *particular* interest in the outcome of a trial are permitted. For information on directions about assessing the evidence of an accused, see 4.1 The Accused as a Witness.
+
+8. It is undesirable to suggest that a conviction or acquittal will reflect favourably or unfavourably on the credit of a witness, or have some other effect on them (*R v Coulston* [1997] 2 VR 446).
+
+9. The jury should not be told that witnesses must be presumed to be innocent. The presumption of innocence is only relevant to the accused (*Howe v R *(1980) 32 ALR 478).
+
+
+[^1]: See Common Law Intoxication for information about other directions that may be necessary in cases involving intoxication.
+
+
+---
+
+
+## 1.6 Assessing Witnesses
+
+Last updated: 2 October 2017
+
+
+[^1]: See Common Law Intoxication for information about other directions that may be necessary in cases involving intoxication.
+
+
+---
+
+---
+
+# Chapter 1.6.1
+
+
+## 1.6.1 Charge: Assessing Witnesses
+
+# 1.6.1 Charge: Assessing Witnesses
+
+In order to decide what the facts are in this case, you will need to assess the witnesses who give evidence. It is up to you to decide how much or how little of the testimony of any witness you will believe or rely on. You may believe all, some or none of a witness’s evidence. It is also for you to decide what weight should be attached to any particular evidence – that is, the extent to which the evidence helps you to determine the relevant issues.
+
+In assessing witnesses’ evidence, matters which may concern you include their credibility and reliability. Credibility concerns honesty – is the witness telling you the truth? Reliability may be different. A witness may be honest, but have a poor memory or be mistaken.
+
+It is for you to judge whether the witnesses are telling the truth, and whether they correctly recall the facts about which they are giving evidence. This is something you do all the time in your daily lives. There is no special skill involved – you just need to use your common sense.
+
+In making your assessment, you should appreciate that giving evidence in a trial is not common, and may be a stressful experience. So you should not jump to conclusions based on how a witness gives evidence. Looks can be deceiving. People react and appear differently. Witnesses come from different backgrounds, and have different abilities, values and life experiences. There are too many variables to make the manner in which a witness gives evidence the only, or even the most important, factor in your decision.
+
+You should keep an open mind about the truthfulness or accuracy of the witnesses until all of the evidence has been presented. This is because it is only once you have heard all of the evidence that it will be possible to assess to what extent, if any, the other evidence in the case confirms, explains or contradicts a particular witness's evidence.
+
+In making your decision, do not consider only the witnesses’ testimony. Also take into account the exhibits [and admissions]. Consider all of the evidence in the case, use what you believe and reject what you disbelieve. Give each part of it the importance which you – as the judge of the facts – think it should be given, and then determine what, in your judgment, are the true facts.
+
+Last updated: 19 December 2006
+
+
+---

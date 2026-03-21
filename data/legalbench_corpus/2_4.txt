@@ -1,0 +1,97 @@
+# Chapter 2.4
+
+
+## 2.4 Unavailable Witnesses
+
+# 2.4 Unavailable Witnesses
+
+
+
+1. This topic addresses the need for a direction in running where hearsay evidence is led from a witness who is unavailable to give evidence. For general information on directions relating to hearsay evidence, see 4.14 Previous Representations (Hearsay, Recent Complaint and Prior Statements).
+
+2. *Evidence Act 2008* s 65 sets out a series of exceptions to the hearsay rule that apply when the person who made the previous representation is not available to give evidence. These exceptions include:
+
+
+
+- Where the statement was made in circumstances where there are sufficient indicators of reliability (see *Evidence Act 2008* ss 65(2)(b)–(d));
+
+- where evidence is led of a previous representation made in the course of giving evidence in a proceeding where the accused cross-examined the witness who became unavailable, or had a reasonable opportunity to do so (*Evidence Act 2008* s 65(3)).
+
+
+---
+
+
+## 2.4 Unavailable Witnesses
+
+3. *Evidence Act 2008* Dictionary, clause 4, specifies when a person is not available to give evidence about a fact. The circumstances listed include where the person is dead, not competent to give the evidence, or, despite all reasonable steps, the party seeking to call the witness has not been able to find or compel the person to give evidence.
+
+4. Evidence of statements made in other proceedings can be adduced by producing an authenticated transcript or recording of the witness giving evidence (*Evidence Act 2008* s 65(6)).
+
+5. These exceptions may allow the prosecution to lead the evidence in the form of the witness’ statement to police, evidence given at committal hearings and evidence on voir dire (see, e.g. *Clarke v R* [2017] VSCA 115;* Luna v R* [2016] VSCA 10; *Fletcher v R* (2015) 45 VR 634; *Bray v R* (2014) 46 VR 623. See also see *Criminal Procedure Act 2009* ss 112, 130).
+
+6. Where the prosecution seeks to lead evidence from the committal hearing, the witness’ police statement will generally stand as the witness’ evidence in chief at the committal hearing (*Luna v R* [2016] VSCA 10).
+
+7. As a matter of practice, a witness’ police statement is introduced by the prosecutor reading the relevant parts of the statement to the jury and not by tendering the statement as an exhibit. During this process, the prosecutor’s reading of the statement should form part of the trial transcript which is given to the jury at the end of the trial.
+
+8. At present, evidence given at committal hearings is audio recorded only. When the audio recording is played, the jury may be given a transcript of the recording, in the same way that a jury may be given a transcript when listening to other audio-recorded evidence. See 2.2 Providing Documents to the Jury and 2.2.3 Charge: Transcripts of Taped Evidence for information and directions about providing transcripts of audio-recorded evidence to the jury.
+
+9. Where a party proposes to lead evidence from a witness who is not available to give evidence, it is appropriate for the judge to briefly explain the reason the evidence is being led in that manner.
+
+
+---
+
+
+## 2.4 Unavailable Witnesses
+
+10. At the end of the trial, a party may seek a direction that such evidence may be unreliable (*Jury Directions Act 2015* ss 31, 32). Directions at the end of the trial may also be necessary to address any risk of unfair prejudice arising from the reliance on the witness’ previous statements (*Bray v R* (2014) 46 VR 623; *DPP v BB & QN* (2010) 29 VR 110).
+
+11. Where unreliability directions are sought in relation to hearsay evidence from an unavailable witness, it may be appropriate to inform the jury of:
+
+
+---
+
+
+## 2.4 Unavailable Witnesses
+
+- The disadvantages flowing from being unable to observe the witness giving evidence;
+
+- The disadvantages flowing from being unable to observe the witness being cross-examined;
+
+- The differences between cross-examination at committal and at trial;
+
+- The inability of defence counsel to put any newly discovered issues to the witness (see *Luna v R* [2016] VSCA 10, [46]).
+
+
+
+Last updated: 11 July 2018
+
+
+---
+
+---
+
+# Chapter 2.4.1
+
+
+## 2.4.1 Charge: Unavailable Witness
+
+# 2.4.1 Charge: Unavailable Witness
+
+This direction is designed for use in cases where the evidence of an unavailable witness is led by reading the witness’ statement to the jury and then playing a recording of the witness being cross-examined at the committal hearing. It may be adapted for other circumstances.
+
+The next evidence you will hear is going to be given in a slightly different manner than usual. The next witness, NOW, is not available to give evidence to you in person. Instead, you will receive [his/her] evidence in two parts.
+
+First, the prosecutor will give you and will read out NOW’s witness statement. This is a statement that NOW made to the police.
+
+Then, you will hear a recording of NOW being cross-examined at the committal hearing. A committal hearing is a hearing before a magistrate to determine if the case should go to a jury.
+
+At the end of the trial, I will tell you if there are any special principles you need to apply to this evidence. However, for the moment, you should treat the evidence the same way you treat the evidence from any other witness who gives evidence in person.
+
+[*If the judge considers it necessary to do so in the circumstances of the trial, add the following direction instructing the jury not to speculate on why NOW is unavailable.*]
+
+I also direct you, as a matter of law, do not speculate about the reason why NOW is not available to give evidence in person. The law allows evidence to be given in this form for many reasons, including where a person has died, or has a serious medical condition, or is overseas and cannot be reached.
+
+Last updated: 11 July 2018
+
+
+---

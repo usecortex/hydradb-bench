@@ -1,0 +1,35 @@
+# Chapter 4.7
+
+
+## 4.7 Corroboration (General Principles)
+
+# 4.7 Corroboration (General Principles)
+
+
+
+## Overview
+
+
+
+1. With the exception of perjury offences, any previously persisting requirement that evidence be corroborated is now abolished (*Evidence Act 2008* s 164).
+
+2. The rules of law or practice that previously required directions concerning the absence of corroboration, including directions about the dangers of acting on uncorroborated evidence, have also been abolished (*Evidence Act 2008* s 164(3)).
+
+3. In addition, with the exception of perjury and similar offences, a judge must not
+
+1. Warn the jury that it is dangerous to act on uncorroborated evidence or give a warning to the same or similar effect; or
+
+1. Direct the jury regarding the absence of corroboration (Evidence Act 2008 s 164(4)).
+
+4. *Evidence Act 2008* s 164(4), which prohibits corroboration directions, was introduced by the *Jury Directions Act 2015* and applies to all trials which commenced on or after 29 June 2015.
+
+5. Despite the prohibition on corroboration directions, where the jury has been warned about a witness’s potential unreliability, and there is evidence that may tend to confirm or support that witness’s evidence, it will often be appropriate to direct the jury to look for supportive evidence (*R v Milton* [2004] NSWCCA 195; *R v Connors* [2000] NSWCCA 470, [133]). Such directions are included where appropriate in this Charge Book.
+
+6. For information on the legal requirements of corroboration, which remain relevant to a charge of perjury, see Perjury.
+
+
+
+Last updated: 29 June 2015
+
+
+---

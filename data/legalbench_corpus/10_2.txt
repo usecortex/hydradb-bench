@@ -1,0 +1,381 @@
+# Chapter 10.2
+
+
+## 10.2 Special Hearings
+
+# 10.2 Special Hearings
+
+
+
+## Overview
+
+
+
+1. The Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 (Vic) (the Act)[^2] sets out the procedure to be followed if a person may be unfit to stand trial. This procedure applies to all trials, regardless of when the alleged offences were committed (Schedule 3).
+
+2. According to the Act, when a real and substantial question is raised concerning a person’s fitness to stand trial, an investigation must be held to determine whether s/he is unfit (ss 8, 9). The outcome of that investigation must be determined by a specially convened jury (s 11). These investigations are examined in 10.1 Investigations into Unfitness to Stand Trial.
+
+3. If that jury finds the person unfit to stand trial, it may be necessary to hold a special hearing to determine whether s/he committed the offences charged (ss 12, 15). These special hearings are the focus of this Chapter.
+
+
+[^2]: All references to legislative sections or schedules refer to the Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 (Vic).
+
+
+---
+
+
+## 10.2 When Must a Special Hearing be Held?
+
+## When Must a Special Hearing be Held?
+
+
+
+1. There are three stages at which a judge may be required to order a special hearing:
+
+1. At the conclusion of an investigation into the accused’s fitness to stand trial;
+
+1. At the end of an adjournment period following a finding of unfitness; or
+
+2. Upon application by the defence or the Director of Public Prosecutions.
+
+
+---
+
+
+## 10.2 Purpose of a Special Hearing
+
+## Purpose of a Special Hearing
+
+
+
+1. The purpose of a special hearing is to determine whether, on the evidence available, the accused:
+
+
+
+- Is not guilty of the offence charged;
+
+- Is not guilty of the offence charged because of mental impairment; or
+
+- Committed the offence charged or an available alternative offence (s 15).
+
+
+
+2. The jury’s role is to make one of the abovementioned findings (s 18(1)).
+
+3. A finding that the accused "committed the offence charged" (or an available alternative) is not the same as a verdict of guilty. It is a qualified finding of guilt, and does not constitute a basis in law for any conviction for the offence to which the finding relates (s 18(3)(a)).
+
+4. Where the jury makes such a finding, the judge must declare that the accused is liable to supervision, or order that s/he be released unconditionally (s 18(4)).
+
+5. A finding that the accused committed the offence charged constitutes a bar to further prosecution in respect of the same circumstances, and is subject to appeal in the same manner as if the accused had been convicted of the offence in a criminal trial (ss 18(3)(b), (c)).
+
+6. Jury findings of "not guilty" and "not guilty because of mental impairment" are to be taken for all purposes as if they were findings made at a criminal trial (ss 18(1), (2)).
+
+
+---
+
+
+## 10.2 Onus of Proof
+
+## Onus of Proof
+
+
+
+1. To find that the accused committed the offence charged, or an available alternative offence, the jury must be satisfied of that fact beyond reasonable doubt (s 17(2)).
+
+2. To find the accused not guilty because of mental impairment, the jury must be satisfied by defence argument on the balance of probabilities (s 21(2); 8.4 Mental Impairment).
+
+
+---
+
+
+## 10.2 Procedure
+
+## Procedure
+
+
+
+1. At a special hearing, the accused is taken to have pleaded not guilty (s 16(2)(a)).
+
+2. Special hearings should be conducted as nearly as possible as if they were criminal trials. To that end:
+
+
+
+- The Juries Act 2000 applies;
+
+- The rules of evidence apply;
+
+- Criminal Procedure Act 2009 ss 197 and 232A apply;
+
+- The accused’s legal representative may exercise the accused’s rights to challenge jurors or the jury;
+
+- All defences that would be available in a criminal trial are available (including the defence of mental impairment); and
+
+- Any alternative verdicts that would be available in a criminal trial are available (s 16).
+
+
+
+## Special Hearings and Mental Impairments
+
+
+
+3. The "consent mental impairment" provisions of Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 s 21(4) do not apply to special hearings (SM v R (2013) 46 VR 464).
+
+4. This means that, where a person is found unfit to be tried, the question of mental impairment must be resolved by a jury and cannot be determined through the judge–alone process (SM v R (2013) 46 VR 464. Compare s 21(4)).
+
+5. See 8.4 Mental Impairment (on page 628) for further information concerning Crimes (Mental Impairment and Unfitness to be Tried) Act 1997 s 21.
+
+
+---
+
+
+## 10.2 Mandatory Directions
+
+## Mandatory Directions
+
+
+
+1. At the start of a special hearing, the judge must explain to the jury:
+
+
+
+- That the defendant is unfit to be tried in accordance with the usual procedures of a criminal trial;
+
+- The meaning of being unfit to stand trial;
+
+- The purpose of the special hearing;
+
+- The findings that are available; and
+
+- The standard of proof required for those findings (s 16(3)).[^3]
+
+
+
+2. These directions must be given at the commencement of a special hearing. It is not sufficient to give them in running, or at the end of proceedings (Subramaniam v The Queen (2004) 211 ALR 1).
+
+3. A judge cannot avoid giving these directions on the basis that counsel have already covered the relevant matters in their addresses to the jury (Subramaniam v The Queen (2004) 211 ALR 1).
+
+
+[^3]: As these directions are required by law, Part 3 of the Jury Directions Act 2015 does not apply (Jury Directions Act 2015 s 10).
+
+
+---
+
+
+## 10.2 Other Directions
+
+## Other Directions
+
+
+
+1. As special hearings must be conducted (as far as possible) as if they were criminal trials, judges must give any other directions which must ordinarily be given in a criminal trial. See Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+2. Judges must be alert to ensure that there is not a miscarriage of justice. For example, if the accused’s mental impairment leads him/her to behave in a way that is prejudicial to his/her own interests, the jury should be given a suitable warning to counter the prejudice (R v Smith [1999] NSWCCA 126).
+
+3. The jury do not need to be told why the accused is unfit to be tried. A special hearing may proceed without any information being led concerning the accused’s mental impairment (Subramaniam v The Queen (2004) 211 ALR 1).
+
+4. Confession evidence given by a person suffering from a mental impairment carries special risks (R v Parker (1990) 19 NSWLR 177).
+
+
+
+Last updated: 20 May 2022
+
+
+---
+
+---
+
+# Chapter 10.2.1
+
+
+## 10.2.1 Charge: Special Hearing
+
+# 10.2.1 Charge: Special Hearing
+
+This charge addresses the directions which *must *be given at the beginning of a special hearing (*Crimes (Mental Impairment and Unfitness to be Tried) Act 1997* s 16). It has been designed to be used instead of 1.5.1 *Charge: The Role of Judge and Jury* and 1.7.1 *Charge: Onus and Standard of Proof*.
+
+Many other charges contained in the Charge Book will also be relevant to special hearings. If these charges are used, appropriate changes should be made to reflect the differences between special hearings and criminal trials (e.g. the available findings).
+
+
+
+## Introduction
+
+Serving on a jury may be a completely new experience for some, if not all, of you. To help you perform that role properly, I will now describe your duties as jurors and the procedures that we will follow. I will also explain to you some of the principles of law that apply in this case.
+
+During and at the end of this hearing, I will give you further instructions about the law that applies to this case. You must listen closely to all of these instructions and follow them carefully.
+
+If at any time you have a question about anything I say, please feel free to ask me. It would be best if you did this by writing it down, and passing it to my tipstaff, [insert name], who will hand it to me.
+
+
+---
+
+
+## 10.2.1 Fitness to Stand Trial
+
+## Fitness to Stand Trial
+
+Members of the jury, you represent one of the most important institutions in our community – the institution of the jury. Our legal system guarantees any individual charged with a criminal offence the right to have the case presented against him or her determined at a trial by twelve independent and open-minded members of the community, in accordance with the law.
+
+However, the law recognises that it would be unfair and unjust for a trial to take place if the person charged is unable to understand the case against him or her, or to meaningfully participate in the trial. According to the law, a person must be fit to stand trial before he or she can be convicted of an offence.
+
+To be fit to stand trial, a person must be capable of meeting the minimum standards of mental capacity specified by the law. If a jury determines that s/he is unable to meet all of these standards, s/he will be unfit to be tried in accordance with the usual procedures of a criminal trial.
+
+That is what has happened in this case. A question was raised about NOA’s fitness to stand trial, and a jury found that s/he is not fit to stand trial in the usual way. Special procedures must therefore be used instead.
+
+
+---
+
+
+## 10.2.1 Fitness to Stand Trial
+
+## Reasons for Unfitness
+
+The accused’s unfitness for a normal trial may or may not be apparent to you as this hearing proceeds. That is because there are several reasons why a person may be unfit to stand trial.
+
+S/he may not, for example, understand the nature of the charge against him/her, or be able to decide whether s/he has a defence to it. S/he may not be able to make a rational decision about whether s/he is guilty or not guilty of the offence[s] charged, or about how to plead to the charge[s]. S/he may not be able to understand the nature of the criminal proceedings and what their course and outcome may mean to him/her, or to involve himself/herself in these proceedings in an informed or constructive way.
+
+His/her unfitness to stand trial may relate to his/her ability to give instructions to his/her lawyer. For example, s/he may not be able to adequately tell his/her lawyer what his/her defence is, or in what respects the prosecution evidence is wrong or should be questioned and tested.
+
+None of these matters may be apparent to you in relation to NOA. But whether or not they are apparent, you must accept that s/he is unable to meet all of the minimum standards required for a person to receive a fair trial.
+
+
+---
+
+
+## 10.2.1 Purpose of a Special Hearing
+
+## Purpose of a Special Hearing
+
+The fact that a person is not fit to stand trial does not prevent a jury from determining whether or not s/he committed a crime. It simply means that the matter may not be determined in accordance with the usual procedures of a criminal trial. Instead, it must be determined at what is called a "special hearing". That is what is happening here today.
+
+The purpose of a special hearing is to see that justice is done to both the accused person and the prosecution, in light of the accused’s inability to be tried in the normal way. In particular, it allows a jury to determine whether or not an accused who is unfit to stand trial committed the offence[s] charged. The accused and the prosecution both have an interest in resolving this matter.
+
+In this case, it has been alleged by the prosecution that NOA committed the offence[s] of [insert offences]. This is a special hearing for you to determine whether s/he did commit [that offence/those offences].
+
+I note that, when referring to the crime[s] that the accused has been charged with, I will sometimes use the words "offence", "count" or "charge" – they all mean the same thing.
+
+
+---
+
+
+## 10.2.1 Differences between Special Hearings and Criminal Trials
+
+## Differences between Special Hearings and Criminal Trials
+
+
+
+## Available Findings
+
+The verdicts that you may give in a special hearing differ from those that you may give in a criminal trial. In a criminal trial, if you are satisfied beyond reasonable doubt that the accused committed an offence, you must give a verdict of "guilty". By contrast, in a special hearing, your verdict in that circumstance must be that the accused "committed the offence".
+
+This reflects the fact that, while the parties to this case have an interest in determining whether the accused committed the relevant offence[s], it would be unjust to find him/her guilty when s/he is not fit to be tried in the normal way. While in such circumstances it would be unfair for the accused to receive a criminal conviction, it would not be unjust to find the accused not guilty of the offence.
+
+At the end of the hearing, the other verdicts available to you will therefore be "not guilty" or "not guilty because of mental impairment". I will explain the difference between these two verdicts later.
+
+
+
+## Accused’s Role
+
+A special hearing may also differ from a normal criminal trial in the way in which the accused contributes to his/her defence. For example, in a criminal trial, the accused may or may not choose to give evidence. In a special hearing, while the accused is entitled to contribute to his/her defence, his/her unfitness may make him/her incapable of making rational decisions about what to do. S/he may therefore not be as involved in the hearing as s/he might be in a criminal trial.
+
+Although there are some differences between a special hearing and a normal criminal trial, the law aims to ensure that a special hearing does not prejudice the accused any more than his/her unfitness already may do. S/he may therefore raise, or have raised on his/her behalf, any defences a fit person could raise in a normal trial.
+
+
+---
+
+
+## 10.2.1 Roles of Judge, Jury and Counsel
+
+## Roles of Judge, Jury and Counsel
+
+In all hearings of this type, the court consists of a judge and jury. We are going to be assisted in this case by counsel for the prosecution, [insert prosecutor’s name], and defence counsel, [insert defence counsel’s name].[^2] Each of us has a different role to play.
+
+
+
+## Role of the Jury
+
+It is your role, as the jury, to decide what the facts are in this case. You are the only ones in this court who can make a decision about the facts. You make that decision from all of the evidence given during the hearing.
+
+It is also your task to apply the law to the facts that you have found, and by doing that decide whether the offence[s] charged [has/have] been proven against the accused.
+
+To find that the accused committed the offence[s] charged, you must be satisfied that s/he committed [it/them] beyond reasonable doubt. In contrast, to find the accused not guilty because of mental impairment, you must be satisfied of that fact on the balance of probabilities. If you are not able to make either of those findings, then you will find the accused not guilty. I will give you more directions about these two standards of proof later.
+
+
+
+## Role of the Judge
+
+It is my role, as the judge, to ensure that this hearing is fair and conducted in accordance with the law. I will also explain to you the principles of law that you must apply to make your decision. You must accept and follow all of those directions.
+
+I want to emphasise that it is not my responsibility to decide this case. The verdict that you return has absolutely nothing to do with me. So while you must follow any directions I give you about the law, you are not bound by any comments I may make about the facts.
+
+It is unlikely that I will make any comments about the evidence. If you disagree with my comments, you must disregard them. Do not give them any extra weight because I, as the judge, have made them. It is your view of the facts which matters, not mine. You are the judges of facts – you alone.
+
+
+[^2]: This sentence will need to be modified if the accused is unrepresented.
+[^3]: This section will need to be modified if the accused is unrepresented.
+
+
+---
+
+
+## 10.2.1 Roles of Judge, Jury and Counsel
+
+## Role of Counsel
+
+The role of counsel is to present the case for the side for which they appear. [Insert name of prosecutor] presents the charge[s] in the name of the State. [Insert name of defence counsel] appears for the accused, and will represent him/her throughout the hearing.[^3]
+
+You do not need to accept any comments that counsel may make during their addresses. Of course, if you agree with an argument they present, you can adopt it – in effect, it becomes your own argument. But if you do not agree with their view, you must put it aside. As I have told you, you alone are the judges of the facts.
+
+Similarly, you are not bound by what counsel says about the law. I am the judge of the law, and it is what I tell you about the law that matters. If counsel says something different from what I say about the law, you must ignore it and follow my directions.
+
+[*Insert directions from *1.5.1 Charge: Decide Solely on the Evidence* and *1.6.1 Charge: Assessing Witnesses]
+
+
+[^2]: This sentence will need to be modified if the accused is unrepresented.
+[^3]: This section will need to be modified if the accused is unrepresented.
+
+
+---
+
+
+## 10.2.1 Onus and Standard of Proof
+
+## Onus and Standard of Proof
+
+I’m now going to give you directions about the standards of proof. The starting point is that in our justice system people are presumed to be innocent, unless and until they are proved guilty. This principle applies in this special hearing just as it does in a regular trial.
+
+As the prosecution brings the charge[s] against the accused, it is for the prosecution to prove that/those charge[s].
+
+The prosecution must prove the accused committed the offence[s] charged beyond reasonable doubt. You have probably heard these words before, and they mean exactly what they say – proof beyond reasonable doubt.
+
+This is the highest standard of proof that our law demands. It is not enough for the prosecution to prove that the accused probably, or very likely, committed the offence[s] charged. That is enough to prove something on the balance of probabilities, but it is not enough to prove something beyond reasonable doubt.
+
+In deciding whether the prosecution has proved its case beyond reasonable doubt, you should remember that it is almost impossible to prove anything with absolute certainty when reconstructing past events and the prosecution does not have to do so. A reasonable doubt is not an imaginary or fanciful doubt, or an unrealistic possibility.
+
+Unless I tell you otherwise, when I say that the prosecution must “prove” or “establish” a matter, or that you must be “satisfied” about a matter, I mean the prosecution must prove or establish a matter, or you must be satisfied of that matter, beyond reasonable doubt.
+
+The prosecution does not need to prove every fact that they allege to this standard. It is the essential ingredients or “elements” of the charge[s] that they must prove to this standard. In this case, that means that the prosecution must prove, beyond reasonable doubt, that [*list elements of the primary offence. Repeat for any other offences*].[^4]
+
+I will explain these elements to you in detail, and relate them to the evidence in this case, after you have heard all of the evidence.
+
+However, for now you should know that it is only if you find that the prosecution has proven all of the elements of a charge beyond reasonable doubt that you may find that the accused committed the offence[s] charged. If you are not satisfied that the prosecution has done this, your verdict in relation to that charge must be “Not Guilty”.
+
+
+[^4]: See **Mental Impairment and Proof of Elements **in 8.4 Mental Impairment for information on which elements should be identified for this purpose.
+
+
+---
+
+
+## 10.2.1 Onus and Standard of Proof
+
+As I mentioned before, the third verdict you can return is “not guilty because of mental impairment”, and the accused must establish this on the balance of probabilities. This is one of those rare situations in which a matter must be proved by the defence. The prosecution must still prove [*identify matters the prosecution must prove*] before you need to consider the issue of mental impairment. However, if you are satisfied that those matters have all been proven, it is defence counsel who must prove the requirements of this defence if you are to find the accused not guilty because of mental impairment.
+
+Unlike the elements of the offence – which the prosecution must prove beyond reasonable doubt – the defence only needs to prove these requirements on what is called the "balance of probabilities". This is a much lower standard than that required of the prosecution when proving an offence. It only requires the defence to prove that it is more probable than not that NOA was mentally impaired to the necessary degree. I will have more to say about this at the end of the trial.
+
+Last updated: 4 March 2024
+
+
+[^4]: See **Mental Impairment and Proof of Elements **in 8.4 Mental Impairment for information on which elements should be identified for this purpose.
+
+
+---

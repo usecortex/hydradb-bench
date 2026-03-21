@@ -1,0 +1,512 @@
+# Chapter 9.4
+
+
+## 9.4 Use of Carriage Service for Child Abuse Material
+
+# 9.4 Use of Carriage Service for Child Abuse Material
+
+
+
+1. Section 474.22 of the Criminal Code creates the statutory offence of using a carriage service for child abuse material.
+
+
+
+## Commencement Information
+
+
+
+1. Section 474.22 of the Code came into operation on 1 March 2005 and was inserted into the Act by Schedule 1(1) of the *Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Act (No 2) 2004*. Its field of operation was expanded with the commencement on 21 September 2019 of clause 29 of Schedule 7 of the *Combatting Child Sexual Exploitation Legislation Amendment Act 2019*, which amalgamated the definition of child pornography material into the existing definition of child abuse material (which had previously only dealt with depictions of children as victims of torture, cruelty or physical abuse).
+
+2. The purpose of this change was described in the explanatory memorandum to the Combating Child Sexual Exploitation Legislation Amendment Bill 2019 as being “to reflect changes in international language norms and the seriousness of harm associated with material that depicts child sexual abuse” (page 57).
+
+3. Following the amalgamation of the definitions, the definition of child pornography, and the child pornography specific offences, were repealed. The result is that for conduct committed between 1 March 2005 and 20 September 2019, sexual depictions of children were dealt with s 474.19 of the *Criminal Code*, while violent depictions were dealt with by s 474.22 of the *Criminal Code*. Then from 21 September 2019 onwards, both sexual and violent depictions of children are dealt with by s 474.22 of the *Criminal Code*.
+
+
+---
+
+
+## 9.4 Overview of Elements
+
+## Overview of Elements
+
+
+
+1. A person is guilty of the offence if:
+
+1. the person intentionally:
+
+1. accesses material; or
+
+1. causes material to be transmitted to himself or herself; or
+
+2. transmits, makes available, publishes, distributes, advertises or promotes material; or
+
+3. solicits material; and
+
+1. the person does so using a carriage service;
+
+2. the material is child abuse material; and
+
+3. the person is reckless as to the material being child abuse material.
+
+
+---
+
+
+## 9.4 Intentionally engaged in conduct
+
+## Intentionally engaged in conduct
+
+
+
+1. The first element the prosecution must prove is that the accused intentionally engaged in one of the forms of conduct listed in s 474.22(1)(a).
+
+2. The Code proscribes four distinct forms of conduct. These are:
+
+1. Accessing material;
+
+1. Causing material to be transmitted to him or herself;
+
+2. Transmitting, making available, publishing, distributing, advertising or promoting material; or
+
+3. Soliciting material (Criminal Code s 474.22(1)(a)).
+
+1. Access is defined to include:
+
+
+
+(a) the display of the material by a computer or any other output of the material from a computer; or
+
+(b) the copying or moving of the material to any place in a computer or to a data storage device; or
+
+(c) in the case of material that is a program—the execution of the program (*Criminal Code *s 473.1).
+
+
+
+3. Given the structure of s 474.22, it is likely that the section creates a single offence with multiple available conduct elements. As each form of conduct involves different factual issues, the jury must unanimously agree that the prosecution has proved a single form of conduct (see R v Walsh (2002) 131 A Crim R 299).
+
+2. The fault element for engaging in conduct is intention (*Criminal Code* s 474.2(2)(a)).
+
+4. As this physical element involves conduct, proof of intention requires proof that the accused meant to engage in that conduct (Criminal Code s 5.2).
+
+
+---
+
+
+## 9.4 Use of a carriage service
+
+## Use of a carriage service
+
+
+
+1. The second element is that the accused engaged in the conduct constituting the first element using a carriage service (Criminal Code s 474.22(1)(aa)).
+
+2. Under the Dictionary to the Code, “carriage service” has the same meaning as in the Telecommunications Act 1997 (Cth).
+
+3. Under section 7 of the Telecommunications Act 1997 (Cth), “carriage service” means a service for carrying communications by means of guided and/or unguided electromagnetic energy.
+
+4. This draws attention to the means by which a communication is delivered, rather than the content of the communication itself.
+
+5. The explanatory memorandum to the Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004, which introduced this provision, states that use of a carriage service includes “making a telephone call, sending a message by facsimile, sending an SMS message, or sending a message by email or some other means using the Internet” (see also R v McDonald and Deblaquiere [2013] ACTSC 122. But c.f. Hale v R [2011] NSWDC 97).
+
+6. Under s 473.5 of the Criminal Code, a person is taken not to use a carriage service by engaging in particular conduct if:
+
+1. The person is a carrier and, in engaging in that conduct, is acting solely in that person’s capacity as a carrier; or
+
+1. The person is a carriage service provider and, in engaging in that conduct, is acting solely in the person’s capacity as a carriage service provider; or
+
+2. The person is an internet service provider and, in engaging in that conduct, is acting solely in the person’s capacity as an internet service provider; or
+
+3. The person is an internet content host and, in engaging in that conduct, is acting solely in the person’s capacity as an internet content host.
+
+7. Absolute liability applies to this element and so there is no associated fault element (Criminal Code s 474.22(2A)).
+
+
+---
+
+
+## 9.4 Child abuse material
+
+## Child abuse material
+
+
+
+1. The third element is that the material in question is “child abuse material”.
+
+2. “Child abuse material” is defined as:
+
+
+---
+
+
+## 9.4 Child abuse material
+
+(a) material that depicts a person, or a representation of a person, who:
+
+(i) is, or appears to be, under 18 years of age; and
+
+(ii) is, or appears to be, a victim of torture, cruelty or physical abuse;
+
+and does this in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(b) material that describes a person who:
+
+(i) is, or is implied to be, under 18 years of age; and
+
+(ii) is, or is implied to be, a victim of torture, cruelty or physical abuse;
+
+and does this in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(c) material that depicts a person, or a representation of a person, who is, or appears to be, under 18 years of age and who:
+
+(i) is engaged in, or appears to be engaged in, a sexual pose or sexual activity (whether or not in the presence of other persons); or
+
+(ii) is in the presence of a person who is engaged in, or appears to be engaged in, a sexual pose or sexual activity;
+
+and does this in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(d) material the dominant characteristic of which is the depiction, for a sexual purpose, of:
+
+(i) a sexual organ or the anal region of a person who is, or appears to be, under 18 years of age; or
+
+(ii) a representation of such a sexual organ or anal region; or
+
+(iii) the breasts, or a representation of the breasts, of a female person who is, or appears to be, under 18 years of age;
+
+in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(e) material that describes a person who is, or is implied to be, under 18 years of age and who:
+
+(i) is engaged in, or is implied to be engaged in, a sexual pose or sexual activity (whether or not in the presence of other persons); or
+
+(ii) is in the presence of a person who is engaged in, or is implied to be engaged in, a sexual pose or sexual activity;
+
+
+---
+
+
+## 9.4 Child abuse material
+
+and does this in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(f) material that describes:
+
+(i) a sexual organ or the anal region of a person who is, or is implied to be, under 18 years of age; or
+
+(ii) the breasts of a female person who is, or is implied to be, under 18 years of age;
+
+and does this in a way that reasonable persons would regard as being, in all the circumstances, offensive; or
+
+(g) material that is a doll or other object that resembles:
+
+(i) a person who is, or appears to be, under 18 years of age; or
+
+(ii) a part of the body of such a person;
+
+if a reasonable person would consider it likely that the material is intended to be used by a person to simulate sexual intercourse (*Criminal Code *s 473.1).
+
+
+---
+
+
+## 9.4 Child abuse material
+
+3. The definition of "a sexual pose” used in (c) and (e) is of uncertain scope, because Australian society permits certain activity which involves the sexualisation of young children, particularly in a commercial context. In addition, modern society treats certain child-like activity by adults as sexually suggestive. This does not mean that the same activity by children takes on a sexual quality, unless the child has been encouraged to adopt that activity for the purpose of providing sexual gratification to observers (see R v Silva [2009] ACTSC 108, [26]–[28]).
+
+4. A sexual pose is a deliberately-struck attitude that draws attention to the sexual aspects of the subject’s identity or personality. It is not necessary that the child subjectively understand the sexual connotations of the pose being adopted. Nor does it require that the child be nude (R v Silva [2009] ACTSC 108, [29]).
+
+5. Each of the definitions of child abuse material under s 473.1 of the *Criminal Code* (except for the child sex doll provisions in paragraph (g)) contains a requirement that the material “does this in a way that reasonable persons would regard as being, in all the circumstances, offensive”. The Code provides that the matters to be taken into account in deciding whether reasonable persons would regard particular material as being, in all the circumstances, offensive include:
+
+1. The standards of morality, decency and propriety generally accepted by reasonable adults; and
+
+1. The literary, artistic or educational merit (if any) of the material; and
+
+2. The general character of the material (including whether it is of a medical, legal or scientific character (Criminal Code s 473.4).
+
+6. In cases where it is disputed that the material is child abuse material, the judge must direct the jury that it must take these matters into account.
+
+7. These matters require attention to the standards of the community at large, including in art, literature, advertising and mass media, rather than the personal sexual morality of individual members of the jury (R v Silva [2009] ACTSC 108, [33]).
+
+
+---
+
+
+## 9.4 Recklessness
+
+## Recklessness
+
+
+
+1. The fourth element is that the accused is reckless as to the material being child abuse material.
+
+2. For the purpose of this offence, a person is reckless if:
+
+1. He or she is aware of a substantial risk that the material will be child abuse material; and
+
+1. Having regard to the circumstances known to him or her, it is unjustifiable to take the risk (see Criminal Code s 5.4).
+
+3. Proof that the accused knew or intended that the material be child abuse material will also prove this element (Criminal Code s 5.4(4)).
+
+4. A person will intend that material be child abuse material if he or she believes that it is or will be child abuse material (Criminal Code s 5.2(2)).
+
+5. A person will know that material is child abuse material if he or she is aware that it is child abuse material or will be child abuse material in the ordinary course of events (Criminal Code s 5.3).
+
+
+---
+
+
+## 9.4 Defences
+
+## Defences
+
+
+
+1. As well as the general defences provided for in Part 2.3 of the Criminal Code, four specific defences to s 474.22 are provided for in s 474.24.
+
+2. For each defence under s 474.24, the accused carries the evidential burden to raise the defence (see Criminal Code s 13.3).
+
+3. The explanatory memorandum to the Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004 (Cth) indicates that most of the defences in s 474.21 are similar in application to the general defence of lawful authority in section 10.5 of the Criminal Code. However, that defence is not specific to the circumstances covered by these defences and does not sufficiently cover all the types of people that would be legitimately entitled to a defence for the child pornography material (or as the Code is now structured, child abuse material) offences.
+
+
+
+## Public benefit defence
+
+
+---
+
+
+## 9.4 Defences
+
+4. A person is not criminally responsible for an offence against section 474.22 because of engaging in particular conduct if the conduct:
+
+1. is of public benefit; and
+
+1. does not extend beyond what is of public benefit (Criminal Code s 474.24(1)).
+
+5. In determining whether this defence applies, the question whether the conduct is of public benefit is a question of fact and the person's motives in engaging in the conduct are irrelevant (Criminal Code s 474.24(1)).
+
+6. Conduct is of public benefit if, and only if, the conduct is necessary for, or of assistance in:
+
+1. enforcing a law of the Commonwealth, a State or a Territory; or
+
+2. monitoring compliance with, or investigating a contravention of, a law of the Commonwealth, a State or a Territory; or
+
+3. the administration of justice; or
+
+4. conducting scientific, medical or educational research that has been approved by the AFP Minister in writing for the purposes of this section (Criminal Code s 474.24(2)).
+
+7. The conduct discussed in s 474.24(2)(a) is targeted at persons who may be required to engage in the offending conduct as part of their duties in connection with law enforcement, but who are not covered by the defence for law enforcement officers in subsection 474.24(3). An example is where a criminologist assists law enforcement agencies in the identification of victims of child abuse (Explanatory memorandum, Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004 (Cth)).
+
+8. The defence in s 474.24(2)(b) is targeted at officers of government agencies involved in the monitoring and investigation of online material in accordance with regulatory schemes that they administer. This includes organisations such as the Australian Broadcasting Authority (ABA), the Australian Communications Authority (ACA) and the Office of Film and Literature Classification (OFLC) (Explanatory memorandum, Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004 (Cth)).
+
+9. The types of people likely to be covered by s 474.24(2)(c) include judicial officers and court staff hearing a proceeding involving child pornography, legal representatives of a party to the proceedings, and witnesses in the proceedings (Explanatory memorandum, Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004 (Cth)).
+
+
+---
+
+
+## 9.4 Defences
+
+10. Finally, s 474.24(2)(d) protects legitimate research dealing with child pornography on the Internet, provided the authorisation of the AFP Minister is received. Persons who are caught with Internet child abuse material and who argue that they were involved in ‘personal research’ will not have a defence available to them unless they have received approval for their research from the Minister. Likewise, if a person who has received approval for particular research engages in conduct that falls outside what is ‘necessary for or of assistance in’ conducting that research, the defence will not be available to them. (Explanatory memorandum, Crimes Legislation Amendment (Telecommunications Offences and Other Measures) Bill (No 2) 2004 (Cth)).
+
+
+---
+
+
+## 9.4 Defences
+
+## Law enforcement defence
+
+
+
+11. A person is not criminally responsible for an offence against section 474.22 if:
+
+1. the person is, at the time of the offence, a law enforcement officer, or an intelligence or security officer, acting in the course of his or her duties; and
+
+5. the conduct of the person is reasonable in the circumstances for the purpose of performing that duty (Criminal Code s 474.24(3)).
+
+
+
+## Defence for those assisting Children’s eSafety Commissioner
+
+
+
+1. A person is not criminally responsible for an offence against section 474.22 if the person engaged in the conduct in good faith for the sole purpose of assisting the Children's eSafety Commissioner to perform the functions, or exercise the powers, conferred on the eSafety Commissioner by Part 9 of the *Online Safety Act 2021* (*Criminal Code* s 474.24(4)(a)).
+
+
+---
+
+
+## 9.4 Defence for those manufacturing or developing, or updating, Content Filtering Technology
+
+## Defence for those manufacturing or developing, or updating, Content Filtering Technology
+
+
+
+1. A person is not criminally responsible for an offence against section 474.22 if the person engages in the conduct in good faith for the sole purpose of manufacturing or developing, or updating, content filtering technology (including software) in accordance with:
+
+
+
+(i) an industry code registered under Division 7 of Part 9 of the *Online Safety Act 2021*; or
+
+(ii) an industry standard registered under Division 7 of Part 9 of the *Online Safety Act 2021 *(*Criminal Code *s 474.24(4)(b)).
+
+Last updated: 4 March 2024
+
+
+---
+
+---
+
+# Chapter 9.4.1
+
+
+## 9.4.1 Charge: Use of Carriage Service to Access Child Abuse Material
+
+# 9.4.1 Charge: Use of Carriage Service to Access Child Abuse Material
+
+This charge may be used when the accused is charged with using a carriage service to access child abuse material under s 474.22(1)(a)(i). Where other forms of conduct under s 474.22(1)(a) are alleged, such as transmitting or soliciting child abuse material, the charge must be adapted.
+
+I must now direct you about the offence of using a carriage service to access child abuse material. To prove this crime, the prosecution must prove the following four elements beyond reasonable doubt:
+
+One – the accused intentionally accessed material.[^2]
+
+Two – the accused used a carriage service to access this material.
+
+Three – the material is child abuse material.
+
+Four – the accused was reckless as to the material being child abuse material.
+
+I will now explain each of these elements in more detail.
+
+
+
+## Conduct
+
+The first element the prosecution must prove is that NOA intentionally accessed material.[^3]
+
+In order to prove this part of the offence, the prosecution must prove two matters beyond reasonable doubt:
+
+First, the prosecution must prove that NOA accessed the material.
+
+Second, the prosecution must prove that NOA did so intentionally. This means [she/he] meant to access this material.
+
+The prosecution argue that [refer to relevant prosecution evidence and arguments].
+
+The defence disputes this, and say [refer to relevant defence evidence and arguments].
+
+
+[^2]: If the prosecution relies on a different form of conduct, this element must be modified accordingly.
+[^3]: If the prosecution relies on a different form of conduct, this element must be modified accordingly.
+
+
+---
+
+
+## 9.4.1 Carriage Service
+
+## Carriage Service
+
+The second element that the prosecution must prove is that NOA accessed the material using a carriage service.
+
+[Identify relevant service] is a carriage service. To prove this element, the prosecution must prove that NOA accessed the material using [identify relevant service].
+
+[Discuss relevant evidence or arguments.]
+
+
+---
+
+
+## 9.4.1 Child abuse material
+
+## Child abuse material
+
+The third element that the prosecution must prove is that the material is child abuse material.
+
+The law provides many definitions of child abuse material. In this case, only one definition applies. You must consider these three questions.
+
+One – Does it show a person under the age of 18 years?
+
+Two – Is the person under the age of 18 in a sexual pose or engaging in sexual activity?
+
+Three – Would a reasonable person regard the image as offensive, given all the circumstances?[^4]
+
+If you answer yes to each question, then the material is child abuse material.
+
+To decide whether a reasonable person would consider something to be offensive, you must consider current community standards and values. Is it offensive when measured against the standards of morality, decency and propriety generally accepted by reasonable adults?
+
+You must also consider the literary, artistic or educational merit, if any, of the material and the general character of the material. For example a photograph of a naked child in a medical journal may not be offensive, even though the same photograph may be considered offensive if it was in a pornographic magazine.
+
+
+[^4]: This direction must be modified in cases where other aspects of the definition apply. See 9.4 Use of Carriage Service for Child Abuse Material for guidance.
+
+
+---
+
+
+## 9.4.1 Age
+
+## Age
+
+[If the age of the person depicted is in issue, add the following shaded section.]
+
+As you have heard, the defence disputes that [identify relevant person] is or appears to be under 18.
+
+Determining whether a person appears to be under 18 requires no special skill. For example, in your everyday life, you may look at a person and, based on their physical characteristics, estimate that they are over 50, or under 20. It is the same exercise here. The difference is that this is an element of the offence. You can only find this element proved if you are satisfied beyond reasonable doubt that the person is or appears to be under the age of 18.
+
+The prosecution says that you can find that [*insert relevant person*] was under the age of 18, or appeared to be under 18 at the time the [*insert* relevant material] was created. [Refer to relevant prosecution evidence and arguments.]
+
+The defence dispute this, and say [refer to relevant defence evidence and arguments].
+
+
+---
+
+
+## 9.4.1 Recklessness
+
+## Recklessness
+
+The fourth element relates to NOA’s state of mind.
+
+The prosecution alleges that NOA was reckless as to whether the material [he/she] accessed was child abuse material. This means it must prove that NOA was aware of a substantial risk that the material was child abuse material and in the circumstances as s/he knew them to be, it was unjustifiable to risk accessing the materials.
+
+[If the prosecution also alleges the accused knew or believed the material was child abuse material, add the following shaded section.]
+
+The prosecution will also prove this element if you are satisfied the accused knew or believed the material [he/she] accessed was child abuse material.
+
+[Discuss relevant evidence or arguments.]
+
+
+---
+
+
+## 9.4.1 Defences
+
+## Defences
+
+[*If any of the defences in s 474.24 are relevant, insert appropriate directions on that defence here**.*]
+
+
+---
+
+
+## 9.4.1 Summary
+
+## Summary
+
+To summarise, before you can find the accused guilty, you must be satisfied that the prosecution has proved the following four elements beyond reasonable doubt:
+
+One – the accused intentionally accessed material.
+
+Two – the accused used a carriage service to access this material.
+
+Three – the material is child abuse material.
+
+Four – the accused was reckless as to the material being child abuse material.
+
+If you find that any of these elements have not been proved beyond reasonable doubt, then you must find NOA not guilty of using a carriage service to access child abuse material.
+
+Last updated: 4 March 2024
+
+
+---

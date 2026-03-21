@@ -1,0 +1,152 @@
+# Chapter 3.12
+
+
+## 3.12 Taking Verdicts
+
+# 3.12 Taking Verdicts
+
+
+
+## Alternative Charges
+
+
+
+1. Unless expressly provided for by law, an accused must not be punished more than once for the same act or omission (*Interpretation of Legislation Act 1984 *(Vic) s 51; *R v Sessions *[1998] 2 VR 304).
+
+2. This means that when alternative charges are left to the jury, the accused must not be convicted of the lesser offence if found guilty of the major offence (*R v Sessions *[1998] 2 VR 304; *R v Weeding *[1959] VR 298. See also *Crimes Act 1958 *s 421(2)).
+
+3. When alternative charges of differing gravity are left to the jury, the verdicts should be taken in descending order of gravity. The judge should discharge the jury from returning a verdict on the lesser offence once the jury has returned a verdict of guilty of the major offence (*R v Sessions *[1998] 2 VR 304; *R v Weeding *[1959] VR 298).
+
+4. Where the alternative charges are of equal gravity or are inconsistent (e.g. theft or receiving stolen goods), the jury should be asked whether they have found the accused guilty on any charge. If they have, the charge should be identified, the verdict taken, and the jury discharged without verdict on the other charge (*R v Seymour* (1954) 38 Cr App R 68).
+
+
+
+## Multiple Accused
+
+
+
+5. If multiple accused are tried jointly, it is usual for the judge to charge the jury in respect of all of the accused and all of the charges at the one time, before allowing the jury to deliberate about all of the matters together (*R v Houssein* (1980) 70 Cr App R 267; *R v Wooding* (1980) 70 Cr App R 256).
+
+6. However, in a trial of unusual complexity it is open to the trial judge to vary the procedure. For example, a judge may:
+
+
+
+- Direct and take a verdict in respect of each accused separately; or
+
+- Direct and take a verdict in respect of each charge separately in respect of each accused (see, e.g. *R v Newland *(1953) 37 Cr App R 154; *R v Mitchell* [1971] VR 46).
+
+
+---
+
+
+## 3.12 Taking Verdicts
+
+7. Although the trial judge has a discretion to adopt such alternative procedures, the risk to a fair trial is such that this course should not be adopted unless the case really demands it (*R v Houssein* (1980) 70 Cr App R 267; *R v Wooding* (1980) 70 Cr App R 256).
+
+8. If the trial judge is contemplating adopting an alternative procedure, it would be desirable to discuss the matter with counsel as soon as possible. The discussions should include submissions about whether the jury is to be kept together throughout their deliberations or permitted to separate under s 50 of the *Juries Act 2000* (Vic).
+
+
+
+## Persistent sexual abuse of a child under 16
+
+
+
+9. In *Chiro v R* [2017] HCA 37, the High Court held that for offences such as persistent sexual abuse of a child (see *Crimes Act 1958* s 49J) where there is an extended unanimity requirement concerning proof of constituent acts, the judge should ask the jury to specify the acts proved.
+
+10. When sentencing, a judge must sentence consistently with the jury’s verdict. For this kind of offence, that requires information from the jury on the basis for its verdict. Without that information, the judge must sentence on the assumption that the jury were satisfied of the minimum number and the least serious offences that were available to prove the offence charged.
+
+11. For information on asking the jury to identify the basis for its verdict, see Persistent sexual abuse of a child (From 1/7/17).
+
+
+
+Last updated: 23 October 2019
+
+
+---
+
+---
+
+# Chapter 3.12.1
+
+
+## 3.12.1 Charge: Taking a Unanimous Verdict
+
+# 3.12.1 Charge: Taking a Unanimous Verdict
+
+Once you have reached a unanimous verdict on [all of] the charge[s], you should push the buzzer in the jury room and tell my tipstaff. [S/he] will then arrange for us all to return to court.
+
+When you have taken your places in the jury box, my associate will ask you whether you have agreed on a verdict, and what your verdict is [in relation to each charge in turn]. You, [Mr/Madam] foreman, will answer "guilty" or "not guilty", according to the decision the jury has reached.
+
+My associate will then read your verdict back to you, to confirm that what [he/she] has recorded is correct. If any of you think that what my associate has recorded is wrong in any way, you should say so immediately. The record of your verdict[s] can then be corrected.
+
+Last updated: 17 May 2019
+
+
+---
+
+---
+
+# Chapter 3.12.2
+
+
+## 3.12.2 Charge: Taking a Majority Verdict
+
+# 3.12.2 Charge: Taking a Majority Verdict
+
+I told you earlier what you should do once you reach a unanimous verdict. The procedure is slightly different if you reach a majority verdict.
+
+My associate will first ask you, [Mr/Madam] foreman, whether the jury has reached a verdict, and what your verdict is. Once you have told [him/her] your verdict [in relation to each charge], my associate will ask you whether you have reached the verdict unanimously, or by a majority of eleven [10 or 9] of you. It is your job, [Mr/Madam] foreman, to answer that question.
+
+You need only tell my associate if your verdict was reached unanimously or by a majority. The identity of the minority juror is irrelevant. You will not be asked for that information, and you should not reveal it.
+
+Last updated: 1 February 2006
+
+
+---
+
+---
+
+# Chapter 3.12.3
+
+
+## 3.12.3 Charge: Alternative Charges on the Indictment
+
+# 3.12.3 Charge: Alternative Charges on the Indictment
+
+In this case, charges [*insert principal charge*] and [*insert alternative charge*] relate to the same alleged event, and are alternatives. The prosecution does not suggest that the accused should be convicted of both of these charges, but of one or the other.
+
+When you are delivering your verdict[s], you will first be asked for your verdict on [*insert principal offence*], which is the more serious charge.[^2] If you reach a verdict of guilty in relation to that charge, you will not be asked for a verdict on [*insert alternative charge*].
+
+It is only if you unanimously reach a verdict of not guilty in relation to [*insert principal offence*] that you will be asked to deliver a verdict on [*insert alternative charge*].
+
+I remind you that the accused is entitled to a separate trial of each charge, and that you must not reach your verdict by compromising between them.
+
+Last updated: 27 March 2013
+
+
+[^2]: This charge is based on the assumption that the charges are of differing gravity. If the charges are of the same gravity, it will need to be modified accordingly.
+
+
+---
+
+---
+
+# Chapter 3.12.4
+
+
+## 3.12.4 Charge: Alternative Charges Not on the Indictment
+
+# 3.12.4 Charge: Alternative Charges Not on the Indictment
+
+In this case, the accused has been charged with [*insert principal offence*]. The law says that when a person is charged with this offence, you are entitled to find him/her guilty of the offence of [*insert alternative offence*] instead.
+
+When you are delivering your verdict[s], you will first be asked for your verdict on [*insert principal offence*]. If you are satisfied, beyond reasonable doubt, that NOA is guilty of that offence, then you will not be asked to return a verdict on [*insert alternative offence*].
+
+However, if you all agree that NOA is not guilty of [*insert principal offence*], you will be asked for your verdict on whether or not the prosecution have proved, beyond reasonable doubt, all the elements of [*insert alternative offence*].
+
+I remind you that the accused is entitled to a separate trial of each charge, and that you must not reach your verdict by compromising between them.
+
+Last updated: 27 March 2013
+
+
+---

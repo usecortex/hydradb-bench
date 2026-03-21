@@ -1,0 +1,757 @@
+# Chapter 2.3.1
+
+
+## 2.3.1 Alternative Arrangements
+
+# 2.3.1 Alternative Arrangements
+
+
+
+## When Can Alternative Arrangements Be Made?
+
+
+
+1. While ordinarily witnesses must give evidence in the courtroom in accordance with normal court procedures, the *Criminal Procedure Act 2009 *provides that alternative arrangements can be made if the proceedings relate (wholly or partly) to:
+
+
+
+- A "sexual offence"; or
+
+- An offence where the conduct constituting the offence consists of "family violence" within the meaning of the *Family Violence Protection Act 2008*;
+
+- An offence against section 17(1) or 19 of the *Summary Offences Act 1966* (*Criminal Procedure Act 2009 *ss 359, 360).
+
+
+
+2. A direction requiring the use of alternative arrangements may be made on the application of a party or on the court’s own motion (*Criminal Procedure Act 2009 *s 337(1)).
+
+
+
+## What is a "Sexual Offence"?
+
+
+
+3. A "sexual offence" is defined as:
+
+
+[^1]: The definition of a "family member" under the *Family Violence Protection Act 2008 *is broad, and includes current and former partners and their children, other relatives and former relatives, and people who are reasonably regarded as being like a family member, having regard to the circumstances of the relationship. See *Family Violence Protection Act 2008* ss 8–10 for further information.
+[^2]: See *Family Violence Protection Act 2008* s 7 for the meaning of "emotional or psychological abuse".
+[^3]: See *Family Violence Protection Act 2008* s 6 for the meaning of "economic abuse".
+
+
+---
+
+
+## 2.3.1 Alternative Arrangements
+
+(a) an offence against–
+
+(i) a provision of Subdivision (8A), (8B), (8C), (8D), (8E), (8F) or (8FA) of Division 1 of Part I of the *Crimes Act 1958*; or
+
+(ii) section 327(2) (failure to disclose a sexual offence committed against a child under the age of 16 years) of the *Crimes Act 1958*; or
+
+(iii) section 5(1), 6(1), 7(1), 8(1), 9(1) or 11(1) of the *Sex Work Act 1994*;
+
+(b) an offence an element of which involves-
+
+(i) any person engaging in sexual activity; or
+
+(ii) any person taking part in a sexual act; or
+
+(iii) commercial sexual services; or
+
+(iv) a sexual performance involving a child;
+
+(c) an offence an element of which involves-
+
+(i) an intention that any of the conduct referred to in paragraph (b) is to occur; or
+
+(ii) soliciting, procuring, enabling or threatening any of the conduct referred to in paragraph (b); or
+
+(iii) inducing or knowingly allowing a child to enter or remain on premises so that any of the conduct referred to in paragraph (b) may occur;
+
+(d) an offence an element of which involves child abuse material;
+
+(e) an offence an element of which involves indecency;
+
+(f) an offence of attempting to commit, or of incitement or conspiracy to commit, an offence referred to in paragraph (a), (b), (c), (d) or (e);
+
+(g) an offence against section 49C(2) (failure by person in authority to protect child from sexual offence) of the Crimes Act 1958 as in force before the commencement of section 16 of the *Crimes Amendment (Sexual Offences) Act 2016* (*Criminal Procedure Act 2009* s 4).
+
+
+
+4. An offence against the *Sex Work Act 1994* that is not listed in section 4(1)(a)(iiii) is not a sexual offence for the purpose of the *Criminal Procedure Act 2009*.
+
+
+
+## What is a "Family Violence" Offence?
+
+
+
+5. Under the *Family Violence Protection Act 2008*, "family violence" is defined as:
+
+
+[^1]: The definition of a "family member" under the *Family Violence Protection Act 2008 *is broad, and includes current and former partners and their children, other relatives and former relatives, and people who are reasonably regarded as being like a family member, having regard to the circumstances of the relationship. See *Family Violence Protection Act 2008* ss 8–10 for further information.
+[^2]: See *Family Violence Protection Act 2008* s 7 for the meaning of "emotional or psychological abuse".
+[^3]: See *Family Violence Protection Act 2008* s 6 for the meaning of "economic abuse".
+
+
+---
+
+
+## 2.3.1 Alternative Arrangements
+
+- Behaviour towards a "family member"[^1] that:
+
+- Is physically or sexually abusive;
+
+- Is emotionally or psychologically abusive;[^2]
+
+- Is economically abusive;[^3]
+
+- Is threatening;
+
+- Is coercive;
+
+- In any other way controls or dominates the family member and causes the family member to fear for the safety or wellbeing of the family member or another person; or
+
+- Behaviour that causes a child to hear or witness, or otherwise be exposed to the effects of, the abovementioned behaviour (*Family Violence Protection Act 2008* s 5(1)).
+
+
+
+6. The definition of "family violence" explicitly includes the following kinds of behaviour:
+
+
+
+- Assaulting or causing personal injury to a family member, or threatening to do so;
+
+- Sexually assaulting a family member or engaging in other forms of sexually coercive behaviour, or threatening to do so;
+
+- Intentionally damaging a family member’s property, or threatening to do so;
+
+- Unlawfully depriving a family member of his or her liberty, or threatening to do so;
+
+- Causing or threatening to cause the death of, or injury to, an animal so as to control, dominate or coerce the family member (*Family Violence Protection Act 2008* s 5(2)).
+
+
+
+7. Behaviour may constitute family violence even if it would not constitute a criminal offence (*Family Violence Protection Act 2008* s 5(3)).
+
+
+[^1]: The definition of a "family member" under the *Family Violence Protection Act 2008 *is broad, and includes current and former partners and their children, other relatives and former relatives, and people who are reasonably regarded as being like a family member, having regard to the circumstances of the relationship. See *Family Violence Protection Act 2008* ss 8–10 for further information.
+[^2]: See *Family Violence Protection Act 2008* s 7 for the meaning of "emotional or psychological abuse".
+[^3]: See *Family Violence Protection Act 2008* s 6 for the meaning of "economic abuse".
+
+
+---
+
+
+## 2.3.1 Types of Alternative Arrangements
+
+## Types of Alternative Arrangements
+
+
+
+1. *Criminal Procedure Act 2009 *s 360 provides a non-exhaustive list of alternative arrangements that may be made in relation to any witness (including the complainant) who gives evidence in a proceeding that relates (wholly or partly) to a sexual offence or a family violence offence. These include:
+
+
+
+- Permitting the evidence to be given from a place other than the courtroom by means of technology such as closed-circuit television;
+
+- Using screens to remove the accused from the witness’s direct line of vision;
+
+- Permitting a person chosen by the witness and approved by the court to be beside the witness while he or she is giving evidence, for the purpose of providing emotional support ("emotional support person");
+
+- Allowing only specified people to be present when the witness is giving evidence;
+
+- Requiring legal practitioners not to robe;
+
+- Requiring legal practitioners to be seated while examining or cross-examining the witness.
+
+
+
+2. If evidence is given from a place other than the courtroom, the court must direct that the evidence be recorded (*Criminal Procedure Act 2009* s 362).
+
+
+---
+
+
+## 2.3.1 Requirement to Use Alternative Arrangements for Complainants
+
+## Requirement to Use Alternative Arrangements for Complainants
+
+
+
+1. In proceedings that relate (wholly or partly) to a sexual offence or a family violence offence, the court must direct that the complainant’s evidence be given from a place other than the courtroom, unless:
+
+
+
+- The prosecution applies for the complainant to give evidence in the courtroom;
+
+- The court is satisfied that the complainant is aware of his or her right to give evidence from another place; and
+
+- The court is satisfied that the complainant is able and wishes to give evidence in the courtroom (*Criminal Procedure Act 2009 *s 363).
+
+
+
+2. If the court allows the complainant to give evidence in the courtroom, it must direct that a screen be used to remove the accused from the complainant’s direct line of vision, unless it is satisfied that the complainant is aware of the right to use a screen and does not wish to do so (*Criminal Procedure Act 2009* s 364).
+
+3. Regardless of the location from which the complainant gives evidence, the court must direct that he or she be permitted to have an emotional support person beside him or her when giving evidence, unless it is satisfied that the complainant is aware of the right to have an emotional support person with him or her, and he or she does not want such a person to be present (*Criminal Procedure Act 2009 *s 365).
+
+4. Where the complainant is a child or has a cognitive impairment, his or her evidence must be pre-recorded at a special hearing, unless the court directs otherwise (*Criminal Procedure Act 2009 *ss 369–370).[^4] The alternative arrangement provisions continue to apply to such complainants to the extent that they are relevant.
+
+
+
+## Jury Directions
+
+
+
+5. Following the commencement of the *Jury Directions and Other Acts Amendment Act 2017* on 1 October 2017, the *Criminal Procedure Act 2009* no longer specifies any jury directions that are necessary when alternative arrangements are used.
+
+6. The statutory jury directions in relation to alternative arrangements were repealed on the basis that mandatory directions were unnecessary because the special hearing procedure was commonplace, and to reduce the risk that a direction about the need to treat special hearing evidence the same way as other evidence would operate perversely by prompting jurors to treat special hearing evidence as unusual (Jury Directions and Other Acts Amendment Bill 2017 Explanatory Memorandum, clause 13).
+
+
+
+Last updated: 19 March 2018
+
+
+[^4]: See 2.3.3 Pre-recorded Evidence for further information concerning the special hearing procedure.
+
+
+---
+
+---
+
+# Chapter 2.3.1.1
+
+
+## 2.3.1.1 Charge: Alternative Arrangements
+
+# 2.3.1.1 Charge: Alternative Arrangements
+
+This charge may be given the first time an alternative arrangement is made. For subsequent witnesses, 2.3.1.2 Charge: Alternative Arrangement (Short Charge) may be used instead.
+
+Before the next witness, NOW, gives evidence, there is a matter I must mention to you. [*Describe alternative arrangements, **e.g.** *"NOW will give evidence from a different location, using closed-circuit television" or "A screen has been put in place".]
+
+These arrangements are made routinely in cases like this. As a matter of law, you must not draw any inference adverse to the accused from the fact that these arrangements have been made, and you must not give NOW’s evidence any greater or lesser weight because of the use of these arrangements. You must treat his/her evidence in exactly the same way that you treat the evidence of any other witness in these proceedings.
+
+Last updated: 8 May 2018
+
+
+---
+
+---
+
+# Chapter 2.3.1.2
+
+
+## 2.3.1.2 Charge: Alternative Arrangements (Short Charge)
+
+# 2.3.1.2 Charge: Alternative Arrangements (Short Charge)
+
+This charge may be used if the judge has previously directed the jury about alternative arrangements. When alternative arrangements are made for the first time, 2.3.1.1 Charge: Alternative Arrangements should be used instead.
+
+Certain alternative arrangements have been made for the next witness. You will remember the directions I have previously given you in relation to such arrangements. I remind you that they are a routine practice and you must not draw any inference adverse to the accused or give NOW’s evidence any greater or lesser weight because of the use of these arrangements.
+
+Last updated: 13 April 2010
+
+
+---
+
+---
+
+# Chapter 2.3.2
+
+
+## 2.3.2 Protected Witnesses
+
+# 2.3.2 Protected Witnesses
+
+
+
+## Who is a "Protected Witness"?
+
+
+
+1. The "protected witness" provisions of the *Criminal Procedure Act 2009* apply to proceedings that relate (wholly or partly) to a charge for:
+
+
+
+- A "sexual offence"; [^2] or
+
+- An offence where the conduct constituting the offence consists of "family violence" within the meaning of the *Family Violence Protection Act 2008* (*Criminal Procedure Act 2009 *s 353).[^3]
+
+
+
+2. In such proceedings, the following people are "protected witnesses":
+
+
+
+- The complainant;
+
+- A family member[^4] of either the complainant or the accused; or
+
+- Any other witness whom the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009 *s 354).
+
+
+[^2]: See 2.3.1 Alternative Arrangements for the definition of a "sexual offence" charge.
+[^3]: See 2.3.1 Alternative Arrangements for the definition of a "family violence" offence.
+[^4]: See *Criminal Procedure Act 2009* s 354 for the definition of a "family member" in this context. This definition differs from the definition of "family member" used in relation to the family violence provisions of the *Family Violence Protection Act 2008*.
+
+
+---
+
+
+## 2.3.2 Cross-Examination of Protected Witnesses
+
+## Cross-Examination of Protected Witnesses
+
+
+
+1. A protected witness must not be personally cross-examined by the accused (*Criminal Procedure Act 2009 *s 356).
+
+2. Where a protected witness gives evidence, and the accused is not legally represented, the court must inform the jury that the accused is not permitted to personally cross-examine the witness (*Criminal Procedure Act 2009 *s 357(1)(a)).
+
+3. If an unrepresented accused obtains, or is provided with, legal representation for the purpose of cross-examining a protected witness, the judge must warn the jury:
+
+
+
+- That this is routine practice;
+
+- That no adverse inference may be drawn against the accused as a result of the cross-examination not being conducted by the accused in person; and
+
+- That the evidence given under cross-examination is not to be given any greater or lesser weight as a result of the cross-examination not being conducted by the accused personally (*Criminal Procedure Act 2009 *s 358).
+
+
+
+4. These directions under sections 357 or 358 do not depend on a party making a request (compare *Jury Directions Act 2015* Part 3).
+
+5. As a matter of prudence, the accused should not be offered representation in the presence of the jury. Such matters should be resolved prior to the commencement of the trial.
+
+
+
+Last updated: 29 June 2015
+
+
+---
+
+---
+
+# Chapter 2.3.2.1
+
+
+## 2.3.2.1 Charge: Protected Witnesses
+
+# 2.3.2.1 Charge: Protected Witnesses
+
+As you are aware, throughout this trial NOA has elected to conduct his/her own defence. While the law allows him/her to do this, it places some limits on what s/he may do. In particular, it does not permit him/her to personally cross-examine certain witnesses, including the next witness.
+
+This does not mean this witness may not be cross-examined. It simply means that if NOA wishes to cross-examine this witnesses, the cross-examination must be conducted by defence counsel chosen by the accused or provided by the court.
+
+[*If the accused has obtained or been provided with defence counsel, add the following shaded section:*]
+
+In this case, [*insert name of defence counsel*] will be conducting NOW’s cross-examination on NOA’s behalf. This is routine practice in cases such as this.
+
+As a matter of law, you must not draw any inference adverse to the accused from the fact that NOA is not conducting the cross-examination personally, and you must not give NOW’s evidence any greater or lesser weight. You must treat his/her evidence in exactly the same way that you treat the evidence of any other witness in these proceedings.
+
+[*If the accused has not obtained or been provided with defence counsel, add the following shaded section:*]
+
+In this case, NOA has elected not to have NOW cross-examined by defence counsel, so you will only be hearing his/her evidence-in-chief.
+
+Last updated: 28 February 2008
+
+
+---
+
+---
+
+# Chapter 2.3.3
+
+
+## 2.3.3 Pre-Recorded Evidence
+
+# 2.3.3 Pre-Recorded Evidence
+
+
+
+## Overview
+
+
+
+1. While ordinarily witnesses must give their evidence at the time of the relevant legal proceeding, the *Criminal Procedure Act 2009* specifies three circumstances in which pre-recorded evidence may be used:
+
+1. Division 5 of Part 8.2 allows the evidence-in-chief of certain witnesses to be given in the form of an audio or audiovisual recording of the witness answering questions put to him or her by a prescribed person (the "VARE procedure");
+
+1. Division 6 of Part 8.2 allows the examination-in-chief, cross-examination and re-examination of certain witnesses to be given in the form of an audiovisual recording made at a special hearing (the "special hearing procedure").
+
+2. Division 7 of Part 8.2 allows a court in proceedings for a sexual offence to use a recording of the complainant’s evidence in a new trial, appeal or another proceeding (the “previous trial evidence procedure”).
+
+1. These procedures are addressed in turn below.
+
+
+---
+
+
+## 2.3.3 The VARE Procedure
+
+## The VARE Procedure
+
+
+
+1. The VARE procedure may be used in criminal proceedings other than committal proceedings, that relate (wholly or partly) to a charge for:
+
+
+
+(a) A sexual offence;[^2] or
+
+(b) An indictable offence which involves assault, injury or threat of injury (*Criminal Procedure Act 2009* s 366(1). See also *R v Davis *[2007] VSCA 276);
+
+(d) Offences against sections 23 or 24 of the *Summary Offences Act 1966* if those offences are related to an offence specified in paragraph (a), or (b) above.
+
+
+
+2. In such proceedings, a prosecution witness’s evidence-in-chief may be given by way of an audio or audiovisual recording which consists of the witness answering questions put to him or her by a prescribed person (a "VARE") in the following circumstances:
+
+
+
+- If the witness was under 18 when the recording was made; or
+
+- If the witness suffered from a cognitive impairment when the recording was made (*Criminal Procedure Act 2009* ss 366(2), 367, 368(2)).
+
+
+
+3. A VARE is admissible as the witness’ evidence-in-chief. It should not be admitted as an exhibit (*Criminal Procedure Act 2009* s 368; *R v Lewis* [2002] VSCA 200; *R v BAH* (2002) 5 VR 517). However, it should generally be marked for identification (see *Gately** v **R* (2007) 232 CLR 208).
+
+4. Objections to leading questions in examination in chief must be applied with caution to leading questions during a VARE. The VARE is produced in a different context from the trial itself (*SLJ v R* (2013) 39 VR 514).
+
+
+
+## Indictable Offence Involving Assault, Injury or Threat of Injury
+
+
+[^2]: See 2.3.1 Alternative Arrangements for the definition of "sexual offences".
+[^3]: The witness should be asked whether his or her statements on the recording are truthful, rather than being asked whether the recording is truthful. The later question may mean no more than that the tape accurately recorded his or her statements. This question must be asked in language able to be understood by the witness (*R v LRG* (2006) 16 VR 89).
+
+
+---
+
+
+## 2.3.3 The VARE Procedure
+
+5. One of the circumstances in which the VARE procedure may be used is where the proceeding relates to a charge for an indictable offence which involves assault, injury or threat of injury (*Criminal Procedure Act 2009* s 366(1)(b)).
+
+6. The word "injury" in s 366(1)(b) includes mental harm (*R v Anders* (2009) 20 VR 596).
+
+7. In determining whether an offence falls within this category, the judge must look to the elements of the offence, as the elements apply in the particular case (*Saenz v R* [2011] VSCA 154; *R v Anders* (2009) 20 VR 596).
+
+8. As the elements of the offence of stalking (*Crimes Act 1958 *s 21A) involve injury or threat of injury, s 366(1)(b) applies to that offence (*R v Anders* (2009) 20 VR 596).
+
+9. The elements of kidnapping can be committed by force or fraud. Where the elements are committed by force, the offence will involve an assault, injury or threat or injury and the VARE procedure applies. The same result may not follow where the offence is committed by fraud (*Saenz v R* [2011] VSCA 154).
+
+
+
+## Playing the VARE
+
+
+
+10. At the proceeding, the witness must:
+
+
+
+- Identify himself or herself and attest to the truthfulness of what he or she said on the recording;[^3] and
+
+- Be available for cross-examination (*Criminal Procedure Act 2009 *s 368(1)(c)).
+
+
+[^2]: See 2.3.1 Alternative Arrangements for the definition of "sexual offences".
+[^3]: The witness should be asked whether his or her statements on the recording are truthful, rather than being asked whether the recording is truthful. The later question may mean no more than that the tape accurately recorded his or her statements. This question must be asked in language able to be understood by the witness (*R v LRG* (2006) 16 VR 89).
+
+
+---
+
+
+## 2.3.3 The VARE Procedure
+
+11. If the witness fails to attest to the truthfulness of the recording, the evidence may only be admitted if counsel for the defence does not object (*R v LRG* (2006) 16 VR 89).
+
+12. The witness does not need to remember the matters which are the subject of the recording. The requirement that he or she attest to the truthfulness of the contents of the recording is satisfied if the witness is able to depose at trial that what he or she said would have been a truthful account of his or her recollections at the time the recording was made (*R v Anders* (2009) 20 VR 596).
+
+13. The judge may order at any time during the trial that the jury be provided with transcript of audiovisual recordings of evidence (*Criminal Procedure Act 2009* s 223(1)(j); *R v Welstead* [1996] 1 Cr App R 59). See 2.2 Providing Documents to the Jury for information on the provision of transcripts.
+
+14. This may empower the judge to permit the jury to take a VARE transcript into the jury room. However, the leading authorities caution strongly against doing this, on the basis that there is no safeguard against the jury giving the transcribed evidence disproportionate weight (*R v BAH* (2002) 5 VR 517; *R v Welstead* [1996] 1 Cr App R 59).
+
+15. These authorities were decided at a time when it was unusual for judges provide the trial transcript to the jury (compare *Criminal Procedure Act 2009* s 223(1)(ha)). It is now common for Victorian judges to provide the transcript. In cases where the jury has transcript of all, or substantially all the evidence in the trial, there may be no reason to exclude the VARE transcript from the jury room.
+
+
+
+## Replaying the VARE
+
+
+[^2]: See 2.3.1 Alternative Arrangements for the definition of "sexual offences".
+[^3]: The witness should be asked whether his or her statements on the recording are truthful, rather than being asked whether the recording is truthful. The later question may mean no more than that the tape accurately recorded his or her statements. This question must be asked in language able to be understood by the witness (*R v LRG* (2006) 16 VR 89).
+
+
+---
+
+
+## 2.3.3 The VARE Procedure
+
+16. Juries often ask to be allowed to view a VARE again during their deliberations.
+
+17. Under *Criminal Procedure Act 2009* s 223(1)(i) the judge may order at any time during the trial that the jury be provided with audio or audiovisual recordings of evidence. The section contains a purposive limitation – that provision of the material will help the jury understand the issues or the evidence.
+
+18. This section is materially different to the equivalent provisions that were in force at the time of earlier decisions which held that a jury cannot be given unrestricted access to a VARE during their deliberations (*Movel** v The King *[2024] VSCA 183, [206]-[211]; c.f. *R v BAH *(2002) 5 VR 517; *R v H *[1999] 2 Qd R 283; *R v Lyne* [2003] VSCA 118;* R v Lewis* [2002] VSCA 200).
+
+19. Under the *Criminal Procedure Act*, a judge may provide the VARE if satisfied that it will help the jury understand the issues or evidence. In exercising that discretion, the judge must take into account the duty to ensure a fair trial. The judge should guard against risks that:
+
+
+
+- The jury will ignore any other material, including any cross-examination of the witness or competing evidence from another witness. This risk may be reduced by providing the jury with the recording of any cross-examination and the applicant’s record of interview.
+
+- The jury will overvalue the VARE as the latest evidence they have viewed, or which they have watched repeatedly (*Movel** v The King *[2024] VSCA 183, [218]-[219], [223]).
+
+
+
+20. A party may request that the judge warn the jury not to overemphasise the evidence because it has been replayed, or heard more recently than other evidence (*Movel** v The King *[2024] VSCA 183, [220]).
+
+
+
+### Jury Directions and Comments
+
+
+
+21. As a VARE stands as the evidence-in-chief of a witness, it is not appropriate to tell the jury that such evidence is in any way inferior to evidence given in the courtroom (*R v MTP* [2002] VSCA 81; *Clarke v R* [2013] VSCA 206).
+
+
+[^2]: See 2.3.1 Alternative Arrangements for the definition of "sexual offences".
+[^3]: The witness should be asked whether his or her statements on the recording are truthful, rather than being asked whether the recording is truthful. The later question may mean no more than that the tape accurately recorded his or her statements. This question must be asked in language able to be understood by the witness (*R v LRG* (2006) 16 VR 89).
+
+
+---
+
+
+## 2.3.3 The Special Hearing Procedure
+
+## The Special Hearing Procedure
+
+
+
+1. In a criminal trial that relates (wholly or partly) to a charge for a sexual offence,[^4] the evidence of a complainant who was a child or who had a cognitive impairment when proceedings were commenced must be given at a special hearing, unless the court directs otherwise (*Criminal Procedure Act 2009 *ss 369, 370).[^5]
+
+2. A special hearing may be held before or during the trial. At a special hearing, the whole of the complainant’s evidence must be recorded. Where the special hearing is held before the trial, the complainant’s evidence must be presented in the form of that recording (*Criminal Procedure Act 2009* s 370).
+
+3. On the application of the prosecution, the court may direct that a special hearing not be held, and that the complainant give direct testimony in the proceeding, if it is satisfied that:
+
+
+
+- The complainant is aware of his or her right to have his or her evidence taken and recorded at a special hearing; and
+
+- The complainant is able and wishes to give direct testimony in the proceeding (*Criminal Procedure Act 2009* s 370(2)).
+
+
+[^4]: See 2.3.1 Alternative Arrangements for the definition of a "sexual offence".
+[^5]: Proceedings commence when the charge–sheet for the offence charged, or a related offence, is filed or signed, or when the Director of Public Prosecutions files a direct indictment (*Criminal Procedure Act 2009* s 5).
+
+
+---
+
+
+## 2.3.3 The Special Hearing Procedure
+
+4. During a special hearing, the complainant’s evidence is to be given by closed-circuit television, and no person except those authorised by the court may be present in the same room as the complainant when his or her evidence is being given. In the case of a special hearing held during a trial, the jury must be present in the courtroom (*Criminal Procedure Act 2009* s 372).
+
+5. The court must direct that the complainant be permitted to have an emotional support person beside him or her when giving evidence, unless it is satisfied that the complainant is aware of the right to have an emotional support person with him or her, and he or she does not want such a person to be present (*Criminal Procedure Act 2009 *s 365).
+
+6. The court may also direct the use of other alternative arrangements in the special hearing (e.g. requiring legal practitioners not to robe) (*Criminal Procedure Act 2009 *s 360). See 2.3.1 Alternative Arrangements for further information.
+
+7. A VARE may be used as the witness’s evidence-in-chief in a special hearing (see "The VARE Procedure" above).
+
+8. A recording of a special hearing held before the trial is admissible as the witness’ evidence. It should not be admitted as an exhibit (*R v Gately* (2007) 232 CLR 208).
+
+
+
+## Replaying a Special Hearing Tape
+
+
+
+9. A request by the jury to be reminded of the contents of a special hearing tape should ordinarily be dealt with in the same manner as requests to be reminded about other pre-recorded evidence. See Replaying the VARE, above.
+
+
+
+## Jury Directions and Comments
+
+
+[^4]: See 2.3.1 Alternative Arrangements for the definition of a "sexual offence".
+[^5]: Proceedings commence when the charge–sheet for the offence charged, or a related offence, is filed or signed, or when the Director of Public Prosecutions files a direct indictment (*Criminal Procedure Act 2009* s 5).
+
+
+---
+
+
+## 2.3.3 The Special Hearing Procedure
+
+10. Following the commencement of the *Jury Directions and Other Acts Amendment Act 2017* on 1 October 2017, the *Criminal Procedure Act 2009* no longer specifies any jury directions that are necessary when a special hearing recording is played.
+
+11. In some cases, including if a recording is given to the jury in the jury room, it may be necessary to warn the jury when they are watching the recording for a second or subsequent time that they must also consider other evidence in the case or other considerations raised by the accused (*R v Gately* (2007) 232 CLR 208).
+
+12. Prior to the repeal of* CPA 2009* s 375 (which had specified directions that judges needed to give about special hearing recordings), the Court of Appeal had held that a judge must not give any directions which are inconsistent with section 375. It was therefore inappropriate to give general direction about the need for caution when assessing evidence given on a VARE or a special hearing (*Clarke v R* [2013] VSCA 206).
+
+13. *CPA 2009* s 375 was repealed on the basis that the mandatory directions were unnecessary because the special hearing procedure was commonplace, and to reduce the risk that a direction about the need to treat special hearing evidence the same way as other evidence would operate perversely by prompting jurors to treat special hearing evidence as unusual (Jury Directions and Other Acts Amendment Bill 2017 Explanatory Memorandum, clause 13).
+
+
+[^4]: See 2.3.1 Alternative Arrangements for the definition of a "sexual offence".
+[^5]: Proceedings commence when the charge–sheet for the offence charged, or a related offence, is filed or signed, or when the Director of Public Prosecutions files a direct indictment (*Criminal Procedure Act 2009* s 5).
+
+
+---
+
+
+## 2.3.3 Previous Trial Evidence Procedure
+
+## Previous Trial Evidence Procedure
+
+
+
+1. In a criminal proceeding that relates (wholly or partly) to a charge for a sexual offence,[^6] the evidence of a complainant who did not give evidence at a special hearing may be given through a recording of the complainant’s evidence at a previous trial (*Criminal Procedure Act 2009* ss 378, 379).
+
+2. The court may allow a complainant’s evidence to be given using a previous trial recording if it is in the interests of justice to do so, having regard to:
+
+1. whether the complainant's recorded evidence is complete, including cross-examination and re-examination;
+
+1. the effect of editing any inadmissible evidence from the recording;
+
+2. the availability or willingness of the complainant to give further evidence;
+
+3. whether the accused would be unfairly disadvantaged by the admission of the recording;
+
+4. any other matter that the court considers relevant.
+
+3. Following the commencement of the *Jury Directions and Other Acts Amendment Act 2017* on 1 October 2017, the *Criminal Procedure Act 2009* no longer specifies any jury directions that are necessary when a previous trial recording is used.
+
+4. For more information on a previous trial recording, see the Victorian Criminal Proceedings Manual.
+
+
+
+Last updated: 4 April 2025
+
+
+[^6]: See 2.3.1 Alternative Arrangements for the definition of a “sexual offence”.
+
+
+---
+
+---
+
+# Chapter 2.3.3.1
+
+
+## 2.3.3.1 Charge: Playing a VARE
+
+# 2.3.3.1 Charge: Playing a VARE
+
+The evidence of the next witness, NOW, is going to be given in a slightly different manner from usual. First, you are going to see an audiovisual recording of him/her answering questions. That recording is considered to be part of his/her evidence. NOW will then confirm the truthfulness of that evidence and answer any additional questions the prosecution may have. Defence counsel will then have the opportunity to cross-examine NOW.
+
+[*If alternative arrangements will be used for the evidence given during the proceeding, add the following shaded section:*]
+
+When confirming the truthfulness of the recording, and being cross-examined, [*describe alternative arrangements, e*.g. "NOW will not be present in the courtroom. His/her evidence will be given from a different location, using closed-circuit television" or "A screen will be in place"].
+
+These arrangements are made routinely in cases like this. As a matter of law, you must not draw any inference adverse to the accused from the fact that these arrangements have been made, and you must not give NOW’s evidence any greater or lesser weight because of the use of these arrangements. You must treat his/her evidence in exactly the same way that you treat the evidence of any other witness in these proceedings.
+
+Last updated: 3 June 2011
+
+
+---
+
+---
+
+# Chapter 2.3.3.2
+
+
+## 2.3.3.2 Charge: Replaying a VARE
+
+# 2.3.3.2 Charge: Replaying a VARE
+
+You are about to see [part of] the recording of NOW’s evidence-in-chief again. When you watch this recording, you must keep in mind the fact that this is the second time that you are seeing this particular evidence, that you are seeing it after all the other evidence has been given in this case, and that it is only part of NOW’s evidence.
+
+In light of these factors, I must warn you to be careful not to give this part of NOW’s evidence any greater weight than you give to any of the other evidence in this case. It is merely one part of the evidence, and you are required to consider all of the evidence when making your decision.
+
+[*If the jury needs to be reminded of the weaknesses of the evidence, add the following shaded section:*]
+
+In particular, you must consider [*summarise relevant matters for consideration, such as the cross-examination of the witness or any weaknesses that have been identified in the evidence*].
+
+Last updated: 3 June 2011
+
+
+---
+
+---
+
+# Chapter 2.3.3.3
+
+
+## 2.3.3.3 Charge: Special Hearing Evidence
+
+# 2.3.3.3 Charge: Special Hearing Evidence
+
+The evidence of the complainant, NOC, has been pre-recorded at what is called a "special hearing". This is a routine practice in cases where the complainant [is under the age of 18/has a cognitive impairment]. As a matter of law, you must not draw any inference adverse to the accused from the fact that NOC’s evidence has been pre-recorded, and you must not give his/her evidence any greater or lesser weight. You must treat NOC’s evidence in exactly the same way that you treat the evidence of any other witness in these proceedings.
+
+Last updated: 13 April 2010
+
+
+---
+
+---
+
+# Chapter 2.3.4
+
+
+## 2.3.4 Witness Support Dog
+
+# 2.3.4 Witness Support Dog
+
+
+
+1. The Office of Public Prosecutions has a Witness Support Dog Program. Under the program, witnesses can ask for a trained support dog to accompany them while giving evidence from the remote witness facility or the courtroom.
+
+2. The support dog usually lies calmly next to the witness giving evidence and the witness holds the dog’s lead.
+
+3. Support dogs provide comfort to vulnerable witnesses when waiting for court and while giving evidence.
+
+4. The support dog only accompanies the witness with the Court’s permission. The dog will usually lie on a mat while the witness is giving evidence and is out of view of the camera in the remote witness facility. If the witness is giving evidence physically in the courtroom, the dog will lie beside the witness out of view of the jury.
+
+5. When a witness with a support dog is giving evidence physically in the courtroom, some judges ask the jury to leave the courtroom as the dog is brought in and out so the jury does not see the dog. However, this practice may not be necessary or practical if the witness is giving evidence over an extended period, with multiple breaks.
+
+6. Feedback on the use of the support dog indicates that the dog helps witnesses give evidence with less stress, to stay focussed and give evidence with fewer breaks.
+
+7. It is recommended that judges only allow dogs trained at schools accredited by Assistance Dogs International to provide support to witnesses giving evidence. This will help to reduce the risk of the dog behaving inappropriately or being a distraction to the proceedings.
+
+
+
+Last updated: 26 April 2021
+
+
+---
+
+---
+
+# Chapter 2.3.4.1
+
+
+## 2.3.4.1 Charge: Witness Support Dog
+
+# 2.3.4.1 Charge: Witness Support Dog
+
+This charge is designed for those cases where the judge believes the jury should be informed about the Witness Support Dog. It will not be necessary in all cases, as the dog usually lies out of view of the camera while the witness is giving evidence from the remote facility or out of view of the jury if the witness is giving evidence from the witness stand.
+
+This charge may be modified for use where the judge decides to give the direction after the witness has given evidence.
+
+Members of the jury, the next witness, NOW, will give evidence while accompanied by a support dog.
+
+Some witnesses are allowed to use a support dog to help reduce the stress of giving evidence. The dog is not a pet, but is a trained support animal.
+
+When you come to assess NOW’s evidence, you should not take [his/her] use of a support dog into account. Do not give [his/her] evidence more or less weight because [he/she] had a support dog. Treat NOW the same as any other witness.
+
+Last updated: 26 April 2021
+
+
+---

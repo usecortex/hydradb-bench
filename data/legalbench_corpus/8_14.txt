@@ -1,0 +1,1067 @@
+# Chapter 8.14
+
+
+## 8.14 Powers of Arrest
+
+# **8.14 Powers of Arrest**
+
+
+
+## Introduction
+
+
+
+1. A person is arrested when police make it plain to him or her that he or she is not free to leave (*R v Lavery *(1978) 19 SASR 515).
+
+1. The *Crimes Act 1958* contains several provisions empowering police officers to make arrests in various circumstances.
+
+2. In addition, other legislation provides additional bases for arrests without warrant (see, e.g. *Bail Act 1977* s 24). These other bases for arrest without warrant are beyond the scope of this commentary.
+
+3. While powers of arrest are now governed by statute in Victoria, the common law still dictates the requirements of a lawful arrest (*Slaveski** v State of Victoria & Ors* [2010] VSC 441; *Crimes (Powers of Arrest) Act 1972*).
+
+4. Unless stated otherwise, all statutory references are to sections of the *Crimes Act 1958*.
+
+
+---
+
+
+## 8.14 To Which Crimes are Police powers of Arrest Available as a Defence?
+
+## To Which Crimes are Police powers of Arrest Available as a Defence?
+
+
+
+1. Police powers of arrest provide a lawful excuse for what would otherwise be an unlawful application of force. The defence is therefore most likely to arise in relation to offences such as:
+
+1. assault (*Slaveski** v State of Victoria & Ors* [2010] VSC 441); and
+
+2. false Imprisonment (*Biddle v State of Victoria & Ors* [2015] VSC 275).
+
+2. Police powers of arrest are also relevant to the issue of self-defence, where the issue arises of whether police were acting unlawfully in attempting to arrest the accused (see, eg, *James v The King* [2025] VSCA 140).
+
+
+---
+
+
+## 8.14 General powers of arrest without warrant (s 458)
+
+## General powers of arrest without warrant (s 458)
+
+
+
+1. Section 458 provides three situations in which any person (including a police officer) may arrest a person without a warrant.
+
+
+---
+
+
+## 8.14 Accused finds a person committing an offence (s 458(1)(a))
+
+## Accused finds a person committing an offence (s 458(1)(a))
+
+
+
+1. The first situation applies where:
+
+1. a person (including a police officer) found the other person committing an indictable or summary offence; and
+
+2. a person (including a police officer) believed on reasonable grounds that apprehension was necessary for one or more of the prescribed reasons (s 458(1)(a)).
+
+2. A person (including a police officer) finds a person committing an offence including when a person (including a police officer) finds a person:
+
+
+
+doing any act or so behaving or conducting himself or in such circumstances that the person finding him believes on reasonable grounds that the person so found is guilty of an offence (s 462).
+
+
+
+3. “Finds committing” is intended to be given an extended meaning to encompass circumstances beyond actually finding an offender engaged in the relevant act (*De Moor v Davies* [1999] VSC 416).
+
+4. Section 462 extends the point of discovery of the commission of the offence to encompass:
+
+1. the actual perpetration of the offence;
+
+2. finding a person behaving or conducting him or herself so as to create a reasonable belief of guilt; or
+
+3. finding a person in such circumstances so as to create a reasonable belief of guilt (*De Moor v Davies* [1999] VSC 416; *Lynch v Hargrave* [1971] VR 99; *Lunt v Bramley* [1959] VR 313).
+
+5. The prescribed reasons are:
+
+
+
+(i) to ensure the attendance of the offender before a court of competent jurisdiction;
+
+(ii) to preserve public order;
+
+(iii) to prevent the continuation or repetition of the offence or the commission of a further offence; or
+
+(iv) for the safety or welfare of members of the public or of the offender (s 458(1)(a).
+
+
+---
+
+
+## 8.14 Accused instructed by an authorised police officer (s 458(1)(b))
+
+## Accused instructed by an authorised police officer (s 458(1)(b))
+
+
+
+1. The second situation under s 458 applies where a person (including a police officer) was instructed to apprehend a person by a police officer who had the power to apprehend that person.
+
+
+---
+
+
+## 8.14 Arrested escaping from custody or evading arrest (s 458(1)(c))
+
+## Arrested escaping from custody or evading arrest (s 458(1)(c))
+
+
+
+1. The third situation under s 458 applies where a person (including a police officer) believed on reasonable grounds that the other person was:
+
+1. escaping from legal custody; or
+
+1. aiding and abetting another person to escape from legal custody; or
+
+2. avoiding apprehension by some person with authority to apprehend the person.
+
+
+---
+
+
+## 8.14 Duration of arrest under s 458
+
+## Duration of arrest under s 458
+
+
+
+1. A person who has been apprehended under s 458 may only be held as long as the reason for their apprehension continues. If the reason ceases to exist, the arrested person must be released (s 458(3)).
+
+
+---
+
+
+## 8.14 Police–specific powers of arrest without warrant (s 459)
+
+## Police–specific powers of arrest without warrant (s 459)
+
+
+
+1. Section 459 provides powers that only apply to police or protective services officers. Under section 459 a person is lawfully arrested if a person (including a police officer):
+
+1. is a police or protective services officer; and
+
+2. believed on reasonable grounds that the other person has committed:
+
+1. an indictable offence in Victoria; or
+
+2. an offence elsewhere which would be an indictable offence in Victoria.
+
+2. A protective services officer exercising this power must hand the person into the custody of a police officer as soon as practicable (s 459(2)).
+
+3. A protective services officer can only exercise this power in relation to a person who is at or in the vicinity of a “designated place” as defined in the Victoria Police Act 2013 (s 459(3)).
+
+4. Where an arrest is made under a belief held on reasonable grounds, the apprehension does not cease to be lawful if it later turns out the person arrested did not commit the offence alleged against him (s 461).
+
+
+
+Reasonable grounds
+
+
+
+5. “Reasonable grounds” requires the existence of facts which are sufficient to induce that state of mind (e.g. belief, suspicion) in a reasonable person (*George v Rockett* (1990) 170 CLR 104; *Walsh v Loughnan* [1991] 2 VR 351; *James v The King *[2025] VSCA 140, [107]).
+
+6. The person (including a police officer) must believe that the person being arrested has committed an indictable offence and this belief must be based on facts that would induce that state of mind in a reasonable person (*Slaveski** v State of Victoria & Ors* [2010] VSC 441).
+
+
+
+Belief
+
+
+---
+
+
+## 8.14 Police–specific powers of arrest without warrant (s 459)
+
+7. Belief has been distinguished from suspicion (*George v Rockett* (1990) 170 CLR 104). The facts grounding a suspicion may be insufficient to ground a belief (*Walsh v Loughnan* [1991] 2 VR 351).
+
+8. Belief is a more certain state of mind than suspicion and involves an inclination of the mind towards assenting to, rather than rejecting, a proposition (*George v Rockett* (1990) 170 CLR 104; *James v The King *[2025] VSCA 140, [107]).
+
+9. Suspicion is a positive feeling of actual apprehension of mistrust, amounting to a slight opinion, but without sufficient evidence. Suspicion is not enough to justify an arrest without warrant (*Slaveski** v State of Victoria & Ors* [2010] VSC 441).
+
+10. The information upon which the arrester forms their belief depends on all of the circumstances that prevailed at the relevant time, including what the arrester saw, heard or did.
+
+11. The person (including a police officer) must have believed that a particular indictable offence occurred, and not simply any indictable offence generally (*R v Vollmer* [1996] 1 VR 95; *James v The King *[2025] VSCA 140, [107], [126]).
+
+12. While the primary focus of arrest powers is the person’s subjective belief, it is possible for an arrest to be valid where the person has a lawful basis for the arrest, but mistakenly relies on an unlawful basis (*James v The King *[2025] VSCA 140, [116]; *Warke v Daire *[1983] 32 SASR 321; *Kershaw v The King *[2024] NSWCCA 27, [78]–[80]).
+
+
+---
+
+
+## 8.14 Use of Force
+
+## Use of Force
+
+
+
+1. Section 462A authorises a person to use force to effect or assist in effecting the lawful arrest of a person committing or suspected of committing an offence (s 462A).
+
+2. The force used must not be disproportionate to the objective as the person believed on reasonable grounds to be necessary (s 462A).
+
+3. Section 462A of the *Crimes Act *does not confer a power of arrest, it merely provides that proportionate force may be used to effect an arrest. The lawful power of arrest must be derived from either section 458 or section 459 (*Slaveski** v State of Victoria & Ors* [2010] VSC 441).
+
+4. The right to use force is a corollary of the right to effect an arrest, as without such a right, a power of arrest would be ineffective (*R v Turner* [1962] VR 30).
+
+5. The right to use force only authorises using the amount of force reasonably necessary to carry out the arrest. The force must not be disproportionate to the “evil to be prevented” (*R v Turner* [1962] VR 30).
+
+6. The level of force that is reasonable is to be determined objectively.
+
+7. Use of force beyond that permitted by s 462A will take the police outside the scope of their duty, which may be relevant where a person is charged with offences against a police officer ‘on duty’ (see, eg, *James v The King *[2025] VSCA 140, [160]).
+
+
+---
+
+
+## 8.14 Arrest with Warrant
+
+## Arrest with Warrant
+
+
+
+1. In addition to the various bases for arrest without warrant, Victorian law provides a range of bases for a court to issue a warrant to arrest (see, e.g. *Criminal Procedure Act 2009* s 12; *Evidence Act 2008* s 194).
+
+2. Where there is an arrest with warrant, the person must comply with any conditions on the warrant, along with the common law elements of lawful arrest described below.
+
+
+---
+
+
+## 8.14 Common Law Elements of Lawful Arrest
+
+## Common Law Elements of Lawful Arrest
+
+
+
+1. While the powers of arrest are largely governed by statute, the common law still dictates the process of a lawful arrest (*Slaveski** v State of Victoria & Ors* [2010] VSC 441).
+
+2. These procedural requirements are:
+
+1. The other person was deprived of his or her liberty;
+
+2. The accused informed the other person that he or she was under arrest; and
+
+3. The accused informed the other person of the reason for the arrest.
+
+
+
+Deprivation of Liberty
+
+
+
+3. There is no requirement that the other person be seized or subjected to physical force. There may be an arrest by mere words (*Alderson v Booth* [1969] 2 QB 216).
+
+4. There will be a sufficient deprivation of liberty if the other person submits to the arrester’s control after the arrester has indicated his or her intention to effect the arrest (*Slaveski** v State of Victoria & Ors* [2010] VSC 441).
+
+5. If the other person does not comply, the deprivation of liberty must be formalised by the accused touching the other person (*Sandon v Jervis* (1859) 120 ER 760).
+
+
+
+Communication of arrest
+
+
+
+6. A person (including a police officer) must do everything that a reasonable person in the circumstances would do to inform the person being arrested that they are under arrest (*R v Stafford* (1976) 13 SASR 392; *Hull v Nuske* (1974) 8 SASR 587).
+
+7. The person being arrested must comprehend that they are acting under compulsion and not voluntarily (*Alderson v Booth* [1969] 2 QB 216; *R v O ’Donoghue* (1988) 34 A Crim R 397).
+
+8. The question of whether it was clear to the person being arrested that they were under compulsion is a question of fact dependant on the circumstances of the case (*R v Inwood* [1973] 2 All ER 645).
+
+
+
+Communication of reason for arrest
+
+
+---
+
+
+## 8.14 Common Law Elements of Lawful Arrest
+
+9. A person (including a police officer) must inform the person being arrested, at the time of the arrest, of the offence or facts constituting an offence, for which they are being arrested (*Christie v **Leachinsky* [1947] AC 573; *Adams v Kennedy* (2000) 49 NSWLR 78; *R v Tipping* [2019] SASCFC 41).
+
+10. The reason given must be the true reason. A person cannot keep the reason for arrest to himself or herself, or give a reason which is not the true reason (*Christie v **Leachinsky* [1947] AC 573).
+
+11. An arrest for the mere purpose of questioning is unlawful (*Bales v Parmenter* (1935) SR (NSW) 182).
+
+12. The reason for arrest does not need to be communicated using technical or precise language (*Christie v **Leachinsky* [1947] AC 573).
+
+13. In certain circumstances, the accused will be excused from immediately informing the person being arrested, for example:
+
+
+
+- if the other person resists arrest or absconds (*Christie v **Leachinsky* [1947] AC 573);
+
+- if the circumstances of the arrest are such that the offence or reason for arrest is apparent to the other person (*Christie v **Leachinsky* [1947] AC 573); or
+
+- if the other person is unable to understand the reason because of disability, intoxication or lack of English language skills, as long as the accused does all that a reasonable person would do in such circumstances (*Tims v John Lewis & Co Ltd* [1952] AC 676).
+
+
+
+14. In these circumstances, a person (including a police officer) must inform the person being arrested of the reason for the arrest at the earliest reasonable opportunity (*Christie v **Leachinsky* [1947] AC 573).
+
+15. In assessing the second exception described above, the focus must be on the circumstances of the arrest itself, rather than the subjective knowledge of the arrested person. The prosecution must show that, in the circumstance, the other person must have known the reason for the arrest (*State of NSW v Delly* (2007) 70 NSWLR 125).
+
+
+
+Last updated: 7 August 2025
+
+
+---
+
+---
+
+# Chapter 8.14.1
+
+
+## 8.14.1 Charge: Arrest when Person Found Committing an Offence
+
+# **8.14.1 Charge: Arrest when Person Found Committing an Offence**
+
+[*This charge is designed to be given as part of the “without lawful excuse” element in *7.4.17.1 Charge: False Imprisonment* or *7.4.8.1 Charge: Assault – Application of Force* where there is evidence from which a jury might infer that the accused was acting in accordance with *Crimes Act 1958* s 458(1)(a) to perform a lawful arrest. Where lawful arrest is raised in relation to other offences, it should be adapted as required.*
+
+*If the basis for the lawful arrest relates to *Crimes Act 1958* s 459, see *8.14.2 Charge: Police arrest due to an indictable offence* or *8.14.3 Charge: Protective Services Officer arrest due to an indictable offence*.*
+
+*If the basis for the lawful arrest relates to *Crimes Act 1958 s* 458(1)(b) or (c), this charge must be modified accordingly.*]
+
+
+
+## Lawful excuse
+
+This element relates to the argument that NOA was performing a lawful arrest when s/he [*insert relevant act*].
+
+To explain this element, I’m first going to give you some background on the power of police to arrest a person, and then explain the legal components of a lawful arrest.
+
+
+---
+
+
+## 8.14.1 Background
+
+## Background
+
+As a free and democratic society, all people are protected from arbitrary arrest and detention. The law gives all people, police and non-police alike, certain powers to arrest a person in order to prevent crime, these powers can only be exercised in limited and defined circumstances.
+
+An arrest occurs when a person has made it plain to another person that the other person is no longer a free person. As part of this, the first person must inform the other person that the other person is arrested and the reason for the arrest. This is often done by saying something like “Mr Smith, I am arresting you because you are committing” and then identifying the crime in question.
+
+It is not always necessary to spell this out. In some cases, it may be obvious from the circumstances why the person is being arrested. It is also not necessary to immediately inform the other person if that other person makes it impractical to do so, such as by running away. When informing the other person, a person does not need to use technical or precise language. The focus is on whether the other person has been adequately informed of the reason for the arrest.
+
+As I said, an arrest involves making it plain that the other person is not free to go. If someone gives the impression that the other person is free to refuse a request, or free to leave, then there is no arrest. In other words, whether there is an arrest may depend on the words and actions of those involved, and the surrounding circumstances.
+
+One limit on the power to arrest a person is that there must be a valid reason for the arrest. A desire to question a person is not a valid reason.
+
+
+---
+
+
+## 8.14.1 Components of lawful arrest
+
+## Components of lawful arrest
+
+I’m now going to explain the components of a lawful arrest.
+
+The accused will have lawfully arrested NOC if:
+
+
+
+- NOA found NOC committing an offence; and
+
+- NOA believed on reasonable grounds that arrest was necessary for a lawful reason; and
+
+- NOA, where possible, informed NOC that [he/she] was under arrest; and
+
+- NOA, where possible, informed NOC of the reason for the arrest; and
+
+- any force the accused used was proportionate.
+
+
+
+To prove that NOA was acting without lawful excuse, the prosecution must **disprove **at least one of these five components of a lawful arrest.
+
+The prosecution argues that the [*identify component numbers, **e.g.* "first and third"] components of a lawful excuse did not exist. I will now explain those components in more detail.
+
+***Note****: The judge should only direct on those parts of a lawful arrest which are in issue.*
+
+
+---
+
+
+## 8.14.1 Found committing an offence
+
+## Found committing an offence
+
+The [***insert ******number***] **way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt that NOA did not find NOC committing an offence.
+
+The law gives a wide meaning to the idea of finding a person committing an offence. It covers the situation where the accused sees a person committing an offence. It also covers the situation where the accused finds a person [acting/behaving/in circumstances] so as to create a reasonable belief that the person committed an offence.
+
+The prosecution argues that NOA did not find NOC committing an offence. The defence dispute this and say that NOA did find NOC committing [*identify relevant offence*].
+
+[*Summarise** evidence and arguments relating to circumstances in which NOC was found when NOA effected the arrest.*]
+
+
+---
+
+
+## 8.14.1 Belief on reasonable grounds that arrest was necessary
+
+## Belief on reasonable grounds that arrest was necessary
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that the accused was not performing a lawful arrest is to prove, beyond reasonable doubt, that the accused did not believe on reasonable grounds that arrest was necessary for a lawful reason.
+
+This component looks at the basis for the arrest. The basis must be lawful and the accused must have believed on reasonable grounds that it was necessary to arrest NOC on that basis.
+
+For this purpose, an arrest is lawful if it is necessary:
+
+
+
+- to ensure the person attends before a court; or
+
+- to preserve public order; or
+
+- to prevent the continuation or repetition of the offence or the commission of a further offence; or
+
+- for the safety or welfare of members of the public or of the other person.
+
+
+
+There is an important difference between a belief and a suspicion. The accused must have actually believed that NOC had committed an indictable offence. A state of mind such as “I think s/he might have committed an offence” or “I suspect s/he has committed an offence” is not sufficient. A belief means thinking something is true, even if there is still some uncertainty. A belief is a more certain state of mind than a suspicion, but does not depend on concrete proof.
+
+There must also be reasonable grounds for that belief. This means that the accused must have known facts which would be sufficient to cause a reasonable person to also believe that the other person had committed an offence.
+
+This means you are looking both at what NOA believed, and whether there was a reasonable basis for NOA to believe arrest was necessary for this purpose.
+
+The prosecution argues that [*identify relevant prosecution evidence and arguments*]. The defence respond by saying [*identify relevant **defence** evidence and arguments*].
+
+If you are satisfied NOA did not believe it was necessary to arrest NOC to [*identify relevant lawful purposes of arrest*] or that NOA did not have a reasonable basis for that belief, then you must find that NOA was not performing a lawful arrest.
+
+
+---
+
+
+## 8.14.1 Communication of arrest
+
+## Communication of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate to NOC that [he/she] was being arrested.
+
+NOA must have done everything a reasonable person in the circumstances would have done to inform NOC that [he/she] was under arrest. NOC must have understood that the [he/she] was acting under compulsion and not voluntarily.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating to the other person that they were under arrest, add the following shaded section.*]
+
+In certain circumstances, a person will be excused from immediately informing the other person that they are under arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away;
+
+- if the circumstances of the arrest are such that it is apparent to the other person that they are under arrest;
+
+- if the other person is unable to understand that they are under arrest because of disability, intoxication or lack of English language skills, as long as the accused does all that a reasonable person would do in such circumstances
+
+
+
+In these circumstances, the other person must be informed that they are under arrest at the earliest reasonable opportunity.
+
+[*Summarise** evidence and arguments about whether NOA communicated that the arrestee was under arrest.*]
+
+
+---
+
+
+## 8.14.1 Communication of reason for arrest
+
+## Communication of reason for arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate the reason for the arrest.
+
+The accused did not need to use precise or technical language. It is sufficient if NOA informed NOC of the facts constituting the alleged offence.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating the reason for the arrest, add the following shaded section.*]
+
+In certain circumstances, a person will be excused from immediately informing the other person that they are under arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away;
+
+- if the circumstances of the arrest are such that it is apparent to the other person that they are under arrest;
+
+- if the other person is unable to understand that they are under arrest because of disability, intoxication or lack of English language skills, as long as the accused does all that a reasonable person would do in such circumstances
+
+
+
+In these circumstances, the other person must be informed that they are under arrest at the earliest reasonable opportunity.
+
+[*Summarise** relevant evidence and arguments.*]
+
+
+---
+
+
+## 8.14.1 Use of force not disproportionate to objective of arrest
+
+## Use of force not disproportionate to objective of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA used excessive force.
+
+The right to use force for the purpose of an arrest only authorises using the amount of force reasonably necessary to carry out the arrest. The force must not be disproportionate to the objective of the arrest.
+
+For this component, you must look at whether the force used was disproportionate objectively. That is, you decide whether the force used was proportionate. You are not deciding whether NOA thought the force used was proportionate.
+
+[*Summarise** evidence and arguments about force used to effect arrest.*]
+
+
+---
+
+
+## 8.14.1 Relate law to the evidence
+
+## Relate law to the evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+**To ****summarise**, for this element, the prosecution must prove that NOA was not exercising a lawful power of arrest. Based on the evidence, this means the prosecution must prove that NOA did not:
+
+[*Identify only those matters that are in issue:*
+
+
+
+- find NOC committing an offence;
+
+- believe on reasonable grounds that arrest was necessary for a lawful reason;
+
+- inform NOC that he or she was under arrest;
+
+- inform NOC of the reason for the arrest; or
+
+- only use force that was proportionate to the objective of the arrest.]
+
+
+
+Unless you find that the prosecution has disproved one or more of these matters beyond reasonable doubt, you must find NOA not guilty of [*insert* *offence*].
+
+Remember, it is for the prosecution to prove, beyond reasonable doubt, that the accused acted without lawful excuse by showing that he/she was **not **performing a lawful arrest. NOA does not need to prove that [he/she] was performing a lawful arrest.
+
+Last updated: 17 May 2019
+
+
+---
+
+---
+
+# Chapter 8.14.2
+
+
+## 8.14.2 Charge: Police Arrest Due to an Indictable Offence
+
+# **8.14.2 Charge: Police Arrest Due to an Indictable Offence**
+
+[*This charge is designed to be given as part of the “without lawful excuse” element in *7.4.17.1 Charge: False Imprisonment* or *7.4.8.1 Charge: Assault – Application of Force* where there is evidence from which a jury might infer that the accused was acting in accordance with *Crimes Act 1958 *s 459 to perform a lawful arrest. Where lawful arrest is raised in relation to other offences, it should be adapted as required.*
+
+*If the case involves a protective services officer, see *8.14.3 Charge: Protective services officer arrest due to an indictable offence*.*
+
+*If the basis for the lawful arrest relates to *Crimes Act 1958* s 458, see *8.14.1 Charge: Arrest when person found committing an offence*.*]
+
+
+
+## Lawful excuse
+
+This element relates to the argument that NOA was performing a lawful arrest when s/he [*insert relevant act*].
+
+To explain this element, I’m first going to give you some background on the power of police to arrest a person, and then explain the legal components of a lawful arrest.
+
+
+---
+
+
+## 8.14.2 Background
+
+## Background
+
+As a free and democratic society, all people are protected from arbitrary arrest and detention. While the law gives police certain powers as part of their role, including the power to arrest a person, that power can only be exercised in limited and defined circumstances.
+
+An arrest occurs when a police officer has made it plain to another person that the other person is no longer a free person. As part of this, the police officer must inform the other person that the person is arrested and the reason for the arrest. This is often done by saying something like “Mr Smith, I am arresting you on suspicion of committing” and then identifying the crime in question.
+
+It is not always necessary to spell this out. In some cases, it may be obvious from the circumstances why the person is being arrested, such as if the person is in the process of committing an offence. It is also not necessary to immediately inform the other person if that other person makes it impractical to do so, such as by running away. When informing the other person, the police officer does not need to use technical or precise language. The focus is on whether the other person has been adequately informed of the reason for the arrest.
+
+As I said, an arrest involves making it plain that the other person is not free to go. If a police officer gives the impression that the other person is free to refuse a request, or free to leave, then there is no arrest. In other words, whether there is an arrest may depend on the words and actions of those involved, and the surrounding circumstances.
+
+One limit on the power to arrest a person is that there must be a valid reason for the arrest. A desire to question a person is not a valid reason.
+
+
+---
+
+
+## 8.14.2 Components of lawful arrest
+
+## Components of lawful arrest
+
+I’m now going to explain the components of a lawful arrest.
+
+The accused will have lawfully arrested NOC if:
+
+
+
+- NOA was a police officer;
+
+- NOA believed on reasonable grounds that the other person has committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria;
+
+- NOA, where possible, informed NOC that [he/she] was under arrest;
+
+- NOA, where possible, informed NOC of the reason for the arrest; and
+
+- any force the accused used was proportionate.
+
+
+
+To prove that NOA was acting without lawful excuse, the prosecution must **disprove **at least one of these five components of a lawful arrest.
+
+The prosecution argues that the [*identify component numbers, **e.g.** **"*first and third"] components of a lawful excuse did not exist. I will now explain those components in more detail.
+
+***Note****: The judge should only direct on those parts of a lawful arrest which are in issue.*
+
+
+---
+
+
+## 8.14.2 Police Officer
+
+## Police Officer
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt that NOA is not a police officer.
+
+[*Summarise** evidence and arguments relating to whether NOA was a police officer*].
+
+
+---
+
+
+## 8.14.2 Belief on reasonable grounds that complainant has committed an indictable offence
+
+## Belief on reasonable grounds that complainant has committed an indictable offence
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not believe on reasonable grounds that NOC committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria].
+
+This component looks at the reason for the arrest. You are looking both at what NOA believed, and whether he/she had a reasonable basis for that belief.
+
+There is an important difference between a belief and a suspicion. The accused must have actually believed that NOC had committed an indictable offence. A state of mind such as “I think s/he might have committed an offence” or “I suspect s/he has committed an offence” is not sufficient. A belief means thinking something is true, even if there is still some uncertainty. A belief is a more certain state of mind than a suspicion, but does not depend on concrete proof.
+
+There must also be reasonable grounds for that belief. This means that the accused must have known facts which would be sufficient to cause a reasonable person to also believe that the other person had committed an offence.
+
+Finally, the accused must have believed that the other person had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria]. A general belief that the other person had done something wrong is not enough. The accused must have believed on reasonable grounds that the other person had committed a specific offence, such as [*identify relevant offences*]. I direct you as a matter of law that [*identify relevant offences*] are [Victorian indictable offences/offences that would be indictable offences if committed in Victoria].
+
+[*If relevant, add the following shaded section on arrest for a collateral purpose.*]
+
+When you are considering this issue, you must look at NOA’s real reason for the arrest. You have heard the prosecutor argue that [*refer to prosecution case on collateral reason for arrest*]. If you are satisfied beyond reasonable doubt that NOA only arrested NOC because [*insert collateral reason*], and later invented the explanation that NOC was [*identify relevant offence*], then the prosecution have proved that NOA did not believe, at the time of the arrest, that NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria].
+
+
+---
+
+
+## 8.14.2 Belief on reasonable grounds that complainant has committed an indictable offence
+
+[*Summarise** evidence and arguments about whether NOA believed on reasonable grounds that NOC committed an indictable offence in Victoria/an offence elsewhere that would be an indictable offence in Victoria*].
+
+If you are satisfied NOA did not believe NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria] or that NOA did not have a reasonable basis for that belief, then you must find that NOA was not performing a lawful arrest.
+
+
+---
+
+
+## 8.14.2 Communication of arrest
+
+## Communication of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate to NOC that [he/she] was being arrested.
+
+NOA must have done everything a reasonable person in the circumstances would have done to inform NOC that [he/she] was under arrest. NOC must have understood that the [he/she] was acting under compulsion and not voluntarily.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating to the other person that they were under arrest, add the following shaded section.*]
+
+In certain circumstances, a police officer will be excused from immediately informing the other person that they are under arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away;
+
+- if the circumstances of the arrest are such that it is apparent to the other person that they are under arrest;
+
+- if the other person is unable to understand that they are under arrest because of disability, intoxication or lack of English language skills, as long as the police officer does all that a reasonable person would do in such circumstances.
+
+
+
+In these circumstances, the other person must be informed that they are under arrest at the earliest reasonable opportunity.
+
+[*Summarise** evidence and arguments about whether NOA communicated that the arrestee was under arrest.*]
+
+
+---
+
+
+## 8.14.2 Communication of reason for arrest
+
+## Communication of reason for arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate the reason for the arrest.
+
+The accused did not need to use precise or technical language. It is sufficient if NOA informed NOC of the facts constituting the alleged offence.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating the reason for the arrest, add the following shaded section.*]
+
+In certain circumstances, a police officer will be excused from immediately informing the other person of the reason for the arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away
+
+- if the circumstances of the arrest are such that the offence or reason for arrest is apparent to the other person;
+
+- if the other person is unable to understand the reason because of disability, intoxication or lack of English language skills, as long as the police officer does all that a reasonable person would do in such circumstances.
+
+
+
+In these circumstances, the other person must be informed of the reason for the arrest at the earliest reasonable opportunity.
+
+[*Summarise** relevant evidence and arguments.*]
+
+
+---
+
+
+## 8.14.2 Use of force not disproportionate to objective of arrest
+
+## Use of force not disproportionate to objective of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA used excessive force.
+
+The right to use force for the purpose of an arrest only authorises using the amount of force reasonably necessary to carry out the arrest. The force must not be disproportionate to the objective of the arrest.
+
+For this component, you must look at whether the force used was disproportionate objectively. That is, you decide whether the force used was proportionate. You are not deciding whether NOA thought the force used was proportionate.
+
+[*Summarise** evidence and arguments about force used to effect arrest.*]
+
+
+---
+
+
+## 8.14.2 Relate law to the evidence
+
+## Relate law to the evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+**To ****summarise**, for this element, the prosecution must prove that NOA was not exercising a lawful power of arrest. Based on the evidence, this means the prosecution must prove that NOA:
+
+[*Identify only those matters that are in issue:*
+
+
+
+- was not a police officer;
+
+- did not believe on reasonable grounds that NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria];
+
+- did not inform NOC that he or she was under arrest;
+
+- did not inform NOC of the reason for the arrest; or
+
+- did not only use force that was proportionate to the objective of the arrest.]
+
+
+
+Unless you find that the prosecution has disproved one or more of these matters beyond reasonable doubt, you must find NOA not guilty of [*insert* *offence*].
+
+Remember, it is for the prosecution to prove, beyond reasonable doubt, that the accused acted without lawful excuse by showing that he/she was **not **performing a lawful arrest. NOA does not need to prove that [he/she] was performing a lawful arrest.
+
+Last updated: 17 May 2019
+
+
+---
+
+---
+
+# Chapter 8.14.3
+
+
+## 8.14.3 Charge: Protective Services Officer Arrest Due to an Indictable Offence
+
+# **8.14.3 Charge: Protective Services Officer Arrest Due to an Indictable Offence**
+
+[*This charge is designed to be given as part of the “without lawful excuse” element in *7.4.17.1 Charge: False Imprisonment* or *7.4.8.1 Charge: Assault – Application of Force* where there is evidence from which a jury might infer that the accused was acting in accordance with Crimes Act 1958 s 459 to perform a lawful arrest. Where lawful arrest is raised in relation to other offences, it should be adapted as required.*
+
+*If the case involves a police officer, see *8.14.1 Charge: Police arrest due to an indictable offence*.*
+
+If the basis for the lawful arrest relates to Crimes Act 1958 s 458, see 8.14.2 Charge: Arrest when person found committing an offence.]
+
+
+
+## Lawful excuse
+
+This element relates to the argument that NOA was performing a lawful arrest when s/he [*insert relevant act*].
+
+To explain this element, I’m first going to give you some background on the power of protective services officers to arrest a person, and then explain the legal components of a lawful arrest.
+
+
+---
+
+
+## 8.14.3 Background
+
+## Background
+
+As a free and democratic society, all people are protected from arbitrary arrest and detention. While the law gives protective services officers certain powers as part of their role, including the power to arrest a person, that power can only be exercised in limited and defined circumstances.
+
+An arrest occurs when a protective services officer has made it plain to another person that the other person is no longer a free person. As part of this, the protective services officer must inform the other person that the person is arrested and the reason for the arrest. This is often done by saying something like “Mr Smith, I am arresting you on suspicion of committing” and then identifying the crime in question.
+
+It is not always necessary to spell this out. In some cases, it may be obvious from the circumstances why the person is being arrested, such as if the person is in the process of committing an offence. It is also not necessary to immediately inform the other person if that other person makes it impractical to do so, such as by running away. When informing the other person, the protective services officer does not need to use technical or precise language. The focus is on whether the other person has been adequately informed of the reason for the arrest.
+
+As I said, an arrest involves making it plain that the other person is not free to go. If a protective services officer gives the impression that the other person is free to refuse a request, or free to leave, then there is no arrest. In other words, whether there is an arrest may depend on the words and actions of those involved, and the surrounding circumstances.
+
+One limit on the power to arrest a person is that there must be a valid reason for the arrest. A desire to question a person is not a valid reason.
+
+
+---
+
+
+## 8.14.3 Components of lawful arrest
+
+## Components of lawful arrest
+
+I’m now going to explain the components of a lawful arrest.
+
+The accused will have lawfully arrested NOC if:
+
+
+
+- NOA was a protective services officer;
+
+- NOA delivered NOC to the custody of a police officer as soon as practicable;
+
+- NOC was at or in the vicinity of a designated place;
+
+- NOA believed on reasonable grounds that the other person has committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria];
+
+- NOA, where possible, informed NOC that [he/she] was under arrest;
+
+- NOA, where possible, informed NOC of the reason for the arrest; and
+
+- any force the accused used was proportionate.
+
+
+
+To prove that NOA was acting without lawful excuse, the prosecution must **disprove **at least one of these seven components of a lawful arrest.
+
+The prosecution argues that the [*identify component numbers**, **e.g.* “first and third”] components of a lawful excuse did not exist. I will now explain those components in more detail.
+
+***Note****: The judge should only direct on those parts of a lawful arrest which are in issue.*
+
+
+---
+
+
+## 8.14.3 Protective Services Officer
+
+## Protective Services Officer
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt that NOA is not a protective services officer.
+
+[*Summarise** evidence and arguments relating to whether NOA was a protective services officer.*]
+
+
+---
+
+
+## 8.14.3 Delivery to police officer
+
+## Delivery to police officer
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove that NOA did not deliver NOC to the custody of a police officer as soon as practicable.
+
+[*Summarise** evidence and arguments about whether NOC was delivered to the custody of a police officer as soon as practicable.*]
+
+
+---
+
+
+## 8.14.3 Designated place
+
+## Designated place
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove that NOC was not at or in the vicinity of a “designated place”.
+
+The law states that protective services officers can only exercise powers of arrest at certain designated places. In this case, the relevant designated place is [*identify relevant evidence concerning a designated place*].
+
+The prosecution argues that NOC was not at or in the vicinity of [*identify designated place*].
+
+[*Summarise** evidence and arguments about whether NOC was at or in the vicinity of a designated place.*]
+
+
+---
+
+
+## 8.14.3 Belief on reasonable grounds that complainant has committed an indictable offence
+
+## Belief on reasonable grounds that complainant has committed an indictable offence
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not believe on reasonable grounds that NOC committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria].
+
+This component looks at the reason for the arrest. You are looking both at what NOA believed, and whether he/she had a reasonable basis for that belief.
+
+There is an important difference between a belief and a suspicion. The accused must have actually believed that NOC had committed an indictable offence. A state of mind such as “I think s/he might have committed an offence” or “I suspect s/he has committed an offence” is not sufficient. A belief means thinking something is true, even if there is still some uncertainty. A belief is a more certain state of mind than a suspicion, but does not depend on concrete proof.
+
+There must also be reasonable grounds for that belief. This means that the accused must have known facts which would be sufficient to cause a reasonable person to also believe that the other person had committed an offence.
+
+Finally, the accused must have believed that the other person had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria]. A general belief that the other person had done something wrong is not enough. The accused must have believed on reasonable grounds that the other person had committed a specific offence, such as [*identify relevant offences*]. I direct you as a matter of law that [*identify relevant offences*] are [Victorian indictable offences/offences that would be indictable offences if committed in Victoria].
+
+[*If relevant, add the following shaded section on arrest for a collateral purpose.*]
+
+When you are considering this issue, you must look at NOA’s real reason for the arrest. You have heard the prosecutor argue that [*refer to prosecution case on collateral reason for arrest*]. If you are satisfied beyond reasonable doubt that NOA only arrested NOC because [*insert collateral reason*], and later invented the explanation that NOC was [*identify relevant offence*], then the prosecution have proved that NOA did not believe, at the time of the arrest, that NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria].
+
+
+---
+
+
+## 8.14.3 Belief on reasonable grounds that complainant has committed an indictable offence
+
+[*Summarise** evidence and arguments about whether NOA believed on reasonable grounds that NOC committed an indictable offence in Victoria/an offence elsewhere that would be an indictable offence in Victoria.*]
+
+If you are satisfied NOA did not believe NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria] or that NOA did not have a reasonable basis for that belief, then you must find that NOA was not performing a lawful arrest.
+
+
+---
+
+
+## 8.14.3 Communication of arrest
+
+## Communication of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate to NOC that [he/she] was being arrested.
+
+NOA must have done everything a reasonable person in the circumstances would have done to inform NOC that [he/she] was under arrest. NOC must have understood that the [he/she] was acting under compulsion and not voluntarily.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating to the other person that they were under arrest, add the following shaded section.*]
+
+In certain circumstances, a protective services officer will be excused from immediately informing the NOC that they are under arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away;
+
+- if the circumstances of the arrest are such that it is apparent to the other person that they are under arrest;
+
+- if the other person is unable to understand that they are under arrest because of disability, intoxication or lack of English language skills, as long as the protective services officer does all that a reasonable person would do in such circumstances
+
+
+
+In these circumstances, the other person must be informed that they are under arrest at the earliest reasonable opportunity.
+
+[*Summarise** evidence and arguments about whether NOA communicated that the arrestee was under arrest.*]
+
+
+---
+
+
+## 8.14.3 Communication of reason for arrest
+
+## Communication of reason for arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA did not communicate the reason for the arrest.
+
+The accused did not need to use precise or technical language. It is sufficient if NOA informed NOC of the facts constituting the alleged offence.
+
+[*If there is evidence to suggest that the accused was prevented in any way from communicating the reason for the arrest, add the following shaded section.*]
+
+In certain circumstances, a protective services officer will be excused from immediately informing the other person of the reason for the arrest. These circumstances include:
+
+
+
+- if the other person resists arrest or runs away;
+
+- if the circumstances of the arrest are such that the offence or reason for arrest is apparent to the other person;
+
+- if the other person is unable to understand the reason because of disability, intoxication or lack of English language skills, as long as the protective services officer does all that a reasonable person would do in such circumstances
+
+
+
+In these circumstances, the other person must be informed of the reason for the arrest at the earliest reasonable opportunity.
+
+[*Summarise** relevant evidence and arguments.*]
+
+
+---
+
+
+## 8.14.3 Use of force not disproportionate to objective of arrest
+
+## Use of force not disproportionate to objective of arrest
+
+The **[*****insert ******number*****] way** in which the prosecution can prove that NOA was not performing a lawful arrest is to prove, beyond reasonable doubt, that NOA used excessive force.
+
+The right to use force for the purpose of an arrest only authorises using the amount of force reasonably necessary to carry out the arrest. The force must not be disproportionate to the objective of the arrest.
+
+For this component, you must look at whether the force used was disproportionate objectively. That is, you decide whether the force used was proportionate. You are not deciding whether NOA thought the force used was proportionate.
+
+[*Summarise** evidence and arguments about force used to effect arrest.*]
+
+
+---
+
+
+## 8.14.3 Relate law to the evidence
+
+## Relate law to the evidence
+
+[*If not previously done, apply the law to the relevant evidence here.*]
+
+
+
+## Summary
+
+**To ****summarise**, for this element, the prosecution must prove that NOA was not exercising a lawful power of arrest. Based on the evidence, this means the prosecution must prove that NOA:
+
+[*Identify only those matters that are in issue:*
+
+
+
+- was not a protective services officer;
+
+- did not deliver NOC to the custody of a police officer as soon as practicable;
+
+- did not arrest NOC at or in the vicinity of a designated place;
+
+- did not believe on reasonable grounds that NOC had committed an [indictable offence in Victoria/offence elsewhere which would be an indictable offence in Victoria];
+
+- did not inform NOC that he or she was under arrest;
+
+- did not inform NOC of the reason for the arrest; or
+
+- did not only use force that was proportionate to the objective of the arrest.]
+
+
+
+Unless you find that the prosecution has disproved one or more of these matters beyond reasonable doubt, you must find NOA not guilty of [*insert* *offence*].
+
+Remember, it is for the prosecution to prove, beyond reasonable doubt, that the accused acted without lawful excuse by showing that he/she was **not **performing a lawful arrest. NOA does not need to prove that [he/she] was performing a lawful arrest.
+
+Last updated: 17 May 2019
+
+
+---

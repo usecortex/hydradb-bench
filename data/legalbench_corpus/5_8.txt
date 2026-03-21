@@ -1,0 +1,1043 @@
+# Chapter 5.8
+
+
+## 5.8 Commonwealth Joint Commission (s 11.2A)
+
+# 5.8 Commonwealth Joint Commission (s 11.2A)
+
+
+
+## General Principles
+
+
+
+1. Criminal Code s 11.2A(1) provides that:
+
+
+
+(1) If:
+
+(a) a person and at least one other party enter into an agreement to commit an offence; and
+
+(b) either:
+
+(i) an offence is committed in accordance with the agreement …; or
+
+(ii) an offence is committed in the course of carrying out the agreement …;
+
+the person is taken to have committed the joint offence … and is punishable accordingly.
+
+
+
+2. Section 11.2A does not create an offence, but extends criminal responsibility to all those who enter into an agreement to commit an offence (*Franze v R* [2014] VSCA 352 [97]). It codifies the law of joint criminal enterprise (s 11.2A(1)(b)(i)) and extended common purpose (s 11.2A(1)(b)(ii)) (see *R v Franze (Ruling No 2)* (2013) 37 VR 101 [20]; *Masri v R* [2015] NSWCCA 243 [1]).
+
+3. Section 11.2A applies to offences committed after 20 February 2010. It was introduced with the *Crimes Legislation Amendment (Serious and Organised Crime) Act 2010* (Cth) after it was recognised that, prior to the amendment, the Code lacked any provision extending criminal liability in circumstances involving an agreement to commit an offence (*Handlen v R; Paddison v R* (2011) 245 CLR 282 [1]).
+
+
+---
+
+
+## 5.8 Liability
+
+## Liability
+
+
+
+1. Section 11.2A of the *Code *provides two forms of liability for joint commission. The first form of liability is an analogue to joint criminal enterprise. The prosecution must prove, beyond reasonable doubt, that:
+
+1. The accused entered into an agreement with at least one other person to commit an offence (the joint offence)
+
+1. The accused and at least one other party to the agreement intended that the joint offence would be committed under the agreement
+
+2. The joint offence was committed in accordance with the agreement (ss 11.2A(1), (2), (4); Tartaglia v The Queen (2022) 367 FLR 149).
+
+2. This form of liability is referred to in this topic as joint commission of an offence in accordance with an agreement.
+
+3. The second form of liability is a statutory analogue to extended common purpose and covers the situation where there is divergence between the agreement and the committed offence. Proof of this form of liability requires the prosecution to show, beyond reasonable doubt, that:
+
+1. The accused entered into an agreement with at least one other person to commit an offence (the foundational offence)
+
+3. The accused and at least one other party to the agreement intended that an offence would be committed under the agreement
+
+4. The accused was reckless about the commission of a different offence (the charged offence) that another party in fact committed in the course of carrying out the agreement (ss 11.2A(1), (3), (4)).
+
+4. This form of liability is referred to in this topic as joint commission of an offence in the course of carrying out an agreement.
+
+5. An accused may be found guilty of jointly committing an offence even if they were not present while any of the conduct constituting the offence charged was engaged in (*Criminal Code* s 11.2A(7)(b)).
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+## Joint Commission of an offence in accordance with an agreement
+
+
+
+## Agreement to Commit an Offence
+
+
+
+1. The first matter the prosecution must prove is that the accused and at least one other party entered into an agreement to commit an offence (*Criminal Code* s 11.2A(1)(a)).
+
+2. The agreement must be entered into before or at the same time as the acts or omissions constituting the charged offence (*Criminal Code *s 11.2A(5)(b)).
+
+3. Other than specifying that the agreement may be a non-verbal understanding (Criminal Code s 11.2A(5)(a)), the Code does not define ‘agreement’. The scope of the term is likely to be informed by common law principles in relation to joint criminal enterprise. For details, see ‘Agreement to Pursue a Joint Enterprise to Commit a Crime’ in 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+4. This is consistent with the common law position (see *McAuliffe v The Queen* (1995) 183 CLR 108).
+
+5. The agreed criminal conduct must be capable of definition with some degree of certainty (*R v Franze (Ruling No 1)* (2013) 37 VR 101; Weng v R [2013] VSCA 221, [71]).
+
+
+
+### Parties with a mental impairment
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+6. At common law, it was possible for a person who could not understand that his or her actions were wrong to still be part of an agreement to commit an offence. That person’s actions could be attributed to other parties to the agreement, even though the person with the impairment may not be criminally liable for the offence because he or she was suffering from a mental impairment (*Matusevich v The Queen *(1977) 137 CLR 633; *Osland v The Queen *(1998) 197 CLR 316).
+
+7. In *Matusevich*, Aicken J (Stephen, Mason, Murphy JJ agreeing) noted that careful directions would be required in such a situation. The jury would need to consider whether the party alleging a mental impairment understood the nature and quality of what he or she did to contribute to the agreement. If he or she did not have that understanding, there could be no joint commission, because there could be no agreement. However, if he or she could understand the nature of their activity but could not understand that it was *wrong*, he or she could nevertheless form an agreement.
+
+8. In some cases, it may be more appropriate for the prosecution to place a charge under s 11.3 of the *Code*, commission by proxy.
+
+
+
+## Intention
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+9. The second matter the prosecution must prove is that the accused and at least one other party to the agreement intended that an offence would be committed under the agreement.
+
+10. Section 5.2 of the Code defines intention and identifies that a person can have intention with respect to conduct, a circumstance or a result. The drafting of s 11.2A(4) suggests that the relevant form of intention is intention with respect to result. That is, the prosecution must show that the accused meant to bring about the commission of an offence when they entered into the agreement, or were aware that this would occur in the ordinary course of events (*Criminal Code *s 5.2(3)).
+
+11. Section 11.2A(4) speaks of intention to commit an offence, and is not expressly limited to the offence charged or agreed on. The broad language used is likely due to the fact that the same sub-section applies to intention for offences committed both in accordance with and in the course of carrying out the agreement.
+
+12. At common law, the accused was required to have the state of mind relevant to the agreed offence (*R v Clarke & Johnstone* [1986] VR 643; *Johns v R* (1980) 143 CLR 108; *McAuliffe v R* (1995) 183 CLR 108; *R v Taufahema* [2007] HCA 11; *Likiardopoulos v R* [2010] VSCA 344; *Arafan v R *[2010] VSCA 356). By including a separate element of intention in s 11.2A, it appears that this aspect of the common law does not apply.
+
+13. The most likely interpretation in the context of offences committed in accordance with the agreement is that the accused (and another party to the agreement) must have intended to commit an offence of the same type as the joint offence. This accords with the language of s 11.2A(2)(a).
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+14. Section 11.2A(4) is subject to s 11.2A(8), which states that any special liability provisions that apply to an offence also apply for the purposes of joint commission. This means that the prosecution will not need to establish intention in relation to any physical elements of the offence that are subject to a special liability provision (*R v Franze (Ruling No 1)* [2013] VSC 229 [17]). For further information, see ‘Substantive offences and special liability provisions’ below.
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+## Offence Committed in Accordance with Agreement
+
+
+
+15. The third matter the prosecution must prove is that the offence was committed in accordance with the agreement (Criminal Code s 11.2A(1)(b)(i)).
+
+16. Section 11.2A(2) explains that an offence is committed in accordance with the agreement if:
+
+1. the conduct of one or more of the parties in accordance with the agreement makes up the physical elements of an offence (the joint offence) of the same type as the offence agreed to; and
+
+1. to the extent that a physical element of the joint offence consists of a result of conduct, that result arises from the conduct engaged in; and
+
+2. to the extent that a physical element of the joint offence consists of a circumstance, the conduct engaged in, or a result of the conduct engaged in, occurs in that circumstance.
+
+17. In the context of s 11.2A(2), conduct can either be an act or an omission to perform an act (*Criminal Code* s 4.1).
+
+18. The prosecution will need to prove all physical elements of the offence charged. It will not be sufficient for the prosecution to demonstrate that only some of the physical elements have been completed. If some of the physical elements are incomplete, the prosecution should rely on attempting to commit the relevant offence.
+
+19. The prosecution must also prove that the offence was committed in accordance with the agreement. It must have come within the scope of the parties’ agreement (*R v Jensen and Ward* [1980] VR 196; *R v PDJ* (2002) 7 VR 612; *R v Anderson* [1966] 2 QB 110; *R v Heaney & Ors* [1992] 2 VR 531). Determining whether the offence was within the scope of the agreement will likely rely on common law principles. For further information, see ‘Acts Must have been Within the Scope of the Agreement’ in 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+
+
+### Type of Offence
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in accordance with an agreement
+
+20. An offence is committed in accordance with the agreement if the offence committed is of the ‘same type’ as that which was agreed to (*Criminal Code* s 11.2A(2)(a)).
+
+21. There have not yet been any reported cases examining the meaning of ‘same type’ in s 11.2A. For guidance on what it may include, see 5.7 Commonwealth Complicity (s 11.2).
+
+
+
+## Accused’s Participation
+
+
+
+22. At common law, offending as part of a group required proof of an additional element that the accused participated in the joint enterprise in some way. The prosecution was required to prove that the accused took a step or steps toward committing the agreed offence (*R v Clarke & Johnstone* [1986] VR 643; *R v Lao &* *Nguyen* (2002) 5 VR 129; *Likiardopoulos v R* [2010] VSCA 344; *Arafan v R* [2010] VSCA 356).
+
+23. Several judgments have assumed that this is also a requirement under the Code, though such statements have been obiter (see, e.g. *Romolo v The Queen* [2018] NSWCCA 3, [52]; *R v Franze (No 2)* (2013) 37 VR 101, [20]; *Inegbedion v The Queen* [2013] NSWCCA 291, [52]).
+
+24. Most recently, the South Australian Court of Appeal considered the issue as part of a ground of appeal and held that there is no separate requirement of proving participation as part of offending under s 11.2A. The Court considered there was no textual basis for importing such a requirement, and the principles of statutory interpretation applicable to codes do not support approaching s 11.2A as though it was simply a restatement of the common law. The Court also observed that the conspiracy provisions in s 11.5 do require proof of an overt act as part of a conspiracy, and if Parliament had wanted to include a similar requirement for s 11.2A, it could have done so (*Tartaglia v The Queen* (2022) 367 FLR 149, [51]–[61])..
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in the course of carrying out an agreement
+
+## Joint Commission of an offence in the course of carrying out an agreement
+
+
+
+1. Section 11.2A(3) provides for the situation where, in the course of carrying out an agreement to commit one offence, a different offence is committed. In this situation, the accused is guilty of the charged offence if:
+
+1. He or she entered into an agreement with at least one other person to commit an offence (the foundational offence)
+
+1. He or she and at least one other party to the agreement intended that an offence would be committed under the agreement
+
+2. He or she was reckless about the commission of a different offence (the charged offence) that another party in fact committed in the course of carrying out the agreement (ss 11.2A(1), (3), (4)).
+
+
+
+## Agreement to Commit an Offence
+
+
+
+2. As with joint commission in accordance with an agreement, the first matter the prosecution must prove is that the accused and at least one other party entered into an agreement to commit an offence (the foundational offence) (*Criminal Code* s 11.2A(1)(a)).
+
+3. The same principles as those discussed above in relation to joint commission in accordance with an agreement apply here.
+
+
+
+## Intention
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in the course of carrying out an agreement
+
+4. The second matter the prosecution must prove is that the accused and at least one other party to the agreement must have intended that an offence would be committed under the agreement.
+
+5. Section 5.2 of the Code defines intention and identifies that a person can have intention with respect to conduct, a circumstance or a result. The drafting of s 11.2A(4) suggests that the relevant form of intention is intention with respect to result. That is, the prosecution must show that the accused meant to bring about the commission of an offence when they entered into the agreement, or be aware that this would occur in the ordinary course of events (*Criminal Code* s 5.2(3)).
+
+6. Section 11.2A(4) speaks of intention to commit an offence, and is not expressly limited to the offence charged or agreed on. This could mean that the intention relates to either the foundational or charged offence. The broad language used is likely due to the fact that the same sub-section applies to intention for offences committed both in accordance with and in the course of carrying out the agreement.
+
+7. In the absence of case authority, this Charge Book adopts the view that, to establish intention in relation to joint commission of an offence committed in the course of an agreement, the accused (and another party to the agreement) must have intended to commit an offence of the same type as the foundational offence, which accords with the language of s 11.2A(2)(a). This is because recklessness is the relevant form of fault with respect to the charged offence.
+
+8. Section 11.2A(4) is subject to s 11.2A(8), which states that any special liability provisions that apply to an offence also apply for the purposes of joint commission. This means that the prosecution will not need to establish intention in relation to any physical elements of the foundational offence that are subject to a special liability provision (see *R v Franze (Ruling No 1)* [2013] VSC 229 [17]). For further information, see below under ‘Substantive offences and special liability provisions’.
+
+
+
+## Offence Committed in the Course of Carrying out Agreement
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in the course of carrying out an agreement
+
+9. The third matter the prosecution must prove is that the accused was reckless about the commission of a different offence (the charged offence) that another party in fact committed in the course of carrying out the agreement (*Criminal Code* s 11.2A(1)(b)(i)).
+
+10. There are two aspects of this. First, the prosecution must prove that the charged offence was committed; and second, they must prove that the accused was reckless about the commission of the charged offence.
+
+
+
+### Offence committed
+
+
+
+11. At common law, proving an offence was committed via extended common purpose required the prosecution to demonstrate that one or more parties to the agreement performed the acts necessary to commit the offence charged, and had the necessary mental state. Nothing in the text of s 11.2A suggests that Commonwealth joint commission intends to depart from that position.
+
+12. This Charge Book adopts the view that, consistently with common law, to establish that an offence was committed in accordance with an agreement under s 11.2A(3) the prosecution must demonstrate that all of the physical elements of the offence charged were committed, and that the principal offender(s) had the necessary fault elements for that offence.
+
+13. It is not necessary for the principal offender(s) to have been prosecuted or found guilty before an accused may be found guilty of the joint offence (*Criminal Code* s 11.2A(7)(a)).
+
+
+
+### Recklessness as to the offence committed
+
+
+---
+
+
+## 5.8 Joint Commission of an offence in the course of carrying out an agreement
+
+14. The prosecution must also prove that the accused was reckless about the commission of the charged offence; the offence that was actually committed.
+
+15. A person is reckless when they are aware of a substantial risk that a result or circumstance will occur, and it is unjustifiable for them to take that risk given the circumstances known to them (*Criminal Code *s 5.4).
+
+16. At common law, the accused must have foreseen the possibility of the offence charged occurring (*Miller v R* [2016] HCA 30 [4]). This differs from the recklessness provision in s 11.2A(3), which requires awareness of a substantial risk. In this respect the Code departs from the common law.
+
+17. In the context of s 11.2A(3), the prosecution needs to demonstrate that the accused was aware of a substantial risk that the principal offender would commit the offence charged while carrying out the agreement, and it was unjustifiable for the accused to take that risk.
+
+18. The jury must determine whether it is unjustifiable to take a risk on the facts known to the accused (s 5.4(1)(b)). However, the accused does not need to have believed that it was unjustifiable to take the risk. The test is objective not subjective.
+
+19. The question of whether a risk is unjustifiable requires the jury to make a moral or value judgment relating to the accused’s advertent disregard of risk (*R v Saengsai-Or* (2004) 61 NSWLR 135).
+
+20. The jury must assess the likelihood of the risk eventuating, and determine whether the risk is one that should not have been taken (*Lustig v R* (2009) 195 A Crim R 310).
+
+
+---
+
+
+## 5.8 Withdrawal
+
+## Withdrawal
+
+
+
+1. A person cannot be found guilty under s 11.2A if, before any conduct constituting part of the charged offence was committed:
+
+
+
+- they terminated their involvement; and
+
+- took all reasonable steps to prevent the conduct from being engaged in (*Criminal Code* s 11.2A(6)).
+
+
+
+2. The accused bears the evidential burden of pointing to evidence that suggests a reasonable possibility that they terminated their involvement in the agreement and took all reasonable steps to prevent the conduct constituting an offence to be engaged in (s 13.4).
+
+3. If the accused meets the evidential burden, the prosecution will then have to prove that the accused did not effectively terminate their involvement.
+
+4. At common law, withdrawal requires the accused to take all action the accused can reasonably take to undo the effect of his or her previous encouragement or assistance, and this can include informing the police (see *White v Ridley* (1978) 140 CLR 342; *R v Tietie *(1988) 34 A Crim R 438; *R v Jensen and Ward* [1980] VR 196).
+
+5. In contrast, withdrawal under the Code must occur before any aspect of the offending has taken place, and the second limb is to take ‘all reasonable steps to prevent the conduct from being engaged in’ (s 11.2A(6)(b)).
+
+6. There do not appear to be any reported cases on the scope and operation of this requirement. The Explanatory Memorandum suggests that what will constitute ‘reasonable steps’ will differ depending on the case, but could include:
+
+
+
+- Discouraging other parties to the agreement;
+
+- Alerting the proposed victim;
+
+- Withdrawing goods necessary for committing the crime; and
+
+- Giving a timely warning to law enforcement before the offence is committed (Explanatory Memorandum, Crimes Legislation Amendment (Serious and Organised Crime) Bill 2009, 138).
+
+
+
+7. While these considerations have not been endorsed by a court, they are provided as guidance for trial judges on the operation of s 11.2A(6).
+
+8. Establishing whether the accused has effectively terminated their involvement may draw on common law principles about withdrawing from a joint criminal enterprise. For details, see ‘Withdrawing From an Agreement’ in 5.3 Joint Criminal Enterprise (Pre-1/11/14).
+
+
+---
+
+
+## 5.8 Substantive offences and special liability provisions
+
+## Substantive offences and special liability provisions
+
+
+
+1. Any special liability provisions that apply to the offence charged also apply for the purposes of determining whether a person is guilty of committing the offence through s 11.2A (s 11.2A(8)).
+
+2. The same principle applies for the purpose of attempt, incitement and conspiracy (*Criminal Code* ss 11.1(6A), 11.4(4A), 11.5(7A)).
+
+3. ‘Special liability provision’ is defined as:
+
+1. A provision that provides that absolute liability applies to one or more (but not all) of the physical elements of an offence; or
+
+1. A provision that provides that, in a prosecution for an offence, it is not necessary to prove that the defendant knew a particular thing; or
+
+2. A provision that provides that, in a prosecution for an offence, it is not necessary to prove that the defendant knew or believed a particular thing (Criminal Code Dictionary).
+
+4. Fault elements such as knowledge, recklessness and negligence are not ‘special liability provisions’.
+
+5. In addition, strict liability, as defined in Criminal Code s 6.1, does not fit within the definition of special liability provision. Therefore, where strict liability applies, the common law rule that an accused must know the essential facts for a joint offence will continue to apply, and the prosecution must prove awareness of those facts (*R v Ansari* (2007) 70 NSWLR 89, [84]).
+
+6. An example of how a special liability provision operates can be seen in the offence of importing a commercial quantity of a border controlled drug. Section 307.5(2) of the *Code* establishes absolute liability for possessing commercial quantities of an unlawfully imported border controlled drug or plant. When a person is charged with joint commission an offence against ss 307.5(1), 11.2A(6) means that there will be no need for the prosecution to prove the accused agreed or intended that the importation involve a specific quantity of drug (*Franze v R* [2014] VSCA 352 [150]–[153]).
+
+
+---
+
+
+## 5.8 Complicity and Attempt
+
+## Complicity and Attempt
+
+
+
+1. It is not an offence to attempt to commit an offence against s 11.2A (*Criminal Code *s 11.1(7)). However, liability under s 11.2A extends to attempted offences. For example, where a person enters into an agreement with another person to import a border controlled drug but the importation is interrupted, s 11.2A enables the person to be charged with attempted importation (*Franze v R* [2014] VSCA 352 [3]).
+
+
+
+Last updated: 17 November 2022
+
+
+---
+
+---
+
+# Chapter 5.8.1
+
+
+## 5.8.1 Charge: Commonwealth Joint Commission Accordance with Agreement
+
+# 5.8.1 Charge: Commonwealth Joint Commission Accordance with Agreement
+
+This Charge has been designed for use in cases where the accused is charged with being involved in the commission of an offence via Criminal Code (Cth) section 11.2A(1)(b)(i)).
+
+For other forms of complicity for Commonwealth offences, see:
+
+i) Charge: Commonwealth Complicity – Type of offence in issue
+
+ii) Charge: Commonwealth Complicity – Type of offence not in issue
+
+iii) Charge: Commonwealth Joint Commission – Course of Agreement
+
+NOA has been charged with the offence of NOO. However, it has not been alleged that s/he committed that offence alone. Instead, the prosecution has alleged that s/he committed it by agreement with [*insert names of co-offenders*].
+
+The law says that if a person agrees to commit an offence, then he or she may be responsible for committing that offence.
+
+In order to find NOA guilty of NOO, the prosecution must prove the following [three/four] elements:[^2]
+
+One – the accused agreed with other people to commit NOO.
+
+Two – that NOA and NO3P intended that an offence would be committed under the agreement.
+
+Three – that, in accordance with that agreement, the parties to the agreement between them performed all of the acts necessary to commit NOO.
+
+[*If termination is relevant, add the following shaded section.*]
+
+Four – that NOA did not effectively terminate his/her involvement prior to the offence being committed.
+
+Before you can find NOA guilty of NOO*,* you must be satisfied that the prosecution has proven all [three/four] of these elements beyond reasonable doubt.
+
+I will now explain each of these elements in more detail.
+
+
+[^2]: If termination is relevant, there are four elements. Otherwise, there are three elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.1 Charge: Commonwealth Joint Commission Accordance with Agreement
+
+## Agree to Commit NOO
+
+Caution! Part of this direction concerns the meaning of the words ‘of the same type’. The law on this issue is unclear. See 5.8 Commonwealth Joint Commission (s 11.2A) for guidance.
+
+The first element that the prosecution must prove is that the accused agreed with other people to commit NOO.
+
+A person can agree to commit an offence expressly, or you may infer that s/he agreed to commit an offence from the surrounding circumstances. You will recall what I have told you about inferences.[^3]
+
+[*If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.*]
+
+NOA must have agreed to commit an offence [*if relevant, add: *of the same type as] NOO. This element will not be satisfied if the accused agreed to pursue some other form of activity that is not criminal. However, you do not need to find that NOA and [*identify relevant co-offenders*] knew they were agreeing to commit a crime. This element will be satisfied as long as they agreed to do something which was actually criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to do something which was actually criminal together.
+
+An example is where two people agree to commit a bank robbery together, with one of them to buy the gun and give it to the other, who will use it at the bank to steal the money. If they carry out this plan, they would both be equally guilty of the crime of armed robbery.
+
+[*If the prosecution relies on NOO being of the same type as the offence agreed to, add the following shaded section.*]
+
+
+[^2]: If termination is relevant, there are four elements. Otherwise, there are three elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.1 Charge: Commonwealth Joint Commission Accordance with Agreement
+
+In this case, the prosecution has argued that the acts performed under the agreement together make up NOO, and that this is an offence *of the same type *as* *the offence agreed to. What does it mean to be *an offence of the same type *as the agreed offence? The prosecution say that if NOA did not agree to NOO, then s/he agreed to [*identify other offences said to be of the same type*]. The prosecution says that these offences are of the *same type* as NOO because [*identify relevant prosecution evidence and arguments*]. Defence say you should reject this, arguing [*identify relevant evidence and arguments*]. It is a matter for you, using logic and common sense, whether [*identify offences said to be of the same type*] are offences of the same type as NOO. If you are satisfied that they are, then you may find this element proved if you are satisfied, beyond reasonable doubt, that NOA agreed to commit [*identify offences said to be of the same type*].
+
+[*If the timing of the agreement is in issue, add the following shaded section.*]
+
+The law says that it does not matter whether the agreement was made before, or at the same time, as NOA and [*identify co-offenders*] started committing NOO. For example, if a person were in the process of robbing a bank when he/she called on someone to help him/her unlock a safe, the person he/she called knew that the caller was robbing a bank, that person could be liable for the robbery even though he/she agreed to help after some of the work had already been done.
+
+In this case, the prosecution alleged that [*specify parties*] agreed to commit NOO. They alleged that this agreement was made [*insert prosecution evidence about the formation of the agreement*].
+
+[*If the defence denies that there was an agreement to commit an offence, add the following shaded section.*]
+
+The defence denied this, arguing [*insert relevant evidence and/or arguments*]*.*
+
+This first element will only be met if you are satisfied, beyond reasonable doubt, that the accused agreed to commit [*if relevant, add: *an offence of the same type as] NOO.
+
+
+[^2]: If termination is relevant, there are four elements. Otherwise, there are three elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.1 Mental State
+
+## Mental State
+
+The second element that the prosecution must prove is that the accused and NO3P intended that [*insert if relevant: *an offence like] NOO would be committed under the agreement. S/he must have intended the agreement to bring about NOO, or have been aware that NOO would occur in the ordinary course of events.
+
+[*Identify physical elements of NOO, subject to any special liability provisions that apply.*]
+
+It is only if you are satisfied that NOA intended that these elements would be committed under the agreement that this second element will be met.
+
+
+---
+
+
+## 5.8.1 Joint Offence Committed
+
+## Joint Offence Committed
+
+The third element that the prosecution must prove is that, in accordance with their agreement, the parties between them performed all of the acts necessary to commit NOO.
+
+There are two parts to this element. First, you must be satisfied that all of the necessary acts were committed by parties to the agreement. This means that you must find that all of the following matters have been proven beyond reasonable doubt:
+
+[*Describe all of the physical elements of the offence, explain those elements, and relate them to the facts.*]
+
+You do not need to find that each party to the agreement committed all of these acts. Even if they each only played a minor role, this part of the third element will be satisfied as long as all of the necessary acts were committed between the parties to the agreement.
+
+The second part of this element requires the prosecution to prove that the commission of this offence was within the scope of the parties’ agreement. That is, NOA and NO3P must have agreed to commit the acts that constitute that offence. NOA will not be guilty of committing NOO if that offence was outside the bounds of what s/he had agreed to.
+
+To determine what acts were within the scope of the agreement, you must consider the beliefs the parties held at the time they made the alleged agreement. Whatever acts they all believed would or could be committed in the course of carrying out that agreement are to be treated as being within its scope.
+
+[*If the offence committed may not have been the primary purpose of the agreement, add the following shaded section.*]
+
+You will notice that I referred to acts that "would or could" be committed in the course of carrying out the agreement. This reflects the fact that the scope of an agreement includes any contingencies that are planned as part of that agreement. It is not limited to the acts the parties are definitely planning to carry out. So even if the parties were hoping to avoid committing a particular act, and did not think it was likely to be necessary, if there was a plan to perform that act if certain circumstances arose, then it should be treated as being within the scope of the agreement.
+
+
+---
+
+
+## 5.8.1 Joint Offence Committed
+
+In this case the prosecution alleged that [*describe relevant prosecution evidence and/or arguments*]. The defence denied this, arguing [*describe relevant evidence and/or arguments*].
+
+It is only if you are satisfied that the parties collectively performed all of the acts necessary to commit NOO, and that the commission of this offence was within the scope of the parties’ agreement, that this third element will be met.
+
+
+---
+
+
+## 5.8.1 Withdrawal
+
+## Withdrawal
+
+[*If termination of the accused’s involvement is in issue, add the following shaded section.*[^4]]
+
+The fourth element that the prosecution must prove is that the accused did not effectively terminate his/her involvement prior to the performance of any aspect of NOO.
+
+The law says that, for a person not to be liable as someone who agreed to commit an offence, then s/he must terminate his/her involvement and take all reasonable steps to prevent the offence being committed. His/her termination must be timely and effective.
+
+Whether the accused has taken all reasonable steps to prevent the offence is a question for you. You must apply your common sense and experience. For example, in some cases it will be enough for the accused to take back any tools he or she has provided for the commission of the crime. In some cases it may be necessary for the accused to inform the police of the agreement.
+
+It is not for the defence to prove that s/he terminated his/her involvement in NOO in a timely and effective manner. It is the prosecution who must prove that NOA did not take all reasonable steps to prevent any part of NOO being committed.
+
+In this case, the prosecution argued that the accused had not taken all reasonable steps to prevent NOO. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing that NOA terminated his/her involvement in a timely and effective manner. [*Insert relevant evidence and/or arguments.*]
+
+
+[^4]: To reflect the different statutory language, this element of the charge is different to the termination element for a charge under s 11.2 (complicity).
+
+
+---
+
+
+## 5.8.1 Application of Law to Evidence
+
+## Application of Law to Evidence
+
+[*If not already done, apply the law to the relevant evidence here.*]
+
+
+
+## Defences
+
+[*If any *defences *are open on the evidence, insert relevant directions.*]
+
+
+---
+
+
+## 5.8.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of NOO, the prosecution must prove to you beyond reasonable doubt:
+
+One – the accused agreed with other people to commit an offence.
+
+Two – that NOA and NO3P intended that an offence would be committed under the agreement
+
+Three – that, in accordance with that agreement, the parties to the agreement between them performed all of the acts necessary to commit NOO.
+
+[*If termination is relevant, add the following shaded section.*]
+
+and Four – that NOA did not effectively terminate his/her earlier involvement prior to the offence being committed.
+
+Last updated: 17 November 2022
+
+
+---
+
+---
+
+# Chapter 5.8.2
+
+
+## 5.8.2 Checklist: Commonwealth Joint Commission Accordance with Agreement
+
+# 5.8.2 Checklist: Commonwealth Joint Commission Accordance with Agreement
+
+Four elements the prosecution must prove beyond reasonable doubt:
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: This checklist will need to be adapted if there is an issue about whether the offence charged is the same type of offence as the offence agreed to.
+[^4]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting the elements of the offence must be proven for this element to be met.
+[^5]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.2 Checklist: Commonwealth Joint Commission Accordance with Agreement
+
+1. 1. The accused made an agreement with other people to commit an offence, and
+
+2. 2. The accused and at least one other party to the agreement intended that an offence would be committed; and
+
+3. 3. In accordance with the agreement, the parties between them performed all of the acts needed to commit the offence; and
+
+4. 4. The accused did not effectively terminate his/her involvement before the offence was committed.[^2]
+
+1. Agreement
+
+5. 1. Did the accused make an agreement with other people to commit the offence charged?[^3]
+
+1. If Yes, then go to Question 2.1
+
+2. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+2. Intention
+
+6. 2.1 Did the accused intend that an offence would be committed under the agreement?
+
+1. Consider – Was the accused aware the offence would occur in the ordinary course of events?
+
+3. If Yes, then go to Question 2.2
+
+4. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+7. 2.2 Did one other party to the agreement intend that an offence would be committed under the agreement?
+
+5. If Yes, then the go to Question 3.1
+
+6. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+3. Offence committed in accordance with agreement
+
+8. 3.1 Did the parties to the agreement commit all of the necessary acts to complete the offence?[^4]
+
+7. If Yes, then go to Question 3.2
+
+8. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+9. 3.2. Was the offence within the scope of the parties’ agreement?
+
+2. Consider – What beliefs did the parties hold at the time they made the agreement? Did they believe that the offence would or could be committed in the course of carrying out the agreement?
+
+9. If Yes, then go to Question 4.1[^5]
+
+10. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+4. Termination
+
+10. 4.1 Did the accused terminate his or her involvement in the agreement before any part of the offence was committed?
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: This checklist will need to be adapted if there is an issue about whether the offence charged is the same type of offence as the offence agreed to.
+[^4]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting the elements of the offence must be proven for this element to be met.
+[^5]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.2 Checklist: Commonwealth Joint Commission Accordance with Agreement
+
+11. If Yes, then go to Question 4.2
+
+12. If No, then the accused is guilty of committing the offence charged by way of joint commission (as long as you have also answered Yes to questions 1, 2 and 3)
+
+11. 4.2 Did the accused take all reasonable steps to prevent the offence from being committed?
+
+3. Consider – What steps did the accused take? In the circumstances, were those all the steps s/he could reasonably take?
+
+13. If Yes, then the accused is not guilty of committing the offence charged by way of joint commission
+
+14. If No, then the accused is guilty committing the offence charged by way of joint commission (as long as you have also answered Yes to questions 1, 2 and 3)
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: This checklist will need to be adapted if there is an issue about whether the offence charged is the same type of offence as the offence agreed to.
+[^4]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting the elements of the offence must be proven for this element to be met.
+[^5]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.2 Checklist: Commonwealth Joint Commission Accordance with Agreement
+
+Last updated: 17 November 2022
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: This checklist will need to be adapted if there is an issue about whether the offence charged is the same type of offence as the offence agreed to.
+[^4]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting the elements of the offence must be proven for this element to be met.
+[^5]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+---
+
+# Chapter 5.8.3
+
+
+## 5.8.3 Charge: Commonwealth Joint Commission Course of Agreement
+
+# 5.8.3 Charge: Commonwealth Joint Commission Course of Agreement
+
+This Charge has been designed for use in cases where the accused is charged with being involved in the commission of an offence via Criminal Code (Cth) section 11.2A(1)(b)(ii)).
+
+For other forms of complicity for Commonwealth offences, see:
+
+i) Charge: Commonwealth Complicity – Type of offence in issue
+
+ii) Charge: Commonwealth Complicity – Type of offence not in issue
+
+iii) Charge: Commonwealth Joint Commission – Accordance with Agreement
+
+NOA has been charged with the offence of [*insert charged offence*]. However, it has not been alleged that s/he committed that offence alone. Instead, the prosecution has alleged that NO3P committed that offence, but that NOA should be held responsible for NO3P’s actions.
+
+In order to find NOA guilty of [*insert charged offence*], the prosecution must prove the following [four/five] elements:[^2]
+
+One – the accused agreed with other people to commit an offence – [*insert agreed offence*].
+
+Two – that the accused and NO3P intended that [*insert agreed offence*] would be committed under the agreement.
+
+Three – that a party to the agreement committed [*insert charged offence*] in the course of carrying out the agreement.
+
+Four – that NOA was reckless about whether [*insert charged offence*] would be committed in the course of carrying out the agreement.
+
+[*If termination is relevant, add the following shaded section.*]
+
+Five – that NOA did not effectively terminate his/her involvement prior to the offence being committed.
+
+Before you can find NOA guilty of [*insert charged offence*], you must be satisfied that the prosecution has proven all [four/five] of these elements beyond reasonable doubt. I will now explain each of these elements in more detail.
+
+
+[^2]: If termination is relevant, there are five elements. Otherwise, there are four elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.3 Charge: Commonwealth Joint Commission Course of Agreement
+
+## Agree to Commit Offence
+
+The first element that the prosecution must prove is that the accused agreed with other people to commit [*insert agreed offence*]. This is a different offence to [*insert charged offence*]. You must be satisfied that the accused agreed to commit [*insert agreed offence*].
+
+A person can agree to commit an offence expressly, or you may infer that s/he agreed to commit the offence from the surrounding circumstances. You will recall what I have told you about inferences.[^3]
+
+[*If the content of the agreement, or the parties’ understanding of the content, is in issue, add the following shaded section.*]
+
+NOA must have agreed to commit an [*insert agreed offence*]. This element will not be satisfied if the accused agreed to pursue some other form of activity that is not criminal. However, you do not need to find that NOA and [*identify relevant co-offenders*] knew they were agreeing to commit a crime. This element will be satisfied as long as they agreed to do something which was, in fact, criminal.
+
+Similarly, you do not need to find that all of the parties had the same purpose or intention when forming that agreement, or were all aware of the consequences of their actions. You do not even have to find that they all agreed on the precise terms of the agreement. For this element to be satisfied, you only need to find that they agreed to commit a criminal offence together.
+
+An example of two people agreeing to commit an offence is where two people agree to commit a bank robbery together, with one of them to buy the gun and give it to the other, who will use it at the bank to steal the money. Each of the two people would have agreed to commit the particular offence of armed robbery.
+
+[*If the timing of the agreement is in issue, add the following shaded section.*]
+
+The law says that it does not matter whether the agreement was made before, or at the same time, as NOA and [*identify co-offenders*] started offending. For example, if a person were in the process of robbing a bank when he/she called on someone to help him/her unlock a safe, the person they called could be liable for the robbery even though he/she agreed to help after some of the work had already been done.
+
+
+[^2]: If termination is relevant, there are five elements. Otherwise, there are four elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.3 Charge: Commonwealth Joint Commission Course of Agreement
+
+In this case, the prosecution alleged that [*specify parties*] agreed to commit [*insert agreed offence*]. They alleged that this agreement was made [*insert prosecution evidence about the formation of the agreement*].
+
+[*If the defence denies that there was an agreement to commit an offence, add the following shaded section.*]
+
+The defence denied this, arguing [*insert relevant evidence and/or arguments*].
+
+It is only if you are satisfied, beyond reasonable doubt, that the accused agreed to commit an offence that this first element will be met.
+
+
+[^2]: If termination is relevant, there are five elements. Otherwise, there are four elements.
+[^3]: This charge is based on the assumption that the judge has already instructed the jury about inferences. It will need to be modified if that has not been done.
+
+
+---
+
+
+## 5.8.3 Mental State
+
+## Mental State
+
+The second element that the prosecution must prove is that the accused and at least one other party to the agreement intended that [*insert agreed offence*] would be committed under the agreement. They must have intended the agreement to bring about NOO, or have been aware that NOO would occur in the ordinary course of events.
+
+[*Identify physical elements of agreed offence, subject to any special liability provisions that apply.*]
+
+It is only if you are satisfied that NOA *intended* to enter into an agreement to commit [*insert agreed offence*] that this second element will be met.
+
+
+---
+
+
+## 5.8.3 Commission of Charged Offence
+
+## Commission of Charged Offence
+
+The third element that the prosecution must prove is that, in the course of carrying out the agreement, a party to the agreement committed [*insert charged offence*].
+
+There are also two parts to this element. First, you must be satisfied that a party to the agreement committed [*insert charged offence*]. This means that you must find that all of the following matters have been proven beyond reasonable doubt:
+
+[*Describe **all of** the elements of the charged offence, explain those elements, and relate them to the facts.*]
+
+The second part of this element requires the prosecution to prove that a party to the agreement committed [*insert charged offence*] in the course of carrying out the agreement.
+
+In this case the prosecution alleged that [*describe relevant prosecution evidence and/or arguments tying the offending to the agreement*]. The defence denied this, arguing [*describe relevant evidence and/or arguments*].
+
+It is only if you are satisfied that NO3P committed [*insert charged offence*], and that s/he committed this offence in the course of carrying out the agreement with NOA, that this third element will be met.
+
+
+---
+
+
+## 5.8.3 Recklessness
+
+## Recklessness
+
+The fourth element the prosecution must prove is that, when NOA agreed to commit an offence, s/he was reckless about whether [*insert charged offence*] would be committed in the course of carrying out the agreement.
+
+To satisfy this element, the prosecution must prove that NOA was aware of a substantial risk that NO3P would [*identify elements of charged offence*]. These are the same [*insert number of elements*] matters which the prosecution needed to prove in relation to the second element.
+
+The prosecution must also show that it was unjustifiable for him/her to take that risk in the circumstances known to him/her. Whether taking such a risk is unjustifiable is a question of fact for you to determine. It does not matter whether NOA thought the risk was justified.
+
+There is an important difference between this element and the second element. The second element looks at what happened in the course of carrying out the agreement. Has the prosecution proved that NO3P committed [*insert charged offence*]? In contrast, this element looks at what NOA was aware of at the time s/he made the agreement. Has the prosecution proved that s/he was aware of a substantial risk that someone would commit [*insert charged offence*]?
+
+[*Identify relevant prosecution and defence evidence and arguments.*]
+
+
+---
+
+
+## 5.8.3 Withdrawal
+
+## Withdrawal
+
+[*If termination of the accused’s involvement is in issue, add the following shaded section.*[^4]]
+
+The fifth element that the prosecution must prove is that the accused did not effectively terminate his/her involvement prior to the performance of any aspect of [*insert charged offence*].
+
+The law says that, for a person not to be liable as someone who agreed to commit an offence, then s/he must terminate his/her involvement and take all reasonable steps to prevent the offence being committed. His/her termination must be timely and effective.
+
+Whether the accused has taken all reasonable steps to prevent the offence is a question for you. You must apply your common sense and experience. For example, in some cases it will be enough for the accused to take back any tools he or she has provided for the commission of the crime. In some cases it may be necessary for the accused to inform the police of the agreement.
+
+It is not for the defence to prove that s/he terminated his/her involvement in NOO in a timely and effective manner. It is the prosecution who must prove that NOA did not take all reasonable steps to prevent any part of [*insert charged offence*] being committed.
+
+In this case, the prosecution argued that the accused had not taken all reasonable steps to prevent [*insert charged offence*]. [*Insert prosecution evidence and/or arguments.*] The defence denied this, arguing that NOA terminated his/her involvement in a timely and effective manner. [*Insert relevant evidence and/or arguments.*]
+
+
+[^4]: To reflect the different statutory language, this element of the charge is different to the termination element for a charge under s 11.2 (complicity).
+
+
+---
+
+
+## 5.8.3 Application of Law to Evidence
+
+## Application of Law to Evidence
+
+[*If not already done, apply the law to the relevant evidence here.*]
+
+
+
+## Defences
+
+[*If any defences are open on the evidence, insert relevant directions.*]
+
+
+---
+
+
+## 5.8.3 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of [*insert charged offence*], the prosecution must prove to you beyond reasonable doubt:
+
+One – the accused agreed with other people to commit an offence.
+
+Two – that NOA and NO3P intended that an offence would be committed under the agreement
+
+Three – that, in accordance with that agreement, the parties to the agreement between them performed all of the acts necessary to commit NOO.
+
+Four – that NOA was reckless about whether NOO would be committed in the course of carrying out the agreement.
+
+[*If termination is relevant, add the following shaded section.*]
+
+and Five – that NOA did not effectively terminate his/her earlier involvement prior to the offence being committed.
+
+Last updated: 17 November 2022
+
+
+---
+
+---
+
+# Chapter 5.8.4
+
+
+## 5.8.4 Checklist: Commonwealth Joint Commission Course of Agreement
+
+# 5.8.4 Checklist: Commonwealth Joint Commission Course of Agreement
+
+Five elements the prosecution must prove beyond reasonable doubt:
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting which elements of the offence must be proven for this element to be met.
+[^4]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.4 Checklist: Commonwealth Joint Commission Course of Agreement
+
+1. 1. The accused made an agreement with other people to commit an offence, and the agreement was still in place when [*insert charged offence*] was committed; and
+
+2. 2. The accused and at least one other party to the agreement intended that an offence would be committed under the agreement; and
+
+3. 3. A party to the agreement committed the offence charged while carrying out the agreement; and
+
+4. 4. The accused was reckless about whether the offence would be committed in the course of the agreement; and
+
+5. 5. The accused did not effectively terminate his/her involvement before the offence charged was committed.[^2]
+
+1. Agreement
+
+6. 1. Did the accused make an agreement with other people to commit an offence?
+
+1. If Yes, then go to Question 2.1
+
+2. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+2. Intention
+
+7. 2.1 Did the accused intend that an offence would be committed under the agreement?
+
+8. *Consider – Was the accused aware that an offence would occur in the ordinary course of events?*
+
+3. If Yes, then go to Question 2.2
+
+4. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+9. 2.2 Did one other party to the agreement intend that an offence would be committed under the agreement?
+
+5. If Yes, then go to Question 3.1
+
+6. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+3. Offence committed
+
+10. 3.1 Did a party to the agreement commit all of the necessary acts to complete the charged offence?[^3]
+
+7. If Yes, then go to Question 3.2
+
+8. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+11. 3.2. Did that person commit the charged offence while carrying out the agreement?
+
+9. If Yes, then go to Question 4.1
+
+10. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+4. Recklessness
+
+12. 4.1 Was the accused aware of a substantial risk that the charged offence would be committed while the agreement was being carried out?
+
+11. If Yes, then go to Question 4.2
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting which elements of the offence must be proven for this element to be met.
+[^4]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.4 Checklist: Commonwealth Joint Commission Course of Agreement
+
+12. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+13. 4.2 Was it unjustifiable for the accused to take that risk?
+
+13. If Yes, then go to Question 5.1[^4]
+
+14. If No, then the accused is not guilty of committing the offence charged by way of joint commission
+
+5. Termination
+
+14. 5.1 Did the accused terminate his or her involvement in the agreement before any part of the charged offence was committed?
+
+15. If Yes, then go to Question 6.2
+
+16. If No, then the accused is guilty of committing the offence charged by way of joint commission (as long as you have also answered Yes to questions 1, 2, 3 and 4)
+
+15. 5.2 Did the accused take all reasonable steps to prevent the offence from being committed?
+
+1. Consider – What steps did the accused take? In the circumstances, were those all the steps s/he could reasonably take?
+
+17. If Yes, then the accused is not guilty of committing the offence charged by way of joint commission
+
+18. If No, then the accused is guilty committing the offence charged by way of joint commission (as long as you have also answered Yes to questions 1, 2, 3 and 4)
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting which elements of the offence must be proven for this element to be met.
+[^4]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---
+
+
+## 5.8.4 Checklist: Commonwealth Joint Commission Course of Agreement
+
+Last updated: 17 November 2022
+
+
+[^2]: This should be deleted if termination is not in issue.
+[^3]: If the jury has received a separate checklist outlining the elements of the offence, it may be desirable to include a cross-reference to that checklist here, noting which elements of the offence must be proven for this element to be met.
+[^4]: If termination is not in issue, the checklist ends here, and this should be adjusted to note that a Yes means that the accused is guilty of the offence charged.
+
+
+---

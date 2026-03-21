@@ -1,0 +1,489 @@
+# Chapter 4.3
+
+
+## 4.3 Character Evidence
+
+# 4.3 Character Evidence
+
+
+
+## What is Character Evidence?
+
+
+
+1. Character evidence addresses a person’s inherent moral character (*R v Rowton *(1865) 169 ER 1497; *Melbourne v R *(1999) 198 CLR 1; *Attwood v R* (1960) 102 CLR 353).
+
+2. The relevance and admissibility of character evidence, as well as the need for a direction and the content of that direction, depend on whether the evidence is of the accused’s good character or bad character.
+
+3. Directions about character evidence are directions about “the evidence in the trial relevant to the matters in issue”. Part 3 of the *Jury Directions Act 2015* applies (*Jury Directions Act 2015* s 10).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+## Evidence of Good Character
+
+
+
+## What is "Good Character" Evidence?
+
+
+
+1. "Good character" evidence includes:
+
+
+
+- Evidence of the accused’s general good reputation; and
+
+- Evidence of the accused’s favourable disposition (*Eastman v R* (1997) 76 FCR 9; *Stirland v Director of Public Prosecutions* [1944] AC 315; *Attwood v R* (1960) 102 CLR 353).
+
+
+
+2. The expression "good character" in s 110 of the *Evidence Act 2008 *has the same meaning as it does at common law (*Eastman v R *(1997) 76 FCR 9).
+
+3. The accused’s good character can be proved in a variety of ways. Evidence of good character does not simply consist of evidence that the accused has not previously been convicted of a crime (*Melbourne v R* (1999) 198 CLR 1).
+
+
+
+## Relevance of Good Character Evidence
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+4. Evidence that the accused is of good character may be relevant for two purposes:
+
+1. It may make it more likely that the accused’s evidence is credible; and
+
+1. It may make it less likely that the accused committed the offence (Melbourne v R (1999) 198 CLR 1; R v Baran [2007] VSCA 66; R v Zecevic [1986] VR 797; R v Murphy [1985] 4 NSWLR 42; R v Trimboli (1979) 21 SASR 577; R v Warasta (1991) 54 A Crim R 351; Attwood v R (1960) 102 CLR 353; Eastman v R (1997) 76 FCR 9; *Ho v The King *[2025] VSCA 150, [60]).
+
+5. Good character evidence can only make it "unlikely", rather than "improbable", that the accused committed the offence (*R v Stalder* [1981] 2 NSWLR 9).
+
+6. Evidence that the accused is of good character may be relevant to the credibility of evidence given in court and statements made out of court (*R v Vollmer & Ors *[1996] 1 VR 95; *R v Vye* [1993] 1 WLR 471; *Melbourne v R *(1999) 198 CLR 1).
+
+7. In some cases the two uses of good character evidence will entirely overlap, and will function as a single idea rather than as two discrete issues (*R v Trimboli* (1979) 21 SASR 577).
+
+8. The court may limit the use to be made of good character evidence if there is a danger that a particular use of the evidence might be unfairly prejudicial to a party, or might be misleading or confusing (*Evidence Act 2008 *s 136). However, this will be rare (see, e.g. *R v Lawrence *[1984] 3 NSWLR 674; *R v Murphy *(1985) 4 NSWLR 42; *R v Hamilton *(1993) 68 A Crim R 298).
+
+
+
+## Admissibility of Good Character Evidence
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+9. The defence may adduce evidence to prove that the accused is a person of good character (*Evidence Act 2008 *s 110(1)).
+
+10. The evidence may be used to prove that the accused is a good person generally, or in a particular respect (*Evidence Act 2008 *s 110(1)). This differs from the common law, which treats character as indivisible (with people considered to be either of good character or bad character) (*Melbourne v R *(1999) 198 CLR 1; *Bishop v R* (2013) 39 VR 642).
+
+11. Good character evidence may consist of opinion evidence from a witness concerning the character of the accused, or evidence from a witness about the reputation of the accused within the community, or a part of the community (*Bishop v R* (2013) 39 VR 642; *R v Chapman* [2002] NSWCCA 105).
+
+
+
+## Probative Value of Good Character Evidence
+
+
+
+12. The probative effect of good character evidence on the accused’s credibility, and on the likelihood that he or she committed the offence charged, will vary depending on the circumstances of the case.
+
+13. For example, the probative effect of good character evidence on the accused’s credibility may be diminished where he or she does not give evidence in court, instead relying on out-of-court statements (*R v Zecevic* [1986] VR 797; *R v Arundell* [1999] 2 VR 228).
+
+14. The probative value of good character evidence may also be affected by:
+
+
+
+- The nature of the offence charged (*R v Trimboli* (1979) 21 SASR 577);[^2]
+
+- The relationship between the type of character established and the type of offence charged (*R v Arundell* [1999] 2 VR 228; *Braysich** v R* (2011) 243 CLR 434);[^3] and
+
+- The strength of the other evidence supporting the charge (*Simic v R* (1980) 144 CLR 319).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+15. In some cases, the only evidence of the accused’s good character will be his or her lack of prior convictions. The probative value of the character evidence in such cases is usually extremely limited (*R v Cumberbatch (No 5)* [2002] VSC 289; *Melbourne v R* (1999) 198 CLR 1).
+
+
+
+## Need for a Direction About Good Character Evidence
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+16. At common law, it was recognised that a judge was not required to direct the jury about the uses of good character evidence in all cases where that evidence was led (*Melbourne v R* (1999) 198 CLR 1; *Benbrika** v R* (2010) 29 VR 593; *R v DD* (2007) 19 VR 143; *Gallant v R *[2006] NSWCCA 339; *R v Arundell* [1999] 2 VR 228).
+
+17. The need for a direction depends on whether a direction is sought or whether there are substantial and compelling reasons to give a direction in the absence of a request (*Jury Directions Act 2015* ss 14–16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+18. Under the *Jury Directions Act 2015*, the judge should consider the significance of the good character evidence in the context of the trial when deciding whether to give the direction despite the absence of a request.
+
+19. In making this assessment, courts have emphasised that the potential value of good character should not be underestimated (*Wah v The Queen *(2014) 45 VR 440, [41]; *Ho v The King *[2025] VSCA 150, [61]).
+
+20. Prior to the *Jury Directions Act 2015*, the recommended practice in Victoria was that judges would give directions on good character evidence almost without exception (see *R v **Warasta* (1991) 54 A Crim R 351). In *Bishop v R* (2013) 39 VR 642, which was decided after the commencement of the *Jury Directions Act 2013*, this practice was endorsed as continuing to provide guidance to trial judges. However, the court in *Bishop* did not refer to the effect of sections 13 and 15 of the *Jury Directions Act 2013 *(see now *Jury Directions Act 2015* ss 14–16).
+
+21. In determining whether to give a direction, a judge should pay close attention to the relevance of the evidence to the offence, and to the issues to which the evidence relates (*Stanoevski** v R *(2001) 202 CLR 115; *R v Szabo *[2000] NSWCCA 226).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+22. A judge should consider the probative value of the evidence when determining whether or not to give a direction (*Melbourne v R* (1999) 198 CLR 1; *Benbrika** v R* (2010) 29 VR 593; *R v DD* (2007) 19 VR 143).
+
+23. A good character direction must be given where the evidence has an immediate and obvious connection with an issue in the case (*Melbourne v R* (1999) 198 CLR 1).
+
+24. In deciding whether to direct the jury about good character evidence, a judge must separately consider the probative effect of the evidence on the accused’s credibility *and* on the likelihood that he or she committed the offence charged (*Melbourne v R* (1999) 198 CLR 1*; **Benbrika** v R* (2010) 29 VR 593).
+
+25. Where the evidence of good character comes from the accused him or herself there is generally less need for a direction on the uses of such evidence, as this will usually be self-explanatory (*R v **Mackrae**–Bathory* [2006] VSCA 179; *R v TSR* (2002) 5 VR 627).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+## Content of the Direction on Good Character Evidence
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+26. No particular form of words is required for a direction on good character evidence (*R v Trimboli* (1979) 21 SASR 577; *R v Arundell* [1999] 2 VR 228; *R v RJC *18/8/98 NSW CCA; *R v Telfer* (2004) 142 A Crim R 132; *Fung v R *[2007] NSWCCA 250).
+
+27. The judge will need to consider whether the parties have sought a direction about the two permissible uses of good character evidence, and whether it is appropriate to direct on both uses. For example, the judge may have good reasons to direct on only one of the permissible uses of such evidence (*Melbourne v R* (1999) 198 CLR 1;* R v Arundell* [1999] 2 VR 228; *R v Zecevic* [1986] VR 797; *Sindoni v R *[2011] VSCA 195).
+
+28. If the evidence relates to a particular aspect of the accused’s character (rather than his or her character generally), the directions must be limited to that aspect (see, e.g. *R v Zurita *[2002] NSWCCA 22).
+
+29. This may affect which of the two possible uses of the evidence the jury should be told about. For example, in *Ho v The King*, the accused had no history of violent offending, but was pleading guilty to involvement in drug cultivation. The Court of Appeal held that the evidence of the accused’s history of non-violence did not make him more trustworthy or more credible, given he was coming before the jury as a person willing to engage in drug offending (*Ho v The King *[2025] VSCA 150, [68]–[71]. See also *R v Zurita *[2002] NSWCCA 22).
+
+30. Where the judge directs the jury about the relevance of the evidence to the issue of *guilt*, the direction should convey to the jury that they should bear in mind the accused’s good character when considering whether they are prepared to draw from the evidence the conclusion of the accused’s guilt. They should bear it in mind as a factor affecting the likelihood that the accused committed the crime charged (*R v RJC *18/8/98 NSW CCA).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+31. It is permissible to direct the jury that a person of good character is less likely to have committed the offence than a person not of good character (*Fung v R *[2007] NSWCCA 250; *Kanbut** v The Queen* [2022] NSWCCA 259, [35]–[37]).
+
+32. Where the judge directs the jury about the relevance of the evidence to the issue of *credibility*, the judge should convey to the jury that they should consider the accused’s previous good character in assessing the credibility of any explanation he or she has given and, if he or she has given evidence in court, his or her credibility as a witness (*R v RJC *18/8/98 NSW CCA).
+
+33. The judge may remind the jury that people commit crimes for the first time, and that evidence of good character cannot alter proven facts or provide a defence in itself. Character evidence can only affect the jury’s assessment of whether certain facts have been proven beyond reasonable doubt (*R v Arundell* [1999] 2 VR 228; *Melbourne v R *(1999) 198 CLR 1; *R v Trimboli* (1979) 21 SASR 577; *R v Zecevic *[1986] VR 797; *R v RJC *18/8/98 NSW CCA; *Bishop v R* (2013) 39 VR 642).
+
+34. Judges must exercise care when warning the jury about the need for caution in acting on good character evidence other than the standard directions that people commit crimes for the first time and the evidence cannot alter proven facts or provide a defence in itself (*Bishop v R* (2013) 39 VR 642).
+
+35. In particular, where character evidence is led in a sexual offence case, the judge must not give a limiting direction that good character evidence is of less weight (or no weight) because sexual offences are committed in private and the evidence only addresses the accused’s conduct in the presence of others (*Bishop v R* (2013) 39 VR 642; *R v MWL* (2002) 137 A Crim R 282).
+
+36. Judges should exercise great care in departing from the traditional directions into directions which have not previously received curial approval (*Bishop v R* (2013) 39 VR 642).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Good Character
+
+37. Where good character evidence can be used both in assessing guilt and credibility, the judge must not direct the jury that the evidence cannot be used for one of these two purposes (*R v Zecevic* [1986] VR 797; *R v Murphy* [1985] 4 NSWLR 42).
+
+38. In such cases, if the prosecution tells the jury that the evidence may not be used for one of the two permissible purposes, the judge must raise with the parties the need for a direction to ensure the jury is not misled (see *Jury Directions Act 2015* s 16 and *R v Schmahl* [1965] VR 745).
+
+39. A person who has a prior conviction that was overturned on appeal must be treated as a person without any prior convictions. Any direction on good character must not be qualified by reference to the quashed conviction (*R v **Lapuse* [1964] VR 43).
+
+
+[^2]: For some offences, good character evidence will not establish that the accused is the kind of person who would be unlikely to commit that crime. For example, it has previously been held that the fact that a person is of good character may not materially affect the likelihood that s/he would cultivate cannabis (see, e.g. *R v Trimboli* (1979) 21 SASR 577).
+[^3]: For example, evidence of honesty is not likely to be highly probative where the accused is charged with a violent crime (*R v Arundell* [1999] 2 VR 228).
+
+
+---
+
+
+## 4.3 Evidence of Bad Character
+
+## Evidence of Bad Character
+
+
+
+1. Evidence of the accused’s bad character is generally inadmissible on the basis that it is unfairly prejudicial (*Melbourne v R* (1999) 198 CLR 1; *R v Thomas* [2006] VSCA 167; *Donnini v R *(1972) 128 CLR 114; *Perry v R *(1982) 150 CLR 580).[^4]
+
+2. However, under the *Evidence Act 2008 *there are three circumstances in which bad character evidence may be admissible:
+
+1. If evidence has been adduced to prove an accused’s good character (either generally or in a particular respect), a co-accused or the prosecution may respond by leading evidence to prove that the accused is not a person of good character (either generally or in that respect) (ss 110(2)–(3)).
+
+1. An accused may adduce opinion evidence about the character of a co-accused, where it is evidence of the opinion of a person who has specialised knowledge based on his or her training, study or experience, and the opinion is wholly or substantially based on that knowledge (Evidence Act 2008 s 111(1)); and
+
+2. Evidence that reveals the accused’s bad character may also be admissible under a provision of Part 3.7 concerned with credibility evidence.
+
+3. Leave is required to cross-examine an accused about matters arising out of character evidence (*Evidence Act 2008 *s 112).[^5] See *Gabriel v R *(1997) 76 FCR 279 for a discussion of relevant considerations.
+
+
+
+## Use of Bad Character Evidence
+
+
+
+4. At common law, bad character evidence can only be used to negate evidence of good character. It cannot be used as directly relevant to the issue of guilt (see, e.g. *BRS v R *(1997) 191 CLR 275).
+
+5. At first glance, the *Evidence Act 2008* appears to make bad character evidence admitted under s 110 usable for tendency purposes.[^6] This is because:
+
+
+
+- This evidence is not subject to the tendency rule (s 110);
+
+- It is also exempted from the further restrictions on tendency evidence in s 101, because that extension "does not apply to tendency evidence that the prosecution adduces to explain or contradict evidence adduced by the defendant" (s 101(3)).
+
+
+[^4]: While evidence is generally inadmissible for the purpose of proving the accused’s bad character, evidence that is relevant for another purpose is not rendered inadmissible solely because it also happens to show the bad character of the accused. Such evidence may be admitted for a limited, probative, purpose. In such cases, the judge must direct the jury to use the evidence only for the admissible purpose, and may need to warn the jury not to use the evidence for an irrelevant or prejudicial purpose (see, e.g. *R v Thompson* [2001] VSCA 208; *Orman v R* [2010] VSCA 246R).
+[^5]: See *R v El–Azzi* [2004] NSWCCA 455 and *Stanoevski** v R* (2001) 202 CLR 115 for a discussion of the meaning of "matters arising out of" this kind of evidence.
+[^6]: In explaining the rationale behind the proposal on which s 110 is based, the Australian Law Reform Commission ("ALRC") noted that this restriction seems incapable of enforcement, and implied that it should not be adopted in the UEA (ALRC 26, vol.1, para 83).
+
+
+---
+
+
+## 4.3 Evidence of Bad Character
+
+6. However, in NSW it has been held that the common law position remains unchanged, and that bad character evidence can only be used to negate good character evidence (*R v OGD (No 2) *(2000) 50 NSWLR 433; *R v El-Kheir *[2004] NSWCCA 461. See also *Eastman v R *(1997) 76 FCR 9 for a brief discussion of this issue).
+
+7. The court may limit the use to be made of bad character evidence if there is a danger that a particular use of the evidence might be unfairly prejudicial to a party, or might be misleading or confusing (*Evidence Act 2008 *s 136).
+
+
+
+## Content of the Direction on Bad Character Evidence
+
+
+
+8. Where evidence of bad character is admitted and the prosecution or counsel for the accused seeks a direction, the judge must explain to the jury that:
+
+
+
+- They may use the evidence when assessing the accused’s credibility; and
+
+- They must not use the evidence to infer that the accused is more likely to have committed the offence because he or she is a person of bad character (*R v Perrier (No 1)* [1991] 1 VR 697;* R v Thomas *[2006] VSCA 167; *Donnini v R* (1972) 128 CLR 114; *BRS v R *(1997) 191 CLR 275; *R v Stalder* [1981] 2 NSWLR 9; *R v **Rihia* [2000] VSCA 235).
+
+
+
+9. At common law, there was seen to be a high degree of risk that a jury would use bad character evidence to engage in impermissible propensity reasoning. Judges were therefore required to clearly direct the jury on both the permissible and impermissible uses of bad character evidence (*Donnini v R* (1972) 128 CLR 114). This will continue to guide the content of directions on bad character evidence under the *Jury Directions Act 2015*.
+
+10. The permissible uses of bad character evidence are not the converse of the permissible uses of good character evidence. The jury is allowed to use good character evidence to engage in a form of propensity reasoning that is not permitted for bad character evidence. This anomaly is deeply rooted in the law (*Melbourne v R *(1999) 198 CLR 1).
+
+
+
+Last updated: 7 August 2025
+
+
+[^4]: While evidence is generally inadmissible for the purpose of proving the accused’s bad character, evidence that is relevant for another purpose is not rendered inadmissible solely because it also happens to show the bad character of the accused. Such evidence may be admitted for a limited, probative, purpose. In such cases, the judge must direct the jury to use the evidence only for the admissible purpose, and may need to warn the jury not to use the evidence for an irrelevant or prejudicial purpose (see, e.g. *R v Thompson* [2001] VSCA 208; *Orman v R* [2010] VSCA 246R).
+[^5]: See *R v El–Azzi* [2004] NSWCCA 455 and *Stanoevski** v R* (2001) 202 CLR 115 for a discussion of the meaning of "matters arising out of" this kind of evidence.
+[^6]: In explaining the rationale behind the proposal on which s 110 is based, the Australian Law Reform Commission ("ALRC") noted that this restriction seems incapable of enforcement, and implied that it should not be adopted in the UEA (ALRC 26, vol.1, para 83).
+
+
+---
+
+---
+
+# Chapter 4.3.1
+
+
+## 4.3.1 Charge: General Good Character Evidence
+
+# 4.3.1 Charge: General Good Character Evidence
+
+This charge may be given where evidence that the accused is of good character generally has been adduced. It includes additional directions to be used where another party has led bad character evidence in rebuttal. See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+In this case you have heard evidence that NOA is a person of good character. [*Describe good character evidence.*]
+
+[*If bad character evidence has also been given, add the following shaded section.*]
+
+You have also heard evidence that NOA is a person of bad character. [*Describe bad character evidence.*] It is for you to determine whether NOA is of good character, bad character, or neither.
+
+
+[^2]: If the accused has given no evidence in court, and made no out-of-court statements, this paragraph should be omitted and the charge modified accordingly.
+[^3]: If the accused has given no evidence in court, and made no out-of-court statements, this paragraph should be omitted and the charge modified accordingly.
+[^4]: This aspect of the charge is based on the assumption that the NSW interpretation of *Evidence Act 2008* s 110 is correct. If it is not, then this paragraph will need to be modified accordingly. See 4.3 Character Evidence for further information.
+
+
+---
+
+
+## 4.3.1 Charge: General Good Character Evidence
+
+## Good Character
+
+If you accept that NOA is a person of good character, there are two ways in which you can use this fact.
+
+First, you can use it when assessing the credibility of NOA’s evidence and his/her denials of the prosecution case.[^2] As a person of good character is generally thought to be more trustworthy than other people, you may be less willing to accept the prosecution’s evidence than if NOA was not a person of good character.
+
+Second, you can use it when determining the likelihood that NOA committed the offence[s] charged. As it is generally believed that a person of good character is unlikely to commit a criminal offence, you may be less willing to accept the prosecution’s allegation that NOA committed [that offence/those offences] than you would be if s/he was not a person of good character.
+
+Of course, this does not mean that you must find NOA not guilty if you accept that s/he is a person of good character. The mere fact that a person is of good character cannot alter proven facts – it can only help you to determine whether or not those facts have been proven. In addition, you should keep in mind the fact that a person who has previously been of good character can commit a crime for the first time.
+
+[*If bad character evidence has also been given, add the following shaded section.*]
+
+By contrast, if you find that NOA is a person of bad character, you can only use this fact when assessing the credibility of [*describe sources of NOA’s evidence, e.g**.* "the evidence NOA gave in court" or "the statement NOA made to the police"].[^3] As a person of bad character is generally thought to be less trustworthy than other people, you may be less willing to accept that evidence than you would be if NOA was not a person of bad character.
+
+Unlike the situation where you find the accused to be of good character, a finding that the accused is of bad character cannot be used when determining the likelihood that NOA committed the offence[s] charged.[^4] In particular, you must not reason that, because NOA is a person of bad character, s/he is more likely to have committed the offence[s] charged. That kind of reasoning is prohibited. Findings of guilt must be based only on the evidence given in the trial, not on assumptions about the kinds of people who commit crimes.
+
+Last updated: 1 July 2013
+
+
+[^2]: If the accused has given no evidence in court, and made no out-of-court statements, this paragraph should be omitted and the charge modified accordingly.
+[^3]: If the accused has given no evidence in court, and made no out-of-court statements, this paragraph should be omitted and the charge modified accordingly.
+[^4]: This aspect of the charge is based on the assumption that the NSW interpretation of *Evidence Act 2008* s 110 is correct. If it is not, then this paragraph will need to be modified accordingly. See 4.3 Character Evidence for further information.
+
+
+---
+
+---
+
+# Chapter 4.3.2
+
+
+## 4.3.2 Charge: Specific Good Character Evidence
+
+# 4.3.2 Charge: Specific Good Character Evidence
+
+This charge may be given where evidence that the accused is of good character in a particular respect. It includes additional directions to be used where another party has led bad character evidence in rebuttal. See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+In this case you have heard evidence that NOA is a person of good character in relation to [*describe respect in which it is alleged that the accused is of good character*]. [*Describe good character evidence.*]
+
+[*If bad character evidence has also been given, add the following shaded section.*]
+
+You have also heard evidence that NOA is a person of bad character in that respect. [*Describe bad character evidence.*] It is for you to determine whether NOA is of good or bad character in relation to [*describe respect*], or is of neither good nor bad character in that respect.
+
+
+[^2]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of good character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^3]: This paragraph should be omitted, and the charge modified accordingly, if the respect in which it is alleged that the accused is of good character is not of relevance to the issue of guilt.
+[^4]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of bad character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^5]: This aspect of the charge is based on the assumption that the NSW interpretation of *Evidence Act 2008* s 110 is correct. If it is not, then this paragraph will need to be modified accordingly. See 4.3 Character Evidence for further information.
+
+
+---
+
+
+## 4.3.2 Charge: Specific Good Character Evidence
+
+## Good Character
+
+If you accept that NOA is a person of good character in relation to [*describe respect*], there are two ways in which you can use this fact.
+
+First, you can use it when assessing the credibility of NOA’s evidence and his/her denials of the prosecution case.[^2] As a person who is of good character in that respect is generally thought to be more trustworthy than other people, you may be less willing to accept the prosecution’s evidence than if NOA was not a person of good character in that respect.
+
+Second, you can use it when determining the likelihood that NOA committed the offence[s] charged.[^3] As it is generally believed that a person who is of good character in relation to [*describe respect*] is unlikely to commit a criminal offence, you may be less willing to accept the prosecution’s allegation that NOA committed [that offence/those offences] than you would be if s/he was not a person of good character in that respect.
+
+Of course, this does not mean that you must find NOA not guilty if you accept that s/he is a person of good character in relation to [*describe respect*]. The mere fact that a person is of good character in that respect cannot alter proven facts – it can only help you to determine whether or not those facts have been proven. In addition, you should keep in mind the fact that a person who has previously been of good character can commit a crime for the first time.
+
+[*If bad character evidence has also been given, add the following shaded section.*]
+
+By contrast, if you find that NOA is a person of bad character you can only use this fact when assessing the credibility of [*describe sources of NOA’s evidence, e.g**.* "the evidence NOA gave in court" or "the statement NOA made to the police"].[^4] As a person who is of bad character is generally thought to be less trustworthy than other people, you may be less willing to accept that evidence than you would be if NOA was not a person of bad character in that respect.
+
+
+[^2]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of good character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^3]: This paragraph should be omitted, and the charge modified accordingly, if the respect in which it is alleged that the accused is of good character is not of relevance to the issue of guilt.
+[^4]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of bad character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^5]: This aspect of the charge is based on the assumption that the NSW interpretation of *Evidence Act 2008* s 110 is correct. If it is not, then this paragraph will need to be modified accordingly. See 4.3 Character Evidence for further information.
+
+
+---
+
+
+## 4.3.2 Charge: Specific Good Character Evidence
+
+Unlike the situation where you find the accused to be of good character, a finding that the accused is of bad character in that respect cannot be used when determining the likelihood that NOA committed the offence[s] charged.[^5] In particular, you must not reason that, because NOA is a person of bad character, s/he is more likely to have committed the offence[s] charged. That kind of reasoning is prohibited. Findings of guilt must be based only on the evidence given in the trial, not on assumptions about the kinds of people who commit crimes.
+
+Last updated: 1 July 2013
+
+
+[^2]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of good character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^3]: This paragraph should be omitted, and the charge modified accordingly, if the respect in which it is alleged that the accused is of good character is not of relevance to the issue of guilt.
+[^4]: This paragraph should be omitted, and the charge modified accordingly, if:
+The respect in which it is alleged that the accused is of bad character is not of relevance to the issue of credibility; or
+The accused gave no evidence in court, and made no out-of-court statements.
+[^5]: This aspect of the charge is based on the assumption that the NSW interpretation of *Evidence Act 2008* s 110 is correct. If it is not, then this paragraph will need to be modified accordingly. See 4.3 Character Evidence for further information.
+
+
+---
+
+---
+
+# Chapter 4.3.3
+
+
+## 4.3.3 Charge: Bad Character Evidence
+
+# 4.3.3 Charge: Bad Character Evidence
+
+This charge may be given where evidence that the accused is not of good character has been adduced under an exception to the credibility rule (and not as rebuttal evidence under s 110). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+In this case you have heard evidence that NOA is a person of bad character.[^2] [*Describe bad character evidence.*]
+
+If you accept that NOA is a person of bad character, you can use this fact when assessing the credibility of [*describe sources of the accused’s evidence, e.g**.* "the evidence NOA gave in court" or "the statement NOA made to the police"].[^3] As a person of bad character is generally thought to be less trustworthy than other people, you may be less willing to accept that evidence than you would be if NOA was not a person of bad character.
+
+However, you must not reason that, because NOA is a person of bad character, s/he is more likely to have committed the offence[s] charged. That kind of reasoning is prohibited. Your decision must be based only on the evidence given in the trial, not on assumptions about the kinds of people who commit crimes.
+
+Last updated: 1 July 2013
+
+
+[^2]: This charge is drafted for use in cases where the character evidence relates to the accused. If the character evidence relates to a different witness the charge will need to be modified.
+[^3]: If the accused has given no evidence in court, and made no out-of-court statements, this paragraph should be omitted and the charge modified accordingly.
+
+
+---

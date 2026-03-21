@@ -1,0 +1,892 @@
+# Chapter 4.11
+
+
+## 4.11 Failure to Challenge Evidence (Browne v Dunn)
+
+# 4.11 Failure to Challenge Evidence (Browne v Dunn)
+
+
+
+## Scope
+
+
+
+1. This topic addresses the directions which may be given when a party fails to confront a witness with a proposed challenge to his or her evidence.
+
+2. Similar issues are addressed in the following topics:
+
+
+
+- 4.9 Prosecution Failure to Call or Question Witnesses;
+
+- 4.10 Defence Failure to Call Witness.
+
+
+---
+
+
+## 4.11 The Rule in Browne v Dunn
+
+## The Rule in *Browne v Dunn*
+
+
+---
+
+
+## 4.11 The Rule in Browne v Dunn
+
+1. The rule in *Browne v Dunn* requires counsel to:
+
+1. Put any matters concerning his or her own case that are inconsistent with a witness’ evidence to that witness; and
+
+1. Put any allegations or imputations that he or she intends to make against a witness to that witness (*Browne v Dunn* (1893) 6 R 67; *MWJ v R* (2005) 222 ALR 436; *R v Thompson* (2008) 21 VR 135; *R v Coswello* [2009] VSCA 300; *KC v R* (2011) 32 VR 61).
+
+2. This is a rule of fairness designed to allow witnesses to confront any proposed challenges to their evidence, and to enable the jury to see and assess the reactions of witnesses to those challenges (*MWJ v R* (2005) 222 ALR 436; *Bulstrode v Trimble* [1970] VR 840; *R v Thompson *(2008) 21 VR 135; *R v Morrow* (2009) 26 VR 526).
+
+3. The rule applies both where a party intends to call evidence that directly contradicts a witness’s account, and where a party intends to suggest that the jury draw an inference adverse to the witness from the evidence in the case. In the latter case, the suggested inference should ordinarily be put to the witness in cross-examination (*R v Birks *(1990) 19 NSWLR 677. See also *Evidence Act 2008* s 46(2)).
+
+4. While the rule in *Browne v Dunn* applies in criminal trials, the content of the rule is narrower than in civil proceedings. This is due to the accusatorial nature of criminal trials, the obligation on the prosecution to present its whole case and the burden of proof (*MWJ v R* (2005) 222 ALR 436). These matters should be taken into account when considering the scope of the rule and the remedies for its breach (see below).
+
+5. The rule does not require counsel to iron out inconsistencies that emerge in the other party’s case. It only obliges counsel to give witnesses the chance to respond to evidence or submissions that form part of counsel’s own case (*MWJ v R* (2005) 222 ALR 436; *R v MG* [2006] VSCA 264).
+
+
+---
+
+
+## 4.11 The Rule in Browne v Dunn
+
+6. These obligations are not fulfilled simply because the accused challenged the witness’s evidence in his or her record of interview. Counsel must put the version of events from the record of interview to any relevant witnesses (*R v Baran* [2007] VSCA 66).
+
+7. The rule in *Browne v Dunn* admits of some flexibility. While it requires proposed challenges to a witness’s evidence to *normally* be put to that witness, there are some circumstances in which this need not be done (see below) (*Bugeja v R* (2010) 30 VR 493)
+
+
+---
+
+
+## 4.11 Effect of the Evidence Act 2008
+
+## Effect of the *Evidence Act 2008*
+
+
+
+1. The rule in *Browne v Dunn* "remains alive and well" under the *Uniform Evidence Acts *(*Heaton v Luczka* [1998] NSWCA 104. See also *Jardein Pty Ltd v Stathakis* [2007] FCAFC 148).
+
+2. However, a prosecution failure to challenge evidence can be particularly significant, in part because of *Evidence Act 2008 *s 38, which provides a party with a greater opportunity to challenge the evidence of its own witnesses (see below).
+
+
+---
+
+
+## 4.11 Effect of the Jury Directions Act 2015
+
+## Effect of the *Jury Directions Act 2015*
+
+
+
+1. The* Jury Directions Act 2015* does not specify the content of any directions required in relation to the rule in *Browne v Dunn*.
+
+2. However, the general provisions in Part 3 of the Act regarding requests for directions and the consequences of failing to request a direction apply.
+
+3. The significance of a prosecution failure to comply with the rule in Browne v *Dunn *means that judges will often need to consider whether a direction is required, even if one is not requested (see *Cavanagh and Rekviashvili v R* [2016] VSCA 305, [103]).
+
+
+---
+
+
+## 4.11 Scope of the Rule
+
+## Scope of the Rule
+
+
+
+1. While the obligations in *Browne v Dunn *previously only applied to defence counsel (see, e.g. *R v Macfie (No 2) *(2004) 11 VR 215; *R v Nicholas* (2000) 1 VR 356), this is no longer the case.
+
+2. A party may also have a duty to cross-examine one of their own witnesses, if they intend to introduce evidence that contradicts a part of that witness’s account, or to criticise a part of that witness’s evidence in their closing address (see, e.g. *R v McCormack (No.3)* [2003] NSWSC 645; *Kanaan v R *[2006] NSWCCA 109). In such cases, the party must apply for leave to cross-examine the witness under *Evidence Act 2008 *s 38.
+
+3. The obligations in *Browne v Dunn *do not apply to committal hearings. No inference may be drawn from a failure to cross-examine a witness at an earlier committal hearing (*R v Birks* (1990) 19 NSWLR 677).
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+## When is the Rule Breached?
+
+
+
+1. The rule in *Browne v Dunn *places different obligations on the defence and the prosecution. This section looks at each party’s obligations in turn.
+
+
+
+## Defence Obligations
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+2. The extent of the obligations that arise under the rule in *Browne v Dunn *in a particular case will be informed by the nature of the case to be presented by the defence and the forensic context of the trial (*R v Coswello *[2009] VSCA 300; *R v Morrow* (2009) 26 VR 526;* Bugeja v R* (2010) 30 VR 493; *R v MG* [2006] VSCA 264;* R v Foley *[2000] 1 Qd R 290).
+
+3. Defence counsel must not only disclose that the evidence of the witness is to be challenged, but also how it is to be challenged (*R v Morrow* (2009) 26 VR 526; *Allied Pastoral Holdings Pty Ltd v FCT *[1983] 1 NSWLR 1).
+
+4. If the defence case involves no more than a denial of the witness’s evidence, without positive evidence or hypothesis of an alternative version of events, it may be sufficient to put that case to the witness in general terms (*R v Coswello *[2009] VSCA 300; *R v Morrow *(2009) 26 VR 526; *Bellemore v Tasmania* (2006) 16 Tas R 364).
+
+5. If defence counsel has made clear from the manner in which the defence case is conducted that the witness’s evidence will be contested, or if the witness’s evidence is clearly implausible, there may not be a need for any specific matters to be put in cross-examination (*R v Coswello *[2009] VSCA 300; *KC v R* (2011) 32 VR 61; *R v MG* [2006] VSCA 264; *Browne v Dunn* (1893) 6 R 67).
+
+6. Similarly, where the defence clearly, but unsuccessfully, challenges the witness on what the witness said or did, it may not be necessary to go on to put to the witness a possible motivation for the conduct which the witness has denied. Such a situation would not involve a failure to put instructions, or a matter about which a defence witness might give evidence, but merely a failure to put the defence case theory (see *Dedeoglu v The Queen* [2023] NSWCCA 126, [231]–[234], [266]).
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+7. By contrast, if a positive case is to be subsequently advanced, the essential elements of the eventual case must be put to any witness who may cast doubt on them (*R v Morrow *(2009) 26 VR 526; *R v Foley *[2000] 1 Qd R 290).
+
+8. Witnesses must be given the opportunity to respond not only to any allegation which is to be made, but to its essential features – which may include the time, place and circumstances of the alleged occurrence (*R v Morrow *(2009) 26 VR 526).
+
+9. Where defence counsel intends to adduce evidence of specific matters contrary to the witness’ evidence, he or she must put those matters in such a way that the witness has an adequate opportunity to respond (*R v Morrow *(2009) 26 VR 526).
+
+10. In determining whether the rule has been breached, the judge should not solely focus on what questions were or were not asked. It is necessary to examine whether, in the subsequent conduct of the defence, facts or propositions were advanced that had not been "fully or fairly" put to the relevant witnesses (*KC v R* (2011) 32 VR 61).
+
+11. It will often be a matter of impression and interpretation as to whether the cross-examination sufficiently conveys the substance of the contrary evidence (*R v Morrow *(2009) 26 VR 526).
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+## Prosecution Obligations
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+12. Little guidance has been given about the extent of the obligations the rule in *Browne v Dunn *places on the prosecution.
+
+13. In Victoria and New South Wales, it was thought that the prosecutor was under an obligation to cross-examine an accused who gives evidence about the reasons for any failure by the defence to comply with the rule before the prosecutor could make any later argument about defence breach of the rule (see *R v Thompson* (2008) 21 VR 135; *R v Scott *[2004] NSWCCA 254).
+
+14. The High Court has now disapproved this practice. Cross-examining the accused about the defence failure to comply with *Browne v Dunn* often extends to a suggestion that the failure occurred because the accused did not instruct counsel about the relevant matter, which occurred because the accused invented that matter while giving evidence. Where there are a number of possible explanations for the defence failure to put a matter to a prosecution witness, there is no proper basis for impugning the credit of the accused through such a suggestion of recent invention. Cross-examining the accused about the failure is also likely to involve impermissible questions which seek to expose the accused’s instructions to counsel (*Hofer v The Queen* (2021) 395 ALR 1, [31]–[37]). The prosecution may only seek to establish that the earlier failure to question witnesses in a particular way demonstrates that the accused’s account is a recent invention in cases where there are clear indications of recent invention (*Barton v The King *[2025] VSCA 74, [60]).
+
+15. The prosecution should not put forward in its closing address novel factual theories drawn from the evidence of other witnesses which were not included in its opening unless it has cross-examined the accused about those novel theories. This is necessary to ensure procedural fairness to the accused (*Astbury v The Queen* [2020] VSCA 132, [71]–[77]).
+
+16. However, the prosecution does not need to cross-examine the accused about a matter mentioned in a contested confession, which the prosecution relies upon to say that the confession was true (*R v Arnott *(2009) 26 VR 490).
+
+
+---
+
+
+## 4.11 When is the Rule Breached?
+
+17. It is likely that the prosecution must also comply with the other obligations outlined in "Defence Obligations" above. However, care must be taken when adapting those obligations to the prosecutorial context. In particular, judges should consider the accusatorial nature of criminal trials, the obligation on the prosecution to present its case and the burden of proof. In light of such matters, judges may more readily find that the prosecution has breached the rule in *Browne v Dunn*.
+
+
+---
+
+
+## 4.11 Prosecution failure to cross-examine unfavourable witnesses
+
+## Prosecution failure to cross-examine unfavourable witnesses
+
+
+
+1. *Evidence Act 2008* gives the prosecution the right to seek leave to cross-examine a witness who gives unfavourable evidence. As explained in 4.20 Unfavourable Witnesses, the threshold for evidence being relevantly unfavourable is low (see *R v McRae* [2010] VSC 114).
+
+2. The prosecution also has an obligation, as a matter of fairness, not to attack the credit of a witness it called without putting the basis of that attack to the witness (*Smith v The Queen* [2018] VSCA 139, [76]; *Saddik v The Queen* [2018] VSCA 249, [95]–[102]; *Ritchie v The Queen* [2019] VSCA 202, [66]–[67]; *Meer v The Queen* [2022] VSCA 164, [106]–[110]).
+
+3. Finally, on an appeal against conviction alleging verdicts are unreasonable or cannot be supported having regard to the evidence, appellate courts have noted that where a prosecution witness gives unchallenged exculpatory evidence, it is not open to the jury to ignore or reject that evidence (see *Ferguson v The Queen* [2020] VSCA 166, [80]; *Pell v The Queen* [2020] HCA 12; *Spurritt v The Queen* [2021] VSCA 7, [98]).
+
+4. A prosecution failure to challenge exculpatory evidence from its own witnesses can therefore have significant implications for the conduct of the prosecution case and the jury’s decision making process.
+
+5. The principles which oblige the prosecution to cross-examine its own witnesses must be applied with caution when dealing with vulnerable witnesses. In such cases, a prosecutor may make a proper forensic decision not to cross-examine or re-examine a vulnerable complainant about inconsistencies or omissions in the complainant’s evidence, if satisfied that the process would be unlikely to provide any meaningful clarification (see *Duesbury v The Queen* [2022] VSCA 117, [82]–[88]).
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+## Remedies for Breaching the Rule
+
+
+
+1. Where counsel does not comply with the rule in *Browne v Dunn*, the trial judge has a discretion about how to best remedy the unfairness so that the trial does not miscarry (*Archer v Richard Crookes Construction Pty Ltd* NSW CA 22/10/97; *Heaton v Luczka* [1998] NSWCA 104; *Scalise v Bezzina *[2003] NSWCA 362).
+
+2. What is necessary in any given case to ensure fairness will depend on the circumstances (*R v Ferguson* (2009) 24 VR 531; *R v Commonwealth Conciliation and Arbitration Commission; Ex parte Angliss Group *(1969) 122 CLR 546).
+
+3. The rule in *Browne v Dunn *must be applied with considerable care and circumspection due to the accusatorial nature of criminal trials. The rule does not apply in the same way or with the same consequences as it does in civil proceedings (*R v Coswello *[2009] VSCA 300; *R v Morrow* (2009) 26 VR 526; *MWJ v R* (2005) 222 ALR 436; *R v Demiri* [2006] VSCA 64; *R v Birks* (1990) 19 NSWLR 677).
+
+4. In determining what remedy is appropriate, the judge should consider whether it was the prosecution or the defence who breached the rule, and the obligations placed upon each party.
+
+5. Great care must be taken where it is the prosecution which has suffered the unfairness. The trial judge must avoid adopting a remedy for unfairness to the prosecution which might itself work unfairness against the accused (*R v Ferguson* (2009) 24 VR 531).
+
+
+
+## Take Steps to Avoid the Need for Jury Directions
+
+
+
+6. Where possible, steps should be taken in the running of the case to avoid having to direct the jury about the breach of the rule (*R v Coswello *[2009] VSCA 300; *R v Morrow* (2009) 26 VR 526; *R v Foley *[2000] 1 Qd R 290).
+
+7. For example, depending on the nature of the case, the trial judge may be able to avoid the need to give a *Browne v Dunn *direction by:
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+- Drawing the attention of counsel to the need to put matters to the witness during the course of cross-examination (*R v Ferguson* (2009) 24 VR 531; *R v Coswello* [2009] VSCA 300);
+
+- Permitting a witness to be recalled so that the relevant matters may be put to him or her (*MWJ v R* (2005) 222 ALR 436; *R v Ferguson* (2009) 24 VR 531; *R v Coswello* [2009] VSCA 300; *R v Thompson *(2008) 21 VR 135; *R v MG* [2006] VSCA 264). Leave to recall a witness may be given under *Evidence Act 2008 *s 46.
+
+- Allowing a party to reopen its case[^2] to lead evidence to rebut the contradictory evidence or corroborate the relevant witness’s evidence.
+
+
+
+8. In deciding whether to allow a party to reopen its case due to its failure to fulfil its obligations in relation to *Browne v Dunn*, the court must also give effect to the prohibition on the prosecution splitting its case. The prosecution may only reopen its case in exceptional circumstances, and a failure to challenge witnesses is not necessarily sufficient to meet this test (*Forrester v The King *[2024] NTCCA 15, [63]-[80]; *R v MG* [2006] VSCA 264; *R v Chin* (1985) 157 CLR 671; *Killick v R* (1981) 147 CLR 565).
+
+
+
+## Excluding Evidence and Preventing Arguments
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+9. The judge may refuse to admit evidence in breach of the rule in *Browne v Dunn *if its probative value is outweighed by the danger of unfair prejudice (*Evidence Act 2008 *ss 135, 137. See also *R v McCormack (No.3)* [2003] NSWSC 645; *R v Schneidas (No 2)* [1981] 2 NSWLR 713; *R v Body *NSW CCA 24/8/94).
+
+10. However, a judge is not entitled, by reason of defence non-compliance with the rule in *Browne v Dunn*, to withdraw an issue of fact from the jury, nor to treat an ingredient of the charge as proved (*R v Rajakaruna (No 2) *(2006) 15 VR 592; *R v Costi *(1987) 48 SASR 269).
+
+11. In a criminal proceeding that relates (wholly or partly) to a charge for a sexual offence or a family violence offence, an unrepresented accused must not adduce evidence in relation to a fact in issue in order to contradict the evidence of a protected witness,[^3] unless the evidence on which the accused intends to rely has been put to the protected witness during cross-examination (*Criminal Procedure Act 2009 *s 357).
+
+12. In some cases, it may follow from the conduct of the trial that it is not fairly open to counsel to make a particular suggestion in their closing address (*R v Foley *[2000] 1 Qd R 290; *R v Thompson* (2008) 21 VR 135). This remedy may be more appropriate for prosecution breaches of the rule than defence breaches.
+
+
+
+## When to Give a Jury Direction
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+13. While steps should be taken to avoid having to direct the jury about the breach of the rule in *Browne v Dunn *(see above), in some cases a direction may be appropriate (*R v Coswello *[2009] VSCA 300; *R v Morrow* (2009) 26 VR 526).
+
+14. The need for a direction depends on whether a direction is sought and whether, despite the absence of any request, there are substantial and compelling reasons for giving the direction despite the absence of a request (*Jury Directions Act 2015* ss 12, 14, 15, 16). See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+15. Even if a direction is sought, great care should be taken when deciding whether to give a *Browne v Dunn *direction, as giving a direction when it is not warranted may cause a substantial miscarriage of justice (*R v MG* [2006] VSCA 264. See also *R v Smart *[2010] VSCA 33; *KC v R* (2011) 32 VR 61).
+
+16. Prior to giving a *Browne v Dunn *direction, the judge should alert counsel to the failure to sufficiently put the matter to the witness, and provide an opportunity for recalling and cross-examining that witness. A direction should only be given if:
+
+
+
+- The party who called the witness refuses to recall them;
+
+- The party who failed to properly cross-examine the witness refuses the opportunity of further cross-examination; or
+
+- The circumstances render the possibility of further cross-examination impracticable (*R v Coswello* [2009] VSCA 300 (Nettle JA). See also *R v MG* [2006] VSCA 264).
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+17. Where there is a strong possibility that counsel’s case was invented after the witness gave evidence, recalling the witness may not fully address the problem. In such cases, the judge may comment on the failure to comply with the rule, even though the witness has been recalled and properly cross-examined (*R v Novak* [2003] VSCA 46).
+
+18. In deciding whether or not to give a direction, the judge should consider whether the failure was material in the context of the case (*R v McDowell* [1997] 1 VR 473; *R v MG* [2006] VSCA 264).
+
+19. The judge should also consider the accusatorial nature of criminal trials, and the different obligations placed upon the prosecution and the defence. A direction may be given more readily where it is the prosecution that has breached the rule.
+
+20. The judge should also take into account the extent of the breach. Where it is relatively minor, a direction should generally not be given (*KC v R* (2011) 32 VR 61).
+
+21. The judge will usually have good reasons for not giving a direction on a party’s failure to comply with the rule where:
+
+
+
+- The breach was due to a party’s inability to cross-examine its own witness, as it was refused leave under *Evidence Act 2008 *s 38; or
+
+- The party made it clear to the court that they wanted to cross-examine the witness, but were effectively prevented from doing so by the other party (*Bugeja v R* (2010) 30 VR 493);[^4] or
+
+- The disadvantaged party did not offer or seek to recall the witness (in order to correct the problem) (*MWJ v R* (2005) 222 ALR 436; *R v MG* [2006] VSCA 264).
+
+
+
+### Unrepresented Accused
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Remedies for Breaching the Rule
+
+22. As the rule in *Browne v Dunn* is a rule of professional practice and procedure, it may not be appropriate to give a direction if the accused is unrepresented (*R v Birks* (1990) 19 NSWLR 677; c.f.* McInnis v R *(1979) 143 CLR 575).
+
+23. If a judge is going to make a comment about an unrepresented accused’s breach of the rule in *Browne v Dunn*, fairness demands that he or she should first advise the accused of the existence of that rule and of the options available. If the judge fails to do so, he or she should not comment on the breach (*R v Zorad* (1990) 19 NSWLR 91).
+
+
+
+## Discharging the Jury
+
+
+
+24. If nothing can be done to prevent a miscarriage of justice arising from the breach the jury may need to be discharged (see, e.g. *R v SWC* (2007) 175 A Crim R 71).
+
+
+[^2]: *Criminal Procedure Act 2009* s 233 allows the prosecution to reopen its case with leave of the trial judge when the accused gives evidence that could not reasonably have been foreseen by the prosecution, based on the defence response to the summary of the prosecution opening, and the defence response to the notice of pre-trial admissions.
+[^3]: The following people are "protected witnesses": the complainant; a family member of the complainant; a family member of the accused; and any other witness who the court declares under s 355 to be a protected witness (*Criminal Procedure Act 2009* s 354).
+[^4]: E.g. In *Bugeja v R* (2010) 30 VR 493, the prosecution advised defence counsel that if they cross-examined a certain witness about a particular matter, they would re-examine that witness in such a way that one of the co-accused’s prior convictions would be revealed to the jury. While defence counsel could theoretically have proceeded with the desired cross-examination, that would have been highly prejudicial to the accused’s defence. It was thus seen as understandable that defence counsel would choose not to do so, and unfair of the prosecution to rely on the rule in *Browne v Dunn* in such circumstances.
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+## Content of the Direction
+
+
+
+1. The charge given in relation to a breach of the rule in *Browne v Dunn* is properly seen as a "direction" rather than a "comment". The judge is instructing the jury that, as a matter of law, they may use counsel’s failure to cross-examine a witness in a particular manner (*R v McDowell* [1997] 1 VR 473).
+
+2. This section addresses the following directions in turn:
+
+
+
+- Defence breaches of the rule in *Browne v Dunn*;
+
+- Prosecution breaches of the rule in *Browne v Dunn*;
+
+- Other directions that may be required instead of a standard *Browne v Dunn *direction.
+
+
+
+## Defence Breaches of the Rule in *Browne v Dunn*
+
+
+
+### Overview of Directions
+
+
+
+3. In most cases where a direction is necessary (see above), the judge should only direct the jury that the breach can be taken into account when assessing the weight of the contradictory evidence or the inferences that flow from that evidence (*R v Morrow* (2009) 26 VR 526; *R v Coswello *[2009] VSCA 300; *KC v R* (2011) 32 VR 61).
+
+4. Only in exceptional cases should the judge consider directing the jury that an adverse inference as to credibility may be drawn against the accused due to the breach. This will generally not be appropriate (*R v Morrow* (2009) 26 VR 526; *Hofer v The Queen* (2021) 395 ALR 1).
+
+5. Where a *Browne v Dunn *direction is given, the judge should usually explain that there may be good reasons why a party failed to comply with the rule (*R v MG* [2006] VSCA 264; *R v Manunta* (1989) 54 SASR 17; *R v Thompson *(2008) 21 VR 135).
+
+6. Each of these directions is discussed in more detail below.
+
+
+
+### Using the Breach to Assess Weight
+
+
+
+7. Where defence counsel fails to comply with the rule in *Browne v Dunn*, the judge may direct the jury about the effect that failure may have on their assessment of the contradictory evidence (*R v Morrow* (2009) 26 VR 526; *R v Coswello* [2009] VSCA 300).
+
+8. Where such a direction is required, the judge should:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- Outline the rule in *Browne v Dunn *and its purpose;
+
+- Tell the jury that, under the rule, the witness should have been challenged about the relevant matters, so that he or she had an opportunity to deal with the challenge;
+
+- Tell the jury that the witness was not challenged, and thus was denied the opportunity to respond to the challenge; and
+
+- Tell the jury that they have therefore been deprived of the opportunity of hearing his or her evidence in response (*R v Coswello* [2009] VSCA 300 (Nettle JA); *R v Foley *[2000] 1 Qd R 290. See also *R v Birks* (1990) 19 NSWLR 677; *R v Manunta* (1989) 54 SASR 17; *R v Senese* [2004] VSCA 136; *R v MG *[2006] VSCA 264; *R v Thompson* (2008) 21 VR 135).
+
+
+
+9. The judge may also tell the jury that the failure by defence counsel to put these matters to the witness can be taken into account when assessing the weight to be given to the allegation of fact that was not pursued with the relevant witness, or the arguments which rest upon that fact (*R v Morrow* (2009) 26 VR 526. See also *R v Nicholas *(2000) 1 VR 356; *R v Rajakaruna (No 2) *(2006) 15 VR 592).
+
+10. Failure to comply with the rule in *Browne v Dunn* does not prove that the imputations against the witness are false. It only affects the weight the jury may attach to those imputations (*R v Laz* [1998] 1 VR 453; *Bulstrode v Trimble *[1970] VR 840).
+
+11. Great care must be taken when directing the jury about any unfairness suffered by the prosecution. In such cases it may not be appropriate to comment strongly upon the failure to comply with the rule (see, e.g. *R v Ferguson* (2009) 24 VR 531).
+
+12. These directions only concern the jury’s assessment of the weight of the evidence. Failure to put matters to a witness cannot constitute supporting evidence or consciousness of guilt (See, e.g. *R v MG* [2006] VSCA 264).
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+### Using the Breach to Draw Adverse Inferences
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+13. Directions about the possibility of adverse inferences have recently been given too readily in criminal trials. The rule in *Browne v Dunn *does not apply to criminal proceedings in the same way, or with the same consequences, as it does in civil proceedings. Consequently, its application requires considerable care and circumspection (*R v Morrow* (2009) 26 VR 526 (Nettle JA); *KC v R* (2011) 32 VR 61).
+
+14. However, in exceptional cases the judge may direct the jury that an adverse inference as to credibility may be drawn against the accused due to the breach (*R v Morrow* (2009) 26 VR 526).
+
+15. The circumstances in which such a direction will be necessary are rare. It is one thing to remark upon the fact that a witness or a party appears to have been treated unfairly, but it is another thing altogether to comment that the evidence of a person should be disbelieved, perhaps as a recent invention, because it raises matters that were not put in cross-examination to other witnesses by that person’s counsel (*R v Morrow* (2009) 26 VR 526; *R v Foley *[2000] 1 Qd R 290; *R v Birks *(1990) 19 NSWLR 677).
+
+16. An adverse inference as to credibility can only arise where the circumstances surrounding the failure to put the allegation to the witness raise a "prominent hypothesis" that the contradictory evidence is a recent invention or is otherwise a fabrication (*R v Morrow* (2009) 26 VR 526).
+
+17. In such cases, the jury may be directed that they may infer from the failure to cross-examine the witness that any evidence which conflicts with that given by the impugned witness was invented after he or she gave evidence, and should not be believed (*R v Birks* (1990) 19 NSWLR 677; *R v Novak* [2003] VSCA 46; *R v Manunta* (1989) 54 SASR 17; *R v Senese* [2004] VSCA 136; *R v MG *[2006] VSCA 264; *R v Thompson* (2008) 21 VR 135).
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+18. The process of reasoning suggested by this direction is dangerous and should only be used with caution (*R v Manunta* (1989) 54 SASR 17; *R v Laz* [1998] 1 VR 453; *R v Thompson *(2008) 21 VR 135; *R v Birks *(1990) 19 NSWLR 677; *R v Demiri *[2006] VSCA 64). It will often be appropriate to direct the jury to proceed with care.
+
+19. An adverse inference direction is unlikely to be appropriate where the prosecution has not cross-examined the accused to suggest that the breach of the rule in *Browne v Dunn *demonstrates that his or her evidence was a recent invention, and has not argued to that effect in closing arguments (see, e.g. *R v Morrow* (2009) 26 VR 526; *R v Thompson* (2008) 21 VR 135).
+
+20. The judge must not direct the jury on the possibility of recent invention if there is evidence which excludes this possibility. Such evidence may arise from the record of interview (*R v Baran* [2007] VSCA 66; *KC v R* (2011) 32 VR 61).
+
+21. It is open to a party to give or call evidence to negate the inference of recent invention. For example:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- When being cross-examined, the accused can provide reasons for counsel’s failure to cross-examine the relevant witness (see "Reasons for Failure to Comply with the Rule" below);
+
+- The accused’s solicitor may be called to give evidence that his or her instructions had always been the same (see, e.g. *Oldfield v R* (2006) 163 A Crim R 242);
+
+- Counsel may tender evidence of a prior statement made by the accused presenting the same account as was presented in court (see, e.g. *R v Foley *[2000] 1 Qd R 290 and *Evidence Act 2008 *s 108).
+
+
+
+### Reasons for Failure to Comply With the Rule
+
+
+
+22. Where a *Browne v Dunn *direction is given, the judge should usually:
+
+
+
+- Explain to the jury that there may be good reasons why defence counsel failed to comply with the rule in *Browne v Dunn*; and
+
+- Provide relevant examples of possible reasons for counsel’s failure in the circumstances of the case (see, e.g. *R v Morrow* (2009) 26 VR 526; *R v MG* [2006] VSCA 264; *R v Manunta* (1989) 54 SASR 17; *R v Birks* (1990) 19 NSWLR 677; *Oldfield v R* (2006) 163 A Crim R 242; *R v Thompson *(2008) 21 VR 135).
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+23. The directions may also need to reject any improper submissions from a party about the reasons for the failure. In particular, the judge may need to warn the jury about any assumptions which underlie the improper submissions and direct the jury whether any adverse inferences are available (*Hofer v The Queen* (2021) 395 ALR 1, [37]).
+
+24. For example, where the prosecution invites the jury to infer that the accused’s evidence is a recent invention, the judge will first need to decide whether such a conclusion is open. If it is, then the judge will need to instruct the jury that it can only draw this inference if it is satisfied that there is no other reasonable explanation for the omission (*R v Morrow* (2009) 26 VR 526; *R v Thompson *(2008) 21 VR 135; *R v MG* [2006] VSCA 264; *R v Manunta* (1989) 54 SASR 17; *R v Birks* (1990) 19 NSWLR 677; *R v McLachlan* [1999] 2 VR 553; *Oldfield v R* (2006) 163 A Crim R 242).
+
+25. The jury must be given sufficient directions to enable them to assess all other possible explanations (*R v Morrow* (2009) 26 VR 526).
+
+26. This may require the judge to explain the course that trials may take, and the wide discretion available to counsel in their conduct (*R v Morrow* (2009) 26 VR 526; *R v Foley *[2000] 1 Qd R 290).
+
+27. The judge may need to explain to the jury that counsel is not simply a "mouthpiece" for the client, conducting the case in close conformity with the client’s directions (*R v Manunta* (1989) 54 SASR 17; *R v Coswello* [2009] VSCA 300).
+
+28. Possible reasons for failing to comply with the rule in *Browne v Dunn* include:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- Counsel may have considered the evidence unimportant in the context of the case;
+
+- Counsel may have overlooked the matter during cross-examination;
+
+- Counsel may have misunderstood his or her instructions;
+
+- The witness may not have been co-operative in providing a statement;
+
+- Forensic pressures may have resulted in looseness or inexactitude in the framing of questions;
+
+- The other evidence given by the witness may have made it clear that he or she would deny the challenge;
+
+- The witness’ evidence may have been so fanciful that there was no need for any cross-examination (*R v MG* [2006] VSCA 264; *R v Manunta* (1989) 54 SASR 17; *R v Birks* (1990) 19 NSWLR 677; *R v McLachlan* [1999] 2 VR 553; *R v Laz *[1998] 1 VR 453; *R v Thompson *(2008) 21 VR 135; *R v Foley *[2000] 1 Qd R 290).
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+29. The judge must limit the reasons he or she provides to the jury to those that are realistic in the context of the trial (*R v SWC* [2007] VSCA 201).
+
+30. The judge only needs to include reasons that the jury may otherwise overlook. This will depend on the issues in the context of the trial (*R v Manunta* (1989) 54 SASR 17; *R v Birks* (1990) 19 NSWLR 677; *R v ZW *[2006] VSCA 256).
+
+31. Any explanations raised by defence counsel about why he or she failed to comply with the rule should be told to the jury (*R v Morrow* (2009) 26 VR 526).
+
+32. It may not be appropriate to provide a possible explanation for counsel’s failure to fully cross-examine a witness where the effect of doing so would be to emphasise the significance of counsel’s omission, rather than to explain it (*R v SWC* [2007] VSCA 201; *R v Smart *[2010] VSCA 33).
+
+33. Where it is clear that there is a good forensic reason for the party’s failure to cross-examine the witness,[^5] a *Browne v Dunn* direction should not be given. To give a direction in such circumstances would be to invite the jury to come to a conclusion about a matter based on a premise that everyone, apart from the jury, understands to be false (*Bugeja v R *(2010) 30 VR 493).
+
+
+
+## Prosecution Breaches of the Rule
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+34. Where the prosecution has breached the rule by failing to cross-examine a defence witness (including the accused), a direction should inform the jury of the prosecutor’s failure to raise the matters in question with the witness and that the jury can take that into account in considering the weight they give to the prosecutor’s arguments about that witness’ evidence (*Cavanagh and Rekhviashvili v R* [2016] VSCA 305, [103]; *Smith v R* [2012] VSCA 187, [53]).
+
+35. In some cases, it may be appropriate to also inform the jury of answers the witness might have given, which would blunt a line of argument advanced by the prosecution, as a way of showing why the failure may be relevant to assessing the prosecutor’s arguments (see, e.g. *R v Thompson* (2008) 21 VR 135, [68], [123]).
+
+36. Directions on the prosecution breach may not, however, be necessary if the prosecution acknowledges the breach to the jury and withdraws any arguments which should not have been made due to the breach (see *Cavanagh and Rekhviashvili v R *[2016] VSCA 305, [103]).
+
+37. In one of the few cases to specifically address this issue, it was held that where the prosecution has breached the rule by failing to cross-examine one of its own witnesses:
+
+
+
+- It would ordinarily be appropriate to tell the jury that the defence had been denied the opportunity to support that witness’s evidence (either in cross-examination or by calling independent evidence); and
+
+- In some cases it may be appropriate to direct the jury to ignore the prosecution’s suggestion that the witness’s evidence be rejected. This will depend on factors such as whether other contradictory evidence has been given, and the circumstances of the breach (*Kanaan v R *[2006] NSWCCA 109).
+
+
+
+38. Since *Kanaan* was decided, a body of authority has developed on the unfairness of the prosecution attacking the credit of its own witness without having sought to cross-examine that witness, and the significance of unchallenged exculpatory evidence when deciding whether a conviction is unreasonable or cannot be supported having regard to the evidence (see Prosecution failure to cross-examine unfavourable witnesses, above). In an appropriate case, it may be open to a trial judge to:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- Note that the prosecution has not challenged a witness’ exculpatory evidence;
+
+- Remind the jury that the prosecution bears the onus of proof; and
+
+- Direct the jury that, given the witness’ exculpatory evidence is unchallenged, it would not be open to ignore or disregard that evidence.
+
+
+
+39. It will generally not be appropriate to tell the jury that they may draw an adverse inference against the prosecution due to breaching the rule in *Browne v Dunn*, as prosecution breaches are unlikely to provide an opportunity for recent invention (see "Using the Breach to Draw Adverse Inferences" above). However, in some cases it may be appropriate to tell the jury that, due to the breach, they may more readily reject certain inferences sought by the prosecution.
+
+40. While in some cases it may be appropriate to direct the jury that there may be good reasons why the prosecution failed to comply with the rule in *Browne v Dunn *(see "Reasons for Failure to Comply With the Rule" above), judges should be careful when doing so. Such a direction risks undermining the obligations placed on the prosecution to present all relevant material to the jury. In addition, the reasons why the prosecution failed to comply with the rule may not be relevant to the jury’s consideration of the consequences of the breach.
+
+
+
+## Other Directions
+
+
+
+41. In some circumstances, the judge may need to give one or more of the following directions instead of a standard *Browne v Dunn* direction:
+
+
+
+- That the breach reflects only on defence counsel (*R v Foley *[2000] 1 Qd R 290; *R v Morrow* (2009) 26 VR 526);
+
+- That because of the breach, it was not open to counsel to advance a particular submission (*R v Ferguson* (2009) 24 VR 531); or
+
+- That the jury must not make an adverse finding against the accused as a result of a suggested failure to challenge a witness (*R v Coswello* [2009] VSCA 300; *Bellemore v Tasmania* (2006) 16 Tas R 364).
+
+
+
+42. These directions are addressed in turn below.
+
+
+
+### Breach Solely Reflects on Counsel
+
+
+
+43. Where it is clear that the omission reflects only on the accused’s counsel (or solicitor), and not on the accused him or herself, instead of giving a standard *Browne v Dunn *direction, the jury should be told that:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- The witness or the prosecution’s case has been potentially disadvantaged by the omission; and
+
+- This was not the fault of the accused but rather of counsel (or the solicitor) (*R v Foley *[2000] 1 Qd R 290; *R v Morrow* (2009) 26 VR 526 (Nettle JA)).
+
+
+
+44. A direction of this nature should not be given where it is clear that the omission reflects only on the prosecution. Incompetence by the prosecution will not excuse a breach of the rule in *Browne v Dunn*. In such cases, the judge should continue to give a standard *Browne v Dunn* direction (see above).
+
+
+
+### Counsel Was Prevented From Advancing a Submission
+
+
+
+45. Where, due to a breach of the rule in *Browne v Dunn*, it was not open to counsel to advance a particular submission in the course of his or her final address, a judge may need to direct the jury of that fact in strong terms (*R v Ferguson* (2009) 24 VR 531).
+
+46. In directing the jury about this matter, the judge must be careful not to withdraw any issues of fact where the prosecution carries the burden of proof from the jury (see *R v Ferguson* (2009) 24 VR 531).
+
+47. An alternative solution to preventing an argument is to warn the jury in strong terms of the danger of adopting or accepting that argument, given the party's failure to cross-examine relevant witnesses (*CMG v R* (2013) 46 VR 728).
+
+
+
+### Warning Against Improper Browne v Dunn Reasoning
+
+
+
+48. In some cases the prosecution may improperly suggest that the defence has breached the rule in *Browne v Dunn*. For example, in cases where defence counsel has no obligation to put a matter to a particular witness, the prosecution may nevertheless cross-examine the accused about counsel’s failure to do so, or argue that the jury should draw an adverse inference from that failure (see, e.g. *R v Coswello* [2009] VSCA 300; *Bellemore v Tasmania* (2006) 16 Tas R 364; *Bugeja v R* (2010) 30 VR 493).
+
+49. In such circumstances, the judge must:
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+- Direct the jury that defence counsel was not obliged to put that matter to the witness; and
+
+- Warn the jury not to make an adverse finding against the accused as a result of the suggested failure to challenge that witness (*R v Coswello* [2009] VSCA 300; *Bellemore v Tasmania* (2006) 16 Tas R 364; *Bugeja v R* (2010) 30 VR 493).
+
+
+
+50. At common law, it was mandatory for the judge to give these directions. Under the *Jury Directions Act 2015*, defence counsel may request these directions, or the judge may consider that there are substantial and compelling reasons for giving the directions in the absence of a request (*Jury Directions Act 2015* ss 15, 16).
+
+51. In addition, the judge should warn the jury not to take the breach into account when assessing the weight of the contradictory evidence.
+
+
+
+## Role of the Jury
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+52. A *Browne v Dunn* direction generally only describes a permissible mode of reasoning. Where the direction concerns a defence breach, the jury is free to disregard the inferences that are open from the failure to properly cross-examine a relevant witness (*R v Nicholas* (2000) 1 VR 356; *Bulstrode v Trimble* [1970] VR 840; *MWJ v R* (2005) 222 ALR 436; *R v Rajakaruna (No 2) *(2006) 15 VR 592; *Bugeja v R* (2010) 30 VR 493). A prosecution breach may, however, require a direction about how certain modes of reasoning or findings are not open.
+
+53. A judge should only give a *Browne v Dunn* direction if he or she is satisfied that a breach has, or has arguably occurred, and that it cannot be remedied by a different means (see e.g. *R v Ferguson* (2009) 24 VR 531; *R v Morrow* (2009) 26 VR 526). For more information see Remedies for Breaching the Rule and When to Give A Direction above.
+
+54. If it is open to argue that defence counsel has not complied with the rule in *Browne v Dunn*, it is for the jury to determine whether the witness was given a fair opportunity to address the assertion being made by the cross examining party (*R v Nicholas* (2000) 1 VR 356; *Beattie v Ball *[1999] 3 VR 1; *R v Manunta *(1989) 54 SASR 17; *R v Ferguson* (2009) 24 VR 531).
+
+55. When determining whether or not the rule has been breached, the tribunal must consider whether the differences between the witness’s evidence and the other party’s case were sufficiently material that the witness should have been challenged in cross-examination (*R v Nicholas* (2000) 1 VR 356; *Beattie v Ball *[1999] 3 VR 1; *R v Manunta *(1989) 54 SASR 17).
+
+
+
+## Explaining Exchanges with Counsel
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+
+## 4.11 Content of the Direction
+
+56. Where counsel has asked the judge during cross-examination if he or she has complied with the rule in *Browne v Dunn*, the judge may explain this exchange to the jury (*R v Demiri *[2006] VSCA 64).
+
+57. The judge should describe the obligation to put certain matters to a witness as a "rule of professional practice" rather than an "ethical obligation", as the latter may suggest that counsel is merely "going through the motions", and does not think that the matters he or she is putting to the witness are true (*R v Demiri *[2006] VSCA 64).
+
+
+
+## Do Not Comment on Other Unchallenged Evidence
+
+
+
+58. Unless the rule in* Browne v Dunn* applies, judges should be careful about commenting on the fact that certain inculpatory evidence was unchallenged or uncontradicted. Such a comment may unfairly imply that it was open to defence counsel to have challenged or contradicted the evidence, when in many cases (e.g. in relation to complaint evidence) they will not have had scope to do so (*Jiang v R* [2010] NSWCCA 277).
+
+
+
+Last updated: 23 June 2025
+
+
+[^5]: E.g. Where the prosecution has made it clear that one of the co-accused’s prior convictions will be revealed to the jury if defence counsel cross-examines the witness (*Bugeja v R* (2010) 30 VR 493).
+
+
+---
+
+---
+
+# Chapter 4.11.1
+
+
+## 4.11.1 Charge: Breach of the Rule in Browne v Dunn
+
+# 4.11.1 Charge: Breach of the Rule in Browne v Dunn
+
+This charge may be used where:
+
+i) Defence counsel has breached the rule in *Browne v Dunn*; and
+
+ii) That breach cannot be remedied by means other than giving a direction; and
+
+iii) The judge determines that a direction is necessary in the circumstances of the case. See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required
+
+The charge may be modified for use in cases where the prosecution has breached the rule in *Browne v Dunn*. However, care should be taken when doing so. The judge should bear in mind the accusatorial nature of criminal trials, the obligation on the prosecution to present its whole case and the burden of proof. See 4.11 Failure to Challenge Evidence (Browne v Dunn) for guidance.
+
+
+
+## The Rule in *Browne v Dunn*
+
+I now need to direct you about a rule of practice concerning the cross-examination of witnesses.
+
+This rule says that whenever a prosecution witness gives evidence, defence counsel must cross-examine him or her about any matters that are relevant to the defence case, and must put any allegations that s/he intends to make against that witness directly to him or her.
+
+This is a rule of fairness, which allows witnesses to confront any proposed challenges to their evidence, and enables you to see and assess the reaction of the witnesses to those challenges.
+
+
+---
+
+
+## 4.11.1 Using the Breach to Assess Weight
+
+## Using the Breach to Assess Weight
+
+[*If the fact that the rule was broken is not a jury issue, add the following shaded section.*]
+
+Defence counsel broke this rule by not challenging NOW about [*describe relevant matter and/or allegation*]. As a result, NOW was denied the opportunity to respond to that challenge, and you were deprived of the opportunity of hearing his/her evidence in response.
+
+You may take this fact into account when assessing the weight you give to [*describe relevant matter, allegation or argument*].[^2]
+
+[*If the allegation that the rule was broken is a jury issue, add the following shaded section*.]
+
+In this case, the prosecution alleged that defence counsel broke this rule by not challenging NOW about [*describe relevant matter and/or allegation*]. They argued that NOW was therefore denied the opportunity to respond to that challenge, and you were deprived of the opportunity of hearing his/her evidence in response.
+
+The defence denied breaking the rule, arguing that [*describe defence argument*, *e.g**.* "they had put the matter to NOW in sufficient detail"].
+
+It is for you to determine whether NOW was given a fair opportunity to address this matter. In making this determination, you should consider how significant the matter is, and whether counsel should have cross-examined NOW about it. [*Insert any other information necessary for the jury to determine whether the rule was breached*.]
+
+If you find that defence counsel should have cross-examined NOW about [*describe matter*], you may take his/her failure to do so into account when assessing the weight you give to [*describe relevant matter, allegation or argument*].[^3]
+
+However, you should also consider the fact that there may be a good reason why defence counsel did not challenge NOW about this matter. For example, [*describe possible reasons for counsel’s failure to comply with the rule*].[^4]
+
+
+[^2]: In some cases, it may be appropriate to delete this paragraph.
+[^3]: In some cases, it may be appropriate to delete this paragraph.
+[^4]: Judges should only include reasons that are realistic in the context of the trial, and that the jury may otherwise overlook. A reason should not be provided if it would emphasise the significance of counsel’s omission, rather than explain it. Examples of possible reasons are provided in 4.11 Failure to Challenge Evidence (Browne v Dunn).
+
+
+---
+
+
+## 4.11.1 Using the Breach to Infer Recent Invention
+
+## Using the Breach to Infer Recent Invention
+
+[*If the circumstances of the breach give rise to the prominent hypothesis that the contradictory evidence is a fabrication, consideration may be given to adding the following shaded section.*]
+
+Warning: This part of the charge should only be given in exceptional circumstances. See 4.11 Failure to Challenge Evidence (Browne v Dunn) for guidance.
+
+You may also infer from defence counsel’s failure to cross-examine NOW about [*describe matter*], that any evidence which conflicts with NOW’s evidence about that matter was invented after NOW gave his/her evidence, and should not be believed. This would include [*summarise relevant defence evidence*].
+
+This does not mean that you must disbelieve the defence evidence on this issue. I am simply describing an inference that you are permitted to draw. It is for you to determine whether or not to draw that inference.
+
+You must be very cautious about drawing this inference. You will recall what I previously told you about drawing inferences.[^5] In this context, that means that before inferring that NOA invented his/her account after NOW gave evidence, you must decide that there is no other reasonable explanation for defence counsel’s failure to cross-examine NOW about [*describe matter*]. If you think that it is possible that there was another reason for defence counsel’s failure to cross-examine NOW about that matter, you may not draw this inference.
+
+Last updated: 9 March 2017
+
+
+[^5]: This section of the charge assumes that the jury has been previously instructed about inferences. If this is not the case, the charge should be modified accordingly.
+
+
+---
+
+---
+
+# Chapter 4.11.2
+
+
+## 4.11.2 Charge: Warning against Improper Browne v Dunn Reasoning
+
+# 4.11.2 Charge: Warning against Improper Browne v Dunn Reasoning
+
+This charge may be used where the prosecution has improperly suggested that the rule in *Browne v Dunn* has been breached.
+
+See 3.1 Directions Under Jury Directions Act 2015 for information on when directions are required.
+
+In this case the prosecution [*describe relevant action*, e.g. "cross-examined NOA about why defence counsel failed to ask NOW about…" or"suggested that defence counsel should have asked NOW about…"].
+
+This was not an appropriate argument for the prosecution to make, as defence counsel was not obliged to ask NOW about this matter.
+
+You must therefore disregard the prosecution’s arguments on this point. You must not make any unfavourable findings against NOA as a result of defence counsel’s suggested failure to challenge NOW about that matter, or take the fact that s/he failed to do so into account when assessing the evidence in this case.
+
+Last updated: 29 June 2015
+
+
+---

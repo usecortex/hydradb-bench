@@ -1,0 +1,1548 @@
+# Chapter 7.1.1
+
+
+## 7.1.1 Voluntariness
+
+# 7.1.1 Voluntariness
+
+
+
+## The Voluntariness Requirement
+
+
+
+1. The existence of a voluntary act or omission is an essential element of a crime. The accused must not be convicted for an act or omission which was independent of his or her will (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64*; R v Falconer* (1990) 171 CLR 30; *R v Marijancevic *(2009) 22 VR 576).
+
+2. Unless it is expressly excluded by statute, the voluntariness requirement applies to every offence (*Bratty v AG for Northern Ireland *[1963] AC 386; *R v O’Connor *(1979) 146 CLR 64; *He Kaw Teh *(1985) 157 CLR 523; *Jiminez v R *(1992) 173 CLR 572).
+
+3. This includes offences which do not require proof of *mens rea* (see, e.g. *R v Carter *[1959] VR 105; *Edwards v Macrae* (1991) 25 NSWLR 89).
+
+4. Where the relevant fault element is negligence, the negligent act or omission must have been committed voluntarily (*R v Martin* (1983) 9 A Crim R 376; *R v Tajber* (1986) 13 FCR 524).
+
+5. The cause of any involuntariness is irrelevant. A person whose actions are involuntary cannot be found guilty of an offence (*R v O’Connor *(1979) 146 CLR 64; *Jiminez v R* (1992) 173 CLR 572).
+
+
+---
+
+
+## 7.1.1 When is an Act or Omission "Voluntary"?
+
+## When is an Act or Omission "Voluntary"?
+
+
+
+## Acts
+
+
+---
+
+
+## 7.1.1 When is an Act or Omission "Voluntary"?
+
+1. An act is committed voluntarily if it is subject to the control and direction of the accused’s will (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64; *R v Falconer* (1990) 171 CLR 30).
+
+2. For an act to be voluntary, the accused does not need to have intended to *attain the result* caused by doing that act. It is sufficient that he or she was conscious of the nature of the act committed, and chose to do an act of that nature (*R v Falconer* (1990) 171 CLR 30; *R v Williamson* (1996) 67 SASR 428).
+
+3. A person who is not conscious or aware of what he or she is doing acts involuntarily. However, the key issue is the lack of the exercise of will, not the lack of consciousness or knowledge (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ). See also *R v Schaeffer *(2005) 13 VR 337).
+
+4. It is therefore possible for a person to act involuntarily even though he or she is conscious and has some awareness of what is happening (*R v Radford* (1985) 42 SASR 266; *R v Falconer* (1990) 171 CLR 30). See 8.8 Automatism for further information.
+
+5. The accused does not need to have appreciated the wrongfulness of his or her conduct for it to have been voluntary. However, the level of the accused’s awareness and understanding of his or her actions is a factor to be taken into account in determining whether he or she acted voluntarily (*R v Morrison* (2007) 171 A Crim R 361).
+
+6. The fact that a person’s thought processes were affected by a mental illness does not mean that he or she acted involuntarily. There is a distinction between an unwilled act and a willed act that is the product of a diseased mind (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ); *R v Falconer* (1990) 171 CLR 30. See also *R v Harm* (1975) 13 SASR 84).
+
+7. An act is not to be regarded as involuntary simply because:
+
+
+---
+
+
+## 7.1.1 When is an Act or Omission "Voluntary"?
+
+- The accused cannot remember it;
+
+- The accused could not control his or her impulse to do it;
+
+- It was unintentional or its consequences were unforeseen (*Bratty v AG for Northern Ireland *[1963] AC 386; *R v Radford *[1985] 42 SASR 266; *R v King *(2005) 155 ACTR 55. See also *Nolan v R* WA CCA 22/5/97).
+
+
+
+8. Although it is sometimes said that acts committed under duress are "involuntary" or "unwilled", it is incorrect to treat duress as related to the voluntariness requirement. A person who acts under duress deliberately chooses to perform some act (although under constrained circumstances), and thus acts "voluntarily" in the sense outlined in this commentary (see, e.g. *R v Palazoff* (1986) 43 SASR 99).
+
+
+
+## Omissions
+
+
+
+9. Although it is often stated that a person can only be held criminally responsible for voluntary omissions (see, e.g. *Ryan v R *(1967) 121 CLR 205; *R v Falconer* (1990) 171 CLR 30), it is not clear when an omission should be considered to be involuntary.
+
+
+---
+
+
+## 7.1.1 Types of Involuntary Acts
+
+## Types of Involuntary Acts
+
+
+
+1. There are at least five types of acts that may raise issues of voluntariness:
+
+
+
+- Involuntary muscular movements, such as spasms, convulsions and reflex actions;
+
+- Acts performed whilst asleep;
+
+- Accidental actions;
+
+- Acts performed in a state of automatism;
+
+- Acts performed in a state of gross intoxication.
+
+
+
+2. This topic only addresses the first two types of involuntary actions. See 7.1.4 Accident, 8.8 Automatism and 8.7 Common Law Intoxication for information concerning the other types of involuntary actions.
+
+
+
+## Involuntary muscular movements
+
+
+
+3. An act which results from a muscular movement that occurs without any control by the mind is involuntary (*Bratty v AG for Northern Ireland *[1963] AC 386; *Ryan v R *(1967) 121 CLR 205).
+
+4. It is clear that this includes:
+
+
+
+- Spasms and convulsions (*Bratty v AG for Northern Ireland *[1963] AC 386; *Ryan v R *(1967) 121 CLR 205);
+
+- Actions which a person is physically compelled to do by an external force;[^2] and
+
+- "Reflex action" in the strict neurological sense (i.e., a predictable and nearly instantaneous movement in response to a stimulus) (*Ryan v R *(1967) 121 CLR 205 (Windeyer J)).
+
+
+
+5. However, the term "reflex action" is also used to denote the probable but unpredictable reaction of a person when startled. It is unclear whether such a reaction is relevantly "involuntary":
+
+
+
+- In some cases the court seems to have accepted that such an instinctive reaction is involuntary (see, e.g. *R v Ugle *(2002) 211 CLR 171);
+
+- In other cases it has been suggested that an act is not to be treated as involuntary simply because the mind worked quickly and impulsively (*Ryan v R *(1967) 121 CLR 205 (Windeyer J); *Murray v R *(2002) 211 CLR 193 (Gaudron J)).
+
+
+[^2]: Physically compelled acts must be distinguished from acts performed under the mental compulsion of threats. As noted above, while the defence of duress may be available to a person who commits such acts, the acts are not involuntary in the sense outlined in this topic (*R v Palazoff* (1986) 43 SASR 99).
+[^3]: In such circumstances, the issues of causation and contemporaneity will need to be carefully addressed (see, e.g. *Jiminez v R* (1992) 173 CLR 572).
+
+
+---
+
+
+## 7.1.1 Types of Involuntary Acts
+
+6. If the latter position is accepted, it will not be sufficient to tell the jury to acquit if they find that the accused acted reflexively. They will need to decide whether that reflex action was itself an unwilled act (*Murray v R *(2002) 211 CLR 193 (Gaudron J)).
+
+
+
+## Acts performed while asleep
+
+
+
+7. A person cannot be held criminally responsible for an action committed while asleep. Such acts are necessarily involuntary (*Jiminez v R *(1992) 173 CLR 572; *Kroon v R* (1990) 55 SASR 476).
+
+8. However, the accused may be held criminally responsible for acts committed prior to falling asleep, such as driving while fatigued and aware of a real risk of falling asleep (see, e.g. *Jiminez v R *(1992) 173 CLR 572; *Kroon v R* (1990) 55 SASR 476. See also *Maher v Russell *Tas SC 22/11/93).[^3]
+
+9. For information concerning actions committed whilst sleepwalking, see 8.8 Automatism.
+
+
+[^2]: Physically compelled acts must be distinguished from acts performed under the mental compulsion of threats. As noted above, while the defence of duress may be available to a person who commits such acts, the acts are not involuntary in the sense outlined in this topic (*R v Palazoff* (1986) 43 SASR 99).
+[^3]: In such circumstances, the issues of causation and contemporaneity will need to be carefully addressed (see, e.g. *Jiminez v R* (1992) 173 CLR 572).
+
+
+---
+
+
+## 7.1.1 Which Act Must be Voluntary?
+
+## Which Act Must be Voluntary?
+
+
+
+1. It is the "deed which would constitute the crime" that must be performed voluntarily (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ)).
+
+2. Precisely which act (or omission) must be committed voluntarily will differ depending on the offence in question. For example:
+
+
+
+- In relation to murder, it is the "act that caused the death" (*Ryan v R *(1967) 121 CLR 205; *R v Falconer* (1990) 171 CLR 30);
+
+- In relation to manslaughter by unlawful and dangerous act, it is the "unlawful and dangerous act that exposed the victim to an appreciable risk of serious injury" (*R v Haywood* [1971] VR 755; *R v Williamson* (1996) 67 SASR 428).
+
+
+
+## Acts and Consequences
+
+
+
+3. It is the *act* which must be voluntary, not its *consequences* (*Ryan v R *(1967) 121 CLR 205; *R v Falconer* (1990) 171 CLR 30; *R v King *(2005) 155 ACTR 55; *R v Abdul-Rasool *(2008) 18 VR 586).
+
+4. Thus, in relation to murder, the accused does not need to have voluntarily caused the *death*. It is sufficient if he or she voluntarily committed the *death-causing act* (*R v Falconer* (1990) 171 CLR 30; *R v Ugle *(2002) 211 CLR 171; *Murray v R *(2002) 211 CLR 193).
+
+5. While in most cases it will not be difficult to identify which act must be voluntary (*R v Williamson* (1996) 67 SASR 428), occasionally there may be a dispute about precisely what constitutes the "act" and what constitutes the "consequences". For example, where the accused is charged with murdering another person by striking them with a stick, it could be argued that:
+
+
+
+- The "act" is *wielding the stick*, and the "consequence" is the stick striking the victim and causing his or her death; or
+
+- The "act" is *striking the victim*, and the "consequence" is causing his or her death (see *Kolian v R *(1968) 119 CLR 47).
+
+
+---
+
+
+## 7.1.1 Which Act Must be Voluntary?
+
+6. The law in this area is not settled, with some judges holding that it is the bodily action alone (e.g. wielding the stick) which must be voluntary, and others looking more broadly at the aspect of the offence which creates the liability to punishment (e.g. striking the victim) (see, e.g. *Vallance v R *(1961) 108 CLR 56; *Kaporonovski v R* (1973) 133 CLR 209; *Kolian v R *(1968) 119 CLR 47; *R v Falconer* (1990) 171 CLR 30; *R v Williamson* (1996) 67 SASR 428; *Murray v R *(2002) 211 CLR 193; *R v Ugle *(2002) 211 CLR 171; *R v Winter* [2006] VSCA 144).
+
+7. It has been suggested that neither view should be rigidly adhered to, and that the matter should be resolved on a case by case basis (*Kaporonovski v R* (1973) 133 CLR 209 (Walsh J); *R v Williamson* (1996) 67 SASR 428).
+
+8. However, judges have been urged to avoid an overly refined analysis when addressing this issue (*Murray v R *(2002) 211 CLR 193 (Gummow and Hayne JJ); *R v Katarzynski* [2005] NSWCCA 72).
+
+
+
+## Causal Acts
+
+
+---
+
+
+## 7.1.1 Which Act Must be Voluntary?
+
+9. Where an offence requires proof that the accused’s actions caused a particular result, it is the *causal act *that must be voluntary (*Ryan v R *(1967) 121 CLR 205; *Kolian v R *(1968) 119 CLR 47; *R v Katarzynski* [2005] NSWCCA 72).
+
+10. For example, in relation to murder it is the *act that caused the victim’s death *that must have been voluntary (see, e.g. *Kolian v R *(1968) 119 CLR 47; *R v Winter* [2006] VSCA 144).
+
+11. In particular, where the case involves a scuffle over a weapon, the prosecution must prove that the particular use of the weapon to inflict the death-causing or injury-causing wound was voluntary. For example, in *Herodotou v The Queen*, to prove that the act was voluntary, the prosecution needed to prove that the accused intended to inflict the particular stab wound which caused death, given the evidence that the accused and the deceased had been grappling over a knife (*Herodotou v The Queen* [2018] VSCA 253, [123]–[124]).
+
+12. Where there is a dispute about which act caused the requisite result, it is for the jury to determine (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ)*; R v Demirian *[1989] VR 97; *Royall v R* (1991) 172 CLR 378;* R v Katarzynski* [2005] NSWCCA 72). See 7.1.2 Causation for guidance on this issue.
+
+13. In such cases, the jury’s determination of the voluntariness issue may differ depending on what they find to be the causal act. For example, where it is alleged that the accused murdered the victim by shooting him or her, and the jury accepts that the trigger was pulled involuntarily:
+
+
+---
+
+
+## 7.1.1 Which Act Must be Voluntary?
+
+- They must acquit the accused if they find that the causal act was *firing the **gun*;
+
+- They may convict the accused if they find that the causal act was *drawing the gun in the circumstances in which it was drawn* (e.g. cocked and loaded, with no safety catch applied), which the accused did voluntarily (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ). See also *Royall v R *(1991) 172 CLR 378; *Murray v R *(2002) 211 CLR 193; *R v Katarzynski* [2005] NSWCCA 72; *Koani v R *[2017] HCA 42).
+
+
+
+14. Consequently, where there are multiple possible causal acts in issue, it is important that the judge identify the different possibilities and explain the consequences of the jury’s findings (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ, Menzies J); *Murray v R *(2002) 211 CLR 193 (Callinan J); *White v Ridley* (1978) 140 CLR 342; *Royall v R *(1991) 172 CLR 378 (Mason CJ); *R v Katarzynski* [2005] NSWCCA 72; *Koani v R *[2017] HCA 42).
+
+
+---
+
+
+## 7.1.1 Knowledge of Circumstances
+
+## Knowledge of Circumstances
+
+
+
+1. In most cases, an act may be voluntary even if the accused is unaware of fundamental facts that will determine his or her culpability. Knowledge of the circumstances in which an act is committed is generally a component of intention not volition (*R v O’Connor* (1979) 146 CLR 64).
+
+2. For example, where the accused is charged with murder, the accused does not need to have known that the victim would be shot to make the discharge of the gun a voluntary act (see, e.g. *Ryan v R *(1967) 121 CLR 205).[^4]
+
+3. However, some acts require a certain level of knowledge. For example, if it is held that the act that must have been voluntary in a particular case was *stabbing* the victim, this requirement will only be met if the accused knew there was a knife in his or her hand (*R v Williamson* (1996) 67 SASR 428; *R v Winter* [2006] VSCA 144. See also *Kolian v R *(1968) 119 CLR 47; *Duffy v R *(1981) WAR 72).
+
+
+[^4]: The accused’s lack of knowledge will, however, be relevant to the question of whether he or she intended to cause death or really serious injury.
+
+
+---
+
+
+## 7.1.1 The Evidentiary Presumption of Voluntariness
+
+## The Evidentiary Presumption of Voluntariness
+
+
+[^5]: The evidentiary presumption of voluntariness is sometimes called the "presumption of mental capacity" (see, e.g. *Bratty v AG for Northern Ireland* [1963] AC 386; Ryan v R (1967) 121 CLR 205).
+[^6]: See 8.4 Mental Impairment.
+
+
+---
+
+
+## 7.1.1 The Evidentiary Presumption of Voluntariness
+
+1. Ordinarily, the prosecution does not need to address the issue of voluntariness. Instead, they may rely on the evidentiary presumption that an act done by an apparently conscious person was done voluntarily (the "evidentiary presumption of voluntariness") (*R v Falconer* (1990) 171 CLR 30. See also *Bratty v AG for Northern Ireland *[1963] AC 386; *Ryan v R *(1967) 121 CLR 205;* R v Radford *[1985] 42 SASR 266; *Bush v R* (1993) 43 FCR 549; *Hawkins v R *(1994) 179 CLR 500; *MG v R* (2010) 29 VR 305).[^5]
+
+2. The evidentiary presumption of voluntariness reflects the ordinary and universal experience that a person's will ordinarily accompanies his or her actions (*R v Falconer* (1990) 171 CLR 30; [1990] HCA 49).
+
+3. The evidentiary presumption of voluntariness is a provisional presumption only. Unlike the presumption of sanity,[^6] it does not put the legal burden on the defence. The burden of proving voluntariness always remains on the prosecution (*R v Falconer* (1990) 171 CLR 30; *Bratty v AG for Northern Ireland *[1963] AC 386 (Lord Denning); *Ryan v R *(1967) 121 CLR 205 (Barwick CJ); *R v Radford *[1985] 42 SASR 266; *R v Marijancevic* (2009) 22 VR 576).
+
+4. Thus, if the evidentiary presumption of voluntariness is displaced, the prosecution must prove, beyond reasonable doubt, that the relevant act or omission was voluntary (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64; *R v Falconer* (1990) 171 CLR 30; *R v Marijancevic *(2009) 22 VR 576).
+
+
+[^5]: The evidentiary presumption of voluntariness is sometimes called the "presumption of mental capacity" (see, e.g. *Bratty v AG for Northern Ireland* [1963] AC 386; Ryan v R (1967) 121 CLR 205).
+[^6]: See 8.4 Mental Impairment.
+
+
+---
+
+
+## 7.1.1 The Evidentiary Presumption of Voluntariness
+
+5. For the evidentiary presumption of voluntariness to be displaced, there must be sufficient evidence from which it may reasonably be inferred that the relevant act was involuntary (*R v Falconer* (1990) 171 CLR 30; *Bratty v AG for Northern Ireland *[1963] AC 386 (Lord Denning); *Ryan v R *(1967) 121 CLR 205 (Barwick CJ); *R v Youssef *(1990) 50 A Crim R 1; *R v Marijancevic* (2009) 22 VR 576).
+
+6. The mere fact that the accused has made a credible assertion of a lack of memory is not sufficient to displace the presumption (*R v O’Connor* (1980) 146 CLR 64 (Barwick CJ)).
+
+7. See 7.1.4 Accident, 8.8 Automatism and 8.7 Common Law Intoxication for information concerning some of the circumstances in which the presumption will be displaced.
+
+
+[^5]: The evidentiary presumption of voluntariness is sometimes called the "presumption of mental capacity" (see, e.g. *Bratty v AG for Northern Ireland* [1963] AC 386; Ryan v R (1967) 121 CLR 205).
+[^6]: See 8.4 Mental Impairment.
+
+
+---
+
+
+## 7.1.1 When Must the Jury be Directed about Voluntariness?
+
+## When Must the Jury be Directed about Voluntariness?
+
+
+
+1. For most offences,[^7] it will only be necessary to direct the jury about voluntariness if the evidentiary presumption of voluntariness has been displaced (*R v Falconer* (1990) 171 CLR 30; *Bratty v AG for Northern Ireland *[1963] AC 386; *Ryan v R *(1967) 121 CLR 205; *R v Marijancevic *(2009) 22 VR 576; *Cvetkovic v R *[2010] NSWCCA 329).
+
+2. As there ordinarily will not be sufficient evidence to displace the presumption, it will usually not be necessary to give a direction on voluntariness (*Ryan v R* (1967) 121 CLR 205; *R v Falconer* (1990) 171 CLR 30; *R v Fowler *[1999] VSCA 135; *R v Le Broc* (2000) 2 VR 43; *R v Chang* (2003) 7 VR 236).
+
+3. Where the presumption has been displaced:
+
+
+
+- The jury *must* be specifically directed about voluntariness (*R v Falconer* (1990) 171 CLR 30; *Ryan v R* (1967) 121 CLR 205; *R v Ugle *(2002) 211 CLR 171; *Murray v R *(2002) 211 CLR 193; *R v Marijancevic *(2009) 22 VR 576. But see *R v Tucker *(1984) 36 SASR 135); and
+
+- A direction must be given even if not requested or sought by either party (*R v Falconer* (1990) 171 CLR 30; *MG v R* (2010) 29 VR 305).
+
+
+[^7]: For some offences, such as murder, the jury should always be directed about voluntariness. Where this is the case, the issue of voluntariness is addressed in the commentary for that offence.
+
+
+---
+
+
+## 7.1.1 Content of the Charge
+
+## Content of the Charge
+
+
+
+1. Where a voluntariness direction is required, the judge must:
+
+
+
+- Specifically direct the jury that one element of the offence that the prosecution must prove is that the relevant act (or omission) was voluntary;
+
+- Explain the meaning of that element; and
+
+- Relate the law to the evidence (*R v Tait *[1973] VR 151; *Ryan v R* (1967) 121 CLR 205; *MG v R* (2010) 29 VR 305).
+
+
+
+## Give a separate voluntariness direction
+
+
+
+2. When voluntariness is in issue, the jury must be specifically directed about it (*R v Ugle *(2002) 211 CLR 171; *Stevens v R *(2005) 227 CLR 319 (Kirby and Callinan JJ); *MG v R *(2010) 29 VR 305).
+
+3. It is not sufficient to direct the jury that the accused’s acts must have been intentional. The judge must draw to the jury’s attention any matters which can show that the prosecution has not proven the relevant act was voluntary (*R v Ugle *(2002) 211 CLR 171; *Murray v R *(2002) 211 CLR 193 (Callinan J); *Stevens v R *(2005) 227 CLR 319 (Kirby and Callinan JJ); *MG v R *(2010) 29 VR 305. But see *R v Tucker *(1984) 36 SASR 135).[^8]
+
+4. As the issue of voluntariness is logically anterior to issues such as whether the act was committed in self-defence, or whether it was done with the requisite intention, it should be addressed first (*R v Ugle *(2002) 211 CLR 171; *Stevens v R *(2005) 227 CLR 319 (Kirby and Callinan JJ)).
+
+
+
+## Define voluntariness
+
+
+[^8]: Although a judge should direct the jury about voluntariness and intention separately, where the issue of voluntariness is factually subsumed by the issue of intention an omission to direct the jury about voluntariness may not give rise to a substantial miscarriage of justice (see, e.g. *MG v R* (2010) 29 VR 305; *Coulson v R* [2010] VSCA 146).
+[^9]: See 7.1.4 Accident for further information.
+[^10]: See 7.1.2 Causation for assistance with this issue.
+
+
+---
+
+
+## 7.1.1 Content of the Charge
+
+5. The judge must explain the legal meaning of "voluntariness" to the jury (*R v Tait *[1973] VR 151).
+
+6. This requires the judge to explain to the jury that the relevant act must have been the product of the accused’s will (*R v Tait *[1973] VR 151).
+
+7. No set form of words is essential (*R v Tait *[1973] VR 151).
+
+8. It is not necessary to tell the jury that "the mind must accompany the act", although that may be an appropriate direction in some cases (*R v Tait *[1973] VR 151).
+
+9. The words "conscious" and "deliberate" may be used to help the jury to assess and understand whether the relevant act was voluntary (*R v Schaeffer *(2005) 13 VR 337. See also *Ryan v R *(1967) 121 CLR 205; *R v Winter *[2006] VSCA 144).
+
+10. If the word "deliberate" is used, the judge must:
+
+
+
+- Make clear that it refers to deliberately *committing the act* in question, rather than deliberately *causing a particular **result*;
+
+- Not suggest that a "deliberate" act differs from a "voluntary" act. While the word "deliberate" may be used to help explain the concept of voluntariness, it is not a separate requirement;
+
+- Not define the term "deliberate" by reference to whether the result of that act was reasonably foreseeable (*R v Schaeffer *(2005) 13 VR 337).[^9]
+
+
+
+11. To avoid confusing the issue of voluntariness with that of intention, judges should not use the word "intentional" to describe the voluntariness requirement (*R v Marijancevic *(2009) 22 VR 576. See also *Kolian v R *(1968) 119 CLR 47 (Barwick CJ); *MG v R* (2010) 29 VR 305).
+
+
+
+## Identify the relevant act
+
+
+[^8]: Although a judge should direct the jury about voluntariness and intention separately, where the issue of voluntariness is factually subsumed by the issue of intention an omission to direct the jury about voluntariness may not give rise to a substantial miscarriage of justice (see, e.g. *MG v R* (2010) 29 VR 305; *Coulson v R* [2010] VSCA 146).
+[^9]: See 7.1.4 Accident for further information.
+[^10]: See 7.1.2 Causation for assistance with this issue.
+
+
+---
+
+
+## 7.1.1 Content of the Charge
+
+12. Where there are multiple possible acts in issue, it is important that the judge carefully identify the act that must have been voluntary (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ, Menzies J); *Murray v R *(2002) 211 CLR 193 (Callinan J); *Royall v R *(1991) 172 CLR 378 (Mason CJ)).
+
+13. In some cases the question of which act must have been committed voluntarily will be a factual issue for the jury to resolve. This will be the case, for example, in a murder trial involving multiple possible causes of death. In such a case, it is for the jury to determine:
+
+
+
+- What acts were done by the accused;
+
+- Which of those acts they consider to have caused the death;[^10] and
+
+- Whether the act they consider to have caused the death was committed voluntarily (*Murray v R *(2002) 211 CLR 193 (Gaudron and Kirby JJ); *Ryan v R *(1967) 121 CLR 205 (Barwick CJ); *Royall v R *(1991) 172 CLR 378 (Mason CJ); *R v Katarzynski* [2005] NSWCCA 72)
+
+
+
+14. Where there are multiple possible causal acts in issue, it is important that the judge clearly identify the different possibilities and explain the consequences of the jury’s findings (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ, Menzies J); *Murray v R *(2002) 211 CLR 193 (Callinan J); *Royall v R *(1991) 172 CLR 378 (Mason CJ)).
+
+
+
+## Explain any knowledge requirements
+
+
+[^8]: Although a judge should direct the jury about voluntariness and intention separately, where the issue of voluntariness is factually subsumed by the issue of intention an omission to direct the jury about voluntariness may not give rise to a substantial miscarriage of justice (see, e.g. *MG v R* (2010) 29 VR 305; *Coulson v R* [2010] VSCA 146).
+[^9]: See 7.1.4 Accident for further information.
+[^10]: See 7.1.2 Causation for assistance with this issue.
+
+
+---
+
+
+## 7.1.1 Content of the Charge
+
+15. In some cases the judge must tell the jury that they need to be satisfied that the accused had knowledge of certain facts in order to find that he or she acted voluntarily (see, e.g. *R v Williamson* (1996) 67 SASR 428; *R v Winter* [2006] VSCA 144).
+
+16. For example, where the accused is charged with murder by stabbing, and claims that he did not know he was holding a knife when he punched the victim, the jury must be directed that in order to find that the stabbing was voluntary, they must be satisfied that the accused knew he was holding a knife (see, e.g. *R v Williamson* (1996) 67 SASR 428; *R v Winter* [2006] VSCA 144. See also *Duffy v R *(1981) WAR 72).
+
+
+
+## Relate the law to the evidence
+
+
+
+17. The judge must relate the law to the evidence (*R v Tait *[1973] VR 151; *Ryan v R* (1967) 121 CLR 205; *MG v R* (2010) 29 VR 305).
+
+18. The jury may take into account the sequence of acts leading up to the act in question (e.g. choosing to carry a knife) in determining whether the relevant act was voluntary (*R v Ugle *(2002) 211 CLR 171 (Callinan J); *Murray v R *(2002) 211 CLR 193 (Callinan J)).
+
+
+
+## Do not tell the jury about the presumption of voluntariness
+
+
+[^8]: Although a judge should direct the jury about voluntariness and intention separately, where the issue of voluntariness is factually subsumed by the issue of intention an omission to direct the jury about voluntariness may not give rise to a substantial miscarriage of justice (see, e.g. *MG v R* (2010) 29 VR 305; *Coulson v R* [2010] VSCA 146).
+[^9]: See 7.1.4 Accident for further information.
+[^10]: See 7.1.2 Causation for assistance with this issue.
+
+
+---
+
+
+## 7.1.1 Content of the Charge
+
+19. The jury should not be told that there is a presumption that an act done by a person who is apparently conscious is done voluntarily (*Murray v R *(2002) 211 CLR 193 (Gummow and Hayne JJ); *Middleton v R *[2000] WASCA 213; *R v Marijancevic *(2009) 22 VR 576).
+
+20. The jury also should not be told to only consider the issue of voluntariness if they are satisfied that there is at least a reasonable possibility the accused's actions were involuntary. It is for the judge to determine whether there is a sufficient evidentiary basis for the issue of voluntariness to be considered. Once such a basis has been established, it is for the jury to decide whether the prosecution have proved beyond reasonable doubt that the relevant act was voluntary (*R v Marijancevic *(2009) 22 VR 576).
+
+
+
+Last updated: 27 March 2019
+
+
+[^8]: Although a judge should direct the jury about voluntariness and intention separately, where the issue of voluntariness is factually subsumed by the issue of intention an omission to direct the jury about voluntariness may not give rise to a substantial miscarriage of justice (see, e.g. *MG v R* (2010) 29 VR 305; *Coulson v R* [2010] VSCA 146).
+[^9]: See 7.1.4 Accident for further information.
+[^10]: See 7.1.2 Causation for assistance with this issue.
+
+
+---
+
+---
+
+# Chapter 7.1.1.1
+
+
+## 7.1.1.1 Charge: Voluntariness
+
+# 7.1.1.1 Charge: Voluntariness
+
+This charge should be used where there is sufficient evidence to displace the evidentiary presumption of voluntariness,[^2] and the voluntariness requirement is not addressed in the relevant offence charge.
+
+If it is alleged that the accused’s actions were "accidental", care must be taken to ensure that the argument relates to voluntariness rather than intention. See 7.1.4 Accident for assistance.
+
+The charge has been designed as an additional element to insert after the conduct element, with the numbering of subsequent elements to be altered accordingly.
+
+With suitable modifications, it may instead be incorporated into the directions about the conduct element, as an additional matter the prosecution must prove (see, e.g. the first element of the rape charges).
+
+
+
+## Voluntariness
+
+The [*insert number*] element the prosecution must prove beyond reasonable doubt is that the accused’s act of [*describe act, e.g**.* "driving"] was a voluntary act.[^3]
+
+The law says that an act is committed voluntarily if it is subject to the control and direction of a person’s will.
+
+Some examples of involuntary acts include:
+
+
+
+- Acts committed by an unconscious person, such as a sleepwalker or a person rolling over in bed;
+
+- Some acts that are committed accidentally, such as when a person trips over and breaks something he or she is holding;[^4] and
+
+- Acts committed in certain mental states where the mind loses control of the body’s actions, such as may occur when a person suffers from concussion.
+
+
+[^2]: See 7.1.1 Voluntariness for guidance.
+[^3]: Judges must take care to precisely identify which act must have been committed voluntarily. In some cases this will be a matter for the jury to determine. See "Which Act Must be Voluntary?" in 7.1.1 Voluntariness for guidance.
+[^4]: If it is alleged that the accused’s actions were "accidental", care must be taken to ensure that the argument relates to voluntariness rather than intention. See 7.1.4 Accident for assistance.
+
+
+---
+
+
+## 7.1.1.1 Charge: Voluntariness
+
+In each of these examples, the person’s actions are involuntary because they are unwilled. The person has exercised no control or direction over his or her bodily movements.
+
+[*If it is alleged that the accused caused a particular result, add the following shaded section.*]
+
+The focus of this element is on NOA’s conduct, not the consequences of that conduct. Thus, NOA does not need to have intended to [*describe result, e.g**.* "injure NOV"] for his/her actions to have been voluntary. It is sufficient that his/her act of [*describe act, e.g**.* "driving"] was willed.
+
+[*In rare cases where the accused needs to have known a particular fact for his/her acts to have been voluntary, add the following shaded section.*]
+
+Some actions cannot be done voluntarily unless the person is aware of certain facts when doing them. For example, a person cannot shoot someone voluntarily if s/he is not aware that he or she is holding a gun.
+
+In this case, to find that NOA’s act of [*describe act, e.g**.* "stabbing"] was voluntary, you must find that s/he knew [*describe relevant matter*, e.g. "that s/he was holding a knife when s/he hit NOV].
+
+[Where relevant, the remainder of this charge should be replaced by 8.7.1 Charge: Intoxication and 7.1.1 Voluntariness.]
+
+The defence has argued that NOA’s act of [*describe act**, e.g**.* "driving"] was not voluntary because [*identify reason for alleged involuntariness**, e.g**.** *"s/he was asleep at the time"].
+
+[*Summarise relevant evidence and arguments*.]
+
+If the prosecution cannot prove that NOA [*describe act, e.g**.* "drove"] voluntarily, then you must find him/her not guilty of [*identify offence*].
+
+Last updated: 30 September 2011
+
+
+[^2]: See 7.1.1 Voluntariness for guidance.
+[^3]: Judges must take care to precisely identify which act must have been committed voluntarily. In some cases this will be a matter for the jury to determine. See "Which Act Must be Voluntary?" in 7.1.1 Voluntariness for guidance.
+[^4]: If it is alleged that the accused’s actions were "accidental", care must be taken to ensure that the argument relates to voluntariness rather than intention. See 7.1.4 Accident for assistance.
+
+
+---
+
+---
+
+# Chapter 7.1.2
+
+
+## 7.1.2 Causation
+
+# 7.1.2 Causation
+
+
+
+## When is it Necessary to Address Causation?
+
+
+
+1. Most offences criminalise the performance of certain acts, regardless of the consequences of those acts (e.g. rape, theft, trafficking in a drug of dependence). It will generally not be necessary to address the issue of causation when directing the jury about such offences.
+
+2. However, some offences require the accused’s actions to have led to a particular result. For example, before a person is convicted of murder, their actions must have caused the victim to die. It is in relation to these result-oriented offences that causation may be an issue.
+
+3. While most of the law in this area has been developed in the context of homicide offences, the principles are of broader application. They will, for example, apply to the offences specified in ss 16–18 and 24 of the *Crimes Act 1958*, which require the accused’s acts to have caused injury or serious injury.
+
+
+---
+
+
+## 7.1.2 When Does Conduct "Cause" a Result?
+
+## When Does Conduct "Cause" a Result?
+
+
+
+1. For an accused’s conduct to have "caused" a result, it must have "contributed significantly" to that result, or been a "substantial and operating cause" of it (*Royall v R *(1991) 172 CLR 378; *R v Rudebeck* [1999] VSCA 155; *R v Stein* (2007) 18 VR 376; *R v Withers *[2009] VSCA 306*; R v Aidid *(2010) 25 VR 593;* **Maskell v The King *[2025] VSCA 170, [117]).
+
+2. The act must be one that an ordinary person would hold, as a matter of common sense, to be a cause of the result. The mere fact that the accused’s conduct contributed causally to a result, or was a necessary cause of the result, is not sufficient (*Royall v R *(1991) 172 CLR 378).
+
+3. The accused may be liable for "causing" a result even if his or her conduct was not the direct or immediate cause of that result (*Royall v R *(1991) 172 CLR 378; *R v Withers *[2009] VSCA 306*; R v Aidid *(2010) 25 VR 593).
+
+4. The accused does not need to be the sole cause of the result. A person can be criminally liable for something that has multiple causes, even if he or she is not responsible for all of those causes (*Royall v R *(1991) 172 CLR 378; *R v Stein* (2007) 18 VR 376; *R v Withers *[2009] VSCA 306*; R v Aidid *(2010) 25 VR 593; *Maskell v The King *[2025] VSCA 170, [117]).
+
+5. The accused can "cause" a result by act or omission (*Royall v R *(1991) 172 CLR 378).
+
+
+---
+
+
+## 7.1.2 Which Conduct Must Cause the Result?
+
+## Which Conduct Must Cause the Result?
+
+
+[^2]: It should be noted that culpable driving alleged contrary to ss 318(2)(c) & (d) of the *Crimes Act 1958* does not require proof of this same causal nexus: *R v Ciantar* (2006) 16 VR 26.
+
+
+---
+
+
+## 7.1.2 Which Conduct Must Cause the Result?
+
+1. It is generally not necessary for the jury to determine which of the accused’s acts caused the relevant result, as long as they are satisfied that that result was caused by one of the accused’s acts.
+
+2. However, in some cases it will be necessary for the jury to determine which particular act caused the relevant result, before they can find the accused guilty. For example, if there are multiple possible causal acts, and the accused’s mental state may have differed when s/he committed those acts, the jury will need to determine which of those acts caused the result – so that they can ascertain whether the accused held the appropriate mental state when s/he committed that particular act (*Arulthilakan** v R; **Mkoka** v R* (2003) 203 ALR 259; *R v McLachlan* [1999] 2 VR 553).
+
+3. Similarly, the jury will need to determine which specific act caused the requisite result if the accused may have involuntarily committed one or more of the relevant acts. In such a case, for the accused to be found guilty, the jury will need to be satisfied that s/he voluntarily committed an act that they find caused the criminal result (*Ryan v R* (1967) 121 CLR 205; *R v Butcher* [1986] VR 43). See 7.1.1 Voluntariness for further information.
+
+4. Where there are several possibly causal acts in close succession, and it may not be possible to determine which act caused the relevant result, it is appropriate that the prosecution be required to prove that all potential causal acts were voluntary, accompanied by the relevant intention and in the absence of any relevant defences (*R v Shumski (Rulings 1-3) *[2024] VSC 828, [37]–[41]).
+
+5. Where the offence is one of specific intent (such as murder), the jury must be satisfied that the accused acted with an intent to cause a particular result through that act. It is not sufficient that the accused engaged in the causal act while incidentally possessing the relevant state of mind. For an example of where this principle arose, see *Koani** v R* [2017] HCA 42, where the accused may have shot the deceased due to his negligent handling of a shotgun, and the High Court held that the prosecution could not prove intentional murder by combining the accused’s negligence with an intention to kill.
+
+
+[^2]: It should be noted that culpable driving alleged contrary to ss 318(2)(c) & (d) of the *Crimes Act 1958* does not require proof of this same causal nexus: *R v Ciantar* (2006) 16 VR 26.
+
+
+---
+
+
+## 7.1.2 Which Conduct Must Cause the Result?
+
+6. In some cases the terms of the offence will specify the type of conduct which must have caused the relevant result. For example, the offence of "culpable driving caused by gross negligence" contrary to s 318(2)(b) of the *Crimes Act 1958* requires the death of the victim to have been caused by a grossly negligent act. It is not enough that the accused was driving in a grossly negligent manner at the time of the death, if that gross negligence was not a substantial and operating cause of the death (*R v **Feketa* (1982) 10 A Crim R 287; *R v Heron* [2003] VSCA 76).[^2]
+
+
+[^2]: It should be noted that culpable driving alleged contrary to ss 318(2)(c) & (d) of the *Crimes Act 1958* does not require proof of this same causal nexus: *R v Ciantar* (2006) 16 VR 26.
+
+
+---
+
+
+## 7.1.2 Complicating Factors
+
+## Complicating Factors
+
+
+
+## Intervening Acts
+
+
+
+1. Difficulties in proving causation may arise if another act or event intervenes between the commission of the accused’s conduct and the criminal result. In such situations, the accused remains liable if his or her conduct is still a substantial operating cause of the result when it occurs. This is because his or her acts or omissions can still properly be said to be the cause of the act, even if some other cause is also operating (*R v Evans & Gardiner *(No 2) [1976] VR 523; *R v Smith *(1983) 76 Cr App R 279*; R v Aidid *(2010) 25 VR 593).
+
+2. However, the accused will not be liable if his or her conduct is merely the setting in which another cause operates. In such circumstances, the result cannot properly be said to have been caused by the accused’s conduct (*R v Evans & Gardiner *(No 2) [1976] VR 523; *R v Smith *(1983) 76 Cr App R 279).
+
+
+
+## Acts of the Victim
+
+
+
+3. Difficulties in proving causation may also arise if there is evidence that the victim’s own actions were a cause of the result. For example, the victim may injure him or herself while attempting to flee the accused.
+
+4. In such cases, the accused’s conduct will still be considered to be a legal cause of the result if the victim’s acts were a "natural consequence" of that conduct (*Royall v R *(1991) 172 CLR 378 (Mason CJ, Deane and Dawson JJ)*; R v Aidid *(2010) 25 VR 593).
+
+5. Where victims are injured or killed while responding to a threat created by the accused, their actions will only be a "natural consequence" of the accused’s conduct if their fear of the accused was well-founded, and their response to the threat was "reasonable" (*Royall v R *(1991) 172 CLR 378 (Brennan, Deane, Dawson, Toohey and Gaudron JJ)*; R v Aidid *(2010) 25 VR 593. But see McHugh J and Mason CJ; *R v Lee* (2005) 12 VR 249).
+
+
+
+## Failure to Intervene
+
+
+---
+
+
+## 7.1.2 Complicating Factors
+
+6. Difficulties in proving causation may also arise where the consequences of the accused’s conduct could have been averted by the reasonable intervention of either the victim or a third-party.
+
+7. Australian courts have declined to articulate a special test for these cases. The question for determination is whether or not the accused’s original act or omission remains a substantial, operating cause of the result (*R v Evans & Gardiner *(No 2) [1976] VR 523).
+
+
+
+## Pre-existing vulnerabilities
+
+
+
+8. The law recognises that the accused must take the victim as they find them. This means that the prosecution must prove that the accused’s acts made a substantial or significant contribution to the result, notwithstanding any vulnerability on the part of the victim (*Mamote-Kulang** of **Tamagot** v The Queen *(1964) 111 CLR 62; *R v Van den **Bemb** *(1994) 179 CLR 137; *R v Moffatt *[2000] NSWCCA 174; *Maskell v The King *[2025] VSCA 170, [118], [140]–[144]).
+
+
+---
+
+
+## 7.1.2 Content of the Charge
+
+## Content of the Charge
+
+
+---
+
+
+## 7.1.2 Content of the Charge
+
+1. Where causation is straightforward, it may be sufficient simply to instruct the jury that the prosecution must prove, beyond reasonable doubt, that the accused’s conduct caused the relevant result (*Royall v R *(1991) 172 CLR 378, *R v Le Broc* (2000) 2 VR 43, *R v Ince *[2001] VSCA 214).
+
+2. It will generally be necessary to elaborate upon this direction in more complex cases, such as:
+
+1. Where the result would not have occurred if the victim or a third party had not committed an intervening act; or
+
+1. Where the result could have been prevented if the victim or a third party had taken action to avoid the consequences of the accused’s conduct; or
+
+2. Where one or more of the possible causal acts may have been involuntary (Royall v R (1991) 172 CLR 378; Koani v R [2017] HCA 42).
+
+3. Directions about intervening acts should ordinarily be made by reference to the facts of the case, rather than being couched in abstract terms (*Royall v R *(1991) 172 CLR 378).
+
+4. If it is necessary to direct the jury about the intervening acts of the victim, the jury should generally not be told that the victim’s acts need to be foreseeable. Such a direction is likely to confuse the issue (*Royall v R *(1991) 172 CLR 378*.* But see* R v Aidid *(2010) 25 VR 593).
+
+5. If detailed directions are given, they should be balanced with an instruction that the question of causation is not a philosophical or a scientific question. It is a question to be determined by the jury by applying their common-sense to the facts as they find them, keeping in mind that the purpose of the inquiry is to attribute legal responsibility in a criminal matter (*Campbell v R* [1981] WAR 286; *Royall v R *(1991) 172 CLR 378; *R v Withers *[2009] VSCA 306; *Maskell v The King *[2025] VSCA 170, [117]).
+
+
+---
+
+
+## 7.1.2 Content of the Charge
+
+6. If a "but for" test is to be incorporated into the directions on causation, care should be taken to ensure that it does not undermine the "substantial cause" direction, thus leading the jury to consider that a negligible cause might suffice (*Royall v R *(1991) 172 CLR 378; *Arulthilakan** v R; **Mkoka** v R* (2003) ALR 259).
+
+
+---
+
+
+## 7.1.2 Content of the Charge
+
+## Causation and Accessorial Liability
+
+
+
+7. Where culpability is alleged to arise by some form of extended accessorial liability, it will generally be necessary to adapt the causation charge. See Part 5: Complicity for further information.
+
+
+
+Last updated: 7 August 2025
+
+
+---
+
+---
+
+# Chapter 7.1.2.1
+
+
+## 7.1.2.1 Charges: Causation
+
+# 7.1.2.1 Charges: Causation
+
+
+
+## Causation
+
+For many offences it will be unnecessary to give any direction in respect of causation (see 7.1.2 Causation). Where some direction is required, in most cases a very basic direction will be sufficient. Such directions are incorporated into the charges for offences which commonly require them.
+
+
+---
+
+
+## 7.1.2.1 Additional Charges
+
+## Additional Charges
+
+
+
+## Multiple Possible Causes or Combined Causes
+
+In this case you have heard evidence that [*insert relevant result*] [was/may have been] caused by [multiple possible/a combination of] causes. [*Insert relevant evidence*.]
+
+The law says that for NOA’s act[s] to have caused [*insert relevant result*], it does not need to have been the only cause of that result. You may find that his/her act[s] caused [*identify relevant result*] if [it was/they were] a substantial or significant cause of that result.
+
+You should approach this question in a common sense manner, bearing in mind that your answer affects whether or not the accused is held criminally responsible for his/her actions.
+
+
+
+## Intervening Acts/Failure to Intervene
+
+In this case you have heard evidence that [*identify relevant result*] did not follow immediately from the alleged act[s] of the accused, and that [*describe intervening acts*] may have occurred in between.
+
+The law says that for NOA’s act[s] to have caused [*insert relevant result*], [it does/they do] not need to have been the only cause of that result, or the direct or immediate cause. You may find that his/her act[s] caused [*identify relevant result*] if [it was/they were] a substantial or significant cause of that result.
+
+In making this determination, you need to decide whether it was the accused’s act[s] which caused [*insert relevant result*], or whether [that act/those acts] merely provided the setting for the later act[s] of [*insert intervening act*] which in truth caused the result. If his/her acts only provided the setting, then s/he did not cause the result, and you must find him/her not guilty of [*insert offence*].
+
+You should approach this question in a common sense manner, bearing in mind that your answer affects whether or not the accused is held criminally responsible for his/her actions.
+
+
+[^2]: This part of the direction will have to be substantially modified if applied to offences not addressing escape–based harm.
+
+
+---
+
+
+## 7.1.2.1 Additional Charges
+
+## Indirect Cause
+
+This direction has been drafted for use in cases in which the victim could be seen to have caused the ultimate result while attempting to escape the violence of the accused. While it could be adapted for use in other cases where the accused could be seen to have indirectly caused the relevant result, care should be taken in doing so.
+
+This charge should not be given where a simpler "intervention" direction can be given (see above). It should also not be given where NOA purposively compelled NOV to commit the causal conduct.
+
+In this case you have heard evidence suggesting that [*identify result*] was only indirectly caused by the acts of the accused. [*Insert relevant evidence.*]
+
+The law says that for an accused’s act[s] to have caused [*insert relevant result*], [it does/they do] not need to have been the direct or immediate cause of that result. You may find that his/her act[s] caused [*identify relevant result*] if [it was/they were] a substantial or significant cause of that result.
+
+However, you can only find the accused responsible for the indirect results of his/her acts if the prosecution can prove two matters to you, beyond reasonable doubt.
+
+First, the prosecution must prove that NOA’s acts caused [*identify the ultimate result, **e.g**.* “NOV’s death”]. In this case, that means that NOA’s acts were a substantial or significant cause of [*identify immediate causal event*, *e.g**.* “NOV fleeing NOA’s violence”], which in turn caused [*identify the ultimate result*, *e.g**.* “NOV’s death”].
+
+You should approach this question in a common sense manner, bearing in mind that your answer affects whether or not the accused is held criminally responsible for his/her actions.
+
+Secondly,[^2] the prosecution must prove that NOV acted out of a well-founded or reasonable fear of NOA, and that NOV’s acts of self-preservation were a natural consequence of NOA’s conduct.
+
+Here, the evidence was [*describe evidence relevant to reasonableness of NOV’s response*]. It is for you to determine if NOV’s reaction was reasonable and well-founded. If you find that NOV over-reacted to NOA’s conduct, then you must find that the accused was not responsible for [*identify result*], and find him/her not guilty of [*insert offence*].
+
+
+[^2]: This part of the direction will have to be substantially modified if applied to offences not addressing escape–based harm.
+
+
+---
+
+
+## 7.1.2.1 Additional Charges
+
+Last updated: 20 June 2007
+
+
+[^2]: This part of the direction will have to be substantially modified if applied to offences not addressing escape–based harm.
+
+
+---
+
+---
+
+# Chapter 7.1.3
+
+
+## 7.1.3 Recklessness
+
+# 7.1.3 Recklessness
+
+
+---
+
+
+## 7.1.3 Recklessness
+
+1. In Victoria, an accused is said to have been reckless if they acted in the knowledge that a particular harmful consequence would probably result from their conduct, but they decided to continue their actions regardless of that consequence (*DPP Reference No 1 of 2019* [2021] HCA 26; *DPP Reference No 1 of 2019* [2020] VSCA 181; *R v Campbell* [1997] 2 VR 585).
+
+2. This definition applies to all Victorian offences involving recklessness (*R v Nuri *[1990] VR 641; *R v Campbell* [1997] 2 VR 585; *R v Kalajdic* [2005] VSCA 160; *DPP Reference No 1 of 2019* [2021] HCA 26; *DPP Reference No 1 of 2019* [2020] VSCA 181).
+
+3. Recklessness requires foresight on the part of the accused (of the probable consequences of his or her actions) and indifference as to whether or not those consequences occur (*R v Nuri *[1990] VR 641).
+
+4. When explaining recklessness, judges may tell the jury that the accused must have been aware that his or her conduct would probably cause the relevant consequence, but decided to go ahead anyway. The words “but decided to go ahead anyway” do not make proof that the accused was indifferent to the consequences of his or her conduct an element of the offence. Instead, the purpose of the words is to distinguish recklessness from intention. Judges may modify or omit the words “but decided to go ahead anyway” if the words could mislead or confuse the jury (see *Ignatova v R* [2010] VSCA 263; *R v Crabbe* (1985) 156 CLR 464; *R v Sofa* Vic CA 15/10/1990; *R v Nuri* [1990] VR 641; *R v Campbell* [1997] 2 VR 585; *R v Wilson* [2005] VSCA 78).
+
+5. The word "probable" means likely to happen (*R v Crabbe *(1985)156 CLR 464).
+
+
+---
+
+
+## 7.1.3 Recklessness
+
+6. The word "might" should not be used in relation to recklessness. It is a misdirection to say that recklessness is established when the accused knew that particular consequences "might" occur. Recklessness means that the accused knew that those consequences would probably occur (*R v Crabbe *(1985) 156 CLR 464; *R v Campbell* [1997] 2 VR 585).
+
+7. It is not necessary to prove that the accused acted recklessly in relation to the actual victim, as long as the accused had acted recklessly in relation to the risk of their behaviour causing injury to some person (*La Fontaine v R* (1976) 136 CLR 62; *R v Bacash* [1981] VR 923).
+
+8. Use of the word "reckless" should be avoided in charging the jury in murder trials, as it is liable to confuse them. Instead, the jury should be directed that the accused must have foreseen that death or really serious injury was a probable consequence of their actions (*La Fontaine v R* (1976) 136 CLR 62).
+
+
+---
+
+
+## 7.1.3 Recklessness
+
+## Commonwealth offences
+
+
+
+9. For offences against the Commonwealth *Criminal Code*, recklessness is defined in s 5.4:
+
+
+
+(1) A person is reckless with respect to a circumstance if:
+
+(a) he or she is aware of a substantial risk that the circumstance exists or will exist; and
+
+(b) having regard to the circumstances known to him or her, it is unjustifiable to take the risk.
+
+(2) A person is reckless with respect to a result if:
+
+(a) he or she is aware of a substantial risk that the result will occur; and
+
+(b) having regard to the circumstances known to him or her, it is unjustifiable to take the risk.
+
+(3) The question whether taking a risk is unjustifiable is one of fact.
+
+(4) If recklessness is a fault element for a physical element of an offence, proof of intention, knowledge or recklessness will satisfy that fault element (*Criminal Code* s 5.4).
+
+Last updated: 28 October 2022
+
+
+---
+
+---
+
+# Chapter 7.1.3.1
+
+
+## 7.1.3.1 Charge: Recklessness
+
+# 7.1.3.1 Charge: Recklessness
+
+For you to be satisfied that the accused’s actions were reckless, the prosecution must prove beyond reasonable doubt that when NOA [*insert details of relevant actions*], [he/she] knew that [his/her] actions would probably cause [*insert details of relevant consequence*], but [he/she] went ahead with [his/her] actions anyway.
+
+It is not enough for NOA to have known that [*insert details of relevant consequence*] might possibly occur. For this element to be satisfied, the prosecution must prove beyond reasonable doubt that NOA knew that [*insert details of relevant consequence*] would probably result from [his/her] actions.
+
+Last updated: 2 July 2020
+
+
+---
+
+---
+
+# Chapter 7.1.4
+
+
+## 7.1.4 Accident
+
+# 7.1.4 Accident
+
+
+
+## Overview
+
+
+
+1. In the Code jurisdictions there is a specific defence of "accident", which excuses the accused from responsibility for events which are the unintended, unforeseeable consequences of a willed act (see, e.g. *Kaporonovski v R* (1973) 133 CLR 209; *R v Van Den Bemd* (1994) 179 CLR 137). There is no such defence in Victoria (*R v Fowler *[1999] VSCA 135).
+
+2. However, where a person commits an act "accidentally", one or more of the elements of the charged offence may not be met. It is this type of "accident" that is the focus of this topic.
+
+
+---
+
+
+## 7.1.4 Meaning of "Accident"
+
+## Meaning of "Accident"
+
+
+
+1. The word "accident" is ambiguous. It is sometimes used to refer to an involuntary act, and sometimes used to refer to an unintentional act (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ);* R v Fowler* [1999] VSCA 135; *Stevens v R* (2005) 227 CLR 319).
+
+2. As the necessary directions will differ depending on the way in which the term "accident" is used in a case, it is essential that judges clarify what is meant by the term whenever it is used.
+
+
+
+## Involuntary Acts
+
+
+
+3. In some cases, an act which is committed independently of the accused’s will is described as an "accident" (e.g. where the accused trips over and "accidentally" bumps into someone) (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ);* R v Fowler *[1999] VSCA 135; *R v Schaeffer *(2005) 13 VR 337).
+
+4. As the existence of a voluntary act is an essential element of a crime, the accused must not be convicted for such "accidental" acts (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64*; R v Falconer* (1990) 171 CLR 30; *R v Fowler *[1999] VSCA 135).[^2]
+
+5. Where this type of "accident" is in issue, it is for the prosecution to prove, beyond reasonable doubt, that the relevant act was voluntary (*Ryan v R *(1967) 121 CLR 205; *R v O’Connor *(1979) 146 CLR 64; *R v Falconer* (1990) 171 CLR 30; *R v Fowler *[1999] VSCA 135).
+
+6. See 7.1.1 Voluntariness for further information concerning the voluntariness requirement.
+
+
+
+## Unintentional Acts
+
+
+[^2]: While the accused must not be convicted for such accidental acts, he or she may be held criminally responsible for acts committed immediately prior to the accident (see, e.g. *Jiminez v R* (1992) 173 CLR 572; *Kroon v R* (1990) 55 SASR 476).
+
+
+---
+
+
+## 7.1.4 Meaning of "Accident"
+
+7. In some cases, the word "accident" is used to refer to an outcome that the accused did not intend to cause. For example, where the accused shoots a gun intending only to scare the victim, but unintentionally kills him or her, the killing may be said to be "accidental" (see, e.g. *Ryan v R *(1967) 121 CLR 205 (Barwick CJ);* R v Fowler *[1999] VSCA 135; *R v Schaeffer *(2005) 13 VR 337).
+
+8. In such cases, the claim is *not *that the accused acted involuntarily (e.g. in the example provided above, it is not disputed that the accused fired the gun voluntarily). The claim is that the accused did not intend to cause the outcome that resulted from his or her actions (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ);* R v Fowler *[1999] VSCA 135).
+
+9. The accused’s guilt in such cases will depend on what offence he or she is charged with. For instance, in the example provided above:
+
+
+
+- The accused must be acquitted of murder (as he or she did not intend to cause death or really serious injury);
+
+- The accused may be convicted of manslaughter (if the jury finds that he or she caused the victim’s death by an unlawful and dangerous act) or assault (as he or she intended to create an apprehension of immediate and personal violence).
+
+
+[^2]: While the accused must not be convicted for such accidental acts, he or she may be held criminally responsible for acts committed immediately prior to the accident (see, e.g. *Jiminez v R* (1992) 173 CLR 572; *Kroon v R* (1990) 55 SASR 476).
+
+
+---
+
+
+## 7.1.4 When Must the Jury be Directed about Accident?
+
+## When Must the Jury be Directed about Accident?
+
+
+
+1. It is not necessary to direct the jury about accident simply because it has been suggested that an act or outcome was accidental. A direction is only required where there is some evidence of accident on which a reasonable jury could act (*Mancini v DPP *[1942] AC 1; *Bratty v AG for Northern Ireland *[1963] AC 386; *R v Fowler *[1999] VSCA 135; *R v Chang *(2003) 7 VR 236).
+
+2. Judges must therefore determine whether it is open on the evidence for the jury to find:
+
+
+
+- That the relevant act was involuntary; or
+
+- That the accused did not have the intention required for proof of the relevant offence (see, e.g. *R v Fowler *[1999] VSCA 135).
+
+
+
+3. The judge only needs to direct the jury about whichever matter is in issue. For example, where it is alleged that the accused’s acts were "accidental" in the sense of being unintentional, there is no need to focus on the issue of voluntariness (*R v Edwards *[2005] VSCA 92).
+
+4. However, the fact that the issue of voluntariness may logically be subsumed within the issue of intention does not relieve the judge of the duty to direct the jury about voluntariness where it is in issue (*Stevens v R *(2005) 227 CLR 319 (Kirby and Callinan JJ)).
+
+5. In some cases, the judge may need to direct the jury about both voluntariness and intention (see, e.g. *R v Schaeffer *(2005) 13 VR 337).
+
+6. Where the evidence leaves open the possibility that the accused’s acts were accidental (in either sense), the trial judge must give a direction, even if defence counsel has not raised the matter or requested a direction (*R v Fowler* [1999] VSCA 135; *Stevens v R *(2005) 227 CLR 319).
+
+
+---
+
+
+## 7.1.4 Content of the Charge
+
+## Content of the Charge
+
+
+
+1. The issue of accident is most appropriately integrated into the judge’s charge on voluntariness or intention. It should not be treated as a separate defence (*R v Schaeffer *(2005) 13 VR 337).
+
+2. Care must be taken not to reverse the onus of proof by suggesting that it is for the accused to establish the "defence" of accident. The onus always remains on the prosecution to prove voluntariness and intention beyond reasonable doubt (*R v Cascone *Vic CA 4/6/98).
+
+3. If the word "accidental" has been used by the parties or the judge, care must be taken to explain how it has been used (i.e., to refer to involuntary and/or unintentional acts) (*Ryan v R *(1967) 121 CLR 205 (Barwick CJ); *R v Schaeffer *(2005) 13 VR 337).
+
+4. The judge must *not* direct the jury to acquit the accused if they find that the result caused by the accused’s action was not intended or foreseen, and would not reasonably have been foreseen by an ordinary person. Such a direction is only appropriate in the Code jurisdictions (*R v Schaeffer *(2005) 13 VR 337; *R v Fowler *[1999] VSCA 135).
+
+5. Where accident is open on the evidence, but not raised by defence counsel, a detailed exposition of the issue may not be required (see, e.g. *R v Fowler *[1999] VSCA 135 (Batt JA)).
+
+6. See 7.1.1 Voluntariness for information about charging the jury on the issue of voluntariness.
+
+
+
+Last updated: 26 September 2011
+
+
+---
+
+---
+
+# Chapter 7.1.5
+
+
+## 7.1.5 Course of Conduct Charges
+
+# 7.1.5 Course of Conduct Charges
+
+
+
+## Background
+
+
+
+1. In July 2015 course of conduct charges were introduced as a mode of charging sexual offences and certain other relevant offences.
+
+2. A course of conduct charge is a single charge for a single offence, which incorporates multiple incidents of the same offence committed on more than once occasion over a specified period (*Criminal Procedure Act 2009* Schedule 1, clause 4A(1),(2),(6)).
+
+3. The ‘course of conduct charge’ is modelled on a similar charge available in the UK (Rule 14.2 of the *Criminal Procedure Rules 2010* (UK)).
+
+4. This form of charge was introduced to deal with repeat and systematic sexual offending. As a rule of criminal procedure, it is a method of pleading a charge, rather than a discrete offence (*Clifton v The Queen* [2021] VSCA 111, [24]; compare *Crimes Act 1958* s 49J – Persistent sexual abuse of a child under 16).
+
+
+---
+
+
+## 7.1.5 Operation of course of conduct charges
+
+## Operation of course of conduct charges
+
+
+
+1. Course of conduct charges are available only for ‘relevant offences’. The list of relevant offences focuses on those for which the rules of duplicity and particularisation can sometimes interfere with effective prosecution, such as repeated acts of sexual abuse and other high volume offences.
+
+2. A relevant offence is defined as:
+
+
+
+- a sexual offence, as defined in section 3 of the *Crimes Act 1958* with reference to the offences under the following Subdivisions of Division 1 of Part 1:
+
+- (8A) – Rape and sexual assault,
+
+- (8B) – Incest,
+
+- (8C) – Sexual offences against children,
+
+- (8D) – Sexual offences against persons with a cognitive impairment,
+
+- (8E) – Other sexual offence,
+
+- (8EAA) – Sexual servitude, or
+
+- under any corresponding previous enactment (*Criminal Procedure Act 2009* Schedule 1, Note to clause 4A(1)).
+
+- any offence under the following provisions of the *Crimes Act 1958*:
+
+- division 2 of Part I – Theft and similar or associated offences; excluding sections 75 (Robbery), 75A (Armed robbery), 76 (Burglary), 77 (Aggravated burglary), 78 (Unlawfully taking control of an aircraft), 80 (Removal of articles from places open to the public) and 91 (Going equipped for stealing etc);
+
+- division 2AA of Part I – Identity crime;
+
+- division 2A of Part I – Money laundering;
+
+- division 2B of Part I – Cheating at gambling; and
+
+- subdivision (6) of Division 3 of Part I – Computer offences.
+
+
+---
+
+
+## 7.1.5 Operation of course of conduct charges
+
+3. A single charge sheet may contain both a course of conduct charge and an alternative ordinary charge of the offence covered by the course of conduct charge (*Criminal Procedure Act 2009*, Schedule 1, clause 5(3)). The alleged date of commission of the alternative charge must be within the period to which the course of conduct charge relates.
+
+4. However, a charge–sheet or indictment must not contain both a course of conduct charge and a charge for an offence against s 47A of the *Crimes Act 1958* (persistent sexual abuse of a child under the age of 16) in the alternative (*Criminal Procedure Act 2009*, Schedule 1, clause 5(5)).
+
+5. The consent of the DPP is required before a charge–sheet containing a course of conduct charge is filed or signed (*Criminal Procedure Act 2009* Schedule 1, clause 4A(12)).
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+## Requirements of course of conduct charges
+
+
+
+1. A course of conduct charge is only available if:
+
+1. each incident constitutes an offence under the same provision; and
+
+1. for a charge for a sexual offence, each incident relates to the same complainant; and
+
+2. the incidents take place on more than one occasion over a specified period; and
+
+3. the incidents taken together amount to a course of conduct having regard to their time, place or purpose of commission and any other relevant matter (Criminal Procedure Act 2009 Schedule 1, clause 4A(2)(a)–(d)).
+
+2. The requirement that the incidents take place on more than one occasion means that there must be a ‘clear separation in time or circumstances between the acts’ (*Tognolini v The Queen* (2011) 32 VR 104; [2011] VSCA 113).
+
+3. The ‘specified period’ identified under clause 4A(2)(c) is a particular and not an element (*DPP v Jarvis* [2018] VSCA 173).
+
+4. In cases where evidence emerges which refers to offending which may have occurred outside the specified period, the judge will need to consider whether prosecution should have leave to amend the indictment to expand the period specified. A court may grant leave to amend particulars if it does not cause injustice to the accused. In most cases, where the evidence led does not match the particulars, the court will grant leave to amend the particulars (*DPP v Jarvis* [2018] VSCA 173, [13]. See also *Criminal Procedure Act 2008* s 165).
+
+5. If the court does not grant leave to amend the particulars, it will be necessary to decide whether:
+
+
+
+- to direct the jury that the evidence from outside the period can only be used as relationship or context evidence;
+
+- to direct the jury that the evidence from outside the period must be disregarded; or
+
+- if there is no evidence of multiple offences within the specified period, to grant a no-case submission (*DPP v Jarvis* [2018] VSCA 173, [25]–[27]).
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+6. More than one type of act may be alleged in a course of conduct charge to prove an element of the offence, provided the offence charged remains the same. In relation to sexual offences specifically, an ‘act’ in this context includes sexual penetration as defined by s 37D and sexual touching within the meaning of Subdivision (8A) (rape and sexual assault) of the *Crimes Act 1958* (*Criminal Procedure Act 2009* Schedule 1, clause 4A(3),(4)). The section includes the example of a course of conduct charge for a sexual offence which may allege acts of digital penetration as well as acts of penetration with an object.
+
+7. Course of conduct charges are designed to enable the prosecution of a series of offending where the specific details of any one instance of the offending cannot be disclosed in enough detail to prove that individual offence. Clause 4A(9) states that:
+
+
+
+… to prove a course of conduct charge, it is not necessary to prove an incident of the offence with the same degree of specificity as to date, time, place, circumstance or occasion as would be required if the accused were charged with an offence constituted only by that incident.
+
+
+
+8. Specifically, it is not necessary to prove:
+
+
+
+(a) any particular number of incidents of the offence or the dates, times, places, circumstances or occasions of the incidents; or
+
+(b) that there were distinctive features differentiating any of the incidents; or
+
+(c) the general circumstances of any particular incident (Criminal Procedure Act 2009 Schedule 1, clause 4A(10)).
+
+
+
+9. In a prosecution for a course of conduct charge it is not necessary that the complainant’s evidence can be distilled into individual incidents or occasions. The course of conduct provisions are designed to reduce the level of specificity required by the common law. A course of conduct charge is not defective, and an accused trial is not unfair, where the prosecution leads evidence that the accused regularly committed the alleged offence over a period, even if there are no differentiating features of separate occasions (*Harlow v The Queen* [2018] VSCA 234, [61]–[67]).
+
+
+
+## Similar international schemes
+
+
+
+10. The Victorian ‘course of conduct’ charge is modelled on similar systems in England and New Zealand, which may provide some guidance on the operation of this new Victorian provision.
+
+11. In England, rule 14.2(2) of the *Criminal Procedure Rules 2010* states:
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+More than one incident of the commission of the offence may be included in a count if those incidents taken together amount to a course of conduct having regard to the time, place or purpose of commission.
+
+
+
+12. Paragraph 14A.10–14A.13 of the UK *Criminal Practice Directions *[2013] EWCA Crim 1631 provides the following guidance on the use of this device:
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+The circumstances in which such a count may be appropriate include, but are not limited to, the following:
+
+(a) the victim on each occasion was the same, or there was no identifiable individual victim as, for example, in a case of the unlawful importation of controlled drugs or of money laundering;
+
+(b) the alleged incidents involved a marked degree of repetition in the method employed or in their location, or both;
+
+(c) the alleged incidents took place over a clearly defined period, typically (but not necessarily) no more than about a year;
+
+(d) in any event, the defence is such as to apply to every alleged incident without differentiation. Where what is in issue differs between different incidents, a single “multiple incidents” count will not be appropriate, though it may be appropriate to use two or more such counts according to the circumstances and to the issues raised by the defence.
+
+…
+
+For some offences, particularly sexual offences, the penalty for the offence may have changed during the period over which the alleged incidents took place. In such a case, additional “multiple incidents” counts should be used so that each count only alleges incidents to which the same maximum penalty applies.
+
+In other cases, such as sexual or physical abuse, a complainant may be in a position only to give evidence of a series of similar incidents without being able to specify when or the precise circumstances in which they occurred. In these cases, a ‘multiple incidents’ count may be desirable. If on the other hand, the complainant is able to identify particular incidents of the offence by reference to a date or other specific event, but alleges that in addition there were other incidents which the complainant is unable to specify, then it may be desirable to include separate counts for the identified incidents and a ‘multiple incidents’ count or counts alleging that incidents of the same offence occurred ‘many’ times. Using a ‘multiple incidents’ count may be an appropriate alternative to using ‘specimen’ counts in some cases where repeated sexual or physical abuse is alleged. The choice of count will depend on the particular circumstances of the case and should be determined bearing in mind the implications for sentencing set out in *R v Canavan*; *R v Kidd*; *R v Shaw* [1998] 1 W.L.R. 604, [1998] 1 Cr. App. R. 79, [1998] 1 Cr. App. R. (S.) 243.
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+13. Despite being available since 2010, there is little jurisprudence on the operation of this provision. It is, however, clear that the jury must be satisfied that the accused pursued a course of conduct. This requires proof of the accused engaging in the relevant conduct on multiple occasions. If the jury is only satisfied beyond reasonable doubt that the accused committed the offence on a single occasion, then the ‘course of conduct’ charge is not proved (see *A v R* [2015] EWCA Crim 177).
+
+14. Under the *Criminal Procedure Act 2011* (NZ) section 20, the prosecution can charge a ‘representative charge’ where:
+
+1. multiple offences of the same type are alleged; and
+
+4. the offences are alleged to have been committed in similar circumstances over a period of time; and
+
+5. the nature and circumstances of the offences are such that the complainant cannot reasonably be expected to particularise dates or other details of the offences.
+
+15. In New Zealand, the prosecution should only use a representative charge where it is unable to provide the particulars necessary to identify an alleged offence at common law. The accused is entitled to have each specific allegation separately tested under the criminal process (*KAW v R* [2012] NZCA 520).
+
+16. The New Zealand Court of Appeal has provided the following guidance on when a representative charge is appropriate:
+
+1. if the evidence is sufficiently detailed that the prosecution can charge specific acts (without overloading the indictment), that should be done;
+
+6. representative charges are appropriate where there is a pattern of repeated behaviour and the complainant cannot distinguish the dates or details of the events;
+
+7. repetitive acts which can be distinguished from each other should be charged separately (KAW v R [2012] NZCA 520).
+
+17. Relevant points of distinction can include:
+
+
+
+- the location of the alleged offending;
+
+- the nature of the conduct engaged in on each occasion;
+
+- the availability of different defences in relation to each occasion (*KAW v R* [2012] NZCA 520; *Gamble v R* [2012] NZCA 91).
+
+
+---
+
+
+## 7.1.5 Requirements of course of conduct charges
+
+18. In Victoria, the ‘course of conduct’ provisions in *Criminal Procedure Act 2009* Schedule 1 do not include a requirement that the alleged offences have been committed ‘in similar circumstances’. Rather, the incidents must be connected by the time, place or purpose of their commission, and any other relevant matter, such that they amount to a course of conduct (clause 4A(2)(d)). It may be possible to distinguish different incidents from each other, for example, because they happened at different locations, but nevertheless find they formed a course of conduct owing to the time or purpose of their commission.
+
+19. Judges will need to determine whether the principles which have developed in the UK and New Zealand also apply in relation to the Victorian provisions.
+
+
+---
+
+
+## 7.1.5 Proving a ‘course of conduct’
+
+## Proving a ‘course of conduct’
+
+
+---
+
+
+## 7.1.5 Proving a ‘course of conduct’
+
+1. The prosecution must prove that the incidents of the accused’s conduct, taken together, amount to a course of conduct having regard to their time, place or purpose and any other relevant matter (*Criminal Procedure Act 2009* Schedule 1, clause 4A(2)(d) and (8)).
+
+2. This requirement to prove that the incidents amount to a course of conduct operates in addition to the need to prove that the incidents occurred on more than one occasion. It is wrong for a prosecutor to suggest that the offence is proved only by proving that the offending occurred on more than one occasion (*Clifton v The Queen* [2021] VSCA 111, [36]–[39]).
+
+3. It is also wrong for a prosecutor to suggest that course of conduct charges are ‘easy … to prove’. Such a submission can erode the burden and standard of proof, and undermine the need for the jury to be satisfied beyond reasonable doubt that the conduct amounts to a course of conduct (*Clifton v The Queen* [2021] VSCA 111, [41]–[43])
+
+4. A course of conduct charge conceives the offence as a single charge of a general course of conduct rather than as a number of individual acts. This may mean that a course of conduct can be proved by generalised evidence of multiple occasions, such as evidence in the form of what would typically or routinely occur. In such cases, the jury may be able to find a course of conduct without being satisfied of the details of any individual occasion (Criminal Law Review, *Review of Sexual Offences*, Consultation Paper (2013), Part 12).
+
+5. As long as the prosecution proves a course of conduct by the accused, it is not necessary to prove a particular number of incidents of the offending, distinctive features of any individual incidents or the general circumstances of any particular incident (*Criminal Procedure Act 2009* Schedule 1, clause 4A(10)). The incidents of the offence may all involve the same kind of offending, in the same place, at the same time of day, or in similar circumstances, and there is no need to focus on an unusual occasion.
+
+6. Since neither the general circumstances nor any distinctive or unusual features of a particular occasion need to be proved, course of conduct charges attempt to circumvent the limitation of having to bring evidence to prove the occurrence of each occasion specifically (as described by McHugh J in *KRM v The Queen* (2001) 206 CLR 221).
+
+
+---
+
+
+## 7.1.5 Proving a ‘course of conduct’
+
+7. According to the report by the Department of Justice which led to the development of the legislation, the course of conduct charge specifically responds to the problem where the complainant describes what the accused ‘would’ do, that is, what would typically or routinely occur as part of the alleged offending (Criminal Law Review, *Review of Sexual Offences*, Consultation Paper (2013), Part 12, [12.2.1]). Under the general law, ‘it is not possible as a matter of law for generalised evidence of multiple occasions to supply proof beyond reasonable doubt of a specific occasion’ (see *REE v R* [2010] VSCA 124; *R v SLJ* (2010) 24 VR 372). But, it appears that evidence of a generalised course of conduct – what the accused would ordinarily do – will be sufficient to prove a course of conduct charge, if accepted by the jury beyond reasonable doubt.
+
+8. One other offence which requires a course of conduct is stalking (*Crimes Act 1958* s 21A).
+
+9. In relation to stalking, a course of conduct requires a pattern of conduct which evidences a continuity of purpose. This requires the conduct to occur on more than one occasion or to occur in a protracted manner on a single occasion. That mere fact that conduct occurs on more than one occasion is not enough by itself to establish a course of conduct for the purpose of stalking; there must still be a continuity of purpose (*Berlyn v Brouskos* (2002) 134 A Crim R 111; *RR v R* [2013] VSCA 147).
+
+10. However, in contrast to stalking, clause 4A(8) makes it clear that determining whether there is a course of conduct must take into account the time, place or purpose of commission and any other relevant matters. This suggests that it would be wrong to import the “continuity of purpose” requirement from stalking into course of conduct charges, as that would elevate purpose over the other factors identified in the Act.
+
+
+---
+
+
+## 7.1.5 Proving a ‘course of conduct’
+
+11. A course of conduct can be proven having regard to the time, place or purpose of the incidents, or any other relevant matter (*Criminal Procedure Act 2009* Schedule 1, clause 4A(9)). These factors may be used to show a regularity to the offending, for example, that it happened every month, or when the complainant was left alone with the accused after school, or at a particular place over and again, or because of a regular purpose, such as sexual gratification or the exercise of power over the victim. Other relevant matters may include evidence of similarity or regularity in the accused’s method of offending (Explanatory Memorandum, Crimes Amendment (Sexual Offence and Other Matters) Bill 2014).
+
+12. The more occasions of offending, the more likely a course of conduct is to be found, particularly where the incidents form a regular or systematic pattern of offending. Conversely, if there are only two or three occasions of offending, the complainant is more likely to be able to remember the specific details of each incident so that they can each be charged separately and a course of conduct charge will not be necessary or appropriate (Explanatory Memorandum, Crimes Amendment (Sexual Offence and Other Matters) Bill 2014).
+
+13. In this way the course of conduct charge was intended to be most effective in precisely the type of situations where specific incidents of an offence can be most difficult for a complainant to provide, that is, where it involves systematic or repeated commission of the offence in question (Criminal Law Review, *Review of Sexual Offences*, Consultation Paper (2013), Part 12).
+
+
+---
+
+
+## 7.1.5 Proving a ‘course of conduct’
+
+## Comparison to the general criminal law
+
+
+
+14. The concept of a course of conduct is similar to a ‘continuous’ offence, such as that of drug trafficking by, for example, continuously running a drug trafficking business (*Giretti v R* (1986) 24 A Crim R 112). This approach recognises the conduct as a whole, including its regularity and repetition, and allows the cumulation of separate acts if the prosecution can prove the underlying course of conduct.
+
+
+---
+
+
+## 7.1.5 Course of conduct and unanimity
+
+## Course of conduct and unanimity
+
+
+
+1. The operation of the requirement of unanimity in relation to the new course of conduct charge has not yet been determined.
+
+2. In relation to the offence of stalking, Victorian courts have confirmed on several occasions that the jury only needs to be unanimous about the conclusion that the accused has engaged in a course of conduct and it is not necessary to be unanimous about the particular acts which make up that course of conduct (see *R v Hoang* (2007) 16 VR 369; *Worsnop v R* (2010) 28 VR 187).
+
+3. Similarly, New Zealand courts have held, in relation to their representative charge scheme, that the jury does not need to be unanimous about the particular transaction or event on which liability is based or the specific offences represented by the charges (*Ahsin & Rameka v R* [2014] NZSC 153, [206] and footnote 117; c.f. *KAW v R* [2012] NZCA 520 (suppressed)).
+
+4. The following factors indicate that unanimity is not required as to the particular incidents making up a course of conduct:
+
+
+---
+
+
+## 7.1.5 Course of conduct and unanimity
+
+- a course of conduct charge can be proved without proving any incidents of the offence with the same degree of specificity as to date, time, place, circumstances or occasion as would be required if the accused were charged only with that incident of the offence (*Criminal Procedure Act 2009* Schedule 1, clause 4A(9));
+
+- it is not necessary to prove any particular number of incidents of the offence or the dates, times, places, circumstances or occasions of the incidents; that there were distinctive features differentiating any of the incidents; or the general circumstances of any particular incident (*Criminal Procedure Act 2009* Schedule 1, clause 4A(10));
+
+- the necessary particulars need not include particulars of any specific incident of the offence, including its date, time, place, circumstances or occasion and need not distinguish any specific incident from any other (*Criminal Procedure Act 2009* Schedule 1, clause 4A(11)); and
+
+- course of conduct charges are aimed at more effectively prosecuting the kind of offences where complainants are less likely to remember specific details. A course of conduct can be proved by generalised evidence of multiple occasions, such as evidence in the form of what would typically or routinely occur rather than evidence of the details of any individual occasions (Criminal Law Review, *Review of Sexual Offences*, Consultation Paper (2013), Part 12).
+
+
+
+5. The factors listed above, along with the principles developed in relation to stalking, and the approach taken in New Zealand in relation to its representative charge scheme, indicate that, as a general rule, the jury does not need to be unanimous about the specific acts which form the course of conduct. Until there is any further authority on the matter judges should assume that no direction about unanimity is required.
+
+
+
+Last updated: 21 July 2021
+
+
+---
+
+---
+
+# Chapter 7.1.5.1
+
+
+## 7.1.5.1 Charge: Course of Conduct Charges
+
+# 7.1.5.1 Charge: Course of Conduct Charges
+
+
+
+## Course of conduct charge
+
+Warning! These provisions have not been subject to any appellate consideration, including the significance of the period specified on the indictment and the matters that must be considered to determine whether conduct amounts to a course of conduct. Judges should seek submissions from parties on these and other relevant matters.
+
+In this case, the prosecution charged NOA with committing [*insert relevant offence*] as a course of conduct.
+
+I will first give you directions about [*insert relevant offence*] and then explain what it means, in law, to commit that offence as a course of conduct.
+
+[*Adapt and insert directions on relevant offence*.]
+
+
+---
+
+
+## 7.1.5.1 Charge: Course of Conduct Charges
+
+## Proof of a course of conduct charge
+
+To prove that NOA committed NOO as a course of conduct, the prosecution must also prove that the incidents of the offending by NOA within the specified period on the indictment, taken together, amount to a course of conduct.
+
+To decide whether this is proved, you must consider the time, place or purpose of the commission of the offences, and any other relevant matters.
+
+[*Add the following shaded section only if the prosecution rely on the time of the incidents to show a course of conduct*.]
+
+In relation to time, this may refer to both the period over which the incidents are alleged to have occurred as well as the timing of the incidents. Here, the evidence is that this conduct occurred [regularly/*refer to relevant evidence*] over a period of [X days, weeks, months or years]. [*Refer to relevant prosecution and defence arguments.*]
+
+[*Add the following shaded section only if the prosecution rely on the place of the incidents to show a course of conduct*.]
+
+In relation to place, if the incidents are alleged to have occurred in the same place, that may be an important factor in deciding if a course of conduct has been established. However, if the incidents are alleged to have occurred at different places, that does not mean that the incidents taken together cannot form a course of conduct. You must consider place along with the time and purpose of the commission of the incidents and any other relevant matter. For example, you might find that if the incidents are said to have happened regularly, time will be a more important factor than the place where the incidents are alleged to have occurred. [*Refer to relevant prosecution and defence evidence and arguments.*]
+
+[*Add the following shaded section only if the prosecution rely on the purpose of offences to show a course of conduct. Note that this is unlikely to be relevant for sexual offences*.]
+
+In relation to the purpose for which the offences are said to have been committed, if the purpose is the same or similar across the incidents, that is likely to be an important factor. [Refer *to relevant prosecution and defence evidence and arguments.*]
+
+[*Add the following shaded section if the prosecution rely on any other relevant matters to show a course of conduct*.]
+
+In relation to other relevant matters, in this case [*Refer to any other relevant matters. Refer also to prosecution and defence evidence and arguments*].
+
+
+---
+
+
+## 7.1.5.1 Charge: Course of Conduct Charges
+
+You must decide whether the accused engaged in conduct that constitutes NOO more than once within the period specified on the indictment and whether those incidents amount to a course of conduct.
+
+[*If the timeframe specified in the indictment is in issue, add the following shaded section*.]
+
+Although you do not need to be satisfied about the actual dates that each incident relied upon occurred, you must be satisfied beyond reasonable doubt that the incidents that you find constitute the course of conduct all fall within the timeframe alleged in the indictment. The indictment specifies a timeframe of [*insert specified period*].
+
+[*Refer to relevant prosecution and defence evidence and argument.*]
+
+[*If the complainant in a sexual offence case gives evidence of what would ‘usually’ or ‘routinely’ occur, add the following shaded section.*]
+
+The law says that a course of conduct can be proved by evidence from a complainant about what would normally occur without giving evidence of the details of any individual incident or incidents. The law says that you can conclude from such generalised evidence that NOA engaged in a course of conduct. You will remember what I said earlier about drawing conclusions.
+
+[*If there is an issue about the imprecision of the number of incidents, add the following shaded section*.]
+
+You do not need to be satisfied of the exact number of incidents of the offending, or of the circumstances of any one individual incident, in order to find a course of conduct.
+
+[*If the evidence included allegations of multiple offences committed within the one incident, add the following shaded section*.]
+
+You must be satisfied that there is more than one incident. It is not enough for the prosecution to prove that NOA committed NOO more than once during a short, isolated occasion.
+
+[*If the relevant offence comprised different types of acts on different occasions, add the following shaded section*.]
+
+As I have already told you, NOO may be committed in different ways. [*Insert summary of different acts alleged to have constituted the offence, for example, digital penetration one on occasion and by penetration with an object on another.*] As long as the accused committed NOO more than once, it does not matter that the acts making up that offence were different from one incident to another.
+
+[*If there is offending relating to more than one complainant and involves a sexual offence, add the following shaded section*.]
+
+
+---
+
+
+## 7.1.5.1 Charge: Course of Conduct Charges
+
+The prosecution submits you should be satisfied that NOA committed the offence of NOO with NOC on more than one occasion, and not some other person. [*Refer to relevant prosecution and defence evidence and arguments.*]
+
+In deciding whether prosecution has proved that NOA committed NOO as a course of conduct, you do not need to unanimously agree that specific incidents occurred. This means that seven of you might be satisfied beyond reasonable doubt that incidents one, two and three occurred and constituted a course of conduct, and five of you might be satisfied beyond reasonable doubt that there was a course of conduct due to incidents four, five and six. In that situation, you would still have a unanimous decision that there was a course of conduct.
+
+You can each accept or reject different parts of the evidence in reaching your verdict. You must be unanimous in your verdict, whether guilty or not guilty, not in how you reach that conclusion.
+
+Ultimately, what the prosecution must prove is that between [*insert relevant dates*], NOA [*insert* *statement of offence*, e.g. ‘intentionally took part in an act of sexual penetration with a child under 16, NOV’] as a course of conduct.
+
+[*Refer to relevant parts of the prosecution and defence case.*]
+
+[*If this element is not in issue, add the shaded section*.]
+
+In this case it is not disputed that, if the alleged incidents occurred, they amounted to a course of conduct by the accused. You should therefore have no difficulty finding this element proved if you find that NOA committed the conduct alleged.
+
+
+---
+
+
+## 7.1.5.1 Summary
+
+## Summary
+
+To summarise, before you can find NOA guilty of committing NOO as a course of conduct, the prosecution must prove to you beyond reasonable doubt:
+
+
+
+- [*Insert elements of relevant offence*] and
+
+- The incidents of the offending, taken together, amount to a course of conduct by the accused.
+
+
+
+If you find that any of these elements has not been proved beyond reasonable doubt, then you must find NOA not guilty of committing [*insert relevant offence*] as a course of conduct.
+
+Last updated: 18 November 2016
+
+
+---
