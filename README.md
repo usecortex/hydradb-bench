@@ -1,6 +1,6 @@
 # HydraDB Benchmark Framework
 
-A complete, production-ready benchmark framework that evaluates [HydraDB](https://api.hydradb.com)'s RAG quality using [RAGAS](https://docs.ragas.io) metrics.
+A complete benchmark framework that evaluates [HydraDB](https://api.hydradb.com)'s RAG quality using [RAGAS](https://docs.ragas.io) metrics.
 
 ## Features
 
@@ -11,7 +11,6 @@ A complete, production-ready benchmark framework that evaluates [HydraDB](https:
 - **HuggingFace integration**: load Q&A datasets or document corpora directly from HuggingFace Hub
 - **Multiple LLM providers**: OpenAI or OpenRouter (Claude, Llama, Gemini, Mistral, etc.)
 - **Multiple embedding providers**: OpenAI, OpenRouter, local HuggingFace (sentence-transformers), Ollama
-- **Early API key validation**: fails fast before any benchmark work if keys are invalid
 - **Throttled ingestion**: configurable delay between uploads to avoid overwhelming the API
 - **Tenant management**: create, reset (`--reset-tenant`), and delete tenants via CLI
 - **Corpus cleaning**: `scripts/clean_corpus.py` fixes PDF extraction artefacts in text files
