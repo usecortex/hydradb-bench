@@ -25,7 +25,7 @@ from .models import (
     RAGASConfig,
     ReportingConfig,
     ScoredCriteriaConfig,
-    SlackConfig,
+    TelegramConfig,
     TestsetGenerationConfig,
 )
 
@@ -65,7 +65,7 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
     eval_section = raw.get("evaluation", {})
     ragas_section = raw.get("ragas", {})
     reporting_section = raw.get("reporting", {})
-    slack_section = raw.get("slack", {})
+    telegram_section = raw.get("telegram", {})
 
     # Credentials must come from environment
     api_key = os.environ.get("HYDRADB_API_KEY", "")
@@ -225,10 +225,10 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         for entry in raw.get("datasets", [])
     ]
 
-    slack_config = SlackConfig(
-        enabled=slack_section.get("enabled", False),
-        bot_token=os.environ.get("SLACK_BOT_TOKEN", slack_section.get("bot_token", "")),
-        user_id=slack_section.get("user_id", os.environ.get("SLACK_USER_ID", "")),
+    telegram_config = TelegramConfig(
+        enabled=telegram_section.get("enabled", False),
+        bot_token=os.environ.get("TELEGRAM_BOT_TOKEN", telegram_section.get("bot_token", "")),
+        chat_id=telegram_section.get("chat_id", os.environ.get("TELEGRAM_CHAT_ID", "")),
     )
 
     return BenchmarkConfig(
@@ -242,6 +242,6 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         evaluation=eval_config,
         ragas=ragas_config,
         reporting=reporting_config,
-        slack=slack_config,
+        telegram=telegram_config,
         datasets=datasets,
     )

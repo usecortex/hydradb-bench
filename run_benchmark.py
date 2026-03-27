@@ -34,7 +34,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from hydradb_bench.checkpoint import CheckpointManager
 from hydradb_bench.client import HydraDBClient
-from hydradb_bench.slack_notifier import send_results as slack_send
+from hydradb_bench.telegram_notifier import send_results as telegram_send
 from hydradb_bench.config import load_config
 from hydradb_bench.evaluator import RAGASEvaluator
 from hydradb_bench.hf_loader import (
@@ -322,14 +322,14 @@ async def _run_dataset_pipeline(
 
     checkpoint.delete()
 
-    # ── 6b. Slack notification ──────────────────────────────────────────
-    if config.slack.enabled:
-        console.print("\n[bold]6b/6  Sending reports to Slack...[/bold]")
+    # ── 6b. Telegram notification ────────────────────────────────────────
+    if config.telegram.enabled:
+        console.print("\n[bold]6b/6  Sending reports to Telegram...[/bold]")
         try:
-            await slack_send(config.slack, result, output_paths)
-            console.print("  [green]Sent to Slack[/green]")
+            await telegram_send(config.telegram, result, output_paths)
+            console.print("  [green]Sent to Telegram[/green]")
         except Exception as e:
-            console.print(f"  [red]Slack notification failed:[/red] {e}")
+            console.print(f"  [red]Telegram notification failed:[/red] {e}")
 
     return 0
 

@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Legal Benchmark — ContractNLI — reason-test</title>
+<style>
+  :root{
+    --green:#2d6a4f;--green-bg:#d8f3dc;--green-text:#1b4332;
+    --yellow:#b5770d;--yellow-bg:#fef3c7;--yellow-text:#7c4f00;
+    --red:#b91c1c;--red-bg:#fee2e2;--red-text:#7f1d1d;
+    --blue:#1d4ed8;--blue-bg:#dbeafe;--blue-text:#1e3a8a;
+    --purple:#6d28d9;--purple-bg:#ede9fe;--purple-text:#4c1d95;
+    --bg:#fdf8f0;--surface:#fffef9;--surface2:#f5efe3;--border:#e2d9c8;
+    --text:#1c1208;--muted:#7a6a52;--accent:#8b5e1a;--accent2:#c4831e;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+  a{color:var(--accent);}
+
+  /* ── Page wrapper ── */
+  .page{max-width:1100px;margin:0 auto;padding:48px 40px;}
+  @media(max-width:700px){.page{padding:24px 16px;}}
+
+  /* ── Title block ── */
+  .title-block{border-bottom:2px solid var(--text);padding-bottom:20px;margin-bottom:8px;}
+  .title-block h1{font-size:1.9rem;font-weight:700;letter-spacing:-.01em;line-height:1.2;color:var(--text);}
+  .title-block h1 em{font-style:normal;color:var(--accent2);}
+  .byline{display:flex;flex-wrap:wrap;gap:0;margin-top:12px;font-size:.82rem;color:var(--muted);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;border-top:1px solid var(--border);padding-top:8px;}
+  .byline span{margin-right:24px;}
+  .byline strong{color:var(--text);}
+  .run-mono{font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;font-size:.75rem;background:var(--surface2);border:1px solid var(--border);padding:2px 8px;border-radius:3px;color:var(--muted);}
+
+  /* ── Section heading ── */
+  .section{margin-bottom:44px;}
+  .sh{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);margin-bottom:14px;display:flex;align-items:center;gap:10px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .sh::after{content:'';flex:1;height:1px;background:var(--border);}
+  .tag{font-size:.62rem;padding:2px 7px;border:1px solid currentColor;border-radius:2px;font-weight:700;letter-spacing:.05em;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .tag-purple{color:var(--purple);border-color:var(--purple-bg);background:var(--purple-bg);}
+
+  /* ── Abstract box (summary stats) ── */
+  .abstract{background:var(--surface2);border-left:3px solid var(--accent2);padding:14px 20px;margin-bottom:20px;font-size:.85rem;line-height:1.7;font-style:italic;color:var(--muted);}
+  .abstract strong{font-style:normal;color:var(--text);}
+
+  /* ── Score bars ── */
+  .score-table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--border);}
+  .score-table tr{border-bottom:1px solid var(--border);}
+  .score-table tr:last-child{border-bottom:none;}
+  .score-table td{padding:10px 14px;vertical-align:middle;}
+  .sn{font-size:.84rem;width:200px;color:var(--text);white-space:nowrap;}
+  .st{width:100%;}
+  .st-track{background:var(--surface2);height:16px;border:1px solid var(--border);border-radius:2px;overflow:hidden;}
+  .st-fill{height:100%;border-radius:1px;transition:width .5s ease;}
+  .st-fill.high{background:#4a7c59;}
+  .st-fill.mid{background:#b5770d;}
+  .st-fill.low{background:#b91c1c;}
+  .sv{width:52px;text-align:right;font-size:.84rem;font-weight:700;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;white-space:nowrap;}
+  .sv.high{color:var(--green);}
+  .sv.mid{color:var(--yellow);}
+  .sv.low{color:var(--red);}
+
+  /* ── Two-col ── */
+  .two-col{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:stretch;}
+  .two-col > div{display:flex;flex-direction:column;}
+  @media(max-width:800px){.two-col{grid-template-columns:1fr;}}
+
+  /* ── Data cards ── */
+  .data-card{background:var(--surface);border:1px solid var(--border);padding:20px;flex:1;}
+  .data-card-title{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-bottom:14px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+
+  /* ── Latency ── */
+  .lat-row{display:flex;align-items:center;gap:10px;margin-bottom:7px;font-size:.82rem;}
+  .lat-key{width:38px;text-align:right;color:var(--muted);font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;font-size:.78rem;flex-shrink:0;}
+  .lat-track{flex:1;background:var(--surface2);height:12px;border:1px solid var(--border);border-radius:1px;overflow:hidden;}
+  .lat-fill{height:100%;background:#8b5e1a;opacity:.7;}
+  .lat-val{width:68px;text-align:right;color:var(--muted);font-size:.76rem;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;flex-shrink:0;}
+
+  /* ── Cost ── */
+  .cost-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px;}
+  .cost-cell{background:var(--surface2);border:1px solid var(--border);padding:12px;text-align:center;}
+  .cost-num{font-size:1.15rem;font-weight:700;color:var(--accent);font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .cost-lbl{font-size:.65rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-top:3px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .cost-total-box{background:var(--surface2);border:1px solid var(--accent2);padding:14px;text-align:center;}
+  .cost-total-num{font-size:1.6rem;font-weight:700;color:var(--accent2);font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .model-tag{display:inline-block;margin-top:10px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;font-size:.72rem;color:var(--muted);background:var(--surface2);border:1px solid var(--border);padding:3px 8px;}
+
+  /* ── Per-sample table ── */
+  .table-wrap{background:var(--surface);border:1px solid var(--border);overflow:hidden;}
+  .table-toolbar{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;border-bottom:1px solid var(--border);gap:12px;flex-wrap:wrap;background:var(--surface2);}
+  .search-box{background:var(--surface);border:1px solid var(--border);padding:6px 11px;color:var(--text);font-size:.82rem;width:240px;outline:none;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;}
+  .search-box:focus{border-color:var(--accent2);}
+  .search-box::placeholder{color:var(--muted);}
+  .row-count{font-size:.75rem;color:var(--muted);font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  table{width:100%;border-collapse:collapse;}
+  thead th{background:var(--surface2);font-size:.64rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:10px 12px;text-align:left;border-bottom:2px solid var(--border);white-space:nowrap;cursor:pointer;user-select:none;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  thead th:hover{color:var(--text);}
+  thead th.sorted{color:var(--accent2);}
+  tbody tr{border-bottom:1px solid var(--border);}
+  tbody tr:last-child{border-bottom:none;}
+  tbody tr:nth-child(even){background:var(--surface2);}
+  tbody tr:hover{background:var(--border);}
+  td{padding:10px 12px;font-size:.81rem;vertical-align:middle;}
+  .q-cell{max-width:260px;}
+  .q-summary{cursor:pointer;color:var(--text);font-size:.81rem;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;}
+  .q-detail{display:none;margin-top:10px;font-size:.78rem;}
+  .q-detail.open{display:block;}
+  .q-detail-block{background:var(--bg);border-left:2px solid var(--accent2);padding:9px 12px;margin-bottom:7px;}
+  .q-detail-block strong{font-size:.63rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);display:block;margin-bottom:4px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .q-detail-block p{color:var(--text);line-height:1.55;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;}
+  .pill{display:inline-flex;align-items:center;justify-content:center;border-radius:2px;padding:2px 7px;font-size:.72rem;font-weight:700;min-width:42px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;border:1px solid transparent;}
+  .pill-high{background:var(--green-bg);color:var(--green-text);border-color:#a7d7b5;}
+  .pill-mid{background:var(--yellow-bg);color:var(--yellow-text);border-color:#f0cc82;}
+  .pill-low{background:var(--red-bg);color:var(--red-text);border-color:#fca5a5;}
+  .pill-na{background:var(--surface2);color:var(--muted);border-color:var(--border);}
+  .lat-pill{font-size:.73rem;color:var(--muted);font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .ctx-pill{display:inline-flex;align-items:center;justify-content:center;background:var(--blue-bg);color:var(--blue-text);border:1px solid #bfdbfe;border-radius:99px;width:20px;height:20px;font-size:.68rem;font-weight:700;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .idx{color:var(--muted);font-size:.72rem;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+  .no-results{padding:40px;text-align:center;color:var(--muted);font-size:.88rem;font-style:italic;}
+  .chevron{display:inline-block;transition:transform .18s;margin-right:5px;font-size:.65rem;color:var(--muted);}
+  .chevron.open{transform:rotate(90deg);}
+
+  /* ── Footer ── */
+  .footer{margin-top:56px;padding-top:16px;border-top:1px solid var(--border);font-size:.75rem;color:var(--muted);text-align:center;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;}
+</style>
+</head>
+<body>
+<div class="page">
+
+<!-- ── Title block ── -->
+<div class="title-block">
+  <h1>Legal Benchmark — ContractNLI</h1>
+</div>
+<div class="byline">
+  <span>2026-03-23T13:33:53</span>
+  <span>Tenant: <strong>my-company / legal-contractnli</strong></span>
+  <span>Endpoint: <strong>qna</strong></span>
+  <span class="run-mono">reason-test</span>
+</div>
+
+<!-- ── Abstract ── -->
+<div style="margin-top:24px;margin-bottom:40px;">
+  <div class="abstract">
+    
+    
+    Evaluated <strong>3</strong> samples across <strong>4</strong> metrics.
+    Mean aggregate score: <strong>70.2%</strong>.
+    
+    
+    Total tokens consumed by RAGAS judge: <strong>16,500</strong>
+    (est. cost <strong>$0.0042</strong>).
+    
+    
+  </div>
+</div>
+
+<!-- ── RAGAS Scores ── -->
+
+<div class="section">
+  <div class="sh">RAGAS Evaluation Scores</div>
+  <table class="score-table">
+    
+    
+    
+    <tr>
+      <td class="sn">Faithfulness</td>
+      <td class="st"><div class="st-track"><div class="st-fill high" style="width:82.0%"></div></div></td>
+      <td class="sv high">82.0%</td>
+    </tr>
+    
+    
+    
+    <tr>
+      <td class="sn">Context Precision</td>
+      <td class="st"><div class="st-track"><div class="st-fill mid" style="width:74.0%"></div></div></td>
+      <td class="sv mid">74.0%</td>
+    </tr>
+    
+    
+    
+    <tr>
+      <td class="sn">Legal Accuracy</td>
+      <td class="st"><div class="st-track"><div class="st-fill mid" style="width:67.0%"></div></div></td>
+      <td class="sv mid">67.0%</td>
+    </tr>
+    
+    
+    
+    <tr>
+      <td class="sn">Citation Grounding</td>
+      <td class="st"><div class="st-track"><div class="st-fill mid" style="width:58.0%"></div></div></td>
+      <td class="sv mid">58.0%</td>
+    </tr>
+    
+  </table>
+</div>
+
+
+
+
+<!-- ── Latency + Cost ── -->
+<div class="two-col section">
+
+<div>
+  <div class="sh">Query Latency</div>
+  <div class="data-card">
+    
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">p50</span>
+      <div class="lat-track"><div class="lat-fill" style="width:39.0%"></div></div>
+      <span class="lat-val">1240 ms</span>
+    </div>
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">p75</span>
+      <div class="lat-track"><div class="lat-fill" style="width:59.4%"></div></div>
+      <span class="lat-val">1890 ms</span>
+    </div>
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">p95</span>
+      <div class="lat-track"><div class="lat-fill" style="width:93.7%"></div></div>
+      <span class="lat-val">2980 ms</span>
+    </div>
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">mean</span>
+      <div class="lat-track"><div class="lat-fill" style="width:47.8%"></div></div>
+      <span class="lat-val">1520 ms</span>
+    </div>
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">min</span>
+      <div class="lat-track"><div class="lat-fill" style="width:25.5%"></div></div>
+      <span class="lat-val">810 ms</span>
+    </div>
+    
+    
+    <div class="lat-row">
+      <span class="lat-key">max</span>
+      <div class="lat-track"><div class="lat-fill" style="width:100.0%"></div></div>
+      <span class="lat-val">3180 ms</span>
+    </div>
+    
+    
+  </div>
+</div>
+
+<div>
+  <div class="sh">Token Usage & Cost</div>
+  <div class="data-card">
+    
+    <div class="cost-grid">
+      <div class="cost-cell">
+        <div class="cost-num">12,300</div>
+        <div class="cost-lbl">Input Tokens</div>
+      </div>
+      <div class="cost-cell">
+        <div class="cost-num">4,200</div>
+        <div class="cost-lbl">Output Tokens</div>
+      </div>
+    </div>
+    <div class="cost-total-box">
+      <div class="cost-lbl">Estimated Cost (USD)</div>
+      <div class="cost-total-num">$0.0042</div>
+      <div style="font-size:.72rem;color:var(--muted);margin-top:3px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace">16,500 total tokens</div>
+    </div>
+    <div style="text-align:center"><div class="model-tag">gpt-4o-mini</div></div>
+    
+  </div>
+</div>
+
+</div>
+
+
+<!-- ── Per-sample table ── -->
+<div class="section">
+  <div class="sh">Per-Sample Results</div>
+  <div class="table-wrap">
+    <div class="table-toolbar">
+      <input class="search-box" type="text" id="tableSearch" placeholder="Search questions…" oninput="filterTable()">
+      <div class="row-count" id="rowCount"></div>
+    </div>
+    <div style="overflow-x:auto">
+    <table id="resultsTable">
+      <thead>
+        <tr>
+          <th onclick="sortTable(0)" style="width:36px">#</th>
+          <th style="min-width:200px">Question</th>
+          
+          <th onclick="sortTable(2)">Faithfulness</th>
+          
+          <th onclick="sortTable(3)">Context Precision</th>
+          
+          <th onclick="sortTable(4)">Legal Accuracy</th>
+          
+          <th onclick="sortTable(5)">Citation Grounding</th>
+          
+          <th onclick="sortTable(6)">Latency</th>
+          <th>Ctx</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody">
+      
+      <tr>
+        <td><span class="idx">1</span></td>
+        <td class="q-cell">
+          <div class="q-summary" onclick="toggleDetail(this)">
+            <span class="chevron">▶</span>What were Apple total revenues in Q3 2023?
+          </div>
+          <div class="q-detail">
+            <div class="q-detail-block">
+              <strong>HydraDB Answer</strong>
+              <p>HydraDB answer here.</p>
+            </div>
+            <div class="q-detail-block">
+              <strong>Reference Answer</strong>
+              <p>Reference answer here.</p>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Legal Accuracy — Reason</strong>
+              <p>The answer correctly identifies the revenue figure and cites the correct fiscal quarter without misrepresenting any obligations.</p>
+            </div>
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Citation Grounding — Reason</strong>
+              <p>The response references specific clauses from the agreement but does not directly quote the provision number.</p>
+            </div>
+            
+            
+          </div>
+        </td>
+        
+        
+        
+          
+          <td><span class="pill pill-high">87%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-mid">55%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-low">0%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-low">0%</span></td>
+        
+        
+        <td><span class="lat-pill">2335ms</span></td>
+        <td><span class="ctx-pill">3</span></td>
+      </tr>
+      
+      <tr>
+        <td><span class="idx">2</span></td>
+        <td class="q-cell">
+          <div class="q-summary" onclick="toggleDetail(this)">
+            <span class="chevron">▶</span>How much did Microsoft spend on R&D in fiscal year 2023?
+          </div>
+          <div class="q-detail">
+            <div class="q-detail-block">
+              <strong>HydraDB Answer</strong>
+              <p>HydraDB answer here.</p>
+            </div>
+            <div class="q-detail-block">
+              <strong>Reference Answer</strong>
+              <p>Reference answer here.</p>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Legal Accuracy — Reason</strong>
+              <p>The answer correctly identifies the revenue figure and cites the correct fiscal quarter without misrepresenting any obligations.</p>
+            </div>
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Citation Grounding — Reason</strong>
+              <p>The response references specific clauses from the agreement but does not directly quote the provision number.</p>
+            </div>
+            
+            
+          </div>
+        </td>
+        
+        
+        
+          
+          <td><span class="pill pill-mid">54%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-mid">65%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-low">0%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-low">0%</span></td>
+        
+        
+        <td><span class="lat-pill">2424ms</span></td>
+        <td><span class="ctx-pill">5</span></td>
+      </tr>
+      
+      <tr>
+        <td><span class="idx">3</span></td>
+        <td class="q-cell">
+          <div class="q-summary" onclick="toggleDetail(this)">
+            <span class="chevron">▶</span>What is the net income of Amazon for Q4 2022?
+          </div>
+          <div class="q-detail">
+            <div class="q-detail-block">
+              <strong>HydraDB Answer</strong>
+              <p>HydraDB answer here.</p>
+            </div>
+            <div class="q-detail-block">
+              <strong>Reference Answer</strong>
+              <p>Reference answer here.</p>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Legal Accuracy — Reason</strong>
+              <p>The answer correctly identifies the revenue figure and cites the correct fiscal quarter without misrepresenting any obligations.</p>
+            </div>
+            
+            
+            
+            
+            <div class="q-detail-block">
+              <strong>Citation Grounding — Reason</strong>
+              <p>The response references specific clauses from the agreement but does not directly quote the provision number.</p>
+            </div>
+            
+            
+          </div>
+        </td>
+        
+        
+        
+          
+          <td><span class="pill pill-high">80%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-mid">74%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-high">100%</span></td>
+        
+        
+        
+        
+          
+          <td><span class="pill pill-low">0%</span></td>
+        
+        
+        <td><span class="lat-pill">1325ms</span></td>
+        <td><span class="ctx-pill">5</span></td>
+      </tr>
+      
+      </tbody>
+    </table>
+    <div class="no-results" id="noResults" style="display:none">No matching questions found.</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="footer">HydraDB Benchmark Framework &nbsp;·&nbsp; reason-test &nbsp;·&nbsp; 2026-03-23T13:33:53</div>
+
+</div><!-- /page -->
+
+<script>
+function toggleDetail(el) {
+  const detail = el.nextElementSibling;
+  const chevron = el.querySelector('.chevron');
+  detail.classList.toggle('open');
+  chevron.classList.toggle('open');
+}
+
+function filterTable() {
+  const q = document.getElementById('tableSearch').value.toLowerCase();
+  const rows = document.querySelectorAll('#tableBody tr');
+  let visible = 0;
+  rows.forEach(row => {
+    const text = row.querySelector('.q-summary').textContent.toLowerCase();
+    const show = text.includes(q);
+    row.style.display = show ? '' : 'none';
+    if (show) visible++;
+  });
+  document.getElementById('rowCount').textContent = visible + ' of ' + rows.length + ' rows';
+  document.getElementById('noResults').style.display = visible === 0 ? 'block' : 'none';
+}
+
+function sortTable(col) {
+  const tbody = document.getElementById('tableBody');
+  const rows = Array.from(tbody.querySelectorAll('tr'));
+  const th = document.querySelectorAll('thead th')[col];
+  const asc = th.dataset.sort !== 'asc';
+  document.querySelectorAll('thead th').forEach(t => { t.classList.remove('sorted'); delete t.dataset.sort; });
+  th.classList.add('sorted');
+  th.dataset.sort = asc ? 'asc' : 'desc';
+  rows.sort((a, b) => {
+    const av = a.cells[col]?.textContent.trim().replace('%','').replace('ms','') || '';
+    const bv = b.cells[col]?.textContent.trim().replace('%','').replace('ms','') || '';
+    const an = parseFloat(av), bn = parseFloat(bv);
+    if (!isNaN(an) && !isNaN(bn)) return asc ? an - bn : bn - an;
+    return asc ? av.localeCompare(bv) : bv.localeCompare(av);
+  });
+  rows.forEach(r => tbody.appendChild(r));
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  const rows = document.querySelectorAll('#tableBody tr');
+  if (rows.length) document.getElementById('rowCount').textContent = rows.length + ' rows';
+});
+</script>
+</body>
+</html>

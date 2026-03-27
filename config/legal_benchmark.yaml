@@ -61,7 +61,7 @@ evaluation:
     model: "openai/gpt-5.4"
     system_prompt: "You are a retrieval-grounded QA assistant. Answer the user's question"
     max_tokens: 1024
-    temperature: 0.3
+    temperature: 0.01
 
   aspect_critics:
     - name: "answer_accuracy"
@@ -93,12 +93,13 @@ ragas:
   cost_tracking:
     enabled: true
 
-# ── Slack notifications ───────────────────────────────────────────────────────
-slack:
+# ── Telegram notifications ────────────────────────────────────────────────────
+telegram:
   enabled: true
-  # Your Slack member ID (starts with U, NOT the DM channel ID that starts with D)
-  # To find it: click your name in Slack → View profile → ... (three dots) → Copy member ID
-  user_id: "${SLACK_USER_ID}"
+  bot_token: "${TELEGRAM_BOT_TOKEN}"
+  # Send /start to your bot, then visit:
+  # https://api.telegram.org/bot<your_token>/getUpdates  → look for "chat": {"id": ...}
+  chat_id: "${TELEGRAM_CHAT_ID}"
 
 # ── Reporting ────────────────────────────────────────────────────────────────
 reporting:

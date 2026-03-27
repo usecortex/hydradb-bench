@@ -137,13 +137,13 @@ class ReportingConfig(BaseModel):
     include_reasons: bool = True
 
 
-class SlackConfig(BaseModel):
+class TelegramConfig(BaseModel):
     enabled: bool = False
-    # Bot token from env: SLACK_BOT_TOKEN
+    # Bot token from @BotFather: TELEGRAM_BOT_TOKEN
     bot_token: str = ""
-    # Your Slack member ID (starts with U) — click your profile in Slack → ... → Copy member ID
-    # The bot will use conversations.open to get/create your DM channel automatically.
-    user_id: str = ""
+    # Your chat ID — send /start to your bot then check:
+    # https://api.telegram.org/bot<token>/getUpdates
+    chat_id: str = ""
 
 
 class HFDatasetConfig(BaseModel):
@@ -184,7 +184,7 @@ class BenchmarkConfig(BaseModel):
     evaluation: EvaluationConfig
     ragas: RAGASConfig
     reporting: ReportingConfig
-    slack: SlackConfig = Field(default_factory=SlackConfig)
+    telegram: TelegramConfig = Field(default_factory=TelegramConfig)
     # Multi-dataset mode: when set, loops through each entry overriding
     # sub_tenant_id / documents_dir / test_dataset_path per dataset.
     datasets: list[DatasetEntry] = Field(default_factory=list)
