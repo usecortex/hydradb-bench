@@ -15,6 +15,7 @@ Requires-Dist: pandas>=2.0
 Requires-Dist: rich>=13.0
 Requires-Dist: nest-asyncio>=1.6.0
 Requires-Dist: datasets>=2.14.0
+Requires-Dist: tiktoken>=0.7.0
 Provides-Extra: dev
 Requires-Dist: pytest>=7.0; extra == "dev"
 Requires-Dist: pytest-asyncio>=0.23; extra == "dev"

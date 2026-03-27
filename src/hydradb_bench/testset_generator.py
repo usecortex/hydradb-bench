@@ -97,20 +97,25 @@ class TestsetGeneratorWrapper:
     def _get_llm(self):
         if self._llm is None:
             import os
-            from openai import OpenAI
-            from ragas.llms import llm_factory
-            client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", ""))
-            self._llm = llm_factory(self.ragas_config.llm_model, client=client)
+            from langchain_openai import ChatOpenAI
+            from ragas.llms import LangchainLLMWrapper
+            llm = ChatOpenAI(
+                model=self.ragas_config.llm_model,
+                api_key=os.environ.get("OPENAI_API_KEY", ""),
+            )
+            self._llm = LangchainLLMWrapper(llm, bypass_n=True)
         return self._llm
 
     def _get_embeddings(self):
         if self._embeddings is None:
             import os
-            from openai import OpenAI
-            from ragas.embeddings import embedding_factory
-            client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", ""))
-            self._embeddings = embedding_factory(
-                "openai", model=self.ragas_config.embeddings_model, client=client
+            from langchain_openai import OpenAIEmbeddings
+            from ragas.embeddings import LangchainEmbeddingsWrapper
+            self._embeddings = LangchainEmbeddingsWrapper(
+                OpenAIEmbeddings(
+                    model=self.ragas_config.embeddings_model,
+                    api_key=os.environ.get("OPENAI_API_KEY", ""),
+                )
             )
         return self._embeddings
 

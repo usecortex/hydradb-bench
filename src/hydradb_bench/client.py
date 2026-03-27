@@ -3,11 +3,13 @@
 from __future__ import annotations
 
 import logging
+import time
 from pathlib import Path
 from typing import Any
 
 import httpx
 
+from .context_builder import build_context_string
 from .models import HydraConfig, HydraSearchResult
 
 logger = logging.getLogger(__name__)
@@ -25,9 +27,16 @@ def _extract_answer(data: dict[str, Any]) -> str:
         val = data.get(key)
         if isinstance(val, str) and val.strip():
             return val.strip()
-    # Fallback: stringify whole response
+    # Fallback for full_recall responses: format all chunks via build_context_string
+    ctx = build_context_string(data)
+    if ctx.strip():
+        logger.warning(
+            "No answer key found in response — using build_context_string as answer. "
+            "Enable answer_generation for full_recall to get a synthesized answer.",
+        )
+        return ctx
     logger.warning("Could not find answer in response keys: %s", list(data.keys()))
-    return str(data)
+    return ""
 
 
 def _extract_contexts(data: dict[str, Any]) -> list[str]:
@@ -118,8 +127,6 @@ class HydraDBClient:
         assert self._client is not None
         logger.info("Creating tenant: %s", self.config.tenant_id)
         payload = {"tenant_id": self.config.tenant_id}
-        if self.config.sub_tenant_id:
-            payload["sub_tenant_id"] = self.config.sub_tenant_id
         response = await self._client.post("/tenants/create", json=payload)
         # 409 Conflict (already exists) is acceptable
         if response.status_code == 409:
@@ -144,19 +151,20 @@ class HydraDBClient:
     ) -> dict[str, Any]:
         """POST /memories/add_memory"""
         assert self._client is not None
-        payload = {**self._tenant_payload(), "text": text, "metadata": metadata or {}}
-        response = await self._client.post("/memories/add_memory", json=payload)
+        # tenant_id/sub_tenant_id go as query params; body is array of MemoryItem
+        params = self._tenant_payload()
+        body = [{"text": text, "document_metadata": metadata or {}}]
+        response = await self._client.post("/memories/add_memory", params=params, json=body)
         return self._handle_response(response)
 
     async def verify_processing(self, file_ids: list[str]) -> dict[str, Any]:
         """POST /ingestion/verify_processing"""
         assert self._client is not None
-        params = {
-            "file_ids": ",".join(file_ids),
-            "tenant_id": self.config.tenant_id,
-        }
+        # file_ids must be sent as repeated query params, not a comma-joined string
+        params: list[tuple[str, str]] = [("file_ids", fid) for fid in file_ids]
+        params.append(("tenant_id", self.config.tenant_id))
         if self.config.sub_tenant_id:
-            params["sub_tenant_id"] = self.config.sub_tenant_id
+            params.append(("sub_tenant_id", self.config.sub_tenant_id))
         response = await self._client.post(
             "/ingestion/verify_processing", params=params
         )
@@ -170,26 +178,35 @@ class HydraDBClient:
             "question": query,
             "max_chunks": max_results,
         }
+        _t = time.monotonic()
         response = await self._client.post("/recall/qna", json=payload)
+        network_latency_ms = (time.monotonic() - _t) * 1000
         data = self._handle_response(response)
         return HydraSearchResult(
             answer=_extract_answer(data),
             retrieved_contexts=_extract_contexts(data),
             raw_response=data,
+            network_latency_ms=network_latency_ms,
         )
 
-    async def full_recall(self, query: str, max_results: int = 10) -> HydraSearchResult:
+    async def full_recall(
+        self, query: str, max_results: int = 10, mode: str = "fast"
+    ) -> HydraSearchResult:
         """POST /recall/full_recall"""
         assert self._client is not None
         payload = {
             **self._tenant_payload(),
             "query": query,
             "max_results": max_results,
+            "mode": mode,
         }
+        _t = time.monotonic()
         response = await self._client.post("/recall/full_recall", json=payload)
+        network_latency_ms = (time.monotonic() - _t) * 1000
         data = self._handle_response(response)
         return HydraSearchResult(
             answer=_extract_answer(data),
             retrieved_contexts=_extract_contexts(data),
             raw_response=data,
+            network_latency_ms=network_latency_ms,
         )

@@ -7,11 +7,6 @@ name = "hydradb-bench"
 version = "0.1.0"
 description = "Complete benchmark framework for HydraDB using RAGAS"
 requires-python = ">=3.10"
-
-authors = [
-    { name = "Vishal Singh Baraiya", email = "vishal@usecortex.ai" }
-]
-
 dependencies = [
     "ragas>=0.2.0",
     "langchain-openai>=0.2.0",
@@ -25,6 +20,7 @@ dependencies = [
     "rich>=13.0",
     "nest-asyncio>=1.6.0",
     "datasets>=2.14.0",
+    "tiktoken>=0.7.0",
 ]
 
 [project.optional-dependencies]

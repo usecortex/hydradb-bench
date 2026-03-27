@@ -10,6 +10,7 @@ pandas>=2.0
 rich>=13.0
 nest-asyncio>=1.6.0
 datasets>=2.14.0
+tiktoken>=0.7.0
 
 [dev]
 pytest>=7.0

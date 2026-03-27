@@ -36,6 +36,12 @@ class AspectCriticConfig(BaseModel):
     strictness: int = 1        # >1 enables majority-vote self-consistency
 
 
+class ScoredCriteriaConfig(BaseModel):
+    """Configuration for a SimpleCriteriaScore metric — outputs continuous 0-1 score."""
+    name: str        # used as metric name in results
+    definition: str  # rubric the LLM grades against (0=worst … 3=best, normalised to 0-1)
+
+
 class TestsetGenerationConfig(BaseModel):
     """Auto-generate Q&A pairs from documents using RAGAS TestsetGenerator."""
     enabled: bool = False
@@ -67,14 +73,30 @@ class CostTrackingConfig(BaseModel):
     cost_per_output_token: float = 0.0000006   # $0.60 / 1M tokens
 
 
+class AnswerGenerationConfig(BaseModel):
+    """When using full_recall, generate answers via an external LLM instead of HydraDB qna."""
+    enabled: bool = False
+    provider: str = "openai"        # "openai" | "openrouter"
+    model: str = "gpt-4o-mini"
+    system_prompt: str = (
+        "You are a helpful assistant. Answer the question using only the provided context. "
+        "Be concise and accurate."
+    )
+    max_tokens: int = 1024
+    temperature: float = 0.0        # 0.0 = deterministic, higher = more creative
+
+
 class EvaluationConfig(BaseModel):
     test_dataset_path: str = "./data/test_dataset.json"
     search_endpoint: str = "qna"  # "qna" | "full_recall"
+    retrieve_mode: str = "fast"   # "fast" | "thinking" (full_recall only)
     max_results: int = 5
     concurrent_requests: int = 3
     metrics: list[str] = Field(default_factory=list)
     aspect_critics: list[AspectCriticConfig] = Field(default_factory=list)
+    scored_criteria: list[ScoredCriteriaConfig] = Field(default_factory=list)
     multi_turn: MultiTurnConfig = Field(default_factory=MultiTurnConfig)
+    answer_generation: AnswerGenerationConfig = Field(default_factory=AnswerGenerationConfig)
 
 
 class PromptOverridesConfig(BaseModel):
@@ -103,6 +125,8 @@ class RAGASConfig(BaseModel):
     timeout: int = 60
     max_workers: int = 4
     raise_exceptions: bool = False
+    temperature: float = 0.0        # judge LLM temperature; 0.0 = deterministic
+    judge_max_tokens: int = 4096    # max tokens for judge LLM response
     cost_tracking: CostTrackingConfig = Field(default_factory=CostTrackingConfig)
     prompt_overrides: PromptOverridesConfig = Field(default_factory=PromptOverridesConfig)
 
@@ -110,6 +134,16 @@ class RAGASConfig(BaseModel):
 class ReportingConfig(BaseModel):
     formats: list[str] = ["json", "csv", "html"]
     include_per_sample_scores: bool = True
+    include_reasons: bool = True
+
+
+class SlackConfig(BaseModel):
+    enabled: bool = False
+    # Bot token from env: SLACK_BOT_TOKEN
+    bot_token: str = ""
+    # Your Slack member ID (starts with U) — click your profile in Slack → ... → Copy member ID
+    # The bot will use conversations.open to get/create your DM channel automatically.
+    user_id: str = ""
 
 
 class HFDatasetConfig(BaseModel):
@@ -131,6 +165,14 @@ class HFDatasetConfig(BaseModel):
     corpus_output_dir: str = "./data/hf_documents"
 
 
+class DatasetEntry(BaseModel):
+    """One dataset in a multi-dataset benchmark run."""
+    name: str                          # display name used in reports
+    sub_tenant_id: str                 # isolated HydraDB sub-tenant for this corpus
+    documents_dir: str                 # path to corpus documents for ingestion
+    test_dataset_path: str             # path to converted Q&A samples JSON
+
+
 class BenchmarkConfig(BaseModel):
     name: str = "HydraDB RAG Benchmark"
     run_id: str | None = None
@@ -142,6 +184,10 @@ class BenchmarkConfig(BaseModel):
     evaluation: EvaluationConfig
     ragas: RAGASConfig
     reporting: ReportingConfig
+    slack: SlackConfig = Field(default_factory=SlackConfig)
+    # Multi-dataset mode: when set, loops through each entry overriding
+    # sub_tenant_id / documents_dir / test_dataset_path per dataset.
+    datasets: list[DatasetEntry] = Field(default_factory=list)
 
 
 # ---------------------------------------------------------------------------
@@ -178,6 +224,9 @@ class HydraSearchResult(BaseModel):
     answer: str
     retrieved_contexts: list[str]
     raw_response: dict[str, Any] = Field(default_factory=dict)
+    network_latency_ms: float = 0.0  # time from request send to response received (HydraDB only)
+    context_string: str = ""   # formatted output of build_context_string()
+    context_tokens: int = 0    # tiktoken cl100k_base token count of context_string
 
 
 # ---------------------------------------------------------------------------
@@ -225,7 +274,7 @@ class TokenUsageResult(BaseModel):
     input_tokens: int = 0
     output_tokens: int = 0
     total_tokens: int = 0
-    estimated_cost_usd: float = 0.0
+    actual_cost_usd: float = 0.0
     model: str = ""
 
 

@@ -251,14 +251,14 @@ class TestTokenUsageResult:
     def test_defaults(self):
         usage = TokenUsageResult()
         assert usage.total_tokens == 0
-        assert usage.estimated_cost_usd == 0.0
+        assert usage.actual_cost_usd == 0.0
 
     def test_construction(self):
         usage = TokenUsageResult(
             input_tokens=1000,
             output_tokens=500,
             total_tokens=1500,
-            estimated_cost_usd=0.0005,
+            actual_cost_usd=0.0005,
             model="gpt-4o-mini",
         )
         assert usage.total_tokens == 1500

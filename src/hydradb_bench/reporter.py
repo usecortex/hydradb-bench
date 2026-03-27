@@ -168,7 +168,10 @@ _HTML_TEMPLATE = """\
     {% if error_count > 0 %}<strong>{{ error_count }}</strong> sample(s) returned errors and were excluded from scoring.{% endif %}
     {% if token_usage.total_tokens > 0 %}
     Total tokens consumed by RAGAS judge: <strong>{{ "{:,}".format(token_usage.total_tokens) }}</strong>
-    (est. cost <strong>${{ "%.4f" | format(token_usage.estimated_cost_usd) }}</strong>).
+    (actual cost <strong>${{ "%.4f" | format(token_usage.actual_cost_usd) }}</strong>).
+    {% endif %}
+    {% if avg_context_tokens > 0 %}
+    Avg HydraDB context tokens per query: <strong>{{ "{:,}".format(avg_context_tokens) }}</strong>.
     {% endif %}
     {% else %}
     No evaluation scores available for this run.
@@ -215,7 +218,7 @@ _HTML_TEMPLATE = """\
 <div class="two-col section">
 
 <div>
-  <div class="sh">Query Latency</div>
+  <div class="sh">HydraDB Query Latency</div>
   <div class="data-card">
     {% if latency_stats %}
     {% for key, val in latency_stats.items() %}
@@ -247,8 +250,8 @@ _HTML_TEMPLATE = """\
       </div>
     </div>
     <div class="cost-total-box">
-      <div class="cost-lbl">Estimated Cost (USD)</div>
-      <div class="cost-total-num">${{ "%.4f" | format(token_usage.estimated_cost_usd) }}</div>
+      <div class="cost-lbl">Actual Cost (USD)</div>
+      <div class="cost-total-num">${{ "%.4f" | format(token_usage.actual_cost_usd) }}</div>
       <div style="font-size:.72rem;color:var(--muted);margin-top:3px;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace">{{ "{:,}".format(token_usage.total_tokens) }} total tokens</div>
     </div>
     <div style="text-align:center"><div class="model-tag">{{ token_usage.model or "—" }}</div></div>
@@ -279,6 +282,7 @@ _HTML_TEMPLATE = """\
           <th onclick="sortTable({{ loop.index + 1 }})">{{ col | replace("_"," ") | title }}</th>
           {% endfor %}
           <th onclick="sortTable({{ metric_cols|length + 2 }})">Latency</th>
+          <th onclick="sortTable({{ metric_cols|length + 3 }})">Ctx Tok</th>
           <th>Ctx</th>
         </tr>
       </thead>
@@ -295,10 +299,25 @@ _HTML_TEMPLATE = """\
               <strong>HydraDB Answer</strong>
               <p>{{ row.get("hydra_answer","—") | truncate(500) }}</p>
             </div>
+            {% if row.get("context_string") %}
+            <div class="q-detail-block">
+              <strong>HydraDB Retrieved Context</strong>
+              <p style="white-space:pre-wrap;font-family:'SFMono Regular','Consolas','Liberation Mono',monospace;font-size:.74rem;line-height:1.5">{{ row.get("context_string","") | truncate(2000) }}</p>
+            </div>
+            {% endif %}
             <div class="q-detail-block">
               <strong>Reference Answer</strong>
               <p>{{ row.get("reference_answer","—") | truncate(500) }}</p>
             </div>
+            {% for col in metric_cols %}
+            {% set reason = row.get(col ~ "_reason") %}
+            {% if reason and reason != "None" %}
+            <div class="q-detail-block">
+              <strong>{{ col | replace("_"," ") | title }} — Reason</strong>
+              <p>{{ reason | truncate(400) }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
           </div>
         </td>
         {% for col in metric_cols %}
@@ -311,6 +330,7 @@ _HTML_TEMPLATE = """\
         {% endif %}
         {% endfor %}
         <td><span class="lat-pill">{{ row.get("latency_ms",0) | round(0) | int }}ms</span></td>
+        <td><span class="lat-pill">{{ row.get("context_tokens",0) | int }}</span></td>
         <td><span class="ctx-pill">{{ row.get("contexts_retrieved",0) }}</span></td>
       </tr>
       {% endfor %}
@@ -482,13 +502,20 @@ class BenchmarkReporter:
             template = env.from_string(_HTML_TEMPLATE)
 
             skip = {"sample_id", "question", "reference_answer", "hydra_answer",
-                    "latency_ms", "contexts_retrieved", "error"}
+                    "context_string", "context_tokens", "latency_ms", "contexts_retrieved", "error"}
             metric_cols = (
-                [k for k in result.per_sample_scores[0] if k not in skip]
+                [k for k in (result.per_sample_scores[0] or {})
+                 if k not in skip and not k.endswith("_reason")]
                 if result.per_sample_scores else []
             )
             max_latency = max(result.latency_stats.values(), default=1.0) or 1.0
             hydra_cfg = result.config_snapshot.get("hydradb", {})
+
+            ctx_tokens_list = [
+                r["context_tokens"] for r in result.per_sample_scores
+                if r.get("context_tokens", 0) > 0
+            ] if result.per_sample_scores else []
+            avg_context_tokens = round(sum(ctx_tokens_list) / len(ctx_tokens_list)) if ctx_tokens_list else 0
 
             html = template.render(
                 benchmark_name=result.benchmark_name,
@@ -504,6 +531,7 @@ class BenchmarkReporter:
                 latency_stats=result.latency_stats,
                 max_latency=max_latency,
                 token_usage=result.token_usage,
+                avg_context_tokens=avg_context_tokens,
                 per_sample_scores=(
                     result.per_sample_scores if self.config.include_per_sample_scores else []
                 ),

@@ -11,9 +11,11 @@ import yaml
 from dotenv import load_dotenv
 
 from .models import (
+    AnswerGenerationConfig,
     AspectCriticConfig,
     BenchmarkConfig,
     CostTrackingConfig,
+    DatasetEntry,
     EvaluationConfig,
     HFDatasetConfig,
     HydraConfig,
@@ -22,6 +24,8 @@ from .models import (
     PromptOverridesConfig,
     RAGASConfig,
     ReportingConfig,
+    ScoredCriteriaConfig,
+    SlackConfig,
     TestsetGenerationConfig,
 )
 
@@ -61,6 +65,7 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
     eval_section = raw.get("evaluation", {})
     ragas_section = raw.get("ragas", {})
     reporting_section = raw.get("reporting", {})
+    slack_section = raw.get("slack", {})
 
     # Credentials must come from environment
     api_key = os.environ.get("HYDRADB_API_KEY", "")
@@ -107,6 +112,7 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         documents_dir=ingestion_section.get("documents_dir", "./data/documents"),
         file_extensions=ingestion_section.get("file_extensions", [".txt", ".pdf", ".md"]),
         verify_before_querying=ingestion_section.get("verify_before_querying", True),
+        upload_delay_seconds=ingestion_section.get("upload_delay_seconds", 0.5),
     )
 
     testset_config = TestsetGenerationConfig(
@@ -123,6 +129,7 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         mode=hf_section.get("mode", "qa"),
         repo_id=hf_section.get("repo_id", ""),
         split=hf_section.get("split", "test"),
+        config_name=hf_section.get("config_name"),
         max_samples=hf_section.get("max_samples"),
         column_map=hf_section.get("column_map", {}),
         save_qa_path=hf_section.get("save_qa_path"),
@@ -139,6 +146,12 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         for ac in eval_section.get("aspect_critics", [])
     ]
 
+    # Parse scored criteria (continuous 0-1 via SimpleCriteriaScore)
+    scored_criteria = [
+        ScoredCriteriaConfig(**sc)
+        for sc in eval_section.get("scored_criteria", [])
+    ]
+
     # Parse multi-turn config
     mt_section = eval_section.get("multi_turn", {})
     multi_turn_config = MultiTurnConfig(
@@ -147,9 +160,20 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         metrics=mt_section.get("metrics", ["topic_adherence", "agent_goal_accuracy"]),
     )
 
+    ag_section = eval_section.get("answer_generation", {})
+    answer_gen_config = AnswerGenerationConfig(
+        enabled=ag_section.get("enabled", False),
+        provider=ag_section.get("provider", "openai"),
+        model=ag_section.get("model", "gpt-4o-mini"),
+        system_prompt=ag_section.get("system_prompt", AnswerGenerationConfig().system_prompt),
+        max_tokens=ag_section.get("max_tokens", 1024),
+        temperature=ag_section.get("temperature", 0.0),
+    )
+
     eval_config = EvaluationConfig(
         test_dataset_path=eval_section.get("test_dataset_path", "./data/test_dataset.json"),
         search_endpoint=eval_section.get("search_endpoint", "qna"),
+        retrieve_mode=eval_section.get("retrieve_mode", "fast"),
         max_results=eval_section.get("max_results", 5),
         concurrent_requests=eval_section.get("concurrent_requests", 3),
         metrics=eval_section.get("metrics", [
@@ -157,7 +181,9 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
             "context_recall", "factual_correctness",
         ]),
         aspect_critics=aspect_critics,
+        scored_criteria=scored_criteria,
         multi_turn=multi_turn_config,
+        answer_generation=answer_gen_config,
     )
 
     # Parse cost tracking
@@ -178,10 +204,12 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         embeddings_model=ragas_section.get("embeddings_model", "text-embedding-3-small"),
         llm_provider=ragas_section.get("llm_provider", "openai"),
         embeddings_provider=ragas_section.get("embeddings_provider", "openai"),
+        embeddings_base_url=ragas_section.get("embeddings_base_url"),
         max_retries=ragas_section.get("max_retries", 3),
         timeout=ragas_section.get("timeout", 60),
         max_workers=ragas_section.get("max_workers", 4),
         raise_exceptions=ragas_section.get("raise_exceptions", False),
+        temperature=ragas_section.get("temperature", 0.0),
         cost_tracking=cost_config,
         prompt_overrides=prompt_overrides,
     )
@@ -189,6 +217,18 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
     reporting_config = ReportingConfig(
         formats=reporting_section.get("formats", ["json", "csv", "html"]),
         include_per_sample_scores=reporting_section.get("include_per_sample_scores", True),
+        include_reasons=reporting_section.get("include_reasons", True),
+    )
+
+    datasets = [
+        DatasetEntry(**entry)
+        for entry in raw.get("datasets", [])
+    ]
+
+    slack_config = SlackConfig(
+        enabled=slack_section.get("enabled", False),
+        bot_token=os.environ.get("SLACK_BOT_TOKEN", slack_section.get("bot_token", "")),
+        user_id=slack_section.get("user_id", os.environ.get("SLACK_USER_ID", "")),
     )
 
     return BenchmarkConfig(
@@ -202,4 +242,6 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
         evaluation=eval_config,
         ragas=ragas_config,
         reporting=reporting_config,
+        slack=slack_config,
+        datasets=datasets,
     )

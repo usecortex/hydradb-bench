@@ -47,7 +47,7 @@ def _make_result(n_samples: int = 3, with_token_usage: bool = False) -> Benchmar
 
     token_usage = (
         TokenUsageResult(input_tokens=1200, output_tokens=400, total_tokens=1600,
-                         estimated_cost_usd=0.0004, model="gpt-4o-mini")
+                         actual_cost_usd=0.0004, model="gpt-4o-mini")
         if with_token_usage else TokenUsageResult()
     )
 

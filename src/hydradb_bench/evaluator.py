@@ -6,7 +6,7 @@ import logging
 import warnings
 from typing import Any
 
-from .models import AspectCriticConfig, BenchmarkSample, RAGASConfig, TokenUsageResult
+from .models import AspectCriticConfig, BenchmarkSample, RAGASConfig, ScoredCriteriaConfig, TokenUsageResult
 
 logger = logging.getLogger(__name__)
 
@@ -80,6 +80,7 @@ class RAGASEvaluator:
         self.config = config
         self._llm = None
         self._embeddings = None
+        self._scored_criteria_names: set[str] = set()  # names that need 0-3 → 0-1 normalization
 
     # ------------------------------------------------------------------
     # LLM / embeddings accessors (lazy-init)
@@ -107,10 +108,28 @@ class RAGASEvaluator:
 
     def _get_llm(self):
         if self._llm is None:
-            from ragas.llms import llm_factory
+            import os
+            from langchain_openai import ChatOpenAI
+            from ragas.llms import LangchainLLMWrapper
+
             provider = self.config.llm_provider
-            client = self._make_openai_client(provider)
-            self._llm = llm_factory(self.config.llm_model, client=client)
+            env_key = self._PROVIDER_ENV_KEYS.get(provider, "OPENAI_API_KEY")
+            base_url = self._PROVIDER_BASE_URLS.get(provider)
+            api_key = os.environ.get(env_key, "")
+
+            base_kwargs = dict(
+                model=self.config.llm_model,
+                api_key=api_key,
+                max_tokens=self.config.judge_max_tokens,
+                temperature=self.config.temperature,
+            )
+            if base_url:
+                base_kwargs["base_url"] = base_url
+
+            llm = ChatOpenAI(**base_kwargs)
+            # bypass_n=True: RAGAS sends n separate prompts instead of requesting
+            # n completions in one call — works around OpenRouter not supporting n>1.
+            self._llm = LangchainLLMWrapper(llm, bypass_n=True)
         return self._llm
 
     def _get_embeddings(self):
@@ -242,6 +261,25 @@ class RAGASEvaluator:
                 logger.warning("Could not load metric '%s' (%s): %s", name, class_path, e)
         return metrics
 
+    def build_scored_criteria(self, scored_configs: list[ScoredCriteriaConfig]) -> list:
+        """Build SimpleCriteriaScore metric instances — raw 0-3 output, normalized to 0-1 on extraction."""
+        metrics = []
+        for sc in scored_configs:
+            try:
+                from ragas.metrics._simple_criteria import SimpleCriteriaScore
+                metric = SimpleCriteriaScore(
+                    name=sc.name,
+                    definition=sc.definition,
+                    llm=self._get_llm(),
+                )
+                metrics.append(metric)
+                # Track names so extraction can normalize 0-3 → 0-1
+                self._scored_criteria_names.add(sc.name)
+                logger.info("Loaded ScoredCriteria: %s", sc.name)
+            except Exception as e:
+                logger.warning("Could not load ScoredCriteria '%s': %s", sc.name, e)
+        return metrics
+
     def build_aspect_critics(self, aspect_configs: list[AspectCriticConfig]) -> list:
         """Build AspectCritic metric instances from config."""
         critics = []
@@ -354,6 +392,8 @@ class RAGASEvaluator:
         samples: list[BenchmarkSample],
         metric_names: list[str],
         aspect_configs: list[AspectCriticConfig] | None = None,
+        scored_criteria_configs: list[ScoredCriteriaConfig] | None = None,
+        include_reasons: bool = True,
     ) -> tuple[dict[str, float], list[dict[str, Any]], TokenUsageResult]:
         """
         Run single-turn RAGAS evaluation.
@@ -373,7 +413,8 @@ class RAGASEvaluator:
 
         standard_metrics = self.build_metrics(metric_names)
         critic_metrics = self.build_aspect_critics(aspect_configs or [])
-        all_metrics = standard_metrics + critic_metrics
+        scored_metrics = self.build_scored_criteria(scored_criteria_configs or [])
+        all_metrics = standard_metrics + critic_metrics + scored_metrics
 
         if not all_metrics:
             logger.error("No metrics could be loaded.")
@@ -382,7 +423,7 @@ class RAGASEvaluator:
         result = self._run_evaluate(dataset, all_metrics)
 
         aggregate_scores = self._extract_aggregate_scores(result)
-        per_sample_scores = self._extract_per_sample_scores(result, samples)
+        per_sample_scores = self._extract_per_sample_scores(result, samples, include_reasons)
         token_usage = self._extract_token_usage(result)
 
         return aggregate_scores, per_sample_scores, token_usage
@@ -410,19 +451,40 @@ class RAGASEvaluator:
         token_usage = self._extract_token_usage(result)
         return aggregate_scores, token_usage
 
+    @staticmethod
+    def _openrouter_token_parser(llm_result):
+        """Token parser that uses OpenRouter's exact cost when available,
+        falling back to standard OpenAI token counts."""
+        from ragas.cost import TokenUsage
+
+        llm_output = getattr(llm_result, "llm_output", None) or {}
+        token_usage = llm_output.get("token_usage", {}) or {}
+        input_tokens  = token_usage.get("prompt_tokens", 0) or 0
+        output_tokens = token_usage.get("completion_tokens", 0) or 0
+        model = llm_output.get("model_name", "")
+
+        # OpenRouter returns the actual upstream cost in cost_details
+        cost_details = token_usage.get("cost_details", {}) or {}
+        exact_cost = cost_details.get("upstream_inference_cost") or token_usage.get("cost") or None
+
+        usage = TokenUsage(input_tokens=input_tokens, output_tokens=output_tokens, model=model)
+        # Stash exact cost as a custom attribute so _extract_token_usage can use it
+        if exact_cost is not None:
+            usage._exact_cost_usd = float(exact_cost)
+        return usage
+
     def _run_evaluate(self, dataset, metrics):
         """Internal: call ragas.evaluate() with full options."""
         import asyncio
         import inspect
         from ragas import RunConfig, evaluate
-        from ragas.cost import get_token_usage_for_openai
 
         run_config = RunConfig(
             max_retries=self.config.max_retries,
             timeout=self.config.timeout,
             max_workers=self.config.max_workers,
         )
-        token_parser = get_token_usage_for_openai if self.config.cost_tracking.enabled else None
+        token_parser = self._openrouter_token_parser if self.config.cost_tracking.enabled else None
 
         def _call_evaluate():
             return evaluate(
@@ -504,7 +566,10 @@ class RAGASEvaluator:
                     continue
                 series = df[col].dropna()
                 if not series.empty:
-                    aggregate[col] = round(float(series.mean()), 4)
+                    val = float(series.mean())
+                    if col in self._scored_criteria_names:
+                        val = val / 3.0  # SimpleCriteriaScore returns 0-3; normalize to 0-1
+                    aggregate[col] = round(val, 4)
         except Exception as e:
             logger.warning("Could not extract aggregate scores: %s", e)
             if hasattr(result, "scores"):
@@ -513,17 +578,59 @@ class RAGASEvaluator:
                         aggregate[str(k)] = round(float(v), 4)
         return aggregate
 
+    def _extract_reasons_from_traces(self, result) -> dict[int, dict[str, str]]:
+        """Extract AspectCritic reasons from ragas_traces.
+        RAGAS stores reasons in the trace tree but does not expose them in the DataFrame.
+        Structure: evaluation -> row N -> metric_name -> prompt_leaf (has reason in outputs)
+        """
+        reasons: dict[int, dict[str, str]] = {}
+        try:
+            traces = getattr(result, "ragas_traces", {}) or {}
+            for run in traces.values():
+                name = getattr(run, "name", "") or ""
+                if not name.startswith("row "):
+                    continue
+                try:
+                    row_index = int(name.split("row ")[1])
+                except (IndexError, ValueError):
+                    continue
+                reasons.setdefault(row_index, {})
+                for metric_run_id in (getattr(run, "children", None) or []):
+                    metric_run = traces.get(metric_run_id)
+                    if not metric_run:
+                        continue
+                    metric_name = getattr(metric_run, "name", "") or ""
+                    for prompt_run_id in (getattr(metric_run, "children", None) or []):
+                        prompt_run = traces.get(prompt_run_id)
+                        if not prompt_run:
+                            continue
+                        outputs = getattr(prompt_run, "outputs", {}) or {}
+                        output_list = outputs.get("output", [])
+                        if isinstance(output_list, list) and output_list:
+                            reason = getattr(output_list[0], "reason", None)
+                            if reason:
+                                reasons[row_index][f"{metric_name}_reason"] = str(reason)
+        except Exception as e:
+            logger.warning("Could not extract reasons from traces: %s", e)
+        return reasons
+
     def _extract_per_sample_scores(
-        self, result, samples: list[BenchmarkSample]
+        self, result, samples: list[BenchmarkSample], include_reasons: bool = True
     ) -> list[dict[str, Any]]:
         skip = {"user_input", "response", "retrieved_contexts",
                 "reference", "reference_contexts"}
         per_sample: list[dict[str, Any]] = []
         valid = [bs for bs in samples if not bs.error and bs.hydra_result]
 
+        # Extract reasons from traces (AspectCritic reasons are not in the DataFrame)
+        trace_reasons = self._extract_reasons_from_traces(result) if include_reasons else {}
+
         try:
             df = result.to_pandas()
-            metric_cols = [c for c in df.columns if c not in skip]
+            all_cols = [c for c in df.columns if c not in skip]
+            reason_cols = [c for c in all_cols if c.endswith("_reason")]
+            score_cols  = [c for c in all_cols if not c.endswith("_reason")]
+
             for i, row in df.iterrows():
                 entry: dict[str, Any] = {}
                 if i < len(valid):
@@ -532,15 +639,27 @@ class RAGASEvaluator:
                     entry["question"] = bs.test_sample.question
                     entry["reference_answer"] = bs.test_sample.reference_answer
                     entry["hydra_answer"] = bs.hydra_result.answer
+                    entry["context_string"] = bs.hydra_result.context_string
+                    entry["context_tokens"] = bs.hydra_result.context_tokens
                     entry["latency_ms"] = round(bs.latency_ms, 2)
                     entry["contexts_retrieved"] = len(bs.hydra_result.retrieved_contexts)
-                for col in metric_cols:
+                for col in score_cols:
                     val = row.get(col)
-                    entry[col] = (
-                        round(float(val), 4)
-                        if val is not None and val == val  # NaN check
-                        else None
-                    )
+                    if val is not None and val == val:  # NaN check
+                        fval = float(val)
+                        if col in self._scored_criteria_names:
+                            fval = fval / 3.0  # normalize 0-3 → 0-1
+                        entry[col] = round(fval, 4)
+                    else:
+                        entry[col] = None
+                if include_reasons:
+                    # Reasons from DataFrame columns (standard metrics)
+                    for col in reason_cols:
+                        val = row.get(col)
+                        entry[col] = str(val).strip() if val is not None and val == val else None
+                    # Reasons from traces (AspectCritic)
+                    for col, reason in trace_reasons.get(i, {}).items():
+                        entry[col] = reason
                 per_sample.append(entry)
         except Exception as e:
             logger.warning("Could not extract per-sample scores: %s", e)
@@ -551,26 +670,36 @@ class RAGASEvaluator:
             return TokenUsageResult()
         try:
             usage_list = result.total_tokens()
+            if usage_list is None:
+                return TokenUsageResult()
             # total_tokens() can return a single TokenUsage or a list
             if not isinstance(usage_list, list):
                 usage_list = [usage_list]
+            usage_list = [u for u in usage_list if u is not None]
+            if not usage_list:
+                return TokenUsageResult()
 
             total_input = sum(getattr(u, "input_tokens", 0) for u in usage_list)
             total_output = sum(getattr(u, "output_tokens", 0) for u in usage_list)
             total = total_input + total_output
 
             cfg = self.config.cost_tracking
-            cost = (
-                total_input * cfg.cost_per_input_token
-                + total_output * cfg.cost_per_output_token
-            )
+            # Use exact cost from OpenRouter if available, otherwise estimate from token rates
+            exact_costs = [getattr(u, "_exact_cost_usd", None) for u in usage_list]
+            if any(c is not None for c in exact_costs):
+                cost = sum(c for c in exact_costs if c is not None)
+            else:
+                cost = (
+                    total_input * cfg.cost_per_input_token
+                    + total_output * cfg.cost_per_output_token
+                )
             model = getattr(usage_list[0], "model", self.config.llm_model) if usage_list else self.config.llm_model
 
             return TokenUsageResult(
                 input_tokens=total_input,
                 output_tokens=total_output,
                 total_tokens=total,
-                estimated_cost_usd=round(cost, 6),
+                actual_cost_usd=round(cost, 6),
                 model=model,
             )
         except Exception as e:

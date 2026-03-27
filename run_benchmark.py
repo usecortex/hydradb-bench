@@ -32,7 +32,9 @@ from rich.table import Table
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
+from hydradb_bench.checkpoint import CheckpointManager
 from hydradb_bench.client import HydraDBClient
+from hydradb_bench.slack_notifier import send_results as slack_send
 from hydradb_bench.config import load_config
 from hydradb_bench.evaluator import RAGASEvaluator
 from hydradb_bench.hf_loader import (
@@ -42,7 +44,7 @@ from hydradb_bench.hf_loader import (
     print_dataset_info,
 )
 from hydradb_bench.ingestion import IngestionOrchestrator
-from hydradb_bench.models import BenchmarkResult, TokenUsageResult
+from hydradb_bench.models import BenchmarkConfig, BenchmarkResult, DatasetEntry, TokenUsageResult
 from hydradb_bench.multi_turn import (
     MultiTurnRunner,
     load_multi_turn_dataset,
@@ -139,6 +141,199 @@ def _validate_llm_api_key(ragas_config) -> str | None:
     return None
 
 
+async def _run_dataset_pipeline(
+    config: BenchmarkConfig,
+    args: argparse.Namespace,
+    run_id: str,
+    dataset_name: str | None = None,
+) -> int:
+    """Run the full ingest → query → evaluate → report pipeline for one dataset."""
+
+    _dataset_label = dataset_name or config.name
+    checkpoint = CheckpointManager(run_id, _dataset_label)
+    if checkpoint.completed_count:
+        console.print(
+            f"  [yellow]Resume mode:[/yellow] {checkpoint.completed_count} sample(s) already done "
+            f"for dataset '{_dataset_label}' (run {run_id})"
+        )
+
+    async with HydraDBClient(config.hydradb) as client:
+
+        # ── 3. Ingest documents ─────────────────────────────────────────
+        console.print("\n[bold]3/6  Document ingestion...[/bold]")
+        if args.reset_tenant:
+            console.print("  [yellow]--reset-tenant:[/yellow] deleting all existing tenant data...")
+            try:
+                result = await client.delete_tenant()
+                console.print(f"  [green]Tenant deleted.[/green] ({result.get('status', 'ok')})")
+                await client.create_tenant()
+                console.print("  [green]Tenant recreated.[/green]")
+            except Exception as e:
+                console.print(f"  [red]Tenant deletion failed:[/red] {e}")
+                return 1
+
+        if args.skip_ingestion:
+            console.print("  [yellow]Skipped[/yellow] (--skip-ingestion)")
+        else:
+            orchestrator = IngestionOrchestrator(client, config.ingestion, config.hydradb)
+            ingestion_report = await orchestrator.run()
+            console.print(f"  {ingestion_report.summary()}")
+
+        # ── 4. Run single-turn queries ──────────────────────────────────
+        console.print("\n[bold]4/6  Running single-turn benchmark queries...[/bold]")
+        runner = BenchmarkRunner(client, config.evaluation)
+
+        if config.hf_dataset.enabled and config.hf_dataset.mode == "qa":
+            hf = config.hf_dataset
+            if not hf.repo_id:
+                console.print("[red]hf_dataset.repo_id is required in qa mode.[/red]")
+                return 1
+            try:
+                test_samples = load_qa_dataset(
+                    repo_id=hf.repo_id,
+                    split=hf.split,
+                    config_name=hf.config_name or None,
+                    column_map=hf.column_map or None,
+                    max_samples=hf.max_samples,
+                    id_prefix=hf.id_prefix,
+                    save_path=hf.save_qa_path,
+                )
+            except Exception as e:
+                console.print(f"  [red]HF Q&A load failed:[/red] {e}")
+                return 1
+        else:
+            try:
+                test_samples = runner.load_test_dataset(config.evaluation.test_dataset_path)
+            except FileNotFoundError as e:
+                console.print(f"  [red]Dataset error:[/red] {e}")
+                return 1
+
+        if args.limit:
+            test_samples = test_samples[: args.limit]
+            console.print(f"  [yellow]--limit {args.limit}:[/yellow] running first {len(test_samples)} sample(s)")
+
+        new_samples = await runner.run(test_samples, checkpoint=checkpoint)
+        restored_samples = checkpoint.restore(test_samples)
+        # Merge: restored (already-done) + new results, preserving original order
+        new_by_id = {s.test_sample.id: s for s in new_samples}
+        benchmark_samples = [
+            new_by_id.get(ts.id) or next((r for r in restored_samples if r.test_sample.id == ts.id), None)
+            for ts in test_samples
+        ]
+        benchmark_samples = [s for s in benchmark_samples if s is not None]
+        error_count = sum(1 for s in benchmark_samples if s.error)
+        console.print(
+            f"  Completed: [bold]{len(benchmark_samples)}[/bold] queries "
+            f"([red]{error_count}[/red] errors)"
+        )
+
+        # ── 4b. (Optional) Multi-turn queries ──────────────────────────
+        multi_turn_samples = []
+        run_multi_turn = args.multi_turn or config.evaluation.multi_turn.enabled
+        if run_multi_turn:
+            console.print("\n[bold]4b/6  Running multi-turn conversations...[/bold]")
+            try:
+                conversations = load_multi_turn_dataset(
+                    config.evaluation.multi_turn.dataset_path
+                )
+                mt_runner = MultiTurnRunner(client, config.evaluation)
+                multi_turn_samples = await mt_runner.run(conversations)
+                mt_errors = sum(1 for s in multi_turn_samples if s.error)
+                console.print(
+                    f"  Completed: [bold]{len(multi_turn_samples)}[/bold] conversations "
+                    f"([red]{mt_errors}[/red] errors)"
+                )
+            except FileNotFoundError as e:
+                console.print(f"  [yellow]Multi-turn dataset not found:[/yellow] {e}")
+
+    # ── 5. RAGAS evaluation ─────────────────────────────────────────────
+    console.print("\n[bold]5/6  Running RAGAS evaluation...[/bold]")
+    console.print("  [dim]Calls OpenAI for LLM-based metrics — see cost section in HTML report[/dim]")
+
+    evaluator = RAGASEvaluator(config.ragas)
+
+    if args.save_prompts:
+        evaluator.save_prompts(config.evaluation.metrics, config.output_dir)
+        console.print(f"  [blue]Prompts saved to {config.output_dir}/prompts/[/blue]")
+
+    aggregate_scores, per_sample_scores, token_usage = evaluator.evaluate(
+        samples=benchmark_samples,
+        metric_names=config.evaluation.metrics,
+        aspect_configs=config.evaluation.aspect_critics,
+        scored_criteria_configs=config.evaluation.scored_criteria,
+        include_reasons=config.reporting.include_reasons,
+    )
+    _print_scores("Single-Turn RAGAS Scores", aggregate_scores)
+
+    if token_usage.total_tokens > 0:
+        console.print(
+            f"  Tokens: [bold]{token_usage.total_tokens:,}[/bold] "
+            f"(in={token_usage.input_tokens:,}, out={token_usage.output_tokens:,}) "
+            f"Cost (judge LLM): [bold]${token_usage.actual_cost_usd:.4f}[/bold]"
+        )
+
+    multi_turn_scores: dict[str, float] = {}
+    mt_token_usage = TokenUsageResult()
+    if run_multi_turn and multi_turn_samples:
+        console.print("\n  [dim]Running multi-turn evaluation...[/dim]")
+        evaluator_input = multi_turn_samples_to_evaluator_input(multi_turn_samples)
+        if evaluator_input:
+            multi_turn_scores, mt_token_usage = evaluator.evaluate_multi_turn(
+                conversations=evaluator_input,
+                metric_names=config.evaluation.multi_turn.metrics,
+            )
+            _print_scores("Multi-Turn RAGAS Scores", multi_turn_scores)
+
+    # ── 6. Generate reports ─────────────────────────────────────────────
+    console.print("\n[bold]6/6  Generating reports...[/bold]")
+
+    latency_stats = _compute_latency_stats(benchmark_samples)
+
+    combined_token_usage = TokenUsageResult(
+        input_tokens=token_usage.input_tokens + mt_token_usage.input_tokens,
+        output_tokens=token_usage.output_tokens + mt_token_usage.output_tokens,
+        total_tokens=token_usage.total_tokens + mt_token_usage.total_tokens,
+        actual_cost_usd=round(
+            token_usage.actual_cost_usd + mt_token_usage.actual_cost_usd, 6
+        ),
+        model=token_usage.model or mt_token_usage.model,
+    )
+
+    result = BenchmarkResult(
+        run_id=run_id,
+        timestamp=datetime.now(timezone.utc).isoformat(),
+        benchmark_name=config.name,
+        config_snapshot=config.model_dump(exclude={"hydradb": {"api_key"}}),
+        samples=benchmark_samples,
+        multi_turn_samples=multi_turn_samples,
+        ragas_scores=aggregate_scores,
+        multi_turn_scores=multi_turn_scores,
+        per_sample_scores=per_sample_scores,
+        latency_stats=latency_stats,
+        token_usage=combined_token_usage,
+        error_count=error_count,
+        evaluated_count=len(per_sample_scores),
+    )
+
+    reporter = BenchmarkReporter(config.reporting)
+    output_paths = reporter.generate(result, output_dir=config.output_dir)
+    for path in output_paths:
+        console.print(f"  [blue]->[/blue] {path}")
+
+    checkpoint.delete()
+
+    # ── 6b. Slack notification ──────────────────────────────────────────
+    if config.slack.enabled:
+        console.print("\n[bold]6b/6  Sending reports to Slack...[/bold]")
+        try:
+            await slack_send(config.slack, result, output_paths)
+            console.print("  [green]Sent to Slack[/green]")
+        except Exception as e:
+            console.print(f"  [red]Slack notification failed:[/red] {e}")
+
+    return 0
+
+
 async def _main_async(args: argparse.Namespace) -> int:
     console.print(Panel.fit(
         "[bold cyan]HydraDB Benchmark Framework[/bold cyan]\n"
@@ -183,15 +378,24 @@ async def _main_async(args: argparse.Namespace) -> int:
     if args.hf_mode:
         config.hf_dataset.mode = args.hf_mode
 
-    run_id = args.run_id or config.run_id or str(uuid.uuid4())[:8]
+    run_id = args.resume or args.run_id or config.run_id or str(uuid.uuid4())[:8]
+    if args.resume:
+        console.print(f"  [yellow]Resuming run:[/yellow] [bold]{run_id}[/bold]")
     console.print(f"  Run ID     : [bold]{run_id}[/bold]")
     console.print(f"  Tenant     : [bold]{config.hydradb.tenant_id}[/bold]")
     console.print(f"  Sub-tenant : [bold]{config.hydradb.sub_tenant_id or '(default)'}[/bold]")
-    console.print(f"  Endpoint   : [bold]{config.evaluation.search_endpoint}[/bold]")
+    endpoint_label = config.evaluation.search_endpoint
+    if config.evaluation.search_endpoint == "full_recall":
+        endpoint_label += f" ({config.evaluation.retrieve_mode} mode)"
+    console.print(f"  Endpoint   : [bold]{endpoint_label}[/bold]")
     console.print(f"  Metrics    : {', '.join(config.evaluation.metrics)}")
     if config.evaluation.aspect_critics:
         console.print(
             f"  Aspects    : {', '.join(a.name for a in config.evaluation.aspect_critics)}"
+        )
+    if config.evaluation.scored_criteria:
+        console.print(
+            f"  Scored     : {', '.join(s.name for s in config.evaluation.scored_criteria)}"
         )
     if config.hf_dataset.enabled:
         console.print(
@@ -251,163 +455,48 @@ async def _main_async(args: argparse.Namespace) -> int:
     else:
         console.print("\n[bold]2/6  Testset generation skipped[/bold] [dim](--generate-testset to enable)[/dim]")
 
-    async with HydraDBClient(config.hydradb) as client:
-
-        # ── 3. Ingest documents ─────────────────────────────────────────
-        console.print("\n[bold]3/6  Document ingestion...[/bold]")
-        if args.reset_tenant:
-            console.print("  [yellow]--reset-tenant:[/yellow] deleting all existing tenant data...")
-            try:
-                result = await client.delete_tenant()
-                console.print(f"  [green]Tenant deleted.[/green] ({result.get('status', 'ok')})")
-                # Recreate tenant before uploading
-                await client.create_tenant()
-                console.print("  [green]Tenant recreated.[/green]")
-            except Exception as e:
-                console.print(f"  [red]Tenant deletion failed:[/red] {e}")
+    # ── 3–6. Run dataset pipeline (single or multi-dataset) ─────────────
+    if config.datasets:
+        datasets_to_run = config.datasets
+        if args.dataset:
+            datasets_to_run = [
+                d for d in config.datasets
+                if d.name.lower() == args.dataset.lower()
+                or d.sub_tenant_id.lower() == args.dataset.lower()
+            ]
+            if not datasets_to_run:
+                names = ", ".join(d.name for d in config.datasets)
+                console.print(f"[red]--dataset {args.dataset!r} not found. Available: {names}[/red]")
                 return 1
 
-        if args.skip_ingestion:
-            console.print("  [yellow]Skipped[/yellow] (--skip-ingestion)")
-        else:
-            orchestrator = IngestionOrchestrator(client, config.ingestion, config.hydradb)
-            ingestion_report = await orchestrator.run()
-            console.print(f"  {ingestion_report.summary()}")
-
-        # ── 4. Run single-turn queries ──────────────────────────────────
-        console.print("\n[bold]4/6  Running single-turn benchmark queries...[/bold]")
-        runner = BenchmarkRunner(client, config.evaluation)
-
-        # HF Q&A mode: load from HuggingFace instead of local JSON
-        if config.hf_dataset.enabled and config.hf_dataset.mode == "qa":
-            hf = config.hf_dataset
-            if not hf.repo_id:
-                console.print("[red]hf_dataset.repo_id is required in qa mode.[/red]")
-                return 1
-            try:
-                test_samples = load_qa_dataset(
-                    repo_id=hf.repo_id,
-                    split=hf.split,
-                    config_name=hf.config_name or None,
-                    column_map=hf.column_map or None,
-                    max_samples=hf.max_samples,
-                    id_prefix=hf.id_prefix,
-                    save_path=hf.save_qa_path,
-                )
-            except Exception as e:
-                console.print(f"  [red]HF Q&A load failed:[/red] {e}")
-                return 1
-        else:
-            try:
-                test_samples = runner.load_test_dataset(config.evaluation.test_dataset_path)
-            except FileNotFoundError as e:
-                console.print(f"  [red]Dataset error:[/red] {e}")
-                return 1
-
-        benchmark_samples = await runner.run(test_samples)
-        error_count = sum(1 for s in benchmark_samples if s.error)
         console.print(
-            f"  Completed: [bold]{len(benchmark_samples)}[/bold] queries "
-            f"([red]{error_count}[/red] errors)"
+            f"\n[bold cyan]Multi-dataset mode:[/bold cyan] "
+            f"{len(datasets_to_run)} dataset(s) — "
+            + ", ".join(f"[bold]{d.name}[/bold]" for d in datasets_to_run)
         )
-
-        # ── 4b. (Optional) Multi-turn queries ──────────────────────────
-        multi_turn_samples = []
-        run_multi_turn = args.multi_turn or config.evaluation.multi_turn.enabled
-        if run_multi_turn:
-            console.print("\n[bold]4b/6  Running multi-turn conversations...[/bold]")
-            try:
-                conversations = load_multi_turn_dataset(
-                    config.evaluation.multi_turn.dataset_path
-                )
-                mt_runner = MultiTurnRunner(client, config.evaluation)
-                multi_turn_samples = await mt_runner.run(conversations)
-                mt_errors = sum(1 for s in multi_turn_samples if s.error)
-                console.print(
-                    f"  Completed: [bold]{len(multi_turn_samples)}[/bold] conversations "
-                    f"([red]{mt_errors}[/red] errors)"
-                )
-            except FileNotFoundError as e:
-                console.print(f"  [yellow]Multi-turn dataset not found:[/yellow] {e}")
-
-    # ── 5. RAGAS evaluation ─────────────────────────────────────────────
-    console.print("\n[bold]5/6  Running RAGAS evaluation...[/bold]")
-    console.print("  [dim]Calls OpenAI for LLM-based metrics — see cost section in HTML report[/dim]")
-
-    evaluator = RAGASEvaluator(config.ragas)
-
-    # Optional: save metric prompts for inspection
-    if args.save_prompts:
-        evaluator.save_prompts(config.evaluation.metrics, config.output_dir)
-        console.print(f"  [blue]Prompts saved to {config.output_dir}/prompts/[/blue]")
-
-    # Single-turn evaluation
-    aggregate_scores, per_sample_scores, token_usage = evaluator.evaluate(
-        samples=benchmark_samples,
-        metric_names=config.evaluation.metrics,
-        aspect_configs=config.evaluation.aspect_critics,
-    )
-    _print_scores("Single-Turn RAGAS Scores", aggregate_scores)
-
-    # Print cost info
-    if token_usage.total_tokens > 0:
-        console.print(
-            f"  Tokens: [bold]{token_usage.total_tokens:,}[/bold] "
-            f"(in={token_usage.input_tokens:,}, out={token_usage.output_tokens:,}) "
-            f"Est. cost: [bold]${token_usage.estimated_cost_usd:.4f}[/bold]"
-        )
-
-    # Multi-turn evaluation
-    multi_turn_scores: dict[str, float] = {}
-    mt_token_usage = TokenUsageResult()
-    if run_multi_turn and multi_turn_samples:
-        console.print("\n  [dim]Running multi-turn evaluation...[/dim]")
-        evaluator_input = multi_turn_samples_to_evaluator_input(multi_turn_samples)
-        if evaluator_input:
-            multi_turn_scores, mt_token_usage = evaluator.evaluate_multi_turn(
-                conversations=evaluator_input,
-                metric_names=config.evaluation.multi_turn.metrics,
+        for i, dataset in enumerate(datasets_to_run, 1):
+            console.print(
+                f"\n[bold]---  Dataset {i}/{len(config.datasets)}: "
+                f"{dataset.name}  ---[/bold]"
             )
-            _print_scores("Multi-Turn RAGAS Scores", multi_turn_scores)
+            # Override per-dataset fields on a copy of the config
+            dataset_config = config.model_copy(deep=True)
+            dataset_config.name = f"{config.name} — {dataset.name}"
+            dataset_config.hydradb.sub_tenant_id = dataset.sub_tenant_id
+            dataset_config.ingestion.documents_dir = dataset.documents_dir
+            dataset_config.evaluation.test_dataset_path = dataset.test_dataset_path
 
-    # ── 6. Generate reports ─────────────────────────────────────────────
-    console.print("\n[bold]6/6  Generating reports...[/bold]")
+            rc = await _run_dataset_pipeline(dataset_config, args, run_id, dataset_name=dataset.name)
+            if rc != 0:
+                console.print(f"  [red]Dataset {dataset.name} failed — continuing...[/red]")
 
-    latency_stats = _compute_latency_stats(benchmark_samples)
+        console.print("\n[bold green]All datasets complete![/bold green]")
+    else:
+        rc = await _run_dataset_pipeline(config, args, run_id)
+        if rc != 0:
+            return rc
+        console.print("\n[bold green]Benchmark complete![/bold green]")
 
-    # Merge token usage from single-turn + multi-turn
-    combined_token_usage = TokenUsageResult(
-        input_tokens=token_usage.input_tokens + mt_token_usage.input_tokens,
-        output_tokens=token_usage.output_tokens + mt_token_usage.output_tokens,
-        total_tokens=token_usage.total_tokens + mt_token_usage.total_tokens,
-        estimated_cost_usd=round(
-            token_usage.estimated_cost_usd + mt_token_usage.estimated_cost_usd, 6
-        ),
-        model=token_usage.model or mt_token_usage.model,
-    )
-
-    result = BenchmarkResult(
-        run_id=run_id,
-        timestamp=datetime.now(timezone.utc).isoformat(),
-        benchmark_name=config.name,
-        config_snapshot=config.model_dump(exclude={"hydradb": {"api_key"}}),
-        samples=benchmark_samples,
-        multi_turn_samples=multi_turn_samples,
-        ragas_scores=aggregate_scores,
-        multi_turn_scores=multi_turn_scores,
-        per_sample_scores=per_sample_scores,
-        latency_stats=latency_stats,
-        token_usage=combined_token_usage,
-        error_count=error_count,
-        evaluated_count=len(per_sample_scores),
-    )
-
-    reporter = BenchmarkReporter(config.reporting)
-    output_paths = reporter.generate(result, output_dir=config.output_dir)
-    for path in output_paths:
-        console.print(f"  [blue]->[/blue] {path}")
-
-    console.print("\n[bold green]Benchmark complete![/bold green]")
     return 0
 
 
@@ -474,6 +563,19 @@ def main() -> None:
     parser.add_argument(
         "--hf-split", default=None, metavar="SPLIT",
         help="HuggingFace dataset split to use (default: auto-detect or 'train')",
+    )
+    parser.add_argument(
+        "--dataset", default=None, metavar="NAME",
+        help="Run only one dataset from a multi-dataset config (match by name or sub_tenant_id). "
+             "Example: --dataset PrivacyQA",
+    )
+    parser.add_argument(
+        "--resume", default=None, metavar="RUN_ID",
+        help="Resume an interrupted run by its run ID (skips already-completed samples)",
+    )
+    parser.add_argument(
+        "--limit", type=int, default=None, metavar="N",
+        help="Run only the first N samples (useful for quick smoke tests)",
     )
     parser.add_argument(
         "-v", "--verbose", action="store_true",

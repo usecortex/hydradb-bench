@@ -19,20 +19,31 @@ logger = logging.getLogger(__name__)
 
 def _is_processing_complete(verify_response: dict) -> bool:
     """Interpret verify_processing response to determine if indexing is done."""
-    # Try common status field patterns
+    _DONE = ("complete", "completed", "done", "indexed", "success", "graph_creation")
+
+    # HydraDB BatchProcessingStatus: {"statuses": [{indexing_status, ...}]}
+    statuses = verify_response.get("statuses")
+    if isinstance(statuses, list) and statuses:
+        return all(
+            s.get("indexing_status", "").lower() in _DONE
+            for s in statuses
+            if isinstance(s, dict)
+        )
+
+    # Fallback: top-level status string
     status = verify_response.get("status", "")
-    if isinstance(status, str):
-        return status.lower() in ("complete", "completed", "done", "indexed", "success")
+    if isinstance(status, str) and status:
+        return status.lower() in _DONE
 
     all_processed = verify_response.get("all_processed")
     if isinstance(all_processed, bool):
         return all_processed
 
-    # If response has a list of file statuses
+    # Fallback: other list shapes
     files = verify_response.get("files", verify_response.get("results", []))
     if isinstance(files, list) and files:
         return all(
-            f.get("status", "").lower() in ("complete", "indexed", "done", "success")
+            f.get("status", "").lower() in _DONE
             for f in files
             if isinstance(f, dict)
         )
@@ -97,8 +108,13 @@ class IngestionOrchestrator:
                 task = progress.add_task(f"Uploading {file_path.name}", total=None)
                 try:
                     result = await self.client.upload_knowledge(file_path)
+                    results_list = result.get("results", [])
+                    first = results_list[0] if results_list else {}
                     file_id = (
-                        result.get("file_id")
+                        first.get("source_id")
+                        or first.get("file_id")
+                        or first.get("id")
+                        or result.get("file_id")
                         or result.get("id")
                         or result.get("document_id")
                         or ""
