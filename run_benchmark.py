@@ -1,590 +1,692 @@
 #!/usr/bin/env python3
-"""
-HydraDB Benchmark — full RAGAS feature coverage.
+"""HydraDB + Supermemory DeepEval Benchmark — main runner.
 
-Usage:
-    python run_benchmark.py                                       # standard run
-    python run_benchmark.py --skip-ingestion                      # skip doc upload
-    python run_benchmark.py --generate-testset                    # auto-gen Q&A from docs
-    python run_benchmark.py --multi-turn                          # also run multi-turn eval
-    python run_benchmark.py --save-prompts                        # dump metric prompts
-    python run_benchmark.py --config my_config.yaml               # custom config path
-    python run_benchmark.py --hf-dataset explodinggradients/amnesty_qa          # HF Q&A dataset
-    python run_benchmark.py --hf-dataset isaacus/legal-rag-bench --hf-mode corpus  # HF corpus
-    python run_benchmark.py --print-hf-info explodinggradients/amnesty_qa       # inspect dataset
-    python run_benchmark.py --extract-qa-corpus PatronusAI/financebench ./data/corpus --group-by doc_name
-    python run_benchmark.py --extract-qa-corpus explodinggradients/amnesty_qa ./data/corpus
+Usage examples:
+  python run_benchmark.py                                  # HydraDB only (default)
+  python run_benchmark.py --provider supermemory           # Supermemory only
+  python run_benchmark.py --provider both                  # Run both, compare
+  python run_benchmark.py --skip-ingestion                 # Skip upload phase
+  python run_benchmark.py --ingest-only                   # Upload then exit
+  python run_benchmark.py --reset-tenant                  # Wipe HydraDB tenant first
+  python run_benchmark.py --limit 20                      # Only 20 test samples
 """
-
 from __future__ import annotations
 
 import argparse
 import asyncio
-import logging
+import json
+import os
 import sys
+import time
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
+from statistics import mean, median
 
 from rich.console import Console
 from rich.panel import Panel
+from rich.progress import Progress, SpinnerColumn, TextColumn, TimeElapsedColumn
 from rich.table import Table
 
+# ---------------------------------------------------------------------------
+# Allow running from the project root without installing the package
+# ---------------------------------------------------------------------------
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from hydradb_bench.checkpoint import CheckpointManager
-from hydradb_bench.client import HydraDBClient
-from hydradb_bench.telegram_notifier import send_results as telegram_send
-from hydradb_bench.config import load_config
-from hydradb_bench.evaluator import RAGASEvaluator
-from hydradb_bench.hf_loader import (
-    extract_qa_corpus,
-    load_corpus_as_documents,
-    load_qa_dataset,
-    print_dataset_info,
+from hydradb_deepeval.answer_generator import generate_answer
+from hydradb_deepeval.client import HydraDBClient
+from hydradb_deepeval.config import load_config
+from hydradb_deepeval.context_builder import build_context_string
+from hydradb_deepeval.evaluator import DeepEvalEvaluator
+from hydradb_deepeval.ingestion import DocumentIngester
+from hydradb_deepeval.models import (
+    BenchmarkResult,
+    EvaluationConfig,
+    QueryResult,
+    SampleScore,
+    SupermemoryConfig,
+    TestSample,
 )
-from hydradb_bench.ingestion import IngestionOrchestrator
-from hydradb_bench.models import BenchmarkConfig, BenchmarkResult, DatasetEntry, TokenUsageResult
-from hydradb_bench.multi_turn import (
-    MultiTurnRunner,
-    load_multi_turn_dataset,
-    multi_turn_samples_to_evaluator_input,
-)
-from hydradb_bench.reporter import BenchmarkReporter, _compute_latency_stats
-from hydradb_bench.runner import BenchmarkRunner
-from hydradb_bench.testset_generator import TestsetGeneratorWrapper
+from hydradb_deepeval.reporter import BenchmarkReporter
+from hydradb_deepeval.supermemory_client import SupermemoryClient, SupermemoryIngester
 
 console = Console()
 
 
-def _setup_logging(verbose: bool) -> None:
-    level = logging.DEBUG if verbose else logging.INFO
-    logging.basicConfig(
-        level=level,
-        format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
-        datefmt="%H:%M:%S",
-    )
-    if not verbose:
-        for name in ("httpx", "httpcore", "openai", "langchain", "urllib3"):
-            logging.getLogger(name).setLevel(logging.WARNING)
+# ---------------------------------------------------------------------------
+# Token counting (tiktoken, fallback to word count)
+# ---------------------------------------------------------------------------
 
-
-def _print_scores(title: str, scores: dict[str, float]) -> None:
-    if not scores:
-        return
-    table = Table(title=title, show_header=True)
-    table.add_column("Metric", style="bold")
-    table.add_column("Score", justify="right")
-    table.add_column("Rating")
-    for metric, score in scores.items():
-        pct = f"{score:.1%}"
-        if score >= 0.8:
-            rating = "[green]Good[/green]"
-        elif score >= 0.5:
-            rating = "[yellow]Fair[/yellow]"
-        else:
-            rating = "[red]Poor[/red]"
-        table.add_row(metric.replace("_", " ").title(), pct, rating)
-    console.print(table)
-
-
-_LOCAL_EMBEDDING_PROVIDERS = {"huggingface", "ollama"}
-
-
-def _validate_llm_api_key(ragas_config) -> str | None:
-    """
-    Validate API key(s) for the configured LLM and embeddings providers.
-    Makes a cheap live call (models.list) — no tokens consumed.
-    Returns an error string on failure, None on success.
-    Local embedding providers (huggingface, ollama) don't need an API key.
-    """
-    import os
+def _count_tokens(text: str) -> int:
     try:
-        from openai import OpenAI, AuthenticationError, APIConnectionError
-    except ImportError:
-        return None  # openai not installed — skip validation
-
-    def _check(provider: str, label: str) -> str | None:
-        if provider == "openrouter":
-            key_name, base_url = "OPENROUTER_API_KEY", "https://openrouter.ai/api/v1"
-        else:
-            key_name, base_url = "OPENAI_API_KEY", None
-
-        api_key = os.environ.get(key_name, "")
-        if not api_key or api_key.startswith("your-") or api_key == key_name:
-            return f"{label}: {key_name} is not set or is a placeholder value."
-        try:
-            kwargs = {"api_key": api_key}
-            if base_url:
-                kwargs["base_url"] = base_url
-            OpenAI(**kwargs).models.list()
-            return None
-        except AuthenticationError as e:
-            return f"{label}: Invalid {key_name} — {e}"
-        except APIConnectionError as e:
-            return f"{label}: Cannot reach {provider} API — {e}"
-        except Exception as e:
-            return f"{label}: API key check failed ({type(e).__name__}) — {e}"
-
-    # Check LLM key
-    err = _check(ragas_config.llm_provider, "LLM")
-    if err:
-        return err
-
-    # Check embeddings key only when it requires a remote API
-    emb_provider = getattr(ragas_config, "embeddings_provider", "openai")
-    if emb_provider not in _LOCAL_EMBEDDING_PROVIDERS:
-        err = _check(emb_provider, "Embeddings")
-        if err:
-            return err
-
-    return None
+        import tiktoken
+        enc = tiktoken.get_encoding("cl100k_base")
+        return len(enc.encode(text))
+    except Exception:
+        return len(text.split())
 
 
-async def _run_dataset_pipeline(
-    config: BenchmarkConfig,
-    args: argparse.Namespace,
-    run_id: str,
-    dataset_name: str | None = None,
-) -> int:
-    """Run the full ingest → query → evaluate → report pipeline for one dataset."""
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
 
-    _dataset_label = dataset_name or config.name
-    checkpoint = CheckpointManager(run_id, _dataset_label)
-    if checkpoint.completed_count:
-        console.print(
-            f"  [yellow]Resume mode:[/yellow] {checkpoint.completed_count} sample(s) already done "
-            f"for dataset '{_dataset_label}' (run {run_id})"
-        )
-
-    async with HydraDBClient(config.hydradb) as client:
-
-        # ── 3. Ingest documents ─────────────────────────────────────────
-        console.print("\n[bold]3/6  Document ingestion...[/bold]")
-        if args.reset_tenant:
-            console.print("  [yellow]--reset-tenant:[/yellow] deleting all existing tenant data...")
-            try:
-                result = await client.delete_tenant()
-                console.print(f"  [green]Tenant deleted.[/green] ({result.get('status', 'ok')})")
-                await client.create_tenant()
-                console.print("  [green]Tenant recreated.[/green]")
-            except Exception as e:
-                console.print(f"  [red]Tenant deletion failed:[/red] {e}")
-                return 1
-
-        if args.skip_ingestion:
-            console.print("  [yellow]Skipped[/yellow] (--skip-ingestion)")
-        else:
-            orchestrator = IngestionOrchestrator(client, config.ingestion, config.hydradb)
-            ingestion_report = await orchestrator.run()
-            console.print(f"  {ingestion_report.summary()}")
-
-        # ── 4. Run single-turn queries ──────────────────────────────────
-        console.print("\n[bold]4/6  Running single-turn benchmark queries...[/bold]")
-        runner = BenchmarkRunner(client, config.evaluation)
-
-        if config.hf_dataset.enabled and config.hf_dataset.mode == "qa":
-            hf = config.hf_dataset
-            if not hf.repo_id:
-                console.print("[red]hf_dataset.repo_id is required in qa mode.[/red]")
-                return 1
-            try:
-                test_samples = load_qa_dataset(
-                    repo_id=hf.repo_id,
-                    split=hf.split,
-                    config_name=hf.config_name or None,
-                    column_map=hf.column_map or None,
-                    max_samples=hf.max_samples,
-                    id_prefix=hf.id_prefix,
-                    save_path=hf.save_qa_path,
-                )
-            except Exception as e:
-                console.print(f"  [red]HF Q&A load failed:[/red] {e}")
-                return 1
-        else:
-            try:
-                test_samples = runner.load_test_dataset(config.evaluation.test_dataset_path)
-            except FileNotFoundError as e:
-                console.print(f"  [red]Dataset error:[/red] {e}")
-                return 1
-
-        if args.limit:
-            test_samples = test_samples[: args.limit]
-            console.print(f"  [yellow]--limit {args.limit}:[/yellow] running first {len(test_samples)} sample(s)")
-
-        new_samples = await runner.run(test_samples, checkpoint=checkpoint)
-        restored_samples = checkpoint.restore(test_samples)
-        # Merge: restored (already-done) + new results, preserving original order
-        new_by_id = {s.test_sample.id: s for s in new_samples}
-        benchmark_samples = [
-            new_by_id.get(ts.id) or next((r for r in restored_samples if r.test_sample.id == ts.id), None)
-            for ts in test_samples
-        ]
-        benchmark_samples = [s for s in benchmark_samples if s is not None]
-        error_count = sum(1 for s in benchmark_samples if s.error)
-        console.print(
-            f"  Completed: [bold]{len(benchmark_samples)}[/bold] queries "
-            f"([red]{error_count}[/red] errors)"
-        )
-
-        # ── 4b. (Optional) Multi-turn queries ──────────────────────────
-        multi_turn_samples = []
-        run_multi_turn = args.multi_turn or config.evaluation.multi_turn.enabled
-        if run_multi_turn:
-            console.print("\n[bold]4b/6  Running multi-turn conversations...[/bold]")
-            try:
-                conversations = load_multi_turn_dataset(
-                    config.evaluation.multi_turn.dataset_path
-                )
-                mt_runner = MultiTurnRunner(client, config.evaluation)
-                multi_turn_samples = await mt_runner.run(conversations)
-                mt_errors = sum(1 for s in multi_turn_samples if s.error)
-                console.print(
-                    f"  Completed: [bold]{len(multi_turn_samples)}[/bold] conversations "
-                    f"([red]{mt_errors}[/red] errors)"
-                )
-            except FileNotFoundError as e:
-                console.print(f"  [yellow]Multi-turn dataset not found:[/yellow] {e}")
-
-    # ── 5. RAGAS evaluation ─────────────────────────────────────────────
-    console.print("\n[bold]5/6  Running RAGAS evaluation...[/bold]")
-    console.print("  [dim]Calls OpenAI for LLM-based metrics — see cost section in HTML report[/dim]")
-
-    evaluator = RAGASEvaluator(config.ragas)
-
-    if args.save_prompts:
-        evaluator.save_prompts(config.evaluation.metrics, config.output_dir)
-        console.print(f"  [blue]Prompts saved to {config.output_dir}/prompts/[/blue]")
-
-    aggregate_scores, per_sample_scores, token_usage = evaluator.evaluate(
-        samples=benchmark_samples,
-        metric_names=config.evaluation.metrics,
-        aspect_configs=config.evaluation.aspect_critics,
-        scored_criteria_configs=config.evaluation.scored_criteria,
-        include_reasons=config.reporting.include_reasons,
+def build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="run_benchmark",
+        description="HydraDB / Supermemory DeepEval Benchmark Runner",
     )
-    _print_scores("Single-Turn RAGAS Scores", aggregate_scores)
-
-    if token_usage.total_tokens > 0:
-        console.print(
-            f"  Tokens: [bold]{token_usage.total_tokens:,}[/bold] "
-            f"(in={token_usage.input_tokens:,}, out={token_usage.output_tokens:,}) "
-            f"Cost (judge LLM): [bold]${token_usage.actual_cost_usd:.4f}[/bold]"
-        )
-
-    multi_turn_scores: dict[str, float] = {}
-    mt_token_usage = TokenUsageResult()
-    if run_multi_turn and multi_turn_samples:
-        console.print("\n  [dim]Running multi-turn evaluation...[/dim]")
-        evaluator_input = multi_turn_samples_to_evaluator_input(multi_turn_samples)
-        if evaluator_input:
-            multi_turn_scores, mt_token_usage = evaluator.evaluate_multi_turn(
-                conversations=evaluator_input,
-                metric_names=config.evaluation.multi_turn.metrics,
-            )
-            _print_scores("Multi-Turn RAGAS Scores", multi_turn_scores)
-
-    # ── 6. Generate reports ─────────────────────────────────────────────
-    console.print("\n[bold]6/6  Generating reports...[/bold]")
-
-    latency_stats = _compute_latency_stats(benchmark_samples)
-
-    combined_token_usage = TokenUsageResult(
-        input_tokens=token_usage.input_tokens + mt_token_usage.input_tokens,
-        output_tokens=token_usage.output_tokens + mt_token_usage.output_tokens,
-        total_tokens=token_usage.total_tokens + mt_token_usage.total_tokens,
-        actual_cost_usd=round(
-            token_usage.actual_cost_usd + mt_token_usage.actual_cost_usd, 6
-        ),
-        model=token_usage.model or mt_token_usage.model,
-    )
-
-    result = BenchmarkResult(
-        run_id=run_id,
-        timestamp=datetime.now(timezone.utc).isoformat(),
-        benchmark_name=config.name,
-        config_snapshot=config.model_dump(exclude={"hydradb": {"api_key"}}),
-        samples=benchmark_samples,
-        multi_turn_samples=multi_turn_samples,
-        ragas_scores=aggregate_scores,
-        multi_turn_scores=multi_turn_scores,
-        per_sample_scores=per_sample_scores,
-        latency_stats=latency_stats,
-        token_usage=combined_token_usage,
-        error_count=error_count,
-        evaluated_count=len(per_sample_scores),
-    )
-
-    reporter = BenchmarkReporter(config.reporting)
-    output_paths = reporter.generate(result, output_dir=config.output_dir)
-    for path in output_paths:
-        console.print(f"  [blue]->[/blue] {path}")
-
-    checkpoint.delete()
-
-    # ── 6b. Telegram notification ────────────────────────────────────────
-    if config.telegram.enabled:
-        console.print("\n[bold]6b/6  Sending reports to Telegram...[/bold]")
-        try:
-            await telegram_send(config.telegram, result, output_paths)
-            console.print("  [green]Sent to Telegram[/green]")
-        except Exception as e:
-            console.print(f"  [red]Telegram notification failed:[/red] {e}")
-
-    return 0
-
-
-async def _main_async(args: argparse.Namespace) -> int:
-    console.print(Panel.fit(
-        "[bold cyan]HydraDB Benchmark Framework[/bold cyan]\n"
-        "[dim]Full RAGAS feature coverage — v0.4.x[/dim]",
-        border_style="cyan",
-    ))
-
-    # ── 0. Fast paths: no config/API keys needed ────────────────────────
-    if args.print_hf_info:
-        print_dataset_info(args.print_hf_info, split="test")
-        return 0
-
-    if args.extract_qa_corpus:
-        repo_id, output_dir = args.extract_qa_corpus
-        extract_qa_corpus(
-            repo_id=repo_id,
-            split=args.hf_split or "train",
-            context_column=args.context_column,
-            group_by_column=args.group_by,
-            output_dir=output_dir,
-        )
-        console.print(
-            f"\n[bold]Next steps:[/bold]\n"
-            f"  1. Set ingestion.documents_dir: \"{output_dir}\" in your config YAML\n"
-            f"  2. Run: python run_benchmark.py --config config/benchmark.yaml\n"
-            f"     (without --skip-ingestion so docs are uploaded first)"
-        )
-        return 0
-
-    # ── 1. Load config ──────────────────────────────────────────────────
-    console.print("\n[bold]1/6  Loading configuration...[/bold]")
-    try:
-        config = load_config(args.config)
-    except (FileNotFoundError, ValueError) as e:
-        console.print(f"[red]Configuration error:[/red] {e}")
-        return 1
-
-    # CLI flags override config
-    if args.hf_dataset:
-        config.hf_dataset.enabled = True
-        config.hf_dataset.repo_id = args.hf_dataset
-    if args.hf_mode:
-        config.hf_dataset.mode = args.hf_mode
-
-    run_id = args.resume or args.run_id or config.run_id or str(uuid.uuid4())[:8]
-    if args.resume:
-        console.print(f"  [yellow]Resuming run:[/yellow] [bold]{run_id}[/bold]")
-    console.print(f"  Run ID     : [bold]{run_id}[/bold]")
-    console.print(f"  Tenant     : [bold]{config.hydradb.tenant_id}[/bold]")
-    console.print(f"  Sub-tenant : [bold]{config.hydradb.sub_tenant_id or '(default)'}[/bold]")
-    endpoint_label = config.evaluation.search_endpoint
-    if config.evaluation.search_endpoint == "full_recall":
-        endpoint_label += f" ({config.evaluation.retrieve_mode} mode)"
-    console.print(f"  Endpoint   : [bold]{endpoint_label}[/bold]")
-    console.print(f"  Metrics    : {', '.join(config.evaluation.metrics)}")
-    if config.evaluation.aspect_critics:
-        console.print(
-            f"  Aspects    : {', '.join(a.name for a in config.evaluation.aspect_critics)}"
-        )
-    if config.evaluation.scored_criteria:
-        console.print(
-            f"  Scored     : {', '.join(s.name for s in config.evaluation.scored_criteria)}"
-        )
-    if config.hf_dataset.enabled:
-        console.print(
-            f"  HF Dataset : [bold]{config.hf_dataset.repo_id}[/bold] "
-            f"(mode={config.hf_dataset.mode}, split={config.hf_dataset.split})"
-        )
-
-    # ── 1b. Validate LLM API key before spending time on ingestion/queries ─
-    console.print("\n[bold]1b/6  Validating LLM API key...[/bold]")
-    key_error = _validate_llm_api_key(config.ragas)
-    if key_error:
-        console.print(f"[red]API key validation failed:[/red] {key_error}")
-        console.print(
-            "[yellow]Fix your API key in .env before running the benchmark.[/yellow]\n"
-            "  OpenAI:     OPENAI_API_KEY=sk-...\n"
-            "  OpenRouter: OPENROUTER_API_KEY=sk-or-..."
-        )
-        return 1
-    console.print("  [green]API key OK[/green]")
-
-    # ── 1c. HuggingFace corpus — download docs, override ingestion dir ───
-    if config.hf_dataset.enabled and config.hf_dataset.mode == "corpus":
-        hf = config.hf_dataset
-        if not hf.repo_id:
-            console.print("[red]hf_dataset.repo_id is required in corpus mode.[/red]")
-            return 1
-        console.print(f"\n[bold]HF Corpus:[/bold] downloading {hf.repo_id!r} -> {hf.corpus_output_dir}")
-        try:
-            load_corpus_as_documents(
-                repo_id=hf.repo_id,
-                split=hf.split,
-                text_column=hf.text_column,
-                title_column=hf.title_column,
-                max_docs=hf.max_docs,
-                output_dir=hf.corpus_output_dir,
-            )
-        except Exception as e:
-            console.print(f"[red]HF corpus download failed:[/red] {e}")
-            return 1
-        # Override ingestion dir so HydraDB uploads these docs
-        config.ingestion.documents_dir = hf.corpus_output_dir
-
-    # ── 2. (Optional) Generate testset from documents ───────────────────
-    run_testset_gen = args.generate_testset or config.testset_generation.enabled
-    if run_testset_gen:
-        console.print("\n[bold]2/6  Generating testset from documents...[/bold]")
-        gen = TestsetGeneratorWrapper(config.ragas, config.testset_generation)
-        try:
-            gen.generate(
-                documents_dir=config.ingestion.documents_dir,
-                extensions=config.ingestion.file_extensions,
-                save=True,
-            )
-        except Exception as e:
-            console.print(f"  [red]Testset generation failed:[/red] {e}")
-            console.print("  [yellow]Falling back to existing test_dataset.json[/yellow]")
-    else:
-        console.print("\n[bold]2/6  Testset generation skipped[/bold] [dim](--generate-testset to enable)[/dim]")
-
-    # ── 3–6. Run dataset pipeline (single or multi-dataset) ─────────────
-    if config.datasets:
-        datasets_to_run = config.datasets
-        if args.dataset:
-            datasets_to_run = [
-                d for d in config.datasets
-                if d.name.lower() == args.dataset.lower()
-                or d.sub_tenant_id.lower() == args.dataset.lower()
-            ]
-            if not datasets_to_run:
-                names = ", ".join(d.name for d in config.datasets)
-                console.print(f"[red]--dataset {args.dataset!r} not found. Available: {names}[/red]")
-                return 1
-
-        console.print(
-            f"\n[bold cyan]Multi-dataset mode:[/bold cyan] "
-            f"{len(datasets_to_run)} dataset(s) — "
-            + ", ".join(f"[bold]{d.name}[/bold]" for d in datasets_to_run)
-        )
-        for i, dataset in enumerate(datasets_to_run, 1):
-            console.print(
-                f"\n[bold]---  Dataset {i}/{len(config.datasets)}: "
-                f"{dataset.name}  ---[/bold]"
-            )
-            # Override per-dataset fields on a copy of the config
-            dataset_config = config.model_copy(deep=True)
-            dataset_config.name = f"{config.name} — {dataset.name}"
-            dataset_config.hydradb.sub_tenant_id = dataset.sub_tenant_id
-            dataset_config.ingestion.documents_dir = dataset.documents_dir
-            dataset_config.evaluation.test_dataset_path = dataset.test_dataset_path
-
-            rc = await _run_dataset_pipeline(dataset_config, args, run_id, dataset_name=dataset.name)
-            if rc != 0:
-                console.print(f"  [red]Dataset {dataset.name} failed — continuing...[/red]")
-
-        console.print("\n[bold green]All datasets complete![/bold green]")
-    else:
-        rc = await _run_dataset_pipeline(config, args, run_id)
-        if rc != 0:
-            return rc
-        console.print("\n[bold green]Benchmark complete![/bold green]")
-
-    return 0
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="HydraDB benchmark with full RAGAS feature coverage",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog=__doc__,
-    )
-    parser.add_argument(
-        "--config", default="config/benchmark.yaml",
+    p.add_argument(
+        "--config",
+        default="config/benchmark.yaml",
+        metavar="PATH",
         help="Path to benchmark.yaml (default: config/benchmark.yaml)",
     )
-    parser.add_argument(
-        "--skip-ingestion", action="store_true",
-        help="Skip document upload (use when docs are already indexed)",
+    p.add_argument(
+        "--provider",
+        choices=["hydradb", "supermemory", "both"],
+        default="hydradb",
+        help=(
+            "Which provider(s) to benchmark. "
+            "'both' runs HydraDB and Supermemory in sequence and compares results. "
+            "(default: hydradb)"
+        ),
     )
-    parser.add_argument(
-        "--reset-tenant", action="store_true",
-        help="Delete all existing tenant data then re-ingest from scratch (irreversible)",
+    p.add_argument(
+        "--skip-ingestion",
+        action="store_true",
+        help="Skip document upload and jump straight to querying",
     )
-    parser.add_argument(
-        "--generate-testset", action="store_true",
-        help="Auto-generate Q&A pairs from documents using RAGAS TestsetGenerator",
+    p.add_argument(
+        "--ingest-only",
+        action="store_true",
+        help="Upload and index documents then exit (no querying or evaluation)",
     )
-    parser.add_argument(
-        "--multi-turn", action="store_true",
-        help="Also run multi-turn conversation evaluation",
+    p.add_argument(
+        "--reset-tenant",
+        action="store_true",
+        help="Delete the HydraDB tenant then recreate it before ingestion",
     )
-    parser.add_argument(
-        "--save-prompts", action="store_true",
-        help="Dump metric prompt instructions to reports/prompts/ for inspection",
+    p.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        metavar="N",
+        help="Only run the first N test samples",
     )
-    parser.add_argument(
-        "--run-id", default=None,
-        help="Custom run ID (auto-generated if not provided)",
+    p.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Show extra debug output",
     )
-    parser.add_argument(
-        "--hf-dataset", default=None, metavar="REPO_ID",
-        help="HuggingFace dataset repo ID to use (overrides hf_dataset.repo_id in config)",
+    return p
+
+
+# ---------------------------------------------------------------------------
+# Dataset loading
+# ---------------------------------------------------------------------------
+
+def load_test_dataset(path: str) -> list[TestSample]:
+    p = Path(path)
+    if not p.exists():
+        console.print(f"[red]Test dataset not found: {p.resolve()}[/red]")
+        sys.exit(1)
+    raw = json.loads(p.read_text(encoding="utf-8"))
+    return [TestSample(**item) for item in raw]
+
+
+# ---------------------------------------------------------------------------
+# HydraDB query runner
+# ---------------------------------------------------------------------------
+
+async def run_single_query_hydradb(
+    client: HydraDBClient,
+    sample: TestSample,
+    cfg: EvaluationConfig,
+    gen_cfg,  # DeepEvalConfig
+) -> QueryResult:
+    endpoint = cfg.search_endpoint
+    t0 = time.monotonic()
+    try:
+        if endpoint == "full_recall":
+            response = await client.full_recall(
+                sample.question,
+                max_results=cfg.max_results,
+                mode=cfg.mode,
+                alpha=cfg.alpha,
+                graph_context=cfg.graph_context,
+                recency_bias=cfg.recency_bias,
+            )
+            latency_ms = (time.monotonic() - t0) * 1000
+            context_str = build_context_string(response)
+            chunks = response.get("chunks", [])
+            contexts = [c.get("chunk_content", "") for c in chunks if c.get("chunk_content")]
+
+        elif endpoint == "recall_preferences":
+            response = await client.recall_preferences(
+                sample.question,
+                max_results=cfg.max_results,
+                mode=cfg.mode,
+                alpha=cfg.alpha,
+                graph_context=cfg.graph_context,
+            )
+            latency_ms = (time.monotonic() - t0) * 1000
+            chunks = response.get("chunks", [])
+            contexts = [c.get("chunk_content", "") for c in chunks if c.get("chunk_content")]
+            context_str = "\n\n".join(contexts)
+
+        elif endpoint == "boolean_recall":
+            response = await client.boolean_recall(
+                sample.question,
+                operator=cfg.boolean_operator,
+                max_results=cfg.max_results,
+                search_mode=cfg.boolean_search_mode,
+            )
+            latency_ms = (time.monotonic() - t0) * 1000
+            chunks = response.get("chunks", [])
+            contexts = [c.get("chunk_content", "") for c in chunks if c.get("chunk_content")]
+            context_str = "\n\n".join(contexts)
+
+        else:
+            raise ValueError(
+                f"Unknown search_endpoint: {endpoint!r}. "
+                "Valid values: 'full_recall', 'recall_preferences', 'boolean_recall'."
+            )
+
+        context_tokens = _count_tokens(context_str) if context_str else 0
+
+        if context_str.strip():
+            answer = await generate_answer(
+                question=sample.question,
+                context_str=context_str,
+                model=gen_cfg.generator_model,
+                temperature=gen_cfg.generator_temperature,
+                max_tokens=gen_cfg.generator_max_tokens,
+            )
+        else:
+            answer = ""
+
+        return QueryResult(
+            sample=sample,
+            answer=answer,
+            retrieved_contexts=contexts,  # raw chunk_content list for DeepEval metrics
+            context_string=context_str,   # full formatted context for report display
+            context_tokens=context_tokens,
+            latency_ms=latency_ms,
+        )
+    except Exception as exc:
+        latency_ms = (time.monotonic() - t0) * 1000
+        return QueryResult(sample=sample, latency_ms=latency_ms, error=str(exc))
+
+
+# ---------------------------------------------------------------------------
+# Supermemory query runner
+# ---------------------------------------------------------------------------
+
+async def run_single_query_supermemory(
+    client: SupermemoryClient,
+    sample: TestSample,
+    eval_cfg: EvaluationConfig,
+    sm_cfg: SupermemoryConfig,
+    gen_cfg,  # DeepEvalConfig
+) -> QueryResult:
+    t0 = time.monotonic()
+    try:
+        response = await client.search(
+            query=sample.question,
+            container_tag=sm_cfg.container_tag,
+            limit=sm_cfg.limit,       # total chunks — use sm_cfg.limit not eval_cfg.max_results
+            search_mode=sm_cfg.search_mode,
+            rerank=sm_cfg.rerank,
+            threshold=sm_cfg.threshold,
+        )
+        latency_ms = (time.monotonic() - t0) * 1000
+
+        # Results are grouped by document. Flatten all chunks across all
+        # documents, then re-sort globally by score (descending) so the most
+        # relevant chunks come first — critical for contextual_precision which
+        # is positional, and for LLM answer quality.
+        results = response.get("results", [])
+        all_chunks = [
+            (chunk.get("score", 0.0), chunk.get("content", ""))
+            for r in results
+            for chunk in r.get("chunks", [])
+            if chunk.get("content")
+        ]
+        all_chunks.sort(key=lambda x: x[0], reverse=True)
+        contexts = [content for _, content in all_chunks]
+        context_str = "\n\n".join(contexts)
+        context_tokens = _count_tokens(context_str) if context_str else 0
+
+        if context_str.strip():
+            answer = await generate_answer(
+                question=sample.question,
+                context_str=context_str,
+                model=gen_cfg.generator_model,
+                temperature=gen_cfg.generator_temperature,
+                max_tokens=gen_cfg.generator_max_tokens,
+            )
+        else:
+            answer = ""
+
+        return QueryResult(
+            sample=sample,
+            answer=answer,
+            retrieved_contexts=contexts,
+            context_string=context_str,
+            context_tokens=context_tokens,
+            latency_ms=latency_ms,
+        )
+    except Exception as exc:
+        latency_ms = (time.monotonic() - t0) * 1000
+        return QueryResult(sample=sample, latency_ms=latency_ms, error=str(exc))
+
+
+# ---------------------------------------------------------------------------
+# Generic concurrent query runner (works for either provider)
+# ---------------------------------------------------------------------------
+
+async def run_all_queries(
+    query_fn,             # async callable: (sample) -> QueryResult
+    samples: list[TestSample],
+    concurrency: int,
+    label: str,
+    verbose: bool,
+) -> list[QueryResult]:
+    semaphore = asyncio.Semaphore(concurrency)
+
+    async def bounded(sample: TestSample) -> QueryResult:
+        async with semaphore:
+            return await query_fn(sample)
+
+    with Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        TimeElapsedColumn(),
+        console=console,
+    ) as progress:
+        task = progress.add_task(f"Querying {label}…", total=len(samples))
+
+        async def tracked(sample: TestSample) -> QueryResult:
+            result = await bounded(sample)
+            progress.advance(task)
+            if verbose:
+                status = "[red]ERROR[/red]" if result.error else "[green]OK[/green]"
+                console.print(f"  {status} {sample.id} ({result.latency_ms:.0f} ms)")
+            return result
+
+        results = await asyncio.gather(*[tracked(s) for s in samples])
+
+    return list(results)
+
+
+# ---------------------------------------------------------------------------
+# Latency / token stats
+# ---------------------------------------------------------------------------
+
+def compute_context_token_stats(results: list[QueryResult]) -> dict:
+    tokens = [r.context_tokens for r in results if not r.error and r.context_tokens > 0]
+    if not tokens:
+        return {}
+    tokens.sort()
+    return {"min": tokens[0], "mean": round(mean(tokens)), "max": tokens[-1]}
+
+
+def compute_latency_stats(results: list[QueryResult]) -> tuple[float, float, dict]:
+    latencies = sorted(r.latency_ms for r in results if not r.error)
+    if not latencies:
+        return 0.0, 0.0, {}
+    n = len(latencies)
+
+    def pct(p: float) -> float:
+        return latencies[min(int(n * p), n - 1)]
+
+    stats = {
+        "min":  round(latencies[0], 1),
+        "mean": round(sum(latencies) / n, 1),
+        "p50":  round(median(latencies), 1),
+        "p75":  round(pct(0.75), 1),
+        "p95":  round(pct(0.95), 1),
+        "p99":  round(pct(0.99), 1),
+        "max":  round(latencies[-1], 1),
+    }
+    return stats["p50"], stats["p95"], stats
+
+
+# ---------------------------------------------------------------------------
+# Rich display helpers
+# ---------------------------------------------------------------------------
+
+def print_score_table(result: BenchmarkResult) -> None:
+    table = Table(title=f"Aggregate Scores — {result.name}", show_header=True, header_style="bold cyan")
+    table.add_column("Metric", style="bold")
+    table.add_column("Score", justify="right")
+    table.add_column("Status")
+
+    for metric, score in result.aggregate_scores.items():
+        if score >= 0.8:
+            status = "[green]PASS[/green]"
+            score_str = f"[green]{score:.4f}[/green]"
+        elif score >= 0.5:
+            status = "[yellow]MARGINAL[/yellow]"
+            score_str = f"[yellow]{score:.4f}[/yellow]"
+        else:
+            status = "[red]FAIL[/red]"
+            score_str = f"[red]{score:.4f}[/red]"
+        table.add_row(metric, score_str, status)
+
+    console.print(table)
+    console.print(
+        f"  Latency p50: [bold]{result.latency_p50_ms:.0f} ms[/bold]  "
+        f"p95: [bold]{result.latency_p95_ms:.0f} ms[/bold]  "
+        f"Errors: [bold]{result.error_count}/{result.total_samples}[/bold]"
     )
-    parser.add_argument(
-        "--hf-mode", default=None, choices=["qa", "corpus"],
-        help="HF dataset mode: 'qa' (evaluation pairs) or 'corpus' (documents for ingestion)",
+
+
+def print_comparison_table(
+    hydra_result: BenchmarkResult,
+    sm_result: BenchmarkResult,
+) -> None:
+    """Side-by-side metric comparison table for --provider both."""
+    all_metrics = sorted(
+        set(hydra_result.aggregate_scores) | set(sm_result.aggregate_scores)
     )
-    parser.add_argument(
-        "--print-hf-info", default=None, metavar="REPO_ID",
-        help="Print schema/preview of a HuggingFace dataset and exit (useful before benchmarking)",
+    table = Table(
+        title="Benchmark Comparison: HydraDB vs Supermemory",
+        show_header=True,
+        header_style="bold cyan",
     )
-    parser.add_argument(
-        "--extract-qa-corpus", default=None, nargs=2, metavar=("REPO_ID", "OUTPUT_DIR"),
-        help="Extract context passages from any HF Q&A dataset as .txt files for HydraDB ingestion. "
-             "Example: --extract-qa-corpus PatronusAI/financebench ./data/corpus",
+    table.add_column("Metric", style="bold")
+    table.add_column("HydraDB", justify="right")
+    table.add_column("Supermemory", justify="right")
+    table.add_column("Winner")
+
+    for metric in all_metrics:
+        h_score = hydra_result.aggregate_scores.get(metric)
+        s_score = sm_result.aggregate_scores.get(metric)
+
+        h_str = f"{h_score:.4f}" if h_score is not None else "—"
+        s_str = f"{s_score:.4f}" if s_score is not None else "—"
+
+        if h_score is not None and s_score is not None:
+            if h_score > s_score + 0.005:
+                winner = "[cyan]HydraDB[/cyan]"
+            elif s_score > h_score + 0.005:
+                winner = "[magenta]Supermemory[/magenta]"
+            else:
+                winner = "[dim]Tie[/dim]"
+        else:
+            winner = "—"
+
+        table.add_row(metric, h_str, s_str, winner)
+
+    console.print(table)
+    console.print(
+        f"  HydraDB      — p50: [bold]{hydra_result.latency_p50_ms:.0f} ms[/bold]  "
+        f"p95: [bold]{hydra_result.latency_p95_ms:.0f} ms[/bold]  "
+        f"Errors: {hydra_result.error_count}/{hydra_result.total_samples}"
     )
-    parser.add_argument(
-        "--context-column", default=None, metavar="COL",
-        help="Column containing context passages (auto-detected if not set)",
+    console.print(
+        f"  Supermemory  — p50: [bold]{sm_result.latency_p50_ms:.0f} ms[/bold]  "
+        f"p95: [bold]{sm_result.latency_p95_ms:.0f} ms[/bold]  "
+        f"Errors: {sm_result.error_count}/{sm_result.total_samples}"
     )
-    parser.add_argument(
-        "--group-by", default=None, metavar="COL",
-        help="Group passages by this column when extracting corpus (e.g. 'doc_name'). "
-             "Creates one file per unique value instead of one per row.",
+
+
+# ---------------------------------------------------------------------------
+# Pipeline helpers
+# ---------------------------------------------------------------------------
+
+async def _run_provider_queries_and_evaluate(
+    query_results: list[QueryResult],
+    config,
+    run_id: str,
+    timestamp: str,
+    provider_name: str,
+) -> tuple[BenchmarkResult, list[Path]]:
+    """Evaluate a list of QueryResults and save reports. Returns (result, saved_paths)."""
+    error_count = sum(1 for r in query_results if r.error)
+
+    evaluator = DeepEvalEvaluator(config.deepeval)
+    aggregate_scores, per_sample = await evaluator.evaluate(query_results)
+
+    p50, p95, latency_stats = compute_latency_stats(query_results)
+    context_token_stats = compute_context_token_stats(query_results)
+
+    result = BenchmarkResult(
+        run_id=f"{run_id}_{provider_name}",
+        timestamp=timestamp,
+        name=f"{config.name} [{provider_name}]",
+        aggregate_scores=aggregate_scores,
+        per_sample=per_sample,
+        latency_p50_ms=p50,
+        latency_p95_ms=p95,
+        latency_stats=latency_stats,
+        context_token_stats=context_token_stats,
+        total_samples=len(query_results),
+        error_count=error_count,
     )
-    parser.add_argument(
-        "--hf-split", default=None, metavar="SPLIT",
-        help="HuggingFace dataset split to use (default: auto-detect or 'train')",
+
+    reporter = BenchmarkReporter(
+        output_dir=config.reporting.output_dir,
+        formats=config.reporting.formats,
+        include_per_sample=config.reporting.include_per_sample,
     )
-    parser.add_argument(
-        "--dataset", default=None, metavar="NAME",
-        help="Run only one dataset from a multi-dataset config (match by name or sub_tenant_id). "
-             "Example: --dataset PrivacyQA",
+    saved_paths = reporter.save(result)
+    return result, saved_paths
+
+
+# ---------------------------------------------------------------------------
+# Main pipeline
+# ---------------------------------------------------------------------------
+
+async def main(args: argparse.Namespace) -> None:
+    run_id = str(uuid.uuid4())[:8]
+    timestamp = datetime.now(timezone.utc).isoformat()
+    provider = args.provider
+
+    console.print(
+        Panel(
+            f"[bold cyan]DeepEval Benchmark[/bold cyan]\n"
+            f"Provider: [bold]{provider}[/bold]   "
+            f"Run ID: [dim]{run_id}[/dim]   Started: [dim]{timestamp}[/dim]",
+            expand=False,
+        )
     )
-    parser.add_argument(
-        "--resume", default=None, metavar="RUN_ID",
-        help="Resume an interrupted run by its run ID (skips already-completed samples)",
-    )
-    parser.add_argument(
-        "--limit", type=int, default=None, metavar="N",
-        help="Run only the first N samples (useful for quick smoke tests)",
-    )
-    parser.add_argument(
-        "-v", "--verbose", action="store_true",
-        help="Enable verbose/debug logging",
-    )
+
+    # ------------------------------------------------------------------ 1/4
+    console.rule("[bold]1/4  Load config + validate env[/bold]")
+    try:
+        config = load_config(args.config)
+    except (FileNotFoundError, EnvironmentError) as exc:
+        console.print(f"[red]Configuration error: {exc}[/red]")
+        sys.exit(1)
+
+    # Validate Supermemory config is present when needed
+    if provider in ("supermemory", "both") and config.supermemory is None:
+        console.print(
+            "[red]Error: --provider supermemory/both requires a [supermemory] section "
+            "in benchmark.yaml and SUPERMEMORY_API_KEY set in .env[/red]"
+        )
+        sys.exit(1)
+
+    console.print(f"  Benchmark : [bold]{config.name}[/bold]")
+    if provider in ("hydradb", "both"):
+        console.print(
+            f"  HydraDB   : [bold]{config.hydradb.base_url}[/bold]  "
+            f"tenant=[bold]{config.hydradb.tenant_id}[/bold]  "
+            f"endpoint=[bold]{config.evaluation.search_endpoint}[/bold]"
+        )
+    if provider in ("supermemory", "both") and config.supermemory:
+        console.print(
+            f"  Supermemory: [bold]{config.supermemory.base_url}[/bold]  "
+            f"container=[bold]{config.supermemory.container_tag}[/bold]  "
+            f"mode=[bold]{config.supermemory.search_mode}[/bold]"
+        )
+    console.print(f"  Metrics   : {', '.join(config.deepeval.metrics)}")
+
+    # ------------------------------------------------------------------ 2/4
+    console.rule("[bold]2/4  Ingest documents[/bold]")
+
+    # ── HydraDB ingestion ─────────────────────────────────────────────────
+    if provider in ("hydradb", "both"):
+        async with HydraDBClient(config.hydradb) as hydra_client:
+            if args.reset_tenant:
+                console.print("  [HydraDB] Deleting tenant…")
+                try:
+                    await hydra_client.delete_tenant()
+                    console.print("  [green]Tenant deleted.[/green]")
+                except Exception as exc:
+                    console.print(f"  [yellow]Delete failed (may not exist): {exc}[/yellow]")
+
+            if config.hydradb.create_tenant_on_start and not args.skip_ingestion:
+                console.print("  [HydraDB] Creating tenant…")
+                try:
+                    result = await hydra_client.create_tenant()
+                    if result.get("status") == "already_exists":
+                        console.print("  [yellow]Tenant already exists — continuing.[/yellow]")
+                    else:
+                        console.print("  [green]Tenant created.[/green]")
+                except Exception as exc:
+                    console.print(f"  [yellow]Warning: create_tenant failed: {exc}[/yellow]")
+
+            if args.skip_ingestion:
+                console.print("  [dim][HydraDB] --skip-ingestion set; skipping upload.[/dim]")
+            else:
+                ingester = DocumentIngester(hydra_client, config.ingestion, config.hydradb)
+                indexed, failed, elapsed = await ingester.run()
+                console.print(
+                    f"  [HydraDB] [green]Indexed {indexed} file(s)[/green], "
+                    f"[red]{failed} failed[/red], elapsed {elapsed:.1f}s"
+                )
+
+    # ── Supermemory ingestion ─────────────────────────────────────────────
+    if provider in ("supermemory", "both") and config.supermemory:
+        sm_cfg = config.supermemory
+        async with SupermemoryClient(sm_cfg) as sm_client:
+            if sm_cfg.reset_on_start and not args.skip_ingestion:
+                console.print(
+                    f"  [Supermemory] Deleting container '{sm_cfg.container_tag}'…"
+                )
+                try:
+                    await sm_client.delete_container_tag(sm_cfg.container_tag)
+                    console.print("  [green]Container deleted.[/green]")
+                except Exception as exc:
+                    console.print(f"  [yellow]Delete failed (may not exist): {exc}[/yellow]")
+
+            if args.skip_ingestion:
+                console.print(
+                    "  [dim][Supermemory] --skip-ingestion set; skipping upload.[/dim]"
+                )
+            else:
+                sm_ingester = SupermemoryIngester(sm_client, config.ingestion, sm_cfg)
+                indexed, failed, elapsed = await sm_ingester.run()
+                console.print(
+                    f"  [Supermemory] [green]Indexed {indexed} file(s)[/green], "
+                    f"[red]{failed} failed[/red], elapsed {elapsed:.1f}s"
+                )
+
+    if args.ingest_only:
+        console.print(Panel("[bold green]Ingestion complete![/bold green]", expand=False))
+        return
+
+    # ------------------------------------------------------------------ 3/4
+    console.rule("[bold]3/4  Run queries[/bold]")
+    samples = load_test_dataset(config.evaluation.test_dataset_path)
+    if args.limit:
+        samples = samples[: args.limit]
+    console.print(f"  Loaded [bold]{len(samples)}[/bold] test sample(s)")
+
+    hydra_query_results: list[QueryResult] = []
+    sm_query_results: list[QueryResult] = []
+
+    # ── HydraDB queries ───────────────────────────────────────────────────
+    if provider in ("hydradb", "both"):
+        async with HydraDBClient(config.hydradb) as hydra_client:
+            hydra_fn = lambda s: run_single_query_hydradb(  # noqa: E731
+                hydra_client, s, config.evaluation, config.deepeval
+            )
+            hydra_query_results = await run_all_queries(
+                query_fn=hydra_fn,
+                samples=samples,
+                concurrency=config.evaluation.concurrent_requests,
+                label=f"HydraDB ({config.evaluation.search_endpoint})",
+                verbose=args.verbose,
+            )
+        h_errors = sum(1 for r in hydra_query_results if r.error)
+        console.print(
+            f"  [HydraDB] Queries done: [bold]{len(hydra_query_results)}[/bold]  "
+            f"errors: [red]{h_errors}[/red]"
+        )
+
+    # ── Supermemory queries ───────────────────────────────────────────────
+    if provider in ("supermemory", "both") and config.supermemory:
+        sm_cfg = config.supermemory
+        async with SupermemoryClient(sm_cfg) as sm_client:
+            sm_fn = lambda s: run_single_query_supermemory(  # noqa: E731
+                sm_client, s, config.evaluation, sm_cfg, config.deepeval
+            )
+            sm_query_results = await run_all_queries(
+                query_fn=sm_fn,
+                samples=samples,
+                concurrency=config.evaluation.concurrent_requests,
+                label=f"Supermemory ({sm_cfg.search_mode})",
+                verbose=args.verbose,
+            )
+        s_errors = sum(1 for r in sm_query_results if r.error)
+        console.print(
+            f"  [Supermemory] Queries done: [bold]{len(sm_query_results)}[/bold]  "
+            f"errors: [red]{s_errors}[/red]"
+        )
+
+    # ------------------------------------------------------------------ 4/4
+    console.rule("[bold]4/4  Evaluate with DeepEval + generate reports[/bold]")
+
+    all_saved_paths: list[Path] = []
+
+    hydra_result: BenchmarkResult | None = None
+    sm_result: BenchmarkResult | None = None
+
+    if provider in ("hydradb", "both") and hydra_query_results:
+        console.print("\n  [bold cyan]Evaluating HydraDB results…[/bold cyan]")
+        hydra_result, paths = await _run_provider_queries_and_evaluate(
+            hydra_query_results, config, run_id, timestamp, provider_name="HydraDB"
+        )
+        all_saved_paths.extend(paths)
+        print_score_table(hydra_result)
+
+    if provider in ("supermemory", "both") and sm_query_results:
+        console.print("\n  [bold magenta]Evaluating Supermemory results…[/bold magenta]")
+        sm_result, paths = await _run_provider_queries_and_evaluate(
+            sm_query_results, config, run_id, timestamp, provider_name="Supermemory"
+        )
+        all_saved_paths.extend(paths)
+        print_score_table(sm_result)
+
+    # Side-by-side comparison when both ran
+    if hydra_result and sm_result:
+        console.print()
+        print_comparison_table(hydra_result, sm_result)
+        cmp_reporter = BenchmarkReporter(
+            output_dir=config.reporting.output_dir,
+            formats=config.reporting.formats,
+            include_per_sample=config.reporting.include_per_sample,
+        )
+        cmp_path = cmp_reporter.save_comparison(hydra_result, sm_result, run_id)
+        all_saved_paths.append(cmp_path)
+        console.print(f"\n  [bold]Comparison report:[/bold] {cmp_path.resolve()}")
+
+    console.print("\n[bold green]Reports saved:[/bold green]")
+    for path in all_saved_paths:
+        console.print(f"  {path.resolve()}")
+
+    console.print(Panel("[bold green]Benchmark complete![/bold green]", expand=False))
+
+
+def cli() -> None:
+    parser = build_parser()
     args = parser.parse_args()
-    _setup_logging(args.verbose)
-    sys.exit(asyncio.run(_main_async(args)))
+    asyncio.run(main(args))
 
 
 if __name__ == "__main__":
-    main()
+    cli()

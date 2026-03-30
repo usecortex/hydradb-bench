@@ -1,582 +1,478 @@
-# HydraDB Benchmark Framework
+# HydraDB DeepEval Benchmark
 
-A full-featured RAG evaluation framework for HydraDB using [RAGAS](https://docs.ragas.io). Measures retrieval quality, answer accuracy, and context relevance across any document corpus — with support for multi-dataset runs, HuggingFace datasets, multi-turn conversations, cost tracking, and Telegram notifications.
+A practical benchmark framework for evaluating retrieval + answer quality across:
 
----
+- **HydraDB** (`full_recall`, `recall_preferences`, `boolean_recall`)
+- **Supermemory** (`/v3/search`)
+- **DeepEval** metrics for answer/retrieval quality
 
-## Table of Contents
+The benchmark can run either provider independently or run both in one pass and produce a side-by-side comparison report.
 
-- [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Environment Setup](#environment-setup)
-- [Configuration](#configuration)
-- [All Commands](#all-commands)
-- [Command Combinations](#command-combinations)
-- [Metrics Reference](#metrics-reference)
-- [Test Dataset Format](#test-dataset-format)
-- [Reports](#reports)
-- [Project Structure](#project-structure)
+## What This Framework Does
 
----
+For each run, the pipeline is:
 
-## How It Works
+1. Load config + validate environment variables
+2. Ingest documents (optional)
+3. Run retrieval queries for each test sample
+4. Generate grounded answers from retrieved context (OpenAI model)
+5. Score with DeepEval metrics
+6. Save reports (`json`, `html`, optionally `csv`)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     BENCHMARK PIPELINE                          │
-│                                                                 │
-│  1. INGEST      Upload .txt/.pdf/.md files → HydraDB tenant    │
-│       ↓                                                         │
-│  2. QUERY       Send each test question → HydraDB              │
-│                 (qna endpoint OR full_recall + LLM answer)      │
-│       ↓                                                         │
-│  3. EVALUATE    RAGAS scores each (question, answer, context)   │
-│                 using a judge LLM (OpenAI / OpenRouter)         │
-│       ↓                                                         │
-│  4. REPORT      JSON + CSV + HTML reports saved to ./reports/   │
-│                 (optional: Telegram notification + zip)          │
-└─────────────────────────────────────────────────────────────────┘
+## Repository Structure
+
+```text
+.
+|-- config/benchmark.yaml              # Main benchmark config
+|-- data/privacy_qa/                   # Source documents for ingestion
+|-- data/privacy_qa.json               # Evaluation dataset (Q/A + reference contexts)
+|-- reports/                           # Generated reports
+|-- synthetic_data/                    # DeepEval synthesizer outputs
+|-- run_benchmark.py                   # Main CLI runner
+|-- generate_test_data.py              # Build synthetic Q/A dataset from docs
+|-- json_to_csv.py                     # Convert report JSON to CSV
+`-- src/hydradb_deepeval/              # Core clients, evaluator, reporting, models
 ```
 
-### Two Search Endpoints
+## Requirements
 
-| Endpoint | What HydraDB returns | When to use |
-|----------|---------------------|-------------|
-| `qna` | Answer + retrieved chunks | HydraDB generates the answer |
-| `full_recall` | Retrieved chunks only, then optional external LLM generates answer | You want to control answer generation |
-
-### Three Metric Types
-
-| Type | How it scores | Config section |
-|------|--------------|----------------|
-| **Standard RAGAS** | Built-in metrics (faithfulness, context_recall, etc.) | `evaluation.metrics` |
-| **Aspect Critics** | LLM votes pass/fail on a custom criterion | `evaluation.aspect_critics` |
-| **Scored Criteria** | LLM gives 0–3 score on a custom rubric (normalized to 0–1) | `evaluation.scored_criteria` |
-
----
+- Python **3.10+**
+- API keys:
+  - `HYDRADB_API_KEY` (required by current config loader)
+  - `OPENAI_API_KEY` (required for answer generation + DeepEval model usage)
+  - `SUPERMEMORY_API_KEY` (required when `supermemory:` section exists in config)
 
 ## Installation
 
 ```bash
-# Clone and install (editable mode — changes to source take effect immediately)
-git clone <repo>
-cd hydradb-bench
-pip install -e .
-
-# Install dev dependencies (for running tests)
-pip install -e ".[dev]"
+python -m venv .venv
 ```
 
----
+Activate venv:
+
+- Windows PowerShell:
+  - `.venv\Scripts\Activate.ps1`
+- macOS/Linux:
+  - `source .venv/bin/activate`
+
+Install dependencies:
+
+```bash
+pip install -U pip
+pip install -e .
+```
+
+Optional (for accurate context token counting):
+
+```bash
+pip install tiktoken
+```
 
 ## Environment Setup
 
-Copy `.env.example` to `.env` and fill in your credentials:
+Create `.env` from example:
 
 ```bash
-# HydraDB
-HYDRADB_BASE_URL=https://api.hydradb.ai
-HYDRADB_API_KEY=your_hydradb_api_key
-HYDRADB_TENANT_ID=your_tenant_id
-
-# OpenAI (for RAGAS judge and/or answer generation)
-OPENAI_API_KEY=sk-...
-
-# OpenRouter (alternative LLM provider for judge / answer generation)
-OPENROUTER_API_KEY=sk-or-...
-
-# Telegram (optional — for report notifications)
-TELEGRAM_BOT_TOKEN=123456:ABC-DEF...   # from @BotFather
-TELEGRAM_CHAT_ID=123456789             # your chat ID
+cp .env.example .env
 ```
 
----
+Populate keys:
 
-## Configuration
+```env
+HYDRADB_API_KEY=...
+OPENAI_API_KEY=...
+SUPERMEMORY_API_KEY=...  # needed when supermemory: exists in benchmark.yaml
+```
 
-All settings live in a YAML file. Pass it with `--config`.
+Important behavior from current code:
+
+- If `supermemory:` exists in `config/benchmark.yaml`, the loader expects `SUPERMEMORY_API_KEY` even if you run `--provider hydradb`.
+- If you want HydraDB-only without Supermemory key, remove/comment out `supermemory:` in config.
+
+## Configuration (`config/benchmark.yaml`)
+
+Main sections:
+
+- `benchmark`: display name used in reports
+- `hydradb`: endpoint + tenant/sub-tenant and ingestion polling settings
+- `ingestion`: documents directory, file extensions, upload concurrency/delay
+- `evaluation`: dataset path + search endpoint and retrieval parameters
+- `deepeval`: metric model, metrics list, thresholds, timeouts, answer generation model
+- `reporting`: output directory + formats (`json`, `html`, `csv`)
+- `supermemory` (optional): container/search/ingestion behavior for Supermemory
+
+Environment interpolation is supported in YAML via `${ENV_VAR}` syntax.
+
+## How To Write `config/benchmark.yaml`
+
+Create the file at `config/benchmark.yaml` and start from this template:
 
 ```yaml
 benchmark:
-  name: "My Benchmark"
-  output_dir: "./reports"
+  name: "My Retrieval Benchmark"
 
-# ── HydraDB connection ────────────────────────────────────────────
 hydradb:
-  base_url: "${HYDRADB_BASE_URL}"
-  api_key: "${HYDRADB_API_KEY}"
-  tenant_id: "${HYDRADB_TENANT_ID}"
-  sub_tenant_id: "my-corpus"
-  create_tenant_on_start: true
-  timeout_seconds: 60
+  base_url: "https://api.hydradb.com"
+  tenant_id: "my-tenant"
+  sub_tenant_id: "my-sub-tenant"
+  timeout_seconds: 30
+  polling_interval_seconds: 10
+  max_polling_attempts: 60
+  create_tenant_on_start: false
 
-# ── Document ingestion ────────────────────────────────────────────
 ingestion:
-  documents_dir: "./data/documents"
-  file_extensions: [".txt", ".pdf", ".md"]
+  documents_dir: "./data/privacy_qa"
+  file_extensions: [".txt", ".pdf", ".md", ".docx"]
   verify_before_querying: true
-  upload_delay_seconds: 0.5
+  upload_delay_seconds: 1
+  upload_concurrency: 1
 
-# ── Evaluation ────────────────────────────────────────────────────
 evaluation:
-  test_dataset_path: "./data/test_dataset.json"
-  search_endpoint: "full_recall"     # "qna" | "full_recall"
-  retrieve_mode: "thinking"          # "fast" | "thinking" (full_recall only)
-  max_results: 10                    # chunks to retrieve per query
-  concurrent_requests: 5
+  test_dataset_path: "./data/privacy_qa.json"
+  search_endpoint: "full_recall"      # full_recall | recall_preferences | boolean_recall
+  max_results: 10
+  concurrent_requests: 3
+  mode: "thinking"                    # fast | thinking
+  alpha: 0.8
+  graph_context: true
+  recency_bias: 0.0
+  boolean_operator: "or"              # or | and | phrase
+  boolean_search_mode: "sources"      # sources | memories
 
-  metrics:                           # standard RAGAS metrics
-    - context_recall
-    - context_relevance
-    - faithfulness
-    - factual_correctness
+deepeval:
+  model: "gpt-5.4"
+  threshold: 0.5
+  include_reason: true
+  eval_concurrency: 5
+  metric_timeout_seconds: 60
+  generator_model: "gpt-5.4"
+  generator_temperature: 0.0
+  generator_max_tokens: 1024
+  metrics:
+    - answer_accuracy
+    - contextual_precision
+    - contextual_recall
+    - contextual_relevancy
 
-  answer_generation:                 # only used when search_endpoint = full_recall
-    enabled: true
-    provider: "openrouter"           # "openai" | "openrouter"
-    model: "openai/gpt-4o-mini"
-    system_prompt: "Answer using only the provided context."
-    max_tokens: 1024
-    temperature: 0.0
-
-  aspect_critics:                    # LLM binary pass/fail judges
-    - name: "answer_accuracy"
-      definition: "Is the answer factually correct given the reference?"
-      strictness: 3                  # majority vote over 3 LLM calls
-
-  scored_criteria:                   # LLM 0-3 rubric judges (normalized to 0-1)
-    - name: "answer_relevancy"
-      definition: |
-        3 — directly and specifically answers the question
-        2 — mostly on-topic but includes minor tangents
-        1 — loosely related, doesn't really answer
-        0 — off-topic or ignores the question
-
-# ── RAGAS judge LLM ───────────────────────────────────────────────
-ragas:
-  llm_provider: "openrouter"        # "openai" | "openrouter"
-  llm_model: "openai/gpt-4o-mini"
-  embeddings_provider: "openai"     # "openai" | "openrouter" | "huggingface" | "ollama"
-  embeddings_model: "text-embedding-3-small"
-  temperature: 0.01
-  judge_max_tokens: 8192
-  max_retries: 3
-  timeout: 120
-  max_workers: 4
-  cost_tracking:
-    enabled: true
-
-# ── Multi-dataset mode ────────────────────────────────────────────
-# When set, loops through each dataset — overrides sub_tenant_id,
-# documents_dir, and test_dataset_path per entry.
-datasets:
-  - name: "PrivacyQA"
-    sub_tenant_id: "legal-privacyqa"
-    documents_dir: "./data/privacy_qa"
-    test_dataset_path: "./data/legal_privacyqa_samples.json"
-  - name: "ContractNLI"
-    sub_tenant_id: "legal-contractnli"
-    documents_dir: "./data/contractnli"
-    test_dataset_path: "./data/legal_contractnli_samples.json"
-
-# ── Reporting ─────────────────────────────────────────────────────
 reporting:
-  formats: ["json", "csv", "html"]
-  include_per_sample_scores: true
-
-# ── Telegram notifications ────────────────────────────────────────
-telegram:
-  enabled: false
-  bot_token: "${TELEGRAM_BOT_TOKEN}"
-  chat_id: "${TELEGRAM_CHAT_ID}"
+  output_dir: "./reports"
+  formats: ["json", "html", "csv"]
+  include_per_sample: true
 ```
 
-### Telegram notifications
+### If you want HydraDB-only config
 
-When `telegram.enabled: true`, after every run the bot sends:
-1. A summary message — scores, latency, cost, sample count
-2. A single zip file — JSON + CSV + HTML reports, directly downloadable
-
-**Setup:**
-1. Message [@BotFather](https://t.me/botfather) → `/newbot` → copy the token
-2. Send `/start` to your new bot
-3. Visit `https://api.telegram.org/bot<your_token>/getUpdates` → find `"chat": {"id": 123456789}` → that's your chat ID
-4. Add both to `.env`:
-```bash
-TELEGRAM_BOT_TOKEN=123456:ABC-DEF...
-TELEGRAM_CHAT_ID=123456789
-```
-
----
-
-### Embeddings providers
-
-| Provider | Config value | Requires |
-|----------|-------------|---------|
-| OpenAI API | `openai` | `OPENAI_API_KEY` |
-| OpenRouter | `openrouter` | `OPENROUTER_API_KEY` |
-| Local sentence-transformers | `huggingface` | `pip install langchain-huggingface sentence-transformers` |
-| Local Ollama server | `ollama` | Ollama running at `localhost:11434` (override with `embeddings_base_url`) |
-
----
-
-## All Commands
-
-### Core flags
-
-| Flag | Description |
-|------|-------------|
-| `--config PATH` | Path to YAML config file. Default: `config/benchmark.yaml` |
-| `--skip-ingestion` | Skip document upload — use when docs are already indexed in HydraDB |
-| `--reset-tenant` | **Destructive.** Delete all existing tenant data then re-ingest from scratch |
-| `--generate-testset` | Auto-generate Q&A pairs from your documents using RAGAS before running |
-| `--multi-turn` | Also run multi-turn conversation evaluation after single-turn |
-| `--save-prompts` | Dump all metric prompt instructions to `reports/prompts/` for inspection |
-| `--run-id ID` | Set a custom run ID (auto-generated UUID if not provided) |
-| `--limit N` | Only run the first N questions — useful for quick smoke tests |
-| `--dataset NAME` | In multi-dataset configs, run only one dataset by name or sub_tenant_id |
-| `--resume RUN_ID` | Resume an interrupted run — skips already-completed samples via checkpoints |
-| `-v` / `--verbose` | Enable debug logging |
-
-### HuggingFace flags
-
-| Flag | Description |
-|------|-------------|
-| `--hf-dataset REPO_ID` | Load a HuggingFace dataset as the Q&A test set |
-| `--hf-mode qa\|corpus` | `qa` = evaluation pairs, `corpus` = documents to ingest |
-| `--hf-split SPLIT` | Dataset split to use (default: auto-detect or `train`) |
-| `--print-hf-info REPO_ID` | Preview a HF dataset's schema and first row, then exit |
-| `--extract-qa-corpus REPO_ID OUTPUT_DIR` | Extract context passages from a HF Q&A dataset as .txt files |
-| `--context-column COL` | Column containing context passages (auto-detected if not set) |
-| `--group-by COL` | Group passages by this column when extracting corpus (one file per unique value) |
-
----
-
-## Command Combinations
-
-### Standard full run
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml
-```
-Ingests documents → queries HydraDB → evaluates with RAGAS → saves reports.
-
----
-
-### Skip ingestion (docs already indexed)
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml --skip-ingestion
-```
-
----
-
-### Quick smoke test (5 questions only)
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml --skip-ingestion --limit 5
-```
-
----
-
-### Run one dataset from a multi-dataset config
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml --skip-ingestion --dataset PrivacyQA
-```
-
----
-
-### One dataset, 5 questions, skip ingestion
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml --skip-ingestion --dataset PrivacyQA --limit 5
-```
-
----
-
-### Generate test questions automatically from documents
-
-```bash
-# Generate Q&A pairs from docs, then run the full benchmark
-python run_benchmark.py --config config/legal_benchmark.yaml --generate-testset
-
-# Generate only (no benchmark run) — set testset_generation.enabled: false in config after generating
-python run_benchmark.py --config config/legal_benchmark.yaml --generate-testset --limit 0
-```
-
-Requires `testset_generation` block in config:
-```yaml
-testset_generation:
-  enabled: true
-  output_path: "./data/test_dataset.json"
-  testset_size: 20
-  query_distribution:
-    simple: 0.5
-    multi_context: 0.3
-    reasoning: 0.2
-```
-
----
-
-### Resume an interrupted run
-
-```bash
-# Start a run with a known ID
-python run_benchmark.py --config config/legal_benchmark.yaml --run-id my-run-001
-
-# If it crashes mid-way, resume — already-done samples are skipped
-python run_benchmark.py --config config/legal_benchmark.yaml --resume my-run-001
-```
-
----
-
-### Also run multi-turn conversation evaluation
-
-```bash
-python run_benchmark.py --config config/legal_benchmark.yaml --skip-ingestion --multi-turn
-```
-
-Requires `data/multi_turn_dataset.json`:
-```json
-[
-  {
-    "id": "conv_001",
-    "turns": [
-      {"role": "human", "content": "What is the data retention policy?"},
-      {"role": "human", "content": "Does that apply to EU users too?"}
-    ],
-    "reference": "Data is retained for 90 days; EU users follow GDPR rules.",
-    "reference_topics": ["data retention", "GDPR"]
-  }
-]
-```
-
----
-
-### Inspect a HuggingFace dataset before using it
-
-```bash
-python run_benchmark.py --print-hf-info explodinggradients/amnesty_qa
-python run_benchmark.py --print-hf-info PatronusAI/financebench
-```
-Shows columns, row count, and first row preview — no API calls made.
-
----
-
-### Run benchmark using a HuggingFace Q&A dataset
-
-```bash
-# Use HF dataset as test questions (auto-detects question/answer columns)
-python run_benchmark.py --config config/legal_benchmark.yaml \
-  --hf-dataset explodinggradients/amnesty_qa \
-  --hf-mode qa \
-  --skip-ingestion
-```
-
----
-
-### Ingest documents from a HuggingFace corpus dataset
-
-```bash
-# Download corpus from HF and ingest into HydraDB
-python run_benchmark.py --config config/legal_benchmark.yaml \
-  --hf-dataset isaacus/legal-rag-bench \
-  --hf-mode corpus
-```
-
----
-
-### Extract corpus from a HuggingFace Q&A dataset and ingest
-
-```bash
-# One file per row (default)
-python run_benchmark.py --extract-qa-corpus explodinggradients/amnesty_qa ./data/corpus
-
-# Group all passages for the same source document into one file
-python run_benchmark.py --extract-qa-corpus PatronusAI/financebench ./data/corpus --group-by doc_name
-
-# Then run benchmark with the extracted corpus
-python run_benchmark.py --config config/legal_benchmark.yaml
-```
-
----
-
-### Inspect and customize metric prompts
-
-```bash
-# Dump all prompt instructions to reports/prompts/
-python run_benchmark.py --config config/legal_benchmark.yaml --save-prompts --limit 0
-
-# Edit the JSON files, then add overrides to your config:
-```
-```yaml
-ragas:
-  prompt_overrides:
-    overrides:
-      faithfulness: "Judge whether every claim in the answer is supported by the context. Be strict."
-      context_recall: "Check if all key facts from the reference answer appear in the contexts."
-```
-
----
-
-### Full run with all features
-
-```bash
-python run_benchmark.py \
-  --config config/legal_benchmark.yaml \
-  --generate-testset \
-  --multi-turn \
-  --save-prompts \
-  --run-id full-run-v1 \
-  -v
-```
-
----
-
-### Reset tenant and re-ingest from scratch
-
-```bash
-# WARNING: deletes all existing data in the tenant before re-ingesting
-python run_benchmark.py --config config/legal_benchmark.yaml --reset-tenant
-```
-
----
-
-## Metrics Reference
-
-### Standard RAGAS Metrics
-
-| Metric | What it measures | Needs LLM | Needs Embeddings | Required inputs |
-|--------|-----------------|-----------|-----------------|-----------------|
-| `faithfulness` | Every claim in the answer is supported by retrieved contexts | Yes | No | response, retrieved_contexts |
-| `response_relevancy` | Answer is relevant and complete for the question | Yes | Yes | user_input, response |
-| `context_precision` | Retrieved contexts ranked — relevant ones appear first | Yes | No | user_input, retrieved_contexts, reference |
-| `context_recall` | All facts needed to answer were retrieved | Yes | No | retrieved_contexts, reference_contexts |
-| `context_relevance` | Retrieved chunks are about the question (no noise) | Yes | No | user_input, retrieved_contexts |
-| `context_utilization` | How much of the retrieved context was used in the answer | Yes | No | user_input, response, retrieved_contexts |
-| `context_entity_recall` | Named entities from reference appear in retrieved contexts | Yes | No | retrieved_contexts, reference |
-| `noise_sensitivity` | Answer is not affected by irrelevant context | Yes | No | user_input, response, retrieved_contexts, reference |
-| `factual_correctness` | Answer contains correct facts vs. reference answer | Yes | No | response, reference |
-| `answer_correctness` | Combined factual + semantic correctness vs. reference | Yes | Yes | response, reference |
-| `answer_accuracy` | Answer accuracy from NV metrics | Yes | No | response, reference |
-| `response_groundedness` | Answer grounded in retrieved contexts | Yes | No | response, retrieved_contexts |
-| `semantic_similarity` | Embedding cosine similarity between answer and reference | No | Yes | response, reference |
-| `bleu_score` | BLEU overlap between answer and reference | No | No | response, reference |
-| `rouge_score` | ROUGE overlap between answer and reference | No | No | response, reference |
-| `chrf_score` | Character n-gram F-score between answer and reference | No | No | response, reference |
-| `exact_match` | Exact string match between answer and reference | No | No | response, reference |
-| `non_llm_string_similarity` | String edit distance between answer and reference | No | No | response, reference |
-| `non_llm_context_recall` | String-match context recall (no LLM) | No | No | retrieved_contexts, reference_contexts |
-| `summary_score` | Quality of a summarization output | Yes | No | response, reference |
-| `topic_adherence` | Multi-turn: agent stays on allowed topics | Yes | No | user_input (multi-turn) |
-| `agent_goal_accuracy` | Multi-turn: agent achieved the conversation goal | Yes | No | user_input, reference (multi-turn) |
-
-### Aspect Critics (custom, binary)
-
-Defined in config. LLM votes yes/no on your custom criterion. `strictness` controls how many votes are taken (majority wins).
+Do not include `supermemory:` section at all.
 
 ```yaml
-aspect_critics:
-  - name: "cites_source"
-    definition: "Does the answer reference or cite the source document?"
-    strictness: 1
+benchmark:
+  name: "HydraDB Only Benchmark"
+
+hydradb:
+  base_url: "https://api.hydradb.com"
+  tenant_id: "my-tenant"
+  sub_tenant_id: "privacyqa"
+  timeout_seconds: 30
+  polling_interval_seconds: 10
+  max_polling_attempts: 60
+  create_tenant_on_start: false
+
+ingestion:
+  documents_dir: "./data/privacy_qa"
+  file_extensions: [".txt", ".pdf", ".md", ".docx"]
+  verify_before_querying: true
+  upload_delay_seconds: 1
+  upload_concurrency: 1
+
+evaluation:
+  test_dataset_path: "./data/privacy_qa.json"
+  search_endpoint: "full_recall"
+  max_results: 10
+  concurrent_requests: 3
+  mode: "thinking"
+  alpha: 0.8
+  graph_context: true
+  boolean_search_mode: "sources"
+
+deepeval:
+  model: "gpt-5.4"
+  threshold: 0.5
+  include_reason: true
+  eval_concurrency: 5
+  metric_timeout_seconds: 60
+  generator_model: "gpt-5.4"
+  generator_temperature: 0.0
+  generator_max_tokens: 1024
+  metrics:
+    - answer_accuracy
+    - contextual_precision
+    - contextual_recall
+    - contextual_relevancy
+
+reporting:
+  output_dir: "./reports"
+  formats: ["json", "html", "csv"]
+  include_per_sample: true
 ```
 
-Output: `0` (fail) or `1` (pass).
+### If you want HydraDB + Supermemory config
 
-### Scored Criteria (custom, continuous)
-
-Defined in config. LLM scores 0–3 on your rubric; automatically normalized to 0–1 in results.
+Add `supermemory:` section:
 
 ```yaml
-scored_criteria:
-  - name: "completeness"
-    definition: |
-      3 — answer covers all aspects of the question
-      2 — covers most aspects, minor gaps
-      1 — covers some aspects but misses important parts
-      0 — answer is incomplete or missing key information
+supermemory:
+  base_url: "https://api.supermemory.ai"
+  container_tag: "privacyqa"
+  timeout_seconds: 30
+  verify_before_querying: true
+  polling_interval_seconds: 5
+  max_polling_attempts: 60
+  reset_on_start: false
+  search_mode: "hybrid"      # hybrid | memories
+  rerank: true
+  threshold: 0.0
+  limit: 20
 ```
 
-Output: `0.0` to `1.0`.
+### Field guide (what to edit first)
 
----
+- `hydradb.tenant_id`: your HydraDB tenant namespace
+- `hydradb.sub_tenant_id`: optional sub-namespace (kept as `""` if unused)
+- `ingestion.documents_dir`: folder containing docs to upload
+- `evaluation.test_dataset_path`: JSON file with benchmark questions
+- `evaluation.search_endpoint`: HydraDB endpoint under test
+- `deepeval.model`: model used by DeepEval metrics
+- `deepeval.generator_model`: model used to generate answer from retrieved context
+- `reporting.formats`: output files to generate
+- `supermemory.container_tag`: namespace for Supermemory docs (when enabled)
 
-## Test Dataset Format
+### Environment variable references inside YAML
 
-`test_dataset.json` is a JSON array of objects:
+You can inject env vars with `${...}`:
+
+```yaml
+hydradb:
+  tenant_id: "${HYDRADB_TENANT_ID}"
+  sub_tenant_id: "${HYDRADB_SUB_TENANT_ID}"
+```
+
+If an env var is missing, config loading fails fast with an explicit error.
+
+## Input Data Format
+
+The benchmark dataset (`evaluation.test_dataset_path`) must be a JSON array with objects like:
 
 ```json
-[
-  {
-    "id": "q001",
-    "question": "Can Fiverr share data with third parties?",
-    "reference_answer": "Yes, Fiverr may share data with service providers and partners.",
-    "reference_contexts": [
-      "Fiverr may share your personal data with third-party service providers..."
-    ]
-  }
-]
+{
+  "id": "sample-1",
+  "question": "What ...?",
+  "reference_answer": "Expected answer",
+  "reference_contexts": ["Relevant context chunk 1", "Relevant context chunk 2"]
+}
 ```
 
-| Field | Required | Used by |
-|-------|----------|---------|
-| `id` | Yes | Checkpointing, reports |
-| `question` | Yes | All metrics |
-| `reference_answer` | Yes (for most metrics) | `context_recall`, `factual_correctness`, `answer_correctness`, Aspect Critics |
-| `reference_contexts` | Only for `context_recall` | `context_recall`, `non_llm_context_recall` |
+Documents for ingestion are read from `ingestion.documents_dir` and filtered by `ingestion.file_extensions`.
 
----
+## Run Commands
 
-## Reports
+From project root:
 
-After each run, three files are saved to `./reports/`:
-
-| File | Contents |
-|------|----------|
-| `bench_<run_id>.json` | Full results including all per-sample scores, latency, token usage |
-| `bench_<run_id>.csv` | Per-sample scores as a spreadsheet |
-| `bench_<run_id>.html` | Self-contained visual report with charts and tables |
-
-### Report contents
-
-- Aggregate score per metric (mean across all samples)
-- Per-sample breakdown: question, answer, retrieved context, every metric score, reasons (for Aspect Critics)
-- Latency stats: min, max, p50, p95
-- Token usage and estimated cost
-- Config snapshot for reproducibility
-
----
-
-## Project Structure
-
+```bash
+python run_benchmark.py
 ```
-hydradb-bench/
-├── run_benchmark.py              # Main entry point (CLI)
-├── config/
-│   └── legal_benchmark.yaml      # Example multi-dataset config
-├── data/
-│   ├── test_dataset.json         # Q&A test samples (single-turn)
-│   ├── multi_turn_dataset.json   # Multi-turn conversation samples
-│   └── documents/                # Documents to ingest into HydraDB
-├── src/hydradb_bench/
-│   ├── client.py                 # HydraDB HTTP client
-│   ├── config.py                 # YAML + .env config loader
-│   ├── models.py                 # Pydantic data models
-│   ├── runner.py                 # Query runner (sends questions to HydraDB)
-│   ├── evaluator.py              # RAGAS evaluation wrapper (30+ metrics)
-│   ├── ingestion.py              # Document upload orchestrator
-│   ├── testset_generator.py      # Auto-generate Q&A from documents
-│   ├── hf_loader.py              # HuggingFace dataset loader
-│   ├── multi_turn.py             # Multi-turn conversation evaluation
-│   ├── context_builder.py        # Format HydraDB full_recall response
-│   ├── checkpoint.py             # Resume interrupted runs
-│   ├── reporter.py               # JSON / CSV / HTML report generator
-│   ├── telegram_notifier.py      # Telegram notifications (summary + zip)
-│   └── cli.py                    # Package entry point (hydradb-bench command)
-├── tests/                        # Unit tests
-├── reports/                      # Generated benchmark reports
-├── .env                          # Credentials (never commit)
-└── pyproject.toml
+
+Common variants:
+
+```bash
+# HydraDB only (default)
+python run_benchmark.py --provider hydradb
+
+# Supermemory only
+python run_benchmark.py --provider supermemory
+
+# Both providers + comparison report
+python run_benchmark.py --provider both
+
+# Skip ingestion (query/eval only)
+python run_benchmark.py --skip-ingestion
+
+# Ingest then exit
+python run_benchmark.py --ingest-only
+
+# Delete + recreate HydraDB tenant before ingestion
+python run_benchmark.py --reset-tenant
+
+# Run first N samples only
+python run_benchmark.py --limit 20
+
+# Verbose per-sample query logs
+python run_benchmark.py --verbose
+
+# Custom config path
+python run_benchmark.py --config config/benchmark.yaml
 ```
+
+### HydraDB command combos
+
+```bash
+# Full HydraDB run (ingest + query + eval)
+python run_benchmark.py --provider hydradb
+
+# HydraDB quick smoke test (first 10 samples)
+python run_benchmark.py --provider hydradb --limit 10
+
+# HydraDB query/eval only (reuse existing indexed docs)
+python run_benchmark.py --provider hydradb --skip-ingestion
+
+# HydraDB query/eval only + verbose logging + small subset
+python run_benchmark.py --provider hydradb --skip-ingestion --limit 20 --verbose
+
+# HydraDB ingest only (no query/eval)
+python run_benchmark.py --provider hydradb --ingest-only
+
+# HydraDB hard refresh: delete tenant, ingest, then run benchmark
+python run_benchmark.py --provider hydradb --reset-tenant
+
+# HydraDB with custom config file
+python run_benchmark.py --provider hydradb --config config/benchmark.yaml
+```
+
+### Supermemory command combos
+
+```bash
+# Full Supermemory run (ingest + query + eval)
+python run_benchmark.py --provider supermemory
+
+# Supermemory quick smoke test (first 10 samples)
+python run_benchmark.py --provider supermemory --limit 10
+
+# Supermemory query/eval only (reuse existing container docs)
+python run_benchmark.py --provider supermemory --skip-ingestion
+
+# Supermemory query/eval only + verbose logging + subset
+python run_benchmark.py --provider supermemory --skip-ingestion --limit 20 --verbose
+
+# Supermemory ingest only (no query/eval)
+python run_benchmark.py --provider supermemory --ingest-only
+
+# Supermemory with custom config file
+python run_benchmark.py --provider supermemory --config config/benchmark.yaml
+```
+
+### Both providers command combos
+
+```bash
+# Full compare run: HydraDB + Supermemory + comparison report
+python run_benchmark.py --provider both
+
+# Quick compare run (first 10 samples)
+python run_benchmark.py --provider both --limit 10
+
+# Compare query/eval only (skip ingestion for both providers)
+python run_benchmark.py --provider both --skip-ingestion
+
+# Compare query/eval only + verbose logs + subset
+python run_benchmark.py --provider both --skip-ingestion --limit 20 --verbose
+
+# Ingest into both providers then exit
+python run_benchmark.py --provider both --ingest-only
+
+# Reset HydraDB tenant, keep Supermemory as configured, then compare
+python run_benchmark.py --provider both --reset-tenant
+
+# Compare using custom config
+python run_benchmark.py --provider both --config config/benchmark.yaml
+```
+
+## Output Reports
+
+Saved into `reporting.output_dir` (default: `./reports`):
+
+- `*.json`: machine-readable full run output (aggregate + optional per-sample)
+- `*.html`: interactive human-readable run report
+- `*.csv`: flattened per-sample rows (when `csv` is enabled and `include_per_sample: true`)
+
+When running `--provider both`, an additional comparison file is generated:
+
+- `<run_id>_comparison.html`
+
+### JSON Report Shape (high level)
+
+Includes:
+
+- run metadata (`run_id`, `timestamp`, `name`)
+- `aggregate_scores` by metric
+- `per_sample` details (scores, reasons, answer, context, latency)
+- latency percentiles/statistics
+- context token statistics
+- error count
+
+## Convert JSON Report to CSV
+
+If you already have a JSON report and need CSV:
+
+```bash
+python json_to_csv.py reports/<report>.json
+python json_to_csv.py reports/<report>.json --output reports/<report>.csv
+```
+
+## Generate Synthetic Test Data
+
+Script:
+
+```bash
+python generate_test_data.py
+```
+
+What it does:
+
+- Uses DeepEval synthesizer over selected docs in `data/privacy_qa/`
+- Saves raw synthesized goldens to `synthetic_data/<timestamp>.json`
+- Writes benchmark-ready dataset to `data/privacy_qa.json`
+
+Note: the script includes a patch/workaround for DeepEval synthesis cost handling with `gpt-5.4`.
+
+## Supported Metrics
+
+Configured via `deepeval.metrics`.
+
+Built-in names supported by this code:
+
+- `answer_accuracy` (custom GEval, strict 0/1 scoring)
+- `answer_relevancy`
+- `faithfulness`
+- `contextual_precision`
+- `contextual_recall`
+- `contextual_relevancy`
+- `hallucination`
+- `bias`
+- `toxicity`
+- `summarization`
+
+## Troubleshooting
+
+- `HYDRADB_API_KEY environment variable is not set`
+  - Add `HYDRADB_API_KEY` in `.env` (or shell env).
+
+- `OPENAI_API_KEY environment variable is not set`
+  - Add `OPENAI_API_KEY`; answer generation and DeepEval need it.
+
+- `supermemory section is present ... SUPERMEMORY_API_KEY not set`
+  - Add the key, or remove/comment `supermemory:` section for HydraDB-only runs.
+
+- `No matching files found in ...`
+  - Verify `ingestion.documents_dir` and `file_extensions`.
+
+- Frequent metric timeouts/errors
+  - Reduce `deepeval.eval_concurrency`
+  - Increase `deepeval.metric_timeout_seconds`
+  - Consider a faster eval model
+
+- Retrieval seems too narrow
+  - Increase `evaluation.max_results` (HydraDB)
+  - Increase `supermemory.limit` (Supermemory)
+
+## Security Notes
+
+- Keep `.env` out of version control.
+- Rotate keys immediately if they are ever exposed.

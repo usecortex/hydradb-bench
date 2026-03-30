@@ -1,2 +1,0 @@
-[console_scripts]
-hydradb-bench = hydradb_bench.cli:main
