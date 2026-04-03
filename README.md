@@ -8,6 +8,16 @@ A practical benchmark framework for evaluating retrieval + answer quality across
 
 The benchmark can run either provider independently or run both in one pass and produce a side-by-side comparison report.
 
+## Quick Start
+
+```bash
+git clone https://github.com/usecortex/hydradb-bench.git
+cd hydradb-bench
+make bootstrap      # creates venv, installs deps, copies .env
+# Edit .env with your API keys, then:
+make run            # run the benchmark
+```
+
 ## What This Framework Does
 
 For each run, the pipeline is:
@@ -67,6 +77,20 @@ Optional (for accurate context token counting):
 ```bash
 pip install tiktoken
 ```
+
+## Make Targets
+
+| Target | Description |
+|--------|-------------|
+| `make help` | Show all available targets (default) |
+| `make bootstrap` | Full setup: venv, install, .env (zero-to-running) |
+| `make install` | Install dependencies into existing venv |
+| `make run` | Run the benchmark (default: `--provider hydradb`) |
+| `make run-both` | Run benchmark for both providers with comparison report |
+| `make generate-data` | Generate synthetic test data from source documents |
+| `make report` | Convert latest JSON report to CSV |
+| `make convert-report FILE=reports/foo.json` | Convert a specific report to CSV |
+| `make clean` | Remove generated/build artifacts (.venv, __pycache__, etc.) |
 
 ## Environment Setup
 
