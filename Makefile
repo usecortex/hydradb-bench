@@ -19,6 +19,8 @@ bootstrap: ## Full setup: venv, install, .env (zero-to-running)
 	@bash scripts/bootstrap.sh
 
 install: ## Install dependencies into venv
+	@if [ ! -d "$(VENV)" ]; then python3 -m venv $(VENV); fi
+	$(PIP) install --upgrade pip
 	$(PIP) install httpx pydantic pyyaml python-dotenv rich tiktoken deepeval openai
 
 run: ## Run the benchmark (default: --provider hydradb)
