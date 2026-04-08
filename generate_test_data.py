@@ -1,5 +1,17 @@
 import json
+import sys
 import uuid
+
+try:
+    import chromadb  # noqa: F401
+except ImportError:
+    print(
+        "ERROR: chromadb is required for test data generation but is not installed.\n"
+        "Install it with:  pip install -e '.[datagen]'\n"
+        "See CONTRIBUTING.md for details.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
 
 from deepeval.synthesizer import Synthesizer
 from deepeval.synthesizer.config import ContextConstructionConfig, Evolution, EvolutionConfig, FiltrationConfig

@@ -21,6 +21,9 @@ dependencies = [
 dev = [
     "ruff>=0.4",
 ]
+datagen = [
+    "chromadb>=0.5",
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -105,6 +105,17 @@ python run_benchmark.py --provider hydradb --skip-ingestion --limit 1
 
 If this completes without errors, your environment is ready.
 
+### (Optional) Test data generation
+
+If you need to regenerate synthetic test data, install the extra `datagen` dependencies:
+
+```bash
+pip install -e ".[datagen]"
+python generate_test_data.py
+```
+
+This requires an `OPENAI_API_KEY` in your `.env` file.
+
 ---
 
 ## Branch Naming Convention
