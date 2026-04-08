@@ -18,6 +18,7 @@ a JSON string via the batch endpoint. Reasons:
   - Supported formats: TXT, MD, PDF, DOC, DOCX, CSV, JPG, PNG, MP4, and more.
   - Supermemory handles chunking and embedding internally for all formats.
 """
+
 from __future__ import annotations
 
 import asyncio
@@ -32,7 +33,6 @@ from rich.progress import Progress, SpinnerColumn, TextColumn, TimeElapsedColumn
 from .models import IngestionConfig, SupermemoryConfig
 
 console = Console()
-
 
 
 class SupermemoryClient:
@@ -60,16 +60,12 @@ class SupermemoryClient:
     @property
     def _client(self) -> httpx.AsyncClient:
         if self._http is None:
-            raise RuntimeError(
-                "SupermemoryClient must be used as an async context manager."
-            )
+            raise RuntimeError("SupermemoryClient must be used as an async context manager.")
         return self._http
 
     def _raise_for_status(self, response: httpx.Response) -> None:
         if response.status_code >= 400:
-            raise RuntimeError(
-                f"Supermemory API error {response.status_code}: {response.text}"
-            )
+            raise RuntimeError(f"Supermemory API error {response.status_code}: {response.text}")
 
     # ── Document management ──────────────────────────────────────────────────
 
@@ -231,9 +227,7 @@ class SupermemoryIngester:
             console.print(f"[yellow]No files matching {allowed_ext} in {doc_dir}[/yellow]")
             return 0, 0, 0.0
 
-        console.print(
-            f"  Found [bold]{len(all_files)}[/bold] file(s) to ingest into Supermemory"
-        )
+        console.print(f"  Found [bold]{len(all_files)}[/bold] file(s) to ingest into Supermemory")
 
         indexed = 0
         failed = 0
@@ -277,16 +271,14 @@ class SupermemoryIngester:
                         console.print("  [green]All Supermemory documents indexed.[/green]")
                         break
                     console.print(
-                        f"  [{attempt + 1}/{self._sm.max_polling_attempts}]"
-                        f" Still processing {remaining} document(s)…"
+                        f"  [{attempt + 1}/{self._sm.max_polling_attempts}] Still processing {remaining} document(s)…"
                     )
                 except Exception as exc:
                     console.print(f"  [yellow]Polling error: {exc}[/yellow]")
                 await asyncio.sleep(self._sm.polling_interval_seconds)
             else:
                 console.print(
-                    "[yellow]Warning: max polling attempts reached; "
-                    "some documents may still be indexing.[/yellow]"
+                    "[yellow]Warning: max polling attempts reached; some documents may still be indexing.[/yellow]"
                 )
 
         elapsed = time.monotonic() - t0

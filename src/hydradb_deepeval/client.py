@@ -18,7 +18,7 @@ class HydraDBClient:
         self._config = config
         self._client: httpx.AsyncClient | None = None
 
-    async def __aenter__(self) -> "HydraDBClient":
+    async def __aenter__(self) -> HydraDBClient:
         self._client = httpx.AsyncClient(
             base_url=self._config.base_url,
             headers={"Authorization": f"Bearer {self._config.api_key}"},
@@ -322,9 +322,7 @@ class HydraDBClient:
         response.raise_for_status()
         return response.json()
 
-    async def get_graph_relations(
-        self, source_id: str, limit: int = 250, is_memory: bool = False
-    ) -> dict:
+    async def get_graph_relations(self, source_id: str, limit: int = 250, is_memory: bool = False) -> dict:
         """GET /list/graph_relations_by_id"""
         client = self._ensure_client()
         params = {

@@ -1,35 +1,41 @@
 import json
 import uuid
-from dotenv import load_dotenv
+
 from deepeval.synthesizer import Synthesizer
-from deepeval.synthesizer.config import ContextConstructionConfig, EvolutionConfig, FiltrationConfig, Evolution
+from deepeval.synthesizer.config import ContextConstructionConfig, Evolution, EvolutionConfig, FiltrationConfig
+from dotenv import load_dotenv
 
 load_dotenv()
 
 # DeepEval doesn't have gpt-5.4 in its pricing table so cost comes back as
 # None, crashing on `synthesis_cost += None`. Patch the class with a descriptor
 # that returns a float subclass where `+ None` safely returns 0 instead.
-import deepeval.synthesizer.synthesizer as _ds
+import deepeval.synthesizer.synthesizer as _ds  # noqa: E402
+
 
 class _SafeCost(float):
     def __add__(self, other):
         return _SafeCost(float.__add__(self, other if other is not None else 0.0))
+
     __radd__ = __add__
+
 
 class _SafeCostDescriptor:
     def __get__(self, obj, objtype=None):
         return _SafeCost(getattr(obj, "_synthesis_cost", 0.0)) if obj else self
+
     def __set__(self, obj, value):
         object.__setattr__(obj, "_synthesis_cost", float(value) if value is not None else 0.0)
+
 
 _ds.Synthesizer.synthesis_cost = _SafeCostDescriptor()
 
 evolution_config = EvolutionConfig(
     evolutions={
-        Evolution.REASONING: 1/4,
-        Evolution.MULTICONTEXT: 1/4,
-        Evolution.CONCRETIZING: 1/4,
-        Evolution.CONSTRAINED: 1/4,
+        Evolution.REASONING: 1 / 4,
+        Evolution.MULTICONTEXT: 1 / 4,
+        Evolution.CONCRETIZING: 1 / 4,
+        Evolution.CONSTRAINED: 1 / 4,
     },
     num_evolutions=4,
 )
@@ -52,13 +58,13 @@ context_construction_config = ContextConstructionConfig(
 
 goldens = synthesizer.generate_goldens_from_docs(
     document_paths=[
-        r"data\privacy_qa\mee.txt",
-        r"data\privacy_qa\Fiverr.txt",
-        r"data\privacy_qa\Groupon.txt",
-        r"data\privacy_qa\Keep.txt",
-        r"data\privacy_qa\TickTick_ To Do List with Reminder, Day Planner.txt",
-        r"data\privacy_qa\Viber Messenger.txt",
-        r"data\privacy_qa\Wordscapes.txt",
+        "data/privacy_qa/mee.txt",
+        "data/privacy_qa/Fiverr.txt",
+        "data/privacy_qa/Groupon.txt",
+        "data/privacy_qa/Keep.txt",
+        "data/privacy_qa/TickTick_ To Do List with Reminder, Day Planner.txt",
+        "data/privacy_qa/Viber Messenger.txt",
+        "data/privacy_qa/Wordscapes.txt",
     ],
     include_expected_output=True,
     max_goldens_per_context=2,
@@ -75,12 +81,14 @@ for g in goldens:
     context = getattr(g, "context", None) or []
     if isinstance(context, str):
         context = [context]
-    samples.append({
-        "id": str(uuid.uuid4()),
-        "question": question.strip(),
-        "reference_answer": (getattr(g, "expected_output", "") or "").strip(),
-        "reference_contexts": [c for c in context if c and c.strip()],
-    })
+    samples.append(
+        {
+            "id": str(uuid.uuid4()),
+            "question": question.strip(),
+            "reference_answer": (getattr(g, "expected_output", "") or "").strip(),
+            "reference_contexts": [c for c in context if c and c.strip()],
+        }
+    )
 
 with open("data/privacy_qa.json", "w", encoding="utf-8") as f:
     json.dump(samples, f, indent=2, ensure_ascii=False)

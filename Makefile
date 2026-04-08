@@ -6,7 +6,7 @@ PYTHON    := $(VENV)/bin/python
 PIP       := $(VENV)/bin/pip
 ACTIVATE  := source $(VENV)/bin/activate
 
-.PHONY: help bootstrap install run generate-data report convert-report clean
+.PHONY: help bootstrap install run generate-data report convert-report lint format clean
 
 help: ## Show this help message
 	@echo "Usage: make [target]"
@@ -21,7 +21,7 @@ bootstrap: ## Full setup: venv, install, .env (zero-to-running)
 install: ## Install dependencies into venv
 	@if [ ! -d "$(VENV)" ]; then python3 -m venv $(VENV); fi
 	$(PIP) install --upgrade pip
-	$(PIP) install httpx pydantic pyyaml python-dotenv rich tiktoken deepeval openai
+	$(PIP) install -e ".[dev]"
 
 run: ## Run the benchmark (default: --provider hydradb)
 	$(PYTHON) run_benchmark.py --provider hydradb
@@ -43,6 +43,14 @@ report: ## Convert latest JSON report to CSV
 
 convert-report: ## Convert a specific report: make convert-report FILE=reports/foo.json
 	$(PYTHON) json_to_csv.py "$(FILE)"
+
+lint: ## Run linting checks (ruff)
+	$(VENV)/bin/ruff check .
+	$(VENV)/bin/ruff format --check .
+
+format: ## Auto-format code (ruff)
+	$(VENV)/bin/ruff check --fix .
+	$(VENV)/bin/ruff format .
 
 clean: ## Remove generated/build artifacts
 	rm -rf $(VENV) __pycache__ src/*.egg-info *.egg-info .eggs

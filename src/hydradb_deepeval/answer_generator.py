@@ -35,7 +35,7 @@ async def generate_answer(
 
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
-        raise EnvironmentError("OPENAI_API_KEY environment variable is not set")
+        raise OSError("OPENAI_API_KEY environment variable is not set")
 
     client = AsyncOpenAI(api_key=api_key)
     response = await client.chat.completions.create(

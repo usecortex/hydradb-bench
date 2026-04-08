@@ -61,11 +61,7 @@ class DocumentIngester:
 
     def _collect_files(self, directory: Path) -> list[Path]:
         extensions = {ext.lower() for ext in self._config.file_extensions}
-        return [
-            f
-            for f in directory.iterdir()
-            if f.is_file() and f.suffix.lower() in extensions
-        ]
+        return [f for f in directory.iterdir() if f.is_file() and f.suffix.lower() in extensions]
 
     async def _upload_files(self, files: list[Path]) -> tuple[list[str], int]:
         source_ids: list[str] = []
@@ -79,9 +75,7 @@ class DocumentIngester:
             TimeElapsedColumn(),
             console=console,
         ) as progress:
-            task = progress.add_task(
-                f"Uploading documents… (concurrency={concurrency})", total=len(files)
-            )
+            task = progress.add_task(f"Uploading documents… (concurrency={concurrency})", total=len(files))
 
             # Process files in batches of `concurrency`
             for batch_start in range(0, len(files), concurrency):
@@ -104,7 +98,7 @@ class DocumentIngester:
 
                 results = await asyncio.gather(*[_upload_one(f) for f in batch])
 
-                for file_path, (sid, err) in zip(batch, results):
+                for file_path, (sid, err) in zip(batch, results, strict=True):
                     if err:
                         console.print(f"  [red]✗[/red] {file_path.name} — {err}")
                         failed += 1

@@ -24,13 +24,12 @@ _ENV_PATTERN = re.compile(r"\$\{([^}]+)\}")
 def _interpolate(value: Any) -> Any:
     """Recursively replace ${ENV_VAR} references with environment values."""
     if isinstance(value, str):
+
         def _replace(match: re.Match) -> str:
             var = match.group(1)
             env_val = os.environ.get(var)
             if env_val is None:
-                raise EnvironmentError(
-                    f"Environment variable '{var}' is referenced in config but not set."
-                )
+                raise OSError(f"Environment variable '{var}' is referenced in config but not set.")
             return env_val
 
         return _ENV_PATTERN.sub(_replace, value)
@@ -60,14 +59,11 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
     # Gather required secrets from environment
     api_key = os.environ.get("HYDRADB_API_KEY", "")
     if not api_key:
-        raise EnvironmentError(
-            "HYDRADB_API_KEY environment variable is not set. "
-            "Set it in .env or your shell before running."
-        )
+        raise OSError("HYDRADB_API_KEY environment variable is not set. Set it in .env or your shell before running.")
 
     openai_key = os.environ.get("OPENAI_API_KEY", "")
     if not openai_key:
-        raise EnvironmentError(
+        raise OSError(
             "OPENAI_API_KEY environment variable is not set. "
             "DeepEval requires OpenAI access. "
             "Set it in .env or your shell before running."
@@ -91,7 +87,7 @@ def load_config(config_path: str = "config/benchmark.yaml") -> BenchmarkConfig:
     if sm_raw:
         sm_api_key = os.environ.get("SUPERMEMORY_API_KEY", "")
         if not sm_api_key:
-            raise EnvironmentError(
+            raise OSError(
                 "supermemory section is present in config but SUPERMEMORY_API_KEY "
                 "environment variable is not set. Set it in .env or your shell."
             )

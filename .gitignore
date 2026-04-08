@@ -1,6 +1,36 @@
+# Environment
 .env
+.env.local
+.env.*.local
+
+# Python
 .venv/
 __pycache__/
+*.py[cod]
+*$py.class
 *.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# Tools
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Reports (generated output)
 reports/
+
+# DeepEval cache
 .deepeval/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
