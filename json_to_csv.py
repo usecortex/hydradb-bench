@@ -5,6 +5,7 @@ Usage:
     python json_to_csv.py reports/sample01.json
     python json_to_csv.py reports/sample01.json --output reports/sample01.csv
 """
+
 from __future__ import annotations
 
 import argparse
@@ -25,8 +26,16 @@ def convert(json_path: Path, output_path: Path) -> None:
     run_id = data.get("run_id", "")
 
     # Flatten each sample into a plain dict — auto-discovers all metric columns
-    fixed = ["run_id", "sample_id", "question", "answer", "reference_answer",
-             "context_string", "context_tokens", "latency_ms"]
+    fixed = [
+        "run_id",
+        "sample_id",
+        "question",
+        "answer",
+        "reference_answer",
+        "context_string",
+        "context_tokens",
+        "latency_ms",
+    ]
     metrics = list(per_sample[0].get("scores", {}).keys())
     fieldnames = fixed + metrics + [f"{m}_reason" for m in metrics]
 
@@ -60,8 +69,9 @@ def convert(json_path: Path, output_path: Path) -> None:
 def main() -> None:
     p = argparse.ArgumentParser(description="Convert benchmark JSON report to CSV")
     p.add_argument("json", metavar="JSON_FILE", help="Path to benchmark JSON report")
-    p.add_argument("--output", "-o", metavar="CSV_FILE",
-                   help="Output CSV path (default: same name as JSON with .csv extension)")
+    p.add_argument(
+        "--output", "-o", metavar="CSV_FILE", help="Output CSV path (default: same name as JSON with .csv extension)"
+    )
     args = p.parse_args()
 
     json_path = Path(args.json)

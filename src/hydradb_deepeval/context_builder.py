@@ -21,12 +21,12 @@ def _format_path_chain(path: Any) -> str:
     triplets = path.get("triplets") or []
     parts = []
     for t in triplets:
-        src  = (t.get("source") or {}).get("name", "")
-        tgt  = (t.get("target") or {}).get("name", "")
-        rel  = t.get("relation") or {}
+        src = (t.get("source") or {}).get("name", "")
+        tgt = (t.get("target") or {}).get("name", "")
+        rel = t.get("relation") or {}
         pred = rel.get("canonical_predicate", "")
         line = f"[{src}] -> {pred} -> [{tgt}]"
-        ctx  = rel.get("context")
+        ctx = rel.get("context")
         if ctx:
             line += f": {ctx}"
         temporal = rel.get("temporal_details")
@@ -75,19 +75,16 @@ def build_context_string(result: dict[str, Any]) -> str:
             chunk_uuid = chunk.get("chunk_uuid") or chunk.get("id") or ""
             if chunk_uuid and chunk_id_to_group_ids and chunk_relations:
                 group_ids = chunk_id_to_group_ids.get(chunk_uuid, [])
-                relevant_relations = [
-                    r for r in chunk_relations
-                    if r.get("group_id") in group_ids
-                ]
+                relevant_relations = [r for r in chunk_relations if r.get("group_id") in group_ids]
                 if relevant_relations:
                     lines.append("Graph Relations:")
                     for rel in relevant_relations:
                         for triplet in rel.get("triplets") or []:
-                            src  = (triplet.get("source") or {}).get("name", "")
-                            tgt  = (triplet.get("target") or {}).get("name", "")
+                            src = (triplet.get("source") or {}).get("name", "")
+                            tgt = (triplet.get("target") or {}).get("name", "")
                             rel_ = triplet.get("relation") or {}
                             pred = rel_.get("canonical_predicate", "")
-                            ctx  = rel_.get("context", "")
+                            ctx = rel_.get("context", "")
                             line = f"  [{src}] -> {pred} -> [{tgt}]: {ctx}"
                             temporal = rel_.get("temporal_details")
                             if temporal:
@@ -97,11 +94,7 @@ def build_context_string(result: dict[str, Any]) -> str:
             # Extra context
             extra_ids = chunk.get("extra_context_ids") or []
             if extra_ids and additional_context:
-                extras = [
-                    additional_context[eid]
-                    for eid in extra_ids
-                    if eid in additional_context
-                ]
+                extras = [additional_context[eid] for eid in extra_ids if eid in additional_context]
                 if extras:
                     lines.append("Extra Context:")
                     for extra in extras:

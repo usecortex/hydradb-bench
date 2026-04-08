@@ -51,15 +51,8 @@ info "Activated virtual environment"
 info "Upgrading pip"
 pip install --quiet --upgrade pip
 
-# Note: pyproject.toml uses a non-standard build backend (setuptools.backends.legacy:build)
-# that prevents `pip install -e .`. Install dependencies directly instead.
-info "Installing dependencies from pyproject.toml"
-pip install --quiet httpx pydantic pyyaml python-dotenv rich tiktoken deepeval openai
-
-# Add the src directory to the path so imports work
-SITE_PACKAGES=$("${VENV_DIR}/bin/python" -c "import site; print(site.getsitepackages()[0])")
-echo "${REPO_ROOT}/src" > "${SITE_PACKAGES}/hydradb-bench.pth"
-info "Added src/ to Python path"
+info "Installing package in editable mode (with dev tools)"
+pip install --quiet -e "${REPO_ROOT}[dev]"
 
 # ── 4. Environment file ─────────────────────────────────────────────────────
 if [ ! -f "${REPO_ROOT}/.env" ]; then

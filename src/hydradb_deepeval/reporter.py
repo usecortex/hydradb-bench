@@ -5,7 +5,7 @@ import io
 import json
 from pathlib import Path
 
-from .models import BenchmarkResult, SampleScore
+from .models import BenchmarkResult
 
 
 def _score_color(score: float | None) -> str:
@@ -67,8 +67,8 @@ def _pill(score: float | None) -> str:
     border = color
     return (
         f'<span style="display:inline-flex;align-items:center;justify-content:center;'
-        f'background:{bg};color:{color};border:1px solid {border};border-radius:2px;'
-        f'padding:2px 7px;font-size:.72rem;font-weight:700;min-width:42px;'
+        f"background:{bg};color:{color};border:1px solid {border};border-radius:2px;"
+        f"padding:2px 7px;font-size:.72rem;font-weight:700;min-width:42px;"
         f'font-family:monospace">{label}</span>'
     )
 
@@ -92,7 +92,7 @@ def _detail_block(label: str, content: str, mono: bool = False) -> str:
 
 def _stat_table_html(stats: dict[str, float], unit: str, keys: list[str]) -> str:
     if not stats:
-        return f'<p style="color:var(--muted);font-style:italic;font-size:.84rem">No data.</p>'
+        return '<p style="color:var(--muted);font-style:italic;font-size:.84rem">No data.</p>'
     max_val = max((stats.get(k, 0) for k in keys), default=1) or 1
     rows = ""
     for key in keys:
@@ -141,8 +141,16 @@ def _generate_csv(result: BenchmarkResult) -> str:
         flat_rows.append(row)
 
     # Column order: fixed fields first, then metrics (scores then reasons) in discovery order
-    fixed = ["run_id", "sample_id", "question", "answer", "reference_answer",
-             "context_string", "context_tokens", "latency_ms"]
+    fixed = [
+        "run_id",
+        "sample_id",
+        "question",
+        "answer",
+        "reference_answer",
+        "context_string",
+        "context_tokens",
+        "latency_ms",
+    ]
     metrics = list(result.per_sample[0].scores.keys())
     fieldnames = fixed + metrics + [f"{m}_reason" for m in metrics]
 
@@ -163,7 +171,7 @@ def _generate_html(result: BenchmarkResult) -> str:
         agg_rows += (
             f"<tr>"
             f'<td style="padding:10px 14px;font-size:.84rem;width:200px;white-space:nowrap">'
-            f'{metric.replace("_", " ").title()}</td>'
+            f"{metric.replace('_', ' ').title()}</td>"
             f'<td style="padding:10px 14px;width:100%">'
             f'<div style="background:var(--surface2);height:16px;border:1px solid var(--border);border-radius:2px;overflow:hidden">'
             f'<div class="st-fill {cls}" style="width:{pct}%;height:100%"></div></div></td>'
@@ -179,17 +187,13 @@ def _generate_html(result: BenchmarkResult) -> str:
         all_metrics = list(result.aggregate_scores.keys())
 
     metric_headers = "".join(
-        f'<th onclick="sortTable({i + 2})">{m.replace("_", " ").title()}</th>'
-        for i, m in enumerate(all_metrics)
+        f'<th onclick="sortTable({i + 2})">{m.replace("_", " ").title()}</th>' for i, m in enumerate(all_metrics)
     )
 
     sample_rows = ""
     for idx, ss in enumerate(result.per_sample):
         # Metric pills for the collapsed row
-        metric_cells = "".join(
-            f"<td>{_pill(ss.scores.get(m))}</td>"
-            for m in all_metrics
-        )
+        metric_cells = "".join(f"<td>{_pill(ss.scores.get(m))}</td>" for m in all_metrics)
 
         # Expandable detail section
         detail_blocks = _detail_block("Answer", ss.answer or "—")
@@ -199,9 +203,7 @@ def _generate_html(result: BenchmarkResult) -> str:
         for m in all_metrics:
             reason = ss.reasons.get(m)
             if reason:
-                detail_blocks += _detail_block(
-                    f"{m.replace('_', ' ').title()} — Reason", reason
-                )
+                detail_blocks += _detail_block(f"{m.replace('_', ' ').title()} — Reason", reason)
 
         row_id = f"row-{idx}"
         sample_rows += (
@@ -210,7 +212,7 @@ def _generate_html(result: BenchmarkResult) -> str:
             f'<td class="q-cell">'
             f'<div class="q-summary" onclick="toggleDetail(\'{row_id}\')">'
             f'<span class="chevron" id="chev-{row_id}">▶</span>'
-            f'{_escape_html(ss.sample_id)} — {_escape_html(ss.question[:80])}{"…" if len(ss.question) > 80 else ""}'
+            f"{_escape_html(ss.sample_id)} — {_escape_html(ss.question[:80])}{'…' if len(ss.question) > 80 else ''}"
             f"</div>"
             f'<div class="q-detail" id="{row_id}">{detail_blocks}</div>'
             f"</td>"
@@ -421,7 +423,7 @@ def _generate_comparison_html(hydra: BenchmarkResult, sm: BenchmarkResult) -> st
         s_color = _score_color(s)
         agg_rows += f"""
         <tr>
-          <td style="padding:12px 16px;font-size:.84rem;width:200px;white-space:nowrap">{metric.replace('_',' ').title()}</td>
+          <td style="padding:12px 16px;font-size:.84rem;width:200px;white-space:nowrap">{metric.replace("_", " ").title()}</td>
           <td style="padding:12px 16px;width:220px">
             <div style="background:var(--surface2);height:14px;border-radius:2px;overflow:hidden;border:1px solid var(--border)">
               <div style="width:{h_pct}%;height:100%;background:#2563eb;opacity:.75"></div></div>
@@ -460,15 +462,11 @@ def _generate_comparison_html(hydra: BenchmarkResult, sm: BenchmarkResult) -> st
 
     # ── Per-sample table ─────────────────────────────────────────────────────
     hydra_by_id = {ss.sample_id: ss for ss in hydra.per_sample}
-    sm_by_id    = {ss.sample_id: ss for ss in sm.per_sample}
-    all_ids = list(dict.fromkeys(
-        [ss.sample_id for ss in hydra.per_sample] +
-        [ss.sample_id for ss in sm.per_sample]
-    ))
+    sm_by_id = {ss.sample_id: ss for ss in sm.per_sample}
+    all_ids = list(dict.fromkeys([ss.sample_id for ss in hydra.per_sample] + [ss.sample_id for ss in sm.per_sample]))
 
     metric_headers = "".join(
-        f'<th colspan="2" style="text-align:center">{m.replace("_"," ").title()}</th>'
-        for m in all_metrics
+        f'<th colspan="2" style="text-align:center">{m.replace("_", " ").title()}</th>' for m in all_metrics
     )
     h_abbr = _escape_html(h_label[:6])
     s_abbr = _escape_html(s_label[:6])
@@ -508,11 +506,11 @@ def _generate_comparison_html(hydra: BenchmarkResult, sm: BenchmarkResult) -> st
         row_id = f"crow-{idx}"
         sample_rows += (
             f"<tr>"
-            f'<td style="color:var(--muted);font-size:.72rem;font-family:monospace">{idx+1}</td>'
+            f'<td style="color:var(--muted);font-size:.72rem;font-family:monospace">{idx + 1}</td>'
             f'<td class="q-cell">'
             f'<div class="q-summary" onclick="toggleDetail(\'{row_id}\')">'
             f'<span class="chevron" id="chev-{row_id}">▶</span>'
-            f'{_escape_html(sid)} — {_escape_html(question[:80])}{"…" if len(question)>80 else ""}'
+            f"{_escape_html(sid)} — {_escape_html(question[:80])}{'…' if len(question) > 80 else ''}"
             f"</div>"
             f'<div class="q-detail" id="{row_id}">{detail}</div>'
             f"</td>"

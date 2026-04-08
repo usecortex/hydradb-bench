@@ -43,6 +43,7 @@ def _build_metric(name: str, config: DeepEvalConfig) -> Any:
     if name == "answer_accuracy":
         from deepeval.metrics import GEval
         from deepeval.test_case import LLMTestCaseParams
+
         return GEval(
             name="answer_accuracy",
             criteria=_ANSWER_ACCURACY_CRITERIA,
@@ -71,9 +72,7 @@ class DeepEvalEvaluator:
         self._config = config
         self._metrics = self._config.metrics
 
-    async def evaluate(
-        self, results: list[QueryResult]
-    ) -> tuple[dict[str, float], list[SampleScore]]:
+    async def evaluate(self, results: list[QueryResult]) -> tuple[dict[str, float], list[SampleScore]]:
         """Run DeepEval metrics over all QueryResults concurrently.
 
         Returns:
@@ -101,9 +100,7 @@ class DeepEvalEvaluator:
         async def evaluate_sample(idx: int, qr: QueryResult) -> SampleScore:
             async with semaphore:
                 sample = qr.sample
-                console.print(
-                    f"  Evaluating [{idx}/{total}] [bold]{sample.id}[/bold]"
-                )
+                console.print(f"  Evaluating [{idx}/{total}] [bold]{sample.id}[/bold]")
 
                 if qr.error:
                     console.print(f"    [yellow]Skipped (query error): {qr.error}[/yellow]")
@@ -155,9 +152,7 @@ class DeepEvalEvaluator:
                         console.print(f"    [red]{metric_name}: ERROR — {exc}[/red]")
                         return metric_name, None, str(exc)
 
-                metric_results = await asyncio.gather(
-                    *[measure_one(name, m) for name, m in metric_objects.items()]
-                )
+                metric_results = await asyncio.gather(*[measure_one(name, m) for name, m in metric_objects.items()])
 
                 scores: dict[str, float | None] = {}
                 reasons: dict[str, str | None] = {}

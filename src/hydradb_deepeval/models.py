@@ -16,9 +16,10 @@ class SupermemoryConfig(BaseModel):
     # Search
     search_mode: str = "hybrid"  # "hybrid" | "memories"
     rerank: bool = False
-    threshold: float = 0.0        # minimum similarity score (0 = return all)
-    limit: int = 20               # total chunks returned (not documents) — keep high enough
-                                  # so results span multiple documents (5 chunks ≈ 1 doc only)
+    threshold: float = 0.0  # minimum similarity score (0 = return all)
+    # total chunks returned (not documents) — keep high enough so results
+    # span multiple documents (5 chunks ~ 1 doc only)
+    limit: int = 20
 
 
 class HydraConfig(BaseModel):
@@ -50,7 +51,7 @@ class DeepEvalConfig(BaseModel):
     ]
     threshold: float = 0.5
     include_reason: bool = True
-    eval_concurrency: int = 5       # samples evaluated in parallel
+    eval_concurrency: int = 5  # samples evaluated in parallel
     metric_timeout_seconds: int = 60  # per-metric a_measure() timeout
     # Answer generation (used when endpoint is full_recall / recall_preferences / boolean_recall)
     generator_model: str = "gpt-4o-mini"
@@ -65,13 +66,13 @@ class EvaluationConfig(BaseModel):
     max_results: int = 5
     concurrent_requests: int = 3
     # Shared recall params
-    mode: str = "fast"       # "fast" | "thinking"
-    alpha: float = 0.8       # hybrid vector/BM25 weight (0=BM25, 1=vector)
+    mode: str = "fast"  # "fast" | "thinking"
+    alpha: float = 0.8  # hybrid vector/BM25 weight (0=BM25, 1=vector)
     # full_recall / recall_preferences
     graph_context: bool = True
     recency_bias: float = 0.0
     # boolean_recall
-    boolean_operator: str = "or"   # "or" | "and" | "phrase"
+    boolean_operator: str = "or"  # "or" | "and" | "phrase"
     boolean_search_mode: str = "sources"  # "sources" | "memories"
 
 
@@ -103,7 +104,7 @@ class QueryResult(BaseModel):
     answer: str = ""
     retrieved_contexts: list[str] = []
     context_string: str = ""  # output of build_context_string (for display in report)
-    context_tokens: int = 0   # tiktoken count of context_string
+    context_tokens: int = 0  # tiktoken count of context_string
     latency_ms: float = 0.0
     error: str | None = None
 
@@ -128,7 +129,7 @@ class BenchmarkResult(BaseModel):
     per_sample: list[SampleScore] = []
     latency_p50_ms: float = 0.0
     latency_p95_ms: float = 0.0
-    latency_stats: dict[str, float] = {}       # min, mean, p50, p75, p95, p99, max
-    context_token_stats: dict[str, float] = {} # min, mean, max of context tokens per query
+    latency_stats: dict[str, float] = {}  # min, mean, p50, p75, p95, p99, max
+    context_token_stats: dict[str, float] = {}  # min, mean, max of context tokens per query
     total_samples: int = 0
     error_count: int = 0

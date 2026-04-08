@@ -10,12 +10,12 @@ Usage examples:
   python run_benchmark.py --reset-tenant                  # Wipe HydraDB tenant first
   python run_benchmark.py --limit 20                      # Only 20 test samples
 """
+
 from __future__ import annotations
 
 import argparse
 import asyncio
 import json
-import os
 import sys
 import time
 import uuid
@@ -28,11 +28,6 @@ from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, TextColumn, TimeElapsedColumn
 from rich.table import Table
 
-# ---------------------------------------------------------------------------
-# Allow running from the project root without installing the package
-# ---------------------------------------------------------------------------
-sys.path.insert(0, str(Path(__file__).parent / "src"))
-
 from hydradb_deepeval.answer_generator import generate_answer
 from hydradb_deepeval.client import HydraDBClient
 from hydradb_deepeval.config import load_config
@@ -43,7 +38,6 @@ from hydradb_deepeval.models import (
     BenchmarkResult,
     EvaluationConfig,
     QueryResult,
-    SampleScore,
     SupermemoryConfig,
     TestSample,
 )
@@ -57,9 +51,11 @@ console = Console()
 # Token counting (tiktoken, fallback to word count)
 # ---------------------------------------------------------------------------
 
+
 def _count_tokens(text: str) -> int:
     try:
         import tiktoken
+
         enc = tiktoken.get_encoding("cl100k_base")
         return len(enc.encode(text))
     except Exception:
@@ -69,6 +65,7 @@ def _count_tokens(text: str) -> int:
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
+
 
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
@@ -125,6 +122,7 @@ def build_parser() -> argparse.ArgumentParser:
 # Dataset loading
 # ---------------------------------------------------------------------------
 
+
 def load_test_dataset(path: str) -> list[TestSample]:
     p = Path(path)
     if not p.exists():
@@ -137,6 +135,7 @@ def load_test_dataset(path: str) -> list[TestSample]:
 # ---------------------------------------------------------------------------
 # HydraDB query runner
 # ---------------------------------------------------------------------------
+
 
 async def run_single_query_hydradb(
     client: HydraDBClient,
@@ -209,7 +208,7 @@ async def run_single_query_hydradb(
             sample=sample,
             answer=answer,
             retrieved_contexts=contexts,  # raw chunk_content list for DeepEval metrics
-            context_string=context_str,   # full formatted context for report display
+            context_string=context_str,  # full formatted context for report display
             context_tokens=context_tokens,
             latency_ms=latency_ms,
         )
@@ -221,6 +220,7 @@ async def run_single_query_hydradb(
 # ---------------------------------------------------------------------------
 # Supermemory query runner
 # ---------------------------------------------------------------------------
+
 
 async def run_single_query_supermemory(
     client: SupermemoryClient,
@@ -234,7 +234,7 @@ async def run_single_query_supermemory(
         response = await client.search(
             query=sample.question,
             container_tag=sm_cfg.container_tag,
-            limit=sm_cfg.limit,       # total chunks — use sm_cfg.limit not eval_cfg.max_results
+            limit=sm_cfg.limit,  # total chunks — use sm_cfg.limit not eval_cfg.max_results
             search_mode=sm_cfg.search_mode,
             rerank=sm_cfg.rerank,
             threshold=sm_cfg.threshold,
@@ -285,8 +285,9 @@ async def run_single_query_supermemory(
 # Generic concurrent query runner (works for either provider)
 # ---------------------------------------------------------------------------
 
+
 async def run_all_queries(
-    query_fn,             # async callable: (sample) -> QueryResult
+    query_fn,  # async callable: (sample) -> QueryResult
     samples: list[TestSample],
     concurrency: int,
     label: str,
@@ -323,6 +324,7 @@ async def run_all_queries(
 # Latency / token stats
 # ---------------------------------------------------------------------------
 
+
 def compute_context_token_stats(results: list[QueryResult]) -> dict:
     tokens = [r.context_tokens for r in results if not r.error and r.context_tokens > 0]
     if not tokens:
@@ -341,13 +343,13 @@ def compute_latency_stats(results: list[QueryResult]) -> tuple[float, float, dic
         return latencies[min(int(n * p), n - 1)]
 
     stats = {
-        "min":  round(latencies[0], 1),
+        "min": round(latencies[0], 1),
         "mean": round(sum(latencies) / n, 1),
-        "p50":  round(median(latencies), 1),
-        "p75":  round(pct(0.75), 1),
-        "p95":  round(pct(0.95), 1),
-        "p99":  round(pct(0.99), 1),
-        "max":  round(latencies[-1], 1),
+        "p50": round(median(latencies), 1),
+        "p75": round(pct(0.75), 1),
+        "p95": round(pct(0.95), 1),
+        "p99": round(pct(0.99), 1),
+        "max": round(latencies[-1], 1),
     }
     return stats["p50"], stats["p95"], stats
 
@@ -355,6 +357,7 @@ def compute_latency_stats(results: list[QueryResult]) -> tuple[float, float, dic
 # ---------------------------------------------------------------------------
 # Rich display helpers
 # ---------------------------------------------------------------------------
+
 
 def print_score_table(result: BenchmarkResult) -> None:
     table = Table(title=f"Aggregate Scores — {result.name}", show_header=True, header_style="bold cyan")
@@ -387,9 +390,7 @@ def print_comparison_table(
     sm_result: BenchmarkResult,
 ) -> None:
     """Side-by-side metric comparison table for --provider both."""
-    all_metrics = sorted(
-        set(hydra_result.aggregate_scores) | set(sm_result.aggregate_scores)
-    )
+    all_metrics = sorted(set(hydra_result.aggregate_scores) | set(sm_result.aggregate_scores))
     table = Table(
         title="Benchmark Comparison: HydraDB vs Supermemory",
         show_header=True,
@@ -436,6 +437,7 @@ def print_comparison_table(
 # Pipeline helpers
 # ---------------------------------------------------------------------------
 
+
 async def _run_provider_queries_and_evaluate(
     query_results: list[QueryResult],
     config,
@@ -479,6 +481,7 @@ async def _run_provider_queries_and_evaluate(
 # Main pipeline
 # ---------------------------------------------------------------------------
 
+
 async def main(args: argparse.Namespace) -> None:
     run_id = str(uuid.uuid4())[:8]
     timestamp = datetime.now(timezone.utc).isoformat()
@@ -497,7 +500,7 @@ async def main(args: argparse.Namespace) -> None:
     console.rule("[bold]1/4  Load config + validate env[/bold]")
     try:
         config = load_config(args.config)
-    except (FileNotFoundError, EnvironmentError) as exc:
+    except OSError as exc:
         console.print(f"[red]Configuration error: {exc}[/red]")
         sys.exit(1)
 
@@ -564,9 +567,7 @@ async def main(args: argparse.Namespace) -> None:
         sm_cfg = config.supermemory
         async with SupermemoryClient(sm_cfg) as sm_client:
             if sm_cfg.reset_on_start and not args.skip_ingestion:
-                console.print(
-                    f"  [Supermemory] Deleting container '{sm_cfg.container_tag}'…"
-                )
+                console.print(f"  [Supermemory] Deleting container '{sm_cfg.container_tag}'…")
                 try:
                     await sm_client.delete_container_tag(sm_cfg.container_tag)
                     console.print("  [green]Container deleted.[/green]")
@@ -574,9 +575,7 @@ async def main(args: argparse.Namespace) -> None:
                     console.print(f"  [yellow]Delete failed (may not exist): {exc}[/yellow]")
 
             if args.skip_ingestion:
-                console.print(
-                    "  [dim][Supermemory] --skip-ingestion set; skipping upload.[/dim]"
-                )
+                console.print("  [dim][Supermemory] --skip-ingestion set; skipping upload.[/dim]")
             else:
                 sm_ingester = SupermemoryIngester(sm_client, config.ingestion, sm_cfg)
                 indexed, failed, elapsed = await sm_ingester.run()
@@ -602,9 +601,10 @@ async def main(args: argparse.Namespace) -> None:
     # ── HydraDB queries ───────────────────────────────────────────────────
     if provider in ("hydradb", "both"):
         async with HydraDBClient(config.hydradb) as hydra_client:
-            hydra_fn = lambda s: run_single_query_hydradb(  # noqa: E731
-                hydra_client, s, config.evaluation, config.deepeval
-            )
+
+            def hydra_fn(s):
+                return run_single_query_hydradb(hydra_client, s, config.evaluation, config.deepeval)
+
             hydra_query_results = await run_all_queries(
                 query_fn=hydra_fn,
                 samples=samples,
@@ -614,17 +614,17 @@ async def main(args: argparse.Namespace) -> None:
             )
         h_errors = sum(1 for r in hydra_query_results if r.error)
         console.print(
-            f"  [HydraDB] Queries done: [bold]{len(hydra_query_results)}[/bold]  "
-            f"errors: [red]{h_errors}[/red]"
+            f"  [HydraDB] Queries done: [bold]{len(hydra_query_results)}[/bold]  errors: [red]{h_errors}[/red]"
         )
 
     # ── Supermemory queries ───────────────────────────────────────────────
     if provider in ("supermemory", "both") and config.supermemory:
         sm_cfg = config.supermemory
         async with SupermemoryClient(sm_cfg) as sm_client:
-            sm_fn = lambda s: run_single_query_supermemory(  # noqa: E731
-                sm_client, s, config.evaluation, sm_cfg, config.deepeval
-            )
+
+            def sm_fn(s):
+                return run_single_query_supermemory(sm_client, s, config.evaluation, sm_cfg, config.deepeval)
+
             sm_query_results = await run_all_queries(
                 query_fn=sm_fn,
                 samples=samples,
@@ -634,8 +634,7 @@ async def main(args: argparse.Namespace) -> None:
             )
         s_errors = sum(1 for r in sm_query_results if r.error)
         console.print(
-            f"  [Supermemory] Queries done: [bold]{len(sm_query_results)}[/bold]  "
-            f"errors: [red]{s_errors}[/red]"
+            f"  [Supermemory] Queries done: [bold]{len(sm_query_results)}[/bold]  errors: [red]{s_errors}[/red]"
         )
 
     # ------------------------------------------------------------------ 4/4
