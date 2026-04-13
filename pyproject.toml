@@ -29,7 +29,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "ruff>=0.4",
+    "ruff>=0.15.10",
 ]
 datagen = [
     "chromadb>=0.5",
