@@ -23,7 +23,7 @@ dependencies = [
     "python-dotenv>=1.0",
     "rich>=13.0",
     "tiktoken>=0.7.0",
-    "deepeval>=1.0",
+    "deepeval>=3.9.6",
     "openai>=1.0",
 ]
 
