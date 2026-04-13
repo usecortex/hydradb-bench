@@ -32,7 +32,7 @@ dev = [
     "ruff>=0.4",
 ]
 datagen = [
-    "chromadb>=0.5",
+    "chromadb>=1.5.7",
 ]
 
 [tool.setuptools.packages.find]
