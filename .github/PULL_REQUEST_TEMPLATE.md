@@ -1,6 +1,15 @@
-## Description
+## Summary
 
-A brief summary of the changes in this pull request.
+<!-- What was built or changed -->
+
+## Why it matters
+
+<!-- User or system impact -->
+
+## Release Notes
+
+<!-- Bullet points for the weekly release notes. Delete this section if not applicable. -->
+- 
 
 ## Related Issue
 

@@ -6,7 +6,7 @@ PYTHON    := $(VENV)/bin/python
 PIP       := $(VENV)/bin/pip
 ACTIVATE  := source $(VENV)/bin/activate
 
-.PHONY: help bootstrap install run generate-data report convert-report lint format clean
+.PHONY: help bootstrap install run generate-data report convert-report lint format clean release-notes release-notes-dry
 
 help: ## Show this help message
 	@echo "Usage: make [target]"
@@ -51,6 +51,12 @@ lint: ## Run linting checks (ruff)
 format: ## Auto-format code (ruff)
 	$(VENV)/bin/ruff check --fix .
 	$(VENV)/bin/ruff format .
+
+release-notes: ## Generate weekly release notes for HydraDB
+	$(PYTHON) generate_release_notes.py
+
+release-notes-dry: ## Dry run: show merged PRs without generating notes
+	$(PYTHON) generate_release_notes.py --dry-run
 
 clean: ## Remove generated/build artifacts
 	rm -rf $(VENV) __pycache__ src/*.egg-info *.egg-info .eggs

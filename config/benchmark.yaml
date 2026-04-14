@@ -72,3 +72,15 @@ supermemory:
   threshold: 0.0                      # minimum similarity score (0 = return everything)
   limit: 10                           # total chunks returned across all documents
                                       # limit=5 → only 1 doc's chunks; keep ≥20 for multi-doc spread
+
+# ── Release Notes Agent ──────────────────────────────────────────────────────
+release_notes:
+  repos:
+    - "usecortex/cortex-application"
+    - "usecortex/cortex-ingestion"
+  days: 7                              # lookback window
+  model: "gpt-4o-mini"                # OpenAI model for semantic analysis
+  output_dir: "./reports"
+  slack_channels:
+    - "engineering"
+    - "github-hydradb"
