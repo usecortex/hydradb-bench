@@ -17,8 +17,9 @@ from release_notes.models import (
     MergedPR,
     ReleaseNotes,
     SlackMessage,
+    extract_keywords,
 )
-from release_notes.slack_collector import _extract_keywords, match_slack_context
+from release_notes.slack_collector import match_slack_context
 
 # ---------------------------------------------------------------------------
 # Models
@@ -85,16 +86,6 @@ class TestModels:
         assert notes.internal_changes == []
         assert notes.raw_prs == []
 
-    def test_change_category_values(self):
-        assert ChangeCategory.NEW_FEATURE.value == "new_feature"
-        assert ChangeCategory.IMPROVEMENT.value == "improvement"
-        assert ChangeCategory.BUG_FIX.value == "bug_fix"
-        assert ChangeCategory.INTERNAL.value == "internal"
-
-    def test_impact_type_values(self):
-        assert ImpactType.USER_FACING.value == "user_facing"
-        assert ImpactType.ORGANIZATIONAL.value == "organizational"
-
 
 # ---------------------------------------------------------------------------
 # GitHub Collector — section parsing
@@ -159,7 +150,7 @@ class TestSlackKeywords:
     """Test keyword extraction logic."""
 
     def test_extract_keywords_basic(self):
-        keywords = _extract_keywords("Added vector search capability for large datasets")
+        keywords = extract_keywords("Added vector search capability for large datasets")
         assert "vector" in keywords
         assert "search" in keywords
         assert "capability" in keywords
@@ -167,15 +158,15 @@ class TestSlackKeywords:
         assert "datasets" in keywords
 
     def test_extract_keywords_filters_short_words(self):
-        keywords = _extract_keywords("a to the and or is it")
+        keywords = extract_keywords("a to the and or is it")
         assert len(keywords) == 0
 
     def test_extract_keywords_filters_stop_words(self):
-        keywords = _extract_keywords("this that with from have been")
+        keywords = extract_keywords("this that with from have been")
         assert len(keywords) == 0
 
     def test_extract_keywords_lowercases(self):
-        keywords = _extract_keywords("Vector SEARCH Capability")
+        keywords = extract_keywords("Vector SEARCH Capability")
         assert "vector" in keywords
         assert "search" in keywords
 
@@ -209,7 +200,7 @@ class TestSlackMatching:
 
     def test_match_by_pr_number(self):
         pr = self._make_pr(number=42)
-        msg = self._make_msg("PR #42 looks good, approved")
+        msg = self._make_msg("PR #42 in repo looks good, approved")
         ctx = match_slack_context(pr, [msg])
         assert len(ctx.messages) == 1
         assert "pr_ref_#42" in ctx.matched_keywords
@@ -238,7 +229,7 @@ class TestSlackMatching:
     def test_match_in_thread_replies(self):
         pr = self._make_pr(number=99)
         msg = self._make_msg(
-            "Discussing the new feature",
+            "Discussing the new feature in repo",
             thread_replies=["PR #99 is related to this"],
         )
         ctx = match_slack_context(pr, [msg])

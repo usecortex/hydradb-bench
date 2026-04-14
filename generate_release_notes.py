@@ -18,6 +18,7 @@ import asyncio
 import logging
 import sys
 
+from dotenv import load_dotenv
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
@@ -141,7 +142,12 @@ async def run(args: argparse.Namespace) -> int:
     slack_messages = []
     if not args.skip_slack:
         console.print("\n[bold blue]Fetching Slack context...[/]")
-        slack_messages = await fetch_slack_messages(days=args.days)
+        try:
+            slack_messages = await fetch_slack_messages(days=args.days)
+        except Exception:
+            logger.warning("Slack enrichment failed — continuing without Slack context", exc_info=True)
+            console.print("  [yellow]Slack enrichment failed — continuing without Slack context[/]")
+            slack_messages = []
         if slack_messages:
             console.print(f"  Found {len(slack_messages)} Slack messages")
         else:
@@ -173,8 +179,7 @@ async def run(args: argparse.Namespace) -> int:
     console.print(Panel(content, title="Release Notes", border_style="green"))
 
     # Summary
-    total = len(notes.features) + len(notes.improvements) + len(notes.fixes) + len(notes.internal_changes)
-    console.print(f"\n[bold green]Done![/] {total} significant changes from {len(prs)} PRs")
+    console.print(f"\n[bold green]Done![/] {notes.significant_count} significant changes from {len(prs)} PRs")
     console.print(f"  Features:     {len(notes.features)}")
     console.print(f"  Improvements: {len(notes.improvements)}")
     console.print(f"  Fixes:        {len(notes.fixes)}")
@@ -186,6 +191,8 @@ async def run(args: argparse.Namespace) -> int:
 
 def main() -> None:
     """CLI entry point."""
+    load_dotenv()
+
     args = parse_args()
 
     # Configure logging

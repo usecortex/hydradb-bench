@@ -21,38 +21,10 @@ def format_release_notes(notes: ReleaseNotes) -> str:
     lines: list[str] = [f"# HydraDB Weekly Release Notes — {start} to {end}", ""]
 
     has_content = False
-
-    # New Features
-    if notes.features:
-        has_content = True
-        lines.append("## New Features")
-        for change in notes.features:
-            lines.append(_format_entry(change))
-        lines.append("")
-
-    # Improvements
-    if notes.improvements:
-        has_content = True
-        lines.append("## Improvements")
-        for change in notes.improvements:
-            lines.append(_format_entry(change))
-        lines.append("")
-
-    # Fixes
-    if notes.fixes:
-        has_content = True
-        lines.append("## Fixes")
-        for change in notes.fixes:
-            lines.append(_format_entry(change))
-        lines.append("")
-
-    # Internal Changes (optional)
-    if notes.internal_changes:
-        has_content = True
-        lines.append("## Internal Changes")
-        for change in notes.internal_changes:
-            lines.append(_format_internal_entry(change))
-        lines.append("")
+    has_content |= _render_section(lines, "## New Features", notes.features)
+    has_content |= _render_section(lines, "## Improvements", notes.improvements)
+    has_content |= _render_section(lines, "## Fixes", notes.fixes)
+    has_content |= _render_section(lines, "## Internal Changes", notes.internal_changes, include_impact=False)
 
     if not has_content:
         lines.append("_No significant changes this week._")
@@ -60,23 +32,46 @@ def format_release_notes(notes: ReleaseNotes) -> str:
 
     # Footer with PR count
     total_prs = len(notes.raw_prs)
-    significant = len(notes.features) + len(notes.improvements) + len(notes.fixes) + len(notes.internal_changes)
     lines.append("---")
-    lines.append(f"_Generated from {total_prs} merged PRs — {significant} significant changes highlighted._")
+    lines.append(
+        f"_Generated from {total_prs} merged PRs — {notes.significant_count} significant changes highlighted._"
+    )
     lines.append("")
 
     return "\n".join(lines)
 
 
-def _format_entry(change: AnalyzedChange) -> str:
-    """Format a single release notes entry with impact highlighting.
+def _render_section(
+    lines: list[str],
+    heading: str,
+    changes: list[AnalyzedChange],
+    include_impact: bool = True,
+) -> bool:
+    """Append a markdown section for *changes* if the list is non-empty.
 
-    Format: - [User-Facing]? <What was done> -- <Why it matters> -- <Impact> (PR #N)
+    Returns ``True`` when at least one entry was rendered.
+    """
+    if not changes:
+        return False
+    lines.append(heading)
+    for change in changes:
+        lines.append(_format_entry(change, include_impact=include_impact))
+    lines.append("")
+    return True
+
+
+def _format_entry(change: AnalyzedChange, *, include_impact: bool = True) -> str:
+    """Format a single release notes entry.
+
+    Args:
+        change: The analyzed change to format.
+        include_impact: When ``True``, prepend a **[User-Facing]** highlight for
+            user-facing changes and append the ``impact_description``.  Set to
+            ``False`` for internal-change entries where those details are omitted.
     """
     parts: list[str] = []
 
-    # User-facing highlight
-    if change.impact_type == ImpactType.USER_FACING:
+    if include_impact and change.impact_type == ImpactType.USER_FACING:
         parts.append("**[User-Facing]**")
 
     parts.append(change.what_was_done)
@@ -84,28 +79,12 @@ def _format_entry(change: AnalyzedChange) -> str:
     if change.why_it_matters:
         parts.append(f"— {change.why_it_matters}")
 
-    if change.impact_description:
+    if include_impact and change.impact_description:
         parts.append(f"— {change.impact_description}")
 
     entry = " ".join(parts)
 
     # PR reference link
-    pr_ref = f"([PR #{change.pr_number}]({change.pr_url}))"
-
-    return f"- {entry} {pr_ref}"
-
-
-def _format_internal_entry(change: AnalyzedChange) -> str:
-    """Format an internal change entry (simpler format, no impact type highlight).
-
-    Format: - <What was done> -- <Why it matters> (PR #N)
-    """
-    parts = [change.what_was_done]
-
-    if change.why_it_matters:
-        parts.append(f"— {change.why_it_matters}")
-
-    entry = " ".join(parts)
     pr_ref = f"([PR #{change.pr_number}]({change.pr_url}))"
 
     return f"- {entry} {pr_ref}"

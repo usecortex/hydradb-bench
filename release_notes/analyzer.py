@@ -5,7 +5,6 @@ from __future__ import annotations
 import json
 import logging
 import os
-import re
 from datetime import datetime, timedelta, timezone
 
 from openai import OpenAI
@@ -16,6 +15,7 @@ from .models import (
     EnrichedChange,
     ImpactType,
     ReleaseNotes,
+    extract_keywords,
 )
 
 logger = logging.getLogger(__name__)
@@ -153,10 +153,9 @@ def analyze_changes(
         elif change.category == ChangeCategory.INTERNAL:
             notes.internal_changes.append(change)
 
-    total = len(notes.features) + len(notes.improvements) + len(notes.fixes) + len(notes.internal_changes)
     logger.info(
         "Analysis complete: %d significant changes from %d PRs (%d features, %d improvements, %d fixes, %d internal)",
-        total,
+        notes.significant_count,
         len(changes),
         len(notes.features),
         len(notes.improvements),
@@ -223,13 +222,7 @@ def _analyze_single_change(
         logger.warning("Empty response from OpenAI for PR #%d", pr.number)
         return None
 
-    # Parse JSON response (strip markdown fences if present)
-    content = content.strip()
-    if content.startswith("```"):
-        content = content.split("\n", 1)[1] if "\n" in content else content[3:]
-    if content.endswith("```"):
-        content = content[:-3]
-    content = content.strip()
+    content = _strip_markdown_fences(content)
 
     try:
         data = json.loads(content)
@@ -250,6 +243,16 @@ def _analyze_single_change(
     )
 
 
+def _strip_markdown_fences(content: str) -> str:
+    """Remove markdown code fences wrapping a string (e.g. ```json ... ```)."""
+    content = content.strip()
+    if content.startswith("```"):
+        content = content.split("\n", 1)[1] if "\n" in content else content[3:]
+    if content.endswith("```"):
+        content = content[:-3]
+    return content.strip()
+
+
 def _deduplicate(changes: list[AnalyzedChange]) -> list[AnalyzedChange]:
     """Remove near-duplicate entries (e.g., a feature + its immediate hotfix).
 
@@ -268,10 +271,7 @@ def _deduplicate(changes: list[AnalyzedChange]) -> list[AnalyzedChange]:
     }
 
     # Extract keywords for each change
-    change_keywords: list[set[str]] = []
-    for c in changes:
-        words = set(re.findall(r"[a-z]{4,}", c.what_was_done.lower()))
-        change_keywords.append(words)
+    change_keywords: list[set[str]] = [extract_keywords(c.what_was_done) for c in changes]
 
     # Mark duplicates
     keep = [True] * len(changes)

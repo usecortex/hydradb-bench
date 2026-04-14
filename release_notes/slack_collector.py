@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 
 import httpx
 
-from .models import MergedPR, SlackContext, SlackMessage
+from .models import MergedPR, SlackContext, SlackMessage, extract_keywords
 
 logger = logging.getLogger(__name__)
 
@@ -55,8 +55,15 @@ async def fetch_slack_messages(
         channel_map = await _resolve_channel_ids(client, channels)
 
         for channel_name, channel_id in channel_map.items():
-            messages = await _fetch_channel_history(client, channel_id, channel_name, oldest_ts)
-            all_messages.extend(messages)
+            try:
+                messages = await _fetch_channel_history(client, channel_id, channel_name, oldest_ts)
+                all_messages.extend(messages)
+            except Exception:
+                logger.warning(
+                    "Failed to fetch history for #%s — skipping channel",
+                    channel_name,
+                    exc_info=True,
+                )
 
     logger.info("Fetched %d Slack messages from %d channels", len(all_messages), len(channel_map))
     return all_messages
@@ -70,32 +77,35 @@ async def _resolve_channel_ids(
     channel_map: dict[str, str] = {}
     cursor = ""
 
-    while True:
-        params: dict[str, str | int] = {
-            "types": "public_channel,private_channel",
-            "limit": 200,
-        }
-        if cursor:
-            params["cursor"] = cursor
+    try:
+        while True:
+            params: dict[str, str | int] = {
+                "types": "public_channel,private_channel",
+                "limit": 200,
+            }
+            if cursor:
+                params["cursor"] = cursor
 
-        response = await client.get("/conversations.list", params=params)
-        data = response.json()
+            response = await client.get("/conversations.list", params=params)
+            data = response.json()
 
-        if not data.get("ok"):
-            logger.warning("Slack conversations.list failed: %s", data.get("error", "unknown"))
-            break
+            if not data.get("ok"):
+                logger.warning("Slack conversations.list failed: %s", data.get("error", "unknown"))
+                break
 
-        for ch in data.get("channels", []):
-            name = ch.get("name", "")
-            if name in channel_names:
-                channel_map[name] = ch["id"]
+            for ch in data.get("channels", []):
+                name = ch.get("name", "")
+                if name in channel_names:
+                    channel_map[name] = ch["id"]
 
-        # Stop if we found all channels or no more pages
-        if len(channel_map) == len(channel_names):
-            break
-        cursor = data.get("response_metadata", {}).get("next_cursor", "")
-        if not cursor:
-            break
+            # Stop if we found all channels or no more pages
+            if len(channel_map) == len(channel_names):
+                break
+            cursor = data.get("response_metadata", {}).get("next_cursor", "")
+            if not cursor:
+                break
+    except Exception:
+        logger.warning("Error resolving Slack channel IDs", exc_info=True)
 
     return channel_map
 
@@ -181,12 +191,20 @@ async def _fetch_thread_replies(
 def match_slack_context(
     pr: MergedPR,
     messages: list[SlackMessage],
+    repo_name: str | None = None,
 ) -> SlackContext:
     """Match Slack messages to a PR using URL, branch, and keyword matching.
 
+    Args:
+        pr: The pull request to match against.
+        messages: Candidate Slack messages.
+        repo_name: When provided, PR-number matches require the repo short
+            name (e.g. ``"cortex-application"``) to also appear in the message
+            text to avoid cross-repo false positives.
+
     Matching strategies (in priority order):
     1. PR URL appears in message text
-    2. Branch-like keywords from PR title appear in message
+    2. PR number reference with repo-name check (when *repo_name* is given)
     3. Significant keyword overlap between PR title/body and message
     """
     if not messages:
@@ -195,8 +213,11 @@ def match_slack_context(
     matched_messages: list[SlackMessage] = []
     matched_keywords: set[str] = set()
 
+    # Derive the short repo name (e.g. "cortex-application") for PR-number matching
+    repo_short = repo_name or pr.repo_name.split("/")[-1]
+
     # Extract keywords from PR title (words 4+ chars, lowercased)
-    pr_keywords = _extract_keywords(pr.title + " " + pr.summary_section)
+    pr_keywords = extract_keywords(pr.title + " " + pr.summary_section)
 
     for msg in messages:
         all_text = msg.text + " " + " ".join(msg.thread_replies)
@@ -208,14 +229,16 @@ def match_slack_context(
             continue
 
         # Strategy 2: PR number match (e.g., #123 or PR-123)
+        # Require the repo short name to also appear in the message to
+        # prevent cross-repo false positives.
         pr_ref_pattern = rf"(?:#|PR[- ]?){pr.number}\b"
-        if re.search(pr_ref_pattern, all_text, re.IGNORECASE):
+        if re.search(pr_ref_pattern, all_text, re.IGNORECASE) and repo_short.lower() in all_text.lower():
             matched_messages.append(msg)
             matched_keywords.add(f"pr_ref_#{pr.number}")
             continue
 
         # Strategy 3: Keyword overlap (need at least 2 matching keywords)
-        msg_keywords = _extract_keywords(all_text)
+        msg_keywords = extract_keywords(all_text)
         overlap = pr_keywords & msg_keywords
         if len(overlap) >= 2:
             matched_messages.append(msg)
@@ -225,58 +248,3 @@ def match_slack_context(
         messages=matched_messages,
         matched_keywords=sorted(matched_keywords),
     )
-
-
-def _extract_keywords(text: str) -> set[str]:
-    """Extract significant keywords from text (4+ char words, lowercased).
-
-    Filters out common stop words and short tokens.
-    """
-    stop_words = {
-        "this",
-        "that",
-        "with",
-        "from",
-        "have",
-        "been",
-        "were",
-        "will",
-        "would",
-        "could",
-        "should",
-        "about",
-        "which",
-        "their",
-        "there",
-        "when",
-        "what",
-        "some",
-        "into",
-        "also",
-        "just",
-        "more",
-        "than",
-        "them",
-        "then",
-        "only",
-        "very",
-        "after",
-        "before",
-        "other",
-        "these",
-        "those",
-        "each",
-        "every",
-        "does",
-        "done",
-        "make",
-        "made",
-        "like",
-        "over",
-        "such",
-        "take",
-        "most",
-        "here",
-    }
-    words = set(re.findall(r"[a-z]{4,}", text.lower()))
-    return words - stop_words

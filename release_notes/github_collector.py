@@ -33,7 +33,7 @@ def _get_github_token() -> str:
     return token
 
 
-def _parse_section(body: str, heading: str) -> str:
+def _parse_section(body: str | None, heading: str) -> str:
     """Extract content under a markdown ## heading from a PR body.
 
     Returns the text between the given heading and the next heading (or end of string).
@@ -76,8 +76,6 @@ async def fetch_merged_prs(
     token = github_token or _get_github_token()
     cutoff = datetime.now(timezone.utc) - timedelta(days=days)
 
-    all_prs: list[MergedPR] = []
-
     async with httpx.AsyncClient(
         base_url=GITHUB_API_BASE,
         headers={
@@ -87,22 +85,25 @@ async def fetch_merged_prs(
         },
         timeout=30.0,
     ) as client:
-        for repo in repos:
+
+        async def _fetch_one(repo: str) -> list[MergedPR]:
             try:
-                repo_prs = await _fetch_repo_prs(client, repo, cutoff)
-                all_prs.extend(repo_prs)
+                return await _fetch_repo_prs(client, repo, cutoff)
             except httpx.HTTPStatusError as exc:
                 if exc.response.status_code == 403:
                     await _handle_rate_limit(exc.response)
                     # Retry once after rate-limit sleep
-                    repo_prs = await _fetch_repo_prs(client, repo, cutoff)
-                    all_prs.extend(repo_prs)
+                    return await _fetch_repo_prs(client, repo, cutoff)
                 else:
                     logger.error("Failed to fetch PRs from %s: %s", repo, exc)
                     raise
             except httpx.HTTPError as exc:
                 logger.error("Network error fetching PRs from %s: %s", repo, exc)
                 raise
+
+        results = await asyncio.gather(*[_fetch_one(repo) for repo in repos])
+
+    all_prs: list[MergedPR] = [pr for repo_prs in results for pr in repo_prs]
 
     # Sort by merged_at descending (most recent first)
     all_prs.sort(key=lambda pr: pr.merged_at, reverse=True)
