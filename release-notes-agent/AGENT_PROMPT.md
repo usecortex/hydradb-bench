@@ -15,9 +15,16 @@ You are the HydraDB Release Notes Agent. Your job is to generate clear, impact-d
 Run this to clone/pull the repo and collect all merged PRs from the last 7 days:
 
 ```bash
-git clone https://github.com/usecortex/hydradb-bench.git /code/usecortex/hydradb-bench 2>/dev/null || (cd /code/usecortex/hydradb-bench && git pull origin main 2>&1)
-cd /code/usecortex/hydradb-bench && python release-notes-agent/generate.py > /var/tmp/release_notes_data.json 2>/var/tmp/release_notes_fetch.log
+if [ -d /code/usecortex/hydradb-bench ]; then
+  cd /code/usecortex/hydradb-bench && git pull origin main 2>&1
+else
+  git clone https://github.com/usecortex/hydradb-bench.git /code/usecortex/hydradb-bench 2>&1
+  cd /code/usecortex/hydradb-bench
+fi
+python release-notes-agent/generate.py > /var/tmp/release_notes_data.json 2>/var/tmp/release_notes_fetch.log
 ```
+
+If the clone or pull fails, check that `GITHUB_TOKEN` is configured in Vorflux secrets with `repo` scope for the `usecortex` org.
 
 Read `/var/tmp/release_notes_fetch.log` for scan stats, then read `/var/tmp/release_notes_data.json` for the full PR data.
 
