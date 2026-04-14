@@ -213,8 +213,10 @@ def match_slack_context(
     matched_messages: list[SlackMessage] = []
     matched_keywords: set[str] = set()
 
-    # Derive the short repo name (e.g. "cortex-application") for PR-number matching
-    repo_short = repo_name or pr.repo_name.split("/")[-1]
+    # Derive the short repo name (e.g. "cortex-application") for PR-number matching.
+    # Always split on "/" so that a full "owner/repo" string passed via repo_name
+    # is reduced to just the repo part, matching what appears in Slack messages.
+    repo_short = (repo_name or pr.repo_name).split("/")[-1]
 
     # Extract keywords from PR title (words 4+ chars, lowercased)
     pr_keywords = extract_keywords(pr.title + " " + pr.summary_section)

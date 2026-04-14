@@ -235,6 +235,31 @@ class TestSlackMatching:
         ctx = match_slack_context(pr, [msg])
         assert len(ctx.messages) == 1
 
+    def test_pr_number_match_requires_repo_name_in_message(self):
+        """The fix commit (pass repo_name to match_slack_context) guards against
+        cross-repo false positives: a message mentioning '#42' without the repo
+        name must NOT be matched — even though the PR number appears."""
+        pr = self._make_pr(number=42, repo_name="usecortex/cortex-application")
+        # Message references #42 but does NOT mention "cortex-application"
+        msg_no_repo = self._make_msg("PR #42 looks good, approved")
+        ctx = match_slack_context(pr, [msg_no_repo], repo_name="usecortex/cortex-application")
+        assert len(ctx.messages) == 0, "Should not match: #42 without the repo name is a cross-repo false positive"
+
+    def test_pr_number_match_with_correct_repo_name(self):
+        """A message that mentions both #42 AND the correct repo short name must match."""
+        pr = self._make_pr(number=42, repo_name="usecortex/cortex-application")
+        msg_with_repo = self._make_msg("PR #42 in cortex-application is great")
+        ctx = match_slack_context(pr, [msg_with_repo], repo_name="usecortex/cortex-application")
+        assert len(ctx.messages) == 1
+        assert "pr_ref_#42" in ctx.matched_keywords
+
+    def test_pr_number_match_blocked_for_different_repo(self):
+        """#42 + wrong repo name (e.g. cortex-ingestion) must NOT match a cortex-application PR."""
+        pr = self._make_pr(number=42, repo_name="usecortex/cortex-application")
+        msg_wrong_repo = self._make_msg("PR #42 in cortex-ingestion looks good")
+        ctx = match_slack_context(pr, [msg_wrong_repo], repo_name="usecortex/cortex-application")
+        assert len(ctx.messages) == 0, "Should not match: message mentions a different repo"
+
 
 # ---------------------------------------------------------------------------
 # Analyzer — deduplication
@@ -295,6 +320,24 @@ class TestDeduplication:
 
     def test_empty_list(self):
         assert _deduplicate([]) == []
+
+    def test_dedup_fires_at_exactly_three_keywords(self):
+        """Dedup threshold is 3 overlapping keywords — exactly 3 should trigger it."""
+        # Keywords from both: "vector", "search", "pipeline" (3 matches ≥ 4 chars)
+        c1 = self._make_change("Improved vector search pipeline performance", ChangeCategory.NEW_FEATURE)
+        c2 = self._make_change("Fixed vector search pipeline edge case", ChangeCategory.BUG_FIX)
+        result = _deduplicate([c1, c2])
+        assert len(result) == 1
+        # NEW_FEATURE (priority 0) beats BUG_FIX (priority 1)
+        assert result[0].category == ChangeCategory.NEW_FEATURE
+
+    def test_dedup_does_not_fire_below_threshold(self):
+        """Two overlapping keywords (< 3) must NOT trigger deduplication."""
+        # Keywords overlap: "vector", "search" — only 2, below threshold of 3
+        c1 = self._make_change("Improved vector search speed", ChangeCategory.NEW_FEATURE)
+        c2 = self._make_change("Fixed vector search reliability", ChangeCategory.BUG_FIX)
+        result = _deduplicate([c1, c2])
+        assert len(result) == 2, "Two overlapping keywords should not trigger dedup"
 
 
 # ---------------------------------------------------------------------------
