@@ -156,7 +156,7 @@ async def run(args: argparse.Namespace) -> int:
     # Step 3: Enrich PRs with Slack context
     enriched: list[EnrichedChange] = []
     for pr in prs:
-        slack_ctx = match_slack_context(pr, slack_messages)
+        slack_ctx = match_slack_context(pr, slack_messages, repo_name=pr.repo_name)
         enriched.append(EnrichedChange(pr=pr, slack_context=slack_ctx))
 
     # Step 4: Semantic analysis via OpenAI
