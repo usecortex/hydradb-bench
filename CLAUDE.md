@@ -4,13 +4,11 @@
 A benchmark framework for evaluating retrieval + answer quality across HydraDB and Supermemory using DeepEval metrics. It handles document ingestion, multi-endpoint querying, LLM answer generation, metric evaluation, and rich report generation.
 
 ## Quick Reference
-- **Benchmark entry point**: `run_benchmark.py` (CLI with `--provider`, `--skip-ingestion`, `--limit`, etc.)
-- **Release notes entry point**: `generate_release_notes.py` (CLI with `--days`, `--dry-run`, `--skip-slack`, etc.)
+- **Entry point**: `run_benchmark.py` (CLI with `--provider`, `--skip-ingestion`, `--limit`, etc.)
 - **Config**: `config/benchmark.yaml` (YAML with `${ENV_VAR}` interpolation)
-- **Benchmark source**: `src/hydradb_deepeval/` (client, evaluator, reporter, models, config, ingestion)
-- **Release notes source**: `release_notes/` (github_collector, slack_collector, analyzer, formatter, models)
+- **Source code**: `src/hydradb_deepeval/` (client, evaluator, reporter, models, config, ingestion)
 - **Test data**: `data/privacy_qa.json` (Q/A dataset), `data/privacy_qa/` (source documents)
-- **Reports**: `./reports/` (JSON, HTML, CSV, release notes markdown)
+- **Reports**: `./reports/` (JSON, HTML, CSV)
 - **Dependencies**: Python 3.10+, see `pyproject.toml`
 
 ## Skills for AI Agents
@@ -47,12 +45,6 @@ python generate_test_data.py
 
 # Convert report to CSV
 python json_to_csv.py reports/<report>.json
-
-# Generate weekly release notes
-python generate_release_notes.py
-
-# Dry run (show PRs without generating notes)
-python generate_release_notes.py --dry-run --verbose
 ```
 
 ## Environment Variables Required

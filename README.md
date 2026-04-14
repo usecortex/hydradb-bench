@@ -90,8 +90,6 @@ pip install tiktoken
 | `make generate-data` | Generate synthetic test data from source documents |
 | `make report` | Convert latest JSON report to CSV |
 | `make convert-report FILE=reports/foo.json` | Convert a specific report to CSV |
-| `make release-notes` | Generate weekly release notes for HydraDB |
-| `make release-notes-dry` | Dry run: show merged PRs without generating notes |
 | `make clean` | Remove generated/build artifacts (.venv, __pycache__, etc.) |
 
 ## Environment Setup
@@ -497,56 +495,6 @@ Built-in names supported by this code:
 - Retrieval seems too narrow
   - Increase `evaluation.max_results` (HydraDB)
   - Increase `supermemory.limit` (Supermemory)
-
-## Release Notes Agent
-
-An autonomous agent that generates weekly impact-driven release notes for HydraDB by analyzing merged PRs from `cortex-application` and `cortex-ingestion`.
-
-### How it works
-
-1. Fetches merged PRs from the last 7 days via GitHub Search API
-2. Optionally enriches with Slack context from `#engineering` and `#github-hydradb`
-3. Uses OpenAI (`gpt-4o-mini`) to semantically analyze, classify, and summarize changes
-4. Outputs structured markdown release notes to `reports/`
-
-### Usage
-
-```bash
-# Generate release notes (last 7 days)
-python generate_release_notes.py
-
-# Dry run — show PRs without generating notes
-python generate_release_notes.py --dry-run
-
-# Custom lookback window
-python generate_release_notes.py --days 14
-
-# Skip Slack enrichment
-python generate_release_notes.py --skip-slack
-
-# Verbose logging
-python generate_release_notes.py --verbose
-```
-
-### Required environment variables
-
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `GITHUB_TOKEN` | Yes | GitHub PAT with repo read access |
-| `OPENAI_API_KEY` | Yes | OpenAI API key for semantic analysis |
-| `SLACK_BOT_TOKEN` | No | Slack bot token for context enrichment (gracefully skipped if absent) |
-
-### Output format
-
-Release notes are saved to `reports/release-notes-YYYY-MM-DD.md` with sections:
-- **New Features** — user-facing capabilities
-- **Improvements** — enhancements to existing functionality
-- **Fixes** — bug fixes with root cause context
-- **Internal Changes** — infra, tooling, refactors (optional)
-
-### PR template
-
-The PR template includes `Summary`, `Why it matters`, and `Release Notes` sections. Authors should fill these in to improve release notes quality.
 
 ## Security Notes
 

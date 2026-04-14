@@ -50,8 +50,14 @@ def markdown_to_slack_mrkdwn(text: str) -> str:
             continue
 
         # Convert **bold** to *bold* (but not inside code blocks)
+        # Also strip any inner single-asterisk emphasis to avoid Slack rendering collisions
         if "```" not in line:
-            line = re.sub(r"\*\*(.+?)\*\*", r"*\1*", line)
+            def _bold_replace(m: re.Match) -> str:
+                inner = m.group(1)
+                # Strip inner *emphasis* to prevent Slack mrkdwn collisions
+                inner = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"\1", inner)
+                return f"*{inner}*"
+            line = re.sub(r"\*\*(.+?)\*\*", _bold_replace, line)
 
         # Convert markdown links [text](url) to Slack links <url|text>
         line = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r"<\2|\1>", line)
