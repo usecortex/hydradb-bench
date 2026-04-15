@@ -298,6 +298,70 @@ class TestAnalyzeHypothesis:
         assert "INSUFFICIENT DATA" in analysis["conclusion"]
         assert "missing_exp" in analysis["experiments_missing"]
 
+    def test_split_winner_conclusion_lists_only_winner_metrics(self):
+        """Regression: winner metric count must match the listed metrics.
+
+        When two configs each win different metrics, the conclusion used to say
+        e.g. "A is best across 1 significant metrics (metric_x, metric_y)" where
+        metric_y was actually won by B — the count (1) and the parenthetical list
+        (2 items) were inconsistent. The fix: only list the metrics where the
+        winner is actually best.
+        """
+        # 01_baseline wins answer_accuracy (0.9 vs 0.5, spread=0.4 > 0.1)
+        # 04_fast_mode wins faithfulness (0.9 vs 0.5, spread=0.4 > 0.1)
+        # Both metrics are significant; 01_baseline is the winner (tied, but
+        # max() picks it first alphabetically / insertion order doesn't matter).
+        table = {
+            "01_baseline": {
+                "answer_accuracy": {"mean": 0.9},
+                "contextual_precision": {"mean": 0.75},
+                "contextual_recall": {"mean": 0.75},
+                "contextual_relevancy": {"mean": 0.75},
+                "faithfulness": {"mean": 0.5},
+                "answer_relevancy": {"mean": 0.75},
+            },
+            "04_fast_mode": {
+                "answer_accuracy": {"mean": 0.5},
+                "contextual_precision": {"mean": 0.75},
+                "contextual_recall": {"mean": 0.75},
+                "contextual_relevancy": {"mean": 0.75},
+                "faithfulness": {"mean": 0.9},
+                "answer_relevancy": {"mean": 0.75},
+            },
+        }
+        group = {
+            "ids": ["01_baseline", "04_fast_mode"],
+            "variable": "mode",
+            "values": ["thinking", "fast"],
+            "hypothesis": "H3",
+        }
+        analysis = analyze_hypothesis("mode", group, table)
+        conclusion = analysis["conclusion"]
+        assert "SUPPORTED" in conclusion
+
+        # Determine which config is the winner from the conclusion
+        if "01_baseline" in conclusion.split("is best")[0]:
+            winner = "01_baseline"
+            loser_winning_metric = "faithfulness"  # won by 04_fast_mode
+        else:
+            winner = "04_fast_mode"
+            loser_winning_metric = "answer_accuracy"  # won by 01_baseline
+
+        # The loser's winning metric must NOT appear in the conclusion's metric list
+        assert loser_winning_metric not in conclusion, (
+            f"Conclusion lists '{loser_winning_metric}' but that metric is won by the other config, "
+            f"not by '{winner}'. Conclusion: {conclusion}"
+        )
+
+        # The count in the conclusion must equal the number of listed metrics
+        import re
+
+        count_match = re.search(r"across (\d+) significant metrics \(([^)]+)\)", conclusion)
+        assert count_match, f"Conclusion format unexpected: {conclusion}"
+        count = int(count_match.group(1))
+        listed = [m.strip() for m in count_match.group(2).split(",")]
+        assert count == len(listed), f"Count {count} does not match number of listed metrics {len(listed)}: {listed}"
+
 
 # ---------------------------------------------------------------------------
 # generate_decision_framework

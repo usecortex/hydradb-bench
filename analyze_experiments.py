@@ -333,9 +333,10 @@ def analyze_hypothesis(group_name: str, group_info: dict, table: dict) -> dict:
             best = analysis["metric_comparisons"][m]["best"]
             best_configs[best] = best_configs.get(best, 0) + 1
         winner = max(best_configs, key=best_configs.get)
+        winner_metrics = [m for m in significant_metrics if analysis["metric_comparisons"][m]["best"] == winner]
         analysis["conclusion"] = (
             f"SUPPORTED: {winner} is best across {best_configs[winner]} "
-            f"significant metrics ({', '.join(significant_metrics)})"
+            f"significant metrics ({', '.join(winner_metrics)})"
         )
     else:
         analysis["conclusion"] = (
