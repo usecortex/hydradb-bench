@@ -14,7 +14,9 @@ Usage:
 """
 
 import argparse
+import csv
 import json
+import re
 import statistics
 import sys
 from pathlib import Path
@@ -64,7 +66,7 @@ EXPERIMENT_GROUPS = {
     "endpoint": {
         "ids": ["01_baseline", "08_recall_preferences", "06_boolean_or", "06_boolean_and"],
         "variable": "search_endpoint",
-        "values": ["full_recall", "recall_preferences", "boolean_or", "boolean_and"],
+        "values": ["full_recall", "recall_preferences", "boolean_recall (or)", "boolean_recall (and)"],
         "hypothesis": "H5",
     },
     "minimal_latency": {
@@ -86,8 +88,6 @@ def _extract_experiment_id(data: dict, filename_stem: str) -> str:
 
     We check these sources in order of reliability.
     """
-    import re
-
     # 0. Check for explicit experiment_id field (set by run_experiments.py summary)
     if "experiment_id" in data:
         return data["experiment_id"]
@@ -126,9 +126,29 @@ def _extract_experiment_id(data: dict, filename_stem: str) -> str:
     return filename_stem
 
 
+def _get_result_timestamp(data: dict, json_file: Path) -> float:
+    """Extract a comparable timestamp from a result, falling back to file mtime."""
+    # Prefer embedded timestamp field
+    ts = data.get("timestamp")
+    if isinstance(ts, str) and ts:
+        try:
+            from datetime import datetime
+
+            return datetime.fromisoformat(ts).timestamp()
+        except (ValueError, TypeError):
+            pass
+    # Fall back to file modification time
+    return json_file.stat().st_mtime
+
+
 def load_experiment_results(results_dir: Path) -> dict:
-    """Load all experiment result JSON files from the results directory."""
-    results = {}
+    """Load all experiment result JSON files from the results directory.
+
+    When multiple files map to the same experiment_id, the newest result
+    (by embedded ``timestamp`` or file mtime) is kept.
+    """
+    results: dict[str, dict] = {}
+    result_files: dict[str, Path] = {}
     for json_file in sorted(results_dir.glob("*.json")):
         if json_file.name in ("all_experiments.json", "experiment_log.jsonl"):
             continue
@@ -136,9 +156,23 @@ def load_experiment_results(results_dir: Path) -> dict:
             data = json.loads(json_file.read_text())
             exp_id = _extract_experiment_id(data, json_file.stem)
             if exp_id in results:
-                print(f"  Warning: Duplicate experiment ID '{exp_id}' from {json_file.name}, skipping")
+                existing_ts = _get_result_timestamp(results[exp_id], result_files[exp_id])
+                new_ts = _get_result_timestamp(data, json_file)
+                if new_ts > existing_ts:
+                    print(
+                        f"  Warning: Duplicate experiment ID '{exp_id}' from {json_file.name}, "
+                        f"replacing older result from {result_files[exp_id].name}"
+                    )
+                    results[exp_id] = data
+                    result_files[exp_id] = json_file
+                else:
+                    print(
+                        f"  Warning: Duplicate experiment ID '{exp_id}' from {json_file.name}, "
+                        f"keeping newer result from {result_files[exp_id].name}"
+                    )
                 continue
             results[exp_id] = data
+            result_files[exp_id] = json_file
         except (json.JSONDecodeError, KeyError) as e:
             print(f"  Warning: Could not load {json_file.name}: {e}")
     return results
@@ -187,6 +221,20 @@ def compute_aggregate(scores: list[float]) -> dict:
     }
 
 
+def compute_average_scores(table: dict) -> dict[str, float]:
+    """Compute per-experiment average score across all metrics.
+
+    Returns a dict mapping experiment ID to its mean score across all
+    metrics that have a non-None mean.
+    """
+    avg_scores: dict[str, float] = {}
+    for exp_id, metrics in table.items():
+        means = [metrics[m]["mean"] for m in METRICS if metrics[m]["mean"] is not None]
+        if means:
+            avg_scores[exp_id] = statistics.mean(means)
+    return avg_scores
+
+
 def build_comparison_table(results: dict) -> dict:
     """Build a comparison table: experiment -> metric -> aggregate stats."""
     table = {}
@@ -226,7 +274,7 @@ def format_comparison_markdown(table: dict, title: str = "All Experiments") -> s
             else:
                 row += " - |"
         avg = statistics.mean(means) if means else None
-        row += f" {avg:.3f} |" if avg else " - |"
+        row += f" {avg:.3f} |" if avg is not None else " - |"
         lines.append(row)
 
     return "\n".join(lines)
@@ -329,7 +377,7 @@ def format_hypothesis_markdown(group_name: str, analysis: dict) -> str:
     return "\n".join(lines)
 
 
-def generate_decision_framework(table: dict, analyses: dict) -> str:
+def generate_decision_framework(table: dict) -> str:
     """Generate a decision framework based on experiment results."""
     lines = [
         "## Decision Framework\n",
@@ -338,27 +386,11 @@ def generate_decision_framework(table: dict, analyses: dict) -> str:
 
     # Find overall best config
     if table:
-        avg_scores = {}
-        for exp_id, metrics in table.items():
-            means = [metrics[m]["mean"] for m in METRICS if metrics[m]["mean"] is not None]
-            if means:
-                avg_scores[exp_id] = statistics.mean(means)
+        avg_scores = compute_average_scores(table)
 
         if avg_scores:
             best_overall = max(avg_scores, key=avg_scores.get)
             lines.append(f"### Best Overall Quality: `{best_overall}` (avg: {avg_scores[best_overall]:.3f})\n")
-
-            # Find best for specific use cases
-            for metric in ["faithfulness", "contextual_recall", "answer_accuracy"]:
-                best_for_metric = max(
-                    table.keys(),
-                    key=lambda x, m=metric: table[x][m]["mean"] if table[x][m]["mean"] is not None else -1,
-                )
-                score = table[best_for_metric][metric]["mean"]
-                if score is not None:
-                    lines.append(f"- **Best {metric}**: `{best_for_metric}` ({score:.3f})")
-
-            lines.append("")
 
             # Recommendations by use case
             lines.append("### Use Case Recommendations\n")
@@ -386,8 +418,6 @@ def generate_decision_framework(table: dict, analyses: dict) -> str:
 
 def export_csv(table: dict, output_path: Path):
     """Export comparison table as CSV for further analysis."""
-    import csv
-
     with open(output_path, "w", newline="") as f:
         writer = csv.writer(f)
         header = ["experiment"] + METRICS + ["average"]
@@ -421,11 +451,7 @@ def generate_full_report(table: dict, analyses: dict, output_path: Path):
     # Executive Summary
     sections.append("## Executive Summary\n")
     if table:
-        avg_scores = {}
-        for exp_id, metrics in table.items():
-            means = [metrics[m]["mean"] for m in METRICS if metrics[m]["mean"] is not None]
-            if means:
-                avg_scores[exp_id] = statistics.mean(means)
+        avg_scores = compute_average_scores(table)
 
         if avg_scores:
             best = max(avg_scores, key=avg_scores.get)
@@ -447,7 +473,7 @@ def generate_full_report(table: dict, analyses: dict, output_path: Path):
         sections.append(format_hypothesis_markdown(group_name, analysis))
 
     # Decision Framework
-    sections.append(generate_decision_framework(table, analyses))
+    sections.append(generate_decision_framework(table))
 
     # Methodology
     sections.append("\n## Methodology\n")
@@ -520,7 +546,7 @@ def main():
     print(f"  Written: {args.output_dir}/hypothesis_results.md")
 
     # 3. Decision framework
-    framework = generate_decision_framework(table, analyses)
+    framework = generate_decision_framework(table)
     (args.output_dir / "decision_framework.md").write_text(framework)
     print(f"  Written: {args.output_dir}/decision_framework.md")
 
@@ -534,9 +560,7 @@ def main():
 
     # 6. Raw analysis data (JSON)
     raw_data = {
-        "comparison_table": {
-            exp_id: {metric: stats for metric, stats in metrics.items()} for exp_id, metrics in table.items()
-        },
+        "comparison_table": table,
         "hypothesis_analyses": analyses,
     }
     (args.output_dir / "raw_analysis.json").write_text(json.dumps(raw_data, indent=2, default=str))

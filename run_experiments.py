@@ -15,6 +15,7 @@ import asyncio
 import json
 import sys
 import time
+import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -28,6 +29,15 @@ console = Console()
 MANIFEST_PATH = Path("config/experiments/manifest.yaml")
 RESULTS_DIR = Path("reports/experiments")
 EXPERIMENT_LOG = RESULTS_DIR / "experiment_log.jsonl"
+
+
+def score_color(score: float) -> str:
+    """Return a Rich color name based on score thresholds."""
+    if score >= 0.8:
+        return "green"
+    if score >= 0.5:
+        return "yellow"
+    return "red"
 
 
 def load_manifest() -> list[dict]:
@@ -46,6 +56,64 @@ def append_experiment_log(entry: dict) -> None:
         f.write(json.dumps(entry) + "\n")
 
 
+async def _execute_queries(exp_id, config, samples, verbose):
+    """Run queries against HydraDB for a single experiment.
+
+    Returns the list of query results or raises on failure.
+    """
+    from hydradb_deepeval.client import HydraDBClient
+    from run_benchmark import (
+        run_all_queries,
+        run_single_query_hydradb,
+    )
+
+    async with HydraDBClient(config.hydradb) as client:
+
+        def query_fn(s):
+            return run_single_query_hydradb(client, s, config.evaluation, config.deepeval)
+
+        return await run_all_queries(
+            query_fn=query_fn,
+            samples=samples,
+            concurrency=config.evaluation.concurrent_requests,
+            label=f"{exp_id} ({config.evaluation.search_endpoint})",
+            verbose=verbose,
+        )
+
+
+async def _evaluate_results(query_results, config, exp_id):
+    """Evaluate query results and save reports.
+
+    Returns (result, saved_paths) from the evaluation pipeline.
+    """
+    from run_benchmark import _run_provider_queries_and_evaluate
+
+    run_id = str(uuid.uuid4())[:8]
+    timestamp = datetime.now(timezone.utc).isoformat()
+    return await _run_provider_queries_and_evaluate(
+        query_results,
+        config,
+        run_id,
+        timestamp,
+        provider_name=exp_id,
+    )
+
+
+def _print_experiment_summary(exp_name, result):
+    """Print a Rich table summarising a single experiment's results."""
+    summary_table = Table(title=f"Results: {exp_name}", show_header=True, header_style="bold cyan")
+    summary_table.add_column("Metric", style="bold")
+    summary_table.add_column("Score", justify="right")
+    for metric, score in result.aggregate_scores.items():
+        color = score_color(score)
+        summary_table.add_row(metric, f"[{color}]{score:.4f}[/{color}]")
+    summary_table.add_row("---", "---")
+    summary_table.add_row("Latency p50", f"{result.latency_p50_ms:.0f} ms")
+    summary_table.add_row("Latency p95", f"{result.latency_p95_ms:.0f} ms")
+    summary_table.add_row("Errors", f"{result.error_count}/{result.total_samples}")
+    console.print(summary_table)
+
+
 async def run_single_experiment(
     experiment: dict,
     limit: int | None,
@@ -53,6 +121,7 @@ async def run_single_experiment(
 ) -> dict:
     """Run a single experiment and return summary metrics."""
     from hydradb_deepeval.config import load_config
+    from run_benchmark import load_test_dataset
 
     exp_id = experiment["id"]
     exp_name = experiment["name"]
@@ -73,15 +142,6 @@ async def run_single_experiment(
         console.print(f"[red]Config load failed: {exc}[/red]")
         return {"experiment_id": exp_id, "error": str(exc), "status": "config_error"}
 
-    # Import here to avoid circular issues
-    from hydradb_deepeval.client import HydraDBClient
-    from run_benchmark import (
-        _run_provider_queries_and_evaluate,
-        load_test_dataset,
-        run_all_queries,
-        run_single_query_hydradb,
-    )
-
     # Load samples
     samples = load_test_dataset(config.evaluation.test_dataset_path)
     if limit:
@@ -89,18 +149,7 @@ async def run_single_experiment(
 
     # Run queries
     try:
-        async with HydraDBClient(config.hydradb) as client:
-
-            def query_fn(s):
-                return run_single_query_hydradb(client, s, config.evaluation, config.deepeval)
-
-            query_results = await run_all_queries(
-                query_fn=query_fn,
-                samples=samples,
-                concurrency=config.evaluation.concurrent_requests,
-                label=f"{exp_id} ({config.evaluation.search_endpoint})",
-                verbose=verbose,
-            )
+        query_results = await _execute_queries(exp_id, config, samples, verbose)
     except Exception as exc:
         console.print(f"[red]Query phase failed: {exc}[/red]")
         return {"experiment_id": exp_id, "error": str(exc), "status": "query_error"}
@@ -118,17 +167,7 @@ async def run_single_experiment(
 
     # Evaluate
     try:
-        import uuid
-
-        run_id = str(uuid.uuid4())[:8]
-        timestamp = datetime.now(timezone.utc).isoformat()
-        result, saved_paths = await _run_provider_queries_and_evaluate(
-            query_results,
-            config,
-            run_id,
-            timestamp,
-            provider_name=exp_id,
-        )
+        result, saved_paths = await _evaluate_results(query_results, config, exp_id)
     except Exception as exc:
         console.print(f"[red]Evaluation failed: {exc}[/red]")
         return {"experiment_id": exp_id, "error": str(exc), "status": "eval_error"}
@@ -158,18 +197,7 @@ async def run_single_experiment(
         "report_paths": [str(p) for p in saved_paths],
     }
 
-    # Print summary table
-    table = Table(title=f"Results: {exp_name}", show_header=True, header_style="bold cyan")
-    table.add_column("Metric", style="bold")
-    table.add_column("Score", justify="right")
-    for metric, score in result.aggregate_scores.items():
-        color = "green" if score >= 0.8 else ("yellow" if score >= 0.5 else "red")
-        table.add_row(metric, f"[{color}]{score:.4f}[/{color}]")
-    table.add_row("---", "---")
-    table.add_row("Latency p50", f"{result.latency_p50_ms:.0f} ms")
-    table.add_row("Latency p95", f"{result.latency_p95_ms:.0f} ms")
-    table.add_row("Errors", f"{result.error_count}/{result.total_samples}")
-    console.print(table)
+    _print_experiment_summary(exp_name, result)
 
     return summary
 
@@ -247,7 +275,7 @@ async def main():
         for m in all_metrics:
             score = r.get("metrics", {}).get(m)
             if score is not None:
-                color = "green" if score >= 0.8 else ("yellow" if score >= 0.5 else "red")
+                color = score_color(score)
                 row.append(f"[{color}]{score:.3f}[/{color}]")
             else:
                 row.append("[dim]N/A[/dim]")
