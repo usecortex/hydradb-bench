@@ -1,0 +1,49 @@
+experiments:
+- id: 01_baseline
+  name: 'Baseline: full_recall alpha=0.8 thinking graph=true K=10'
+  config: config/experiments/01_baseline.yaml
+- id: 02_alpha_0_0
+  name: 'Alpha Sweep: alpha=0.0'
+  config: config/experiments/02_alpha_0_0.yaml
+- id: 02_alpha_0_3
+  name: 'Alpha Sweep: alpha=0.3'
+  config: config/experiments/02_alpha_0_3.yaml
+- id: 02_alpha_0_5
+  name: 'Alpha Sweep: alpha=0.5'
+  config: config/experiments/02_alpha_0_5.yaml
+- id: 02_alpha_0_7
+  name: 'Alpha Sweep: alpha=0.7'
+  config: config/experiments/02_alpha_0_7.yaml
+- id: 02_alpha_1_0
+  name: 'Alpha Sweep: alpha=1.0'
+  config: config/experiments/02_alpha_1_0.yaml
+- id: 03_no_graph
+  name: 'No Graph Context: full_recall alpha=0.8 thinking graph=false K=10'
+  config: config/experiments/03_no_graph.yaml
+- id: 04_fast_mode
+  name: 'Fast Mode: full_recall alpha=0.8 fast graph=true K=10'
+  config: config/experiments/04_fast_mode.yaml
+- id: 05_k_3
+  name: 'K Sweep: max_results=3'
+  config: config/experiments/05_k_3.yaml
+- id: 05_k_5
+  name: 'K Sweep: max_results=5'
+  config: config/experiments/05_k_5.yaml
+- id: 05_k_15
+  name: 'K Sweep: max_results=15'
+  config: config/experiments/05_k_15.yaml
+- id: 05_k_20
+  name: 'K Sweep: max_results=20'
+  config: config/experiments/05_k_20.yaml
+- id: 06_boolean_or
+  name: 'Boolean Recall: operator=or'
+  config: config/experiments/06_boolean_or.yaml
+- id: 06_boolean_and
+  name: 'Boolean Recall: operator=and'
+  config: config/experiments/06_boolean_and.yaml
+- id: 07_fast_no_graph
+  name: 'Minimal Latency: fast mode, no graph, alpha=0.8, K=10'
+  config: config/experiments/07_fast_no_graph.yaml
+- id: 08_recall_preferences
+  name: 'Recall Preferences: recall_preferences alpha=0.8 thinking graph=true K=10'
+  config: config/experiments/08_recall_preferences.yaml

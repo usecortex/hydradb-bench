@@ -1,0 +1,53 @@
+hydradb:
+  base_url: https://api.hydradb.com
+  tenant_id: my-knowledge
+  sub_tenant_id: legal-privacyqa
+  timeout_seconds: 30
+  polling_interval_seconds: 10
+  max_polling_attempts: 60
+  create_tenant_on_start: false
+ingestion:
+  documents_dir: ./data/privacy_qa
+  file_extensions:
+  - .txt
+  - .pdf
+  - .md
+  - .docx
+  verify_before_querying: true
+  upload_delay_seconds: 5
+  upload_concurrency: 1
+evaluation:
+  test_dataset_path: ./data/privacy_qa.json
+  search_endpoint: full_recall
+  max_results: 10
+  concurrent_requests: 3
+  mode: fast
+  alpha: 0.8
+  graph_context: true
+  recency_bias: 0.0
+  boolean_search_mode: sources
+deepeval:
+  model: gpt-4o
+  threshold: 0.5
+  include_reason: true
+  eval_concurrency: 3
+  metric_timeout_seconds: 120
+  generator_model: gpt-4o
+  generator_temperature: 0.0
+  generator_max_tokens: 1024
+  metrics:
+  - answer_accuracy
+  - contextual_precision
+  - contextual_recall
+  - contextual_relevancy
+  - faithfulness
+  - answer_relevancy
+reporting:
+  output_dir: ./reports/experiments
+  formats:
+  - json
+  - html
+  - csv
+  include_per_sample: true
+benchmark:
+  name: 'Fast Mode: full_recall alpha=0.8 fast graph=true K=10'
