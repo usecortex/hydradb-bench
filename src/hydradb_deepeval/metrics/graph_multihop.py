@@ -1,24 +1,32 @@
 import json
 import re
+from typing import Optional
 from deepeval.metrics import BaseMetric
 from deepeval.test_case import LLMTestCase
-from deepeval.models import DeepEvalBaseLLM
+from deepeval.models import DeepEvalBaseLLM, GPTModel
 
 class GraphMultiHopAccuracyMetric(BaseMetric):
     def __init__(
         self,
         threshold: float = 0.8,
-        model: DeepEvalBaseLLM = None,
+        model: Optional[str | DeepEvalBaseLLM] = None,
         include_reason: bool = True
     ):
         self.threshold = threshold
-        self.model = model
         self.include_reason = include_reason
         self.score = 0.0
         self.reason = ""
         self.success = False
+        
+        # Resolve model: if it's a string, wrap it in GPTModel; if None, use default
+        if isinstance(model, str):
+            self.model = GPTModel(model=model)
+        elif model is None:
+            self.model = GPTModel()
+        else:
+            self.model = model
 
-    def measure(self, test_case: LLMTestCase):
+    async def a_measure(self, test_case: LLMTestCase):
         # 1. Validate prerequisites
         if not test_case.retrieval_context:
             self.success = False
@@ -52,9 +60,9 @@ Output ONLY a valid JSON object with the following keys:
 JSON Output:
 """
 
-        # 3. Call the LLM Judge
+        # 3. Call the LLM Judge (Async)
         try:
-            res = self.model.generate(prompt)
+            res = await self.model.a_generate(prompt)
         except Exception as e:
             self.success = False
             self.score = 0.0
@@ -63,7 +71,6 @@ JSON Output:
 
         # 4. Parse the response with robust error handling
         try:
-            # Strip markdown formatting (e.g., ```json ... ```)
             clean_res = re.sub(r'^```json\s*|\s*```$', '', res.strip(), flags=re.MULTILINE)
             result_json = json.loads(clean_res)
             
@@ -77,6 +84,11 @@ JSON Output:
             self.reason = f"Failed to parse LLM judge response as JSON: {str(e)} | Raw response: {res[:200]}"
             
         return self.score
+
+    def measure(self, test_case: LLMTestCase):
+        # Fallback for synchronous execution if needed
+        import asyncio
+        return asyncio.run(self.a_measure(test_case))
 
     def is_successful(self):
         return self.success

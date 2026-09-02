@@ -11,8 +11,8 @@ hydradb:
   create_tenant_on_start: false
 
 ingestion:
-  documents_dir: "./data/multihop_docs" # You can create this dir and place the contexts here if testing ingestion
-  file_extensions: [".txt", ".json"]
+  documents_dir: "./data/multihop_docs"
+  file_extensions: [".txt"]
   verify_before_querying: true
   upload_delay_seconds: 1
   upload_concurrency: 1

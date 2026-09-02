@@ -122,10 +122,12 @@ class DeepEvalEvaluator:
                     )
 
                 # CRITICAL: Inject intermediate_steps into additional_metadata
+                full_context_for_judge = [qr.context_string] if qr.context_string else qr.retrieved_contexts
+
                 test_case = LLMTestCase(
                     input=sample.question,
                     actual_output=qr.answer,
-                    retrieval_context=qr.retrieved_contexts if qr.retrieved_contexts else None,
+                    retrieval_context=full_context_for_judge,
                     expected_output=sample.reference_answer,
                     additional_metadata={
                         "intermediate_steps": qr.intermediate_steps
