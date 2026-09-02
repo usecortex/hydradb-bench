@@ -114,6 +114,15 @@ def _stat_table_html(stats: dict[str, float], unit: str, keys: list[str]) -> str
     return f'<table style="border-collapse:collapse;width:100%"><tbody>{rows}</tbody></table>'
 
 
+def _sanitize_csv_cell(value: str) -> str:
+    """Prevent CSV formula injection by prefixing dangerous characters."""
+    if not isinstance(value, str):
+        return value
+    if value and value[0] in ('=', '+', '-', '@', '\t', '\r'):
+        return "'" + value  # Prefix with single quote to neutralize formulas
+    return value
+
+
 def _generate_csv(result: BenchmarkResult) -> str:
     """Generate CSV by flattening the JSON structure — auto-discovers all metric columns."""
     if not result.per_sample:
@@ -126,10 +135,11 @@ def _generate_csv(result: BenchmarkResult) -> str:
         row: dict = {
             "run_id": result.run_id,
             "sample_id": ss.sample_id,
-            "question": ss.question,
-            "answer": ss.answer,
-            "reference_answer": ss.reference_answer,
-            "context_string": ss.context_string,
+            # Sanitize untrusted string fields to prevent CSV formula injection
+            "question": _sanitize_csv_cell(ss.question),
+            "answer": _sanitize_csv_cell(ss.answer),
+            "reference_answer": _sanitize_csv_cell(ss.reference_answer),
+            "context_string": _sanitize_csv_cell(ss.context_string),
             "context_tokens": ss.context_tokens,
             "latency_ms": round(ss.latency_ms, 1),
         }
@@ -137,7 +147,8 @@ def _generate_csv(result: BenchmarkResult) -> str:
         for m, score in ss.scores.items():
             row[m] = score if score is not None else ""
         for m, reason in ss.reasons.items():
-            row[f"{m}_reason"] = reason or ""
+            # Sanitize metric reasons as they come from LLM outputs
+            row[f"{m}_reason"] = _sanitize_csv_cell(reason) if reason else ""
         flat_rows.append(row)
 
     # Column order: fixed fields first, then metrics (scores then reasons) in discovery order

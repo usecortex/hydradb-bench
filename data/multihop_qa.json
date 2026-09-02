@@ -1,0 +1,28 @@
+[
+  {
+    "id": "multihop-001",
+    "question": "Who is the head of the department that published the paper on Quantum Graphs?",
+    "reference_answer": "Dr. Elena Rossi",
+    "intermediate_steps": [
+      "The paper on Quantum Graphs was published by the Physics Department.",
+      "The head of the Physics Department is Dr. Elena Rossi."
+    ],
+    "reference_contexts": [
+      "The paper 'Advances in Quantum Graphs' was published by the Physics Department in 2025.",
+      "Dr. Elena Rossi has been the head of the Physics Department since 2023."
+    ]
+  },
+  {
+    "id": "multihop-002",
+    "question": "Which university funded the lab where the AI Ethics framework was developed?",
+    "reference_answer": "Stanford University",
+    "intermediate_steps": [
+      "The AI Ethics framework was developed at the Nexus Lab.",
+      "The Nexus Lab is funded by Stanford University."
+    ],
+    "reference_contexts": [
+      "The AI Ethics framework was a key project of the Nexus Lab.",
+      "Stanford University provides primary funding for the Nexus Lab."
+    ]
+  }
+]
