@@ -57,18 +57,21 @@ def _build_metric(name: str, config: DeepEvalConfig) -> Any:
             strict_mode=True,  # forces score to 0.0 or 1.0
         )
 
-    # Custom Multi-Hop Metric
+    # Custom Multi-Hop Metric (accepts a string model name; wraps it in GPTModel internally)
     if name == "graph_multihop_accuracy":
         return GraphMultiHopAccuracyMetric(
             threshold=config.threshold,
-            model=config.model, # Note: DeepEvalBaseLLM is expected here
+            model=config.model,
             include_reason=config.include_reason,
         )
 
     dotted_path = _METRIC_REGISTRY.get(name)
     if dotted_path is None:
-        raise ValueError(f"Unknown metric: {name!r}. Available: {list(_METRIC_REGISTRY) + ['answer_accuracy', 'graph_multihop_accuracy']}")
-    
+        raise ValueError(
+            f"Unknown metric: {name!r}. Available: "
+            f"{list(_METRIC_REGISTRY) + ['answer_accuracy', 'graph_multihop_accuracy']}"
+        )
+
     cls = _load_metric_class(dotted_path)
     return cls(
         threshold=config.threshold,
@@ -121,17 +124,30 @@ class DeepEvalEvaluator:
                         latency_ms=qr.latency_ms,
                     )
 
-                # CRITICAL: Inject intermediate_steps into additional_metadata
-                full_context_for_judge = [qr.context_string] if qr.context_string else qr.retrieved_contexts
+                # Standard metrics receive the ordered raw chunks (required by
+                # positional metrics such as contextual_precision), while the
+                # graph metric receives the fully formatted context string
+                # (including graph paths/relations) so it can verify hops.
+                raw_contexts = qr.retrieved_contexts if qr.retrieved_contexts else None
+                full_context = [qr.context_string] if qr.context_string else raw_contexts
 
-                test_case = LLMTestCase(
+                base_case = LLMTestCase(
                     input=sample.question,
                     actual_output=qr.answer,
-                    retrieval_context=full_context_for_judge,
+                    retrieval_context=raw_contexts,
                     expected_output=sample.reference_answer,
                     additional_metadata={
                         "intermediate_steps": qr.intermediate_steps
-                    }
+                    },
+                )
+                graph_case = LLMTestCase(
+                    input=sample.question,
+                    actual_output=qr.answer,
+                    retrieval_context=full_context,
+                    expected_output=sample.reference_answer,
+                    additional_metadata={
+                        "intermediate_steps": qr.intermediate_steps
+                    },
                 )
 
                 # Build fresh metric instances per sample — avoids shared state races
@@ -145,9 +161,11 @@ class DeepEvalEvaluator:
                 # Run all metrics for this sample in parallel
                 timeout = self._config.metric_timeout_seconds
 
-                async def measure_one(metric_name: str, metric: Any) -> tuple[str, float | None, str | None]:
+                async def measure_one(
+                    metric_name: str, metric: Any, case: LLMTestCase
+                ) -> tuple[str, float | None, str | None]:
                     try:
-                        await asyncio.wait_for(metric.a_measure(test_case), timeout=timeout)
+                        await asyncio.wait_for(metric.a_measure(case), timeout=timeout)
                         score = metric.score
                         reason = getattr(metric, "reason", None)
                         console.print(
@@ -163,7 +181,16 @@ class DeepEvalEvaluator:
                         console.print(f"    [red]{metric_name}: ERROR — {exc}[/red]")
                         return metric_name, None, str(exc)
 
-                metric_results = await asyncio.gather(*[measure_one(name, m) for name, m in metric_objects.items()])
+                metric_results = await asyncio.gather(
+                    *[
+                        measure_one(
+                            name,
+                            m,
+                            graph_case if name == "graph_multihop_accuracy" else base_case,
+                        )
+                        for name, m in metric_objects.items()
+                    ]
+                )
 
                 scores: dict[str, float | None] = {}
                 reasons: dict[str, str | None] = {}
