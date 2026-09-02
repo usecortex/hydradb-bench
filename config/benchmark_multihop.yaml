@@ -1,0 +1,46 @@
+benchmark:
+  name: "HydraDB Multi-Hop Graph Reasoning Benchmark"
+
+hydradb:
+  base_url: "https://api.hydradb.com"
+  tenant_id: "${HYDRADB_TENANT_ID}"
+  sub_tenant_id: "multihop-test"
+  timeout_seconds: 30
+  polling_interval_seconds: 10
+  max_polling_attempts: 60
+  create_tenant_on_start: false
+
+ingestion:
+  documents_dir: "./data/multihop_docs" # You can create this dir and place the contexts here if testing ingestion
+  file_extensions: [".txt", ".json"]
+  verify_before_querying: true
+  upload_delay_seconds: 1
+  upload_concurrency: 1
+
+evaluation:
+  test_dataset_path: "./data/multihop_qa.json"
+  search_endpoint: "full_recall"
+  max_results: 10
+  concurrent_requests: 3
+  mode: "thinking"
+  alpha: 0.8
+  graph_context: true # The key differentiator being tested
+  boolean_search_mode: "sources"
+
+deepeval:
+  model: "gpt-4o" # Or your preferred judge model
+  threshold: 0.8
+  include_reason: true
+  eval_concurrency: 3
+  metric_timeout_seconds: 60
+  generator_model: "gpt-4o"
+  generator_temperature: 0.0
+  generator_max_tokens: 1024
+  metrics:
+    - graph_multihop_accuracy # Our custom metric
+    - contextual_precision    # Standard baseline metric for comparison
+
+reporting:
+  output_dir: "./reports"
+  formats: ["json", "html", "csv"]
+  include_per_sample: true

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class SupermemoryConfig(BaseModel):
@@ -97,6 +97,7 @@ class TestSample(BaseModel):
     question: str
     reference_answer: str
     reference_contexts: list[str] = []
+    intermediate_steps: list[str] = Field(default_factory=list) # Added for Multi-Hop Benchmark
 
 
 class QueryResult(BaseModel):
@@ -107,6 +108,7 @@ class QueryResult(BaseModel):
     context_tokens: int = 0  # tiktoken count of context_string
     latency_ms: float = 0.0
     error: str | None = None
+    intermediate_steps: list[str] = Field(default_factory=list) # Added to pass steps to evaluator
 
 
 class SampleScore(BaseModel):

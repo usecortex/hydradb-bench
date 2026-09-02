@@ -207,10 +207,11 @@ async def run_single_query_hydradb(
         return QueryResult(
             sample=sample,
             answer=answer,
-            retrieved_contexts=contexts,  # raw chunk_content list for DeepEval metrics
-            context_string=context_str,  # full formatted context for report display
+            retrieved_contexts=contexts,
+            context_string=context_str,
             context_tokens=context_tokens,
             latency_ms=latency_ms,
+            intermediate_steps=sample.intermediate_steps, # Pass intermediate steps to result
         )
     except Exception as exc:
         latency_ms = (time.monotonic() - t0) * 1000
@@ -234,17 +235,13 @@ async def run_single_query_supermemory(
         response = await client.search(
             query=sample.question,
             container_tag=sm_cfg.container_tag,
-            limit=sm_cfg.limit,  # total chunks — use sm_cfg.limit not eval_cfg.max_results
+            limit=sm_cfg.limit,
             search_mode=sm_cfg.search_mode,
             rerank=sm_cfg.rerank,
             threshold=sm_cfg.threshold,
         )
         latency_ms = (time.monotonic() - t0) * 1000
 
-        # Results are grouped by document. Flatten all chunks across all
-        # documents, then re-sort globally by score (descending) so the most
-        # relevant chunks come first — critical for contextual_precision which
-        # is positional, and for LLM answer quality.
         results = response.get("results", [])
         all_chunks = [
             (chunk.get("score", 0.0), chunk.get("content", ""))
@@ -275,6 +272,7 @@ async def run_single_query_supermemory(
             context_string=context_str,
             context_tokens=context_tokens,
             latency_ms=latency_ms,
+            intermediate_steps=sample.intermediate_steps, # Pass intermediate steps to result
         )
     except Exception as exc:
         latency_ms = (time.monotonic() - t0) * 1000
@@ -287,7 +285,7 @@ async def run_single_query_supermemory(
 
 
 async def run_all_queries(
-    query_fn,  # async callable: (sample) -> QueryResult
+    query_fn,
     samples: list[TestSample],
     concurrency: int,
     label: str,
@@ -449,6 +447,8 @@ async def _run_provider_queries_and_evaluate(
     error_count = sum(1 for r in query_results if r.error)
 
     evaluator = DeepEvalEvaluator(config.deepeval)
+    
+    # Pass intermediate_steps to the evaluator so they can be injected into LLMTestCase
     aggregate_scores, per_sample = await evaluator.evaluate(query_results)
 
     p50, p95, latency_stats = compute_latency_stats(query_results)
